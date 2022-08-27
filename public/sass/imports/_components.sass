@@ -1,0 +1,40 @@
+.container-titulo
+  display: flex
+  justify-content: center
+
+.title-section
+  max-width: 400px
+  position: absolute
+  padding: 10px 35px
+  &:after
+    content: ""
+    position: absolute
+    top: 78%
+    left: 95%
+    margin-top: 5px
+    border-width: 20px
+    border-style: solid
+    border-color: transparent transparent transparent #ffffff
+    -webkit-transform: rotate(45deg)
+    -moz-transform: rotate(45deg)
+    -ms-transform: rotate(45deg)
+    -o-transform: rotate(45deg)
+    transform: rotate(45deg)
+  &:before
+    content: ""
+    position: absolute
+    top: 77%
+    right: 95%
+    margin-top: 5px
+    border-width: 20px
+    border-style: solid
+    border-color: transparent #ffffff transparent transparent
+    -webkit-transform: rotate(-45deg)
+    -moz-transform: rotate(-45deg)
+    -ms-transform: rotate(-45deg)
+    -o-transform: rotate(-45deg)
+    transform: rotate(-45deg)
+  h3
+    color: #ffffff
+    border-bottom: 2px solid $orange
+    padding: 5px 20px

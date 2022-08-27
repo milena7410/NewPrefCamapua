@@ -1,0 +1,21 @@
+--- 
+files: 
+  certificate: {}
+
+  key: {}
+
+indexes: 
+  certificate: 
+    modulus: {}
+
+    subject.commonName: {}
+
+uniques: 
+  certificate: 
+    friendly_name: {}
+
+  key: 
+    friendly_name: {}
+
+    modulus: {}
+

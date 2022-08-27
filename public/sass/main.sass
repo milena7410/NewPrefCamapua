@@ -1,0 +1,331 @@
+//imports
+@import imports/variaveis
+@import imports/components
+@import imports/margins
+@import imports/header
+@import imports/navbar
+@import imports/footer
+@import imports/noticias
+@import imports/mobile
+@import imports/dropdown
+
+html
+  position: relative
+  min-height: 100%
+
+body
+  margin-bottom: 400px
+
+.wrapper
+  width: 100%
+  height: 100%
+
+.reset-padding
+  padding: 0
+
+.reset-margin
+  margin: 0
+
+.barra-busca
+  background: url("../img/bg-form.png") no-repeat
+  background-size: 100%
+  height: 40px
+  display: flex
+  justify-content: center
+  input
+    height: 40px
+    border-radius: 0
+    border-color: #3d88a0
+  button
+    height: 40px
+    background: #ffffff
+    border: 1px solid #3d88a0
+    border-left: none
+    border-radius: 0
+    outline: none
+    img
+      width: 30px
+
+.noticia-destaque-container
+  height: 100%
+  width: 100%
+  display: flex
+  div
+    width: 50%
+
+.description
+  padding: 5px
+  color: #ffffff
+  a, a:hover, a:active, a:visited
+    text-decoration: none
+    color: #ffffff
+
+.description-gray
+  background: $noticia1
+
+  &:after
+    content: ""
+    position: absolute
+    top: 8%
+    left: 50%
+    margin-top: 5px
+    border-width: 20px
+    border-style: solid
+    border-color: transparent transparent transparent $noticia1
+
+.description-orange
+  background: $noticia2
+  &:after
+    content: ""
+    position: absolute
+    top: 60%
+    right: 50%
+    margin-top: 5px
+    border-width: 20px
+    border-style: solid
+    border-color: transparent $noticia2 transparent transparent
+
+.form-busca-container
+  max-width: 500px
+
+#slider-noticias
+  .carousel-indicators
+    bottom: 5px
+    li
+      border-radius: 0
+      border-color: $noticia2 !important
+      background: $noticia2
+    .active
+      border-color: #ffffff !important
+      background: #ffffff
+  .carousel-caption
+    background: rgba(0, 0, 0, 0.3)
+    right: 0
+    left: 0
+    bottom: 0
+
+.container-title-noticias
+  display: flex
+  justify-items: flex-end
+  border-bottom: 2px solid $orange
+  img
+    margin-bottom: 10px
+  h4
+    align-self: flex-start
+    margin: 0
+    padding-left: 10px
+  a, a:hover, a:visited
+    flex-grow: 2
+    align-self: flex-end
+    text-decoration: none
+    color: $orange
+
+.container-title-flex
+  display: flex
+  justify-items: flex-end
+  h4
+    margin: 0 10px
+
+.container-title-center
+  display: flex
+  align-items: center
+  h4
+    margin: 0 10px
+    color: #ffffff
+
+.title-noticias
+  color: $orange
+  &:before
+    content: url("../img/icon-noticia.png")
+    margin-right: 10px
+
+.card-noticias
+  margin-top: 10px
+  border: 1px solid $border-card
+  padding: 5px
+  font-size: 10px
+  -webkit-transition: transform 0.1s
+  -moz-transition: transform 0.1s
+  -ms-transition: transform 0.1s
+  -o-transition: transform 0.1s
+  transition: transform 0.1s
+  min-height: 260px
+  figcaption
+    color: #5d5d5d !important
+    font-size: 20px
+  a
+    color: #5d5d5d !important
+    &:hover, &:visited
+      text-decoration: none !important
+  &:hover
+    -webkit-transform: scale(1.1)
+    -moz-transform: scale(1.1)
+    -ms-transform: scale(1.1)
+    -o-transform: scale(1.1)
+    transform: scale(1.1)
+
+.topo-brasil-transparente
+  background: $cinza-topo
+
+.container-brasil-transparente
+  @extend .container-titulo
+  height: 65px
+
+.title-brasil-transparente
+  @extend .title-section
+  background: $cinza-topo
+
+.topo-organizacao
+  background: $azul-secundary
+
+.container-organizacao
+  @extend .container-titulo
+  height: 65px
+
+.title-organizacao
+  @extend .title-section
+  background: $azul-secundary
+  max-width: 560px
+  &:before
+    top: 77%
+    right: 96.5%
+  &:after
+    top: 77%
+    left: 96.5%
+
+.card-transparencia
+  background: #f0f0f0
+  display: flex
+  min-height: 120px
+  border: 1px solid #d2d9e1
+  .img
+    width: 30%
+  .descricao
+    width: 70%
+
+.container-mapa-services
+  background: url("../img/bg-servicos.jpg") no-repeat
+  background-size: 100%
+  padding: 20px
+
+.mapa-servico
+  .title
+    background: #828284
+    color: #ffffff
+    border-radius: 5px
+    padding: 15px
+
+.sociais
+  background: #333333
+
+.sociais-header
+  display: flex
+  background: #61b0fb
+  align-items: center
+  .title
+    color: #ffffff
+    font-size: 18px
+    height: 100%
+    flex-grow: 5
+
+.icon
+  flex-grow: 1
+  height: 100%
+  padding: 5px
+
+.icon-right
+  padding: 15px
+  background: #2f95fa
+
+.sociais-content
+  padding: 5px
+  border: 1px solid #767676
+  min-height: 300px
+
+.content-row
+  display: flex
+  align-items: center
+  .text
+    color: #60aef7
+    padding: 5px 15px
+    h4
+      color: #60aef7
+    p
+      color: #ffffff
+.icon-busca
+  padding: 15px
+
+.container-card-organizacao
+  display: flex
+  border: 1px solid #767676
+  padding-bottom: 50px
+  .img
+    border: 1px solid #767676
+  .text
+    margin-left: 10px
+
+.topo-links
+  background: $cinza-topo
+
+.container-links
+  @extend .container-titulo
+  height: 65px
+
+.title-links
+  @extend .title-section
+  background: $cinza-topo
+  max-width: 560px
+  &:before
+    top: 78%
+    right: 92.1%
+  &:after
+    top: 78%
+    left: 92.1%
+
+.card-links
+  display: flex
+  background: #dddddd
+  justify-content: center
+  align-items: center
+  padding: 10px
+
+.container-filtro
+  padding: 1em
+  background: #f5f5f5
+  border-radius: 5px
+
+.card-container
+  -webkit-box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12), 0 1px 2px rgba(0, 0, 0, 0.24)
+  -moz-box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12), 0 1px 2px rgba(0, 0, 0, 0.24)
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12), 0 1px 2px rgba(0, 0, 0, 0.24)
+  background: #FFFFFF
+
+.link-unstyled-hover,  .link-unstyled-hover:hover, .link-unstyled-hover:visited
+  color: #333333 !important
+  text-decoration: none !important
+
+.link-unstyled-white-hover,  .link-unstyled-white-hover:hover, .link-unstyled-white-hover:visited
+  color: #ffffff !important
+  text-decoration: none !important
+
+.card-description
+  padding: 5px
+
+.card-brasil-transparente
+  display: flex
+  align-content: flex-start
+  border: 1px solid #cdd4dd
+  background: #fefefe
+  background: -moz-linear-gradient(top, #fefefe 0%, #f0f0f0 100%)
+  background: -webkit-linear-gradient(top, #fefefe 0%,#f0f0f0 100%)
+  background: linear-gradient(to bottom, #fefefe 0%,#f0f0f0 100%)
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#fefefe', endColorstr='#f0f0f0',GradientType=0 )
+  font-family: "Trebuchet MS"
+  min-height: 150px
+  img
+    width: 65px
+    height: 65px
+  .transparencia-descricao
+    margin: 0 10px
+    p
+      font-size: 12px

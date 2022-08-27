@@ -1,0 +1,29 @@
+.menu-topo
+  border: none
+  background: $azul-primary
+  border-radius: 0
+  .navbar-nav
+    display: flex !important
+    width: 100%
+    li
+      flex-grow: 1 !important
+      a, a:hover, a:visited
+        color: #ffffff
+      img
+        width: 23px
+    .active
+      background: $azul-secundary !important
+    .active a
+      background: none
+      color: #ffffff
+      &:active, &:hover
+        background: none
+
+.menu-topo .navbar-nav > li:hover
+  background: $azul-secundary
+
+.dropdown-menu > li  > a
+  color: #333 !important
+
+.nav .open > a, .nav .open > a:focus, .nav .open > a:hover
+  background: transparent !important

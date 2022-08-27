@@ -1,0 +1,42 @@
+179.214.175.221 - - [05/Mar/2018:00:18:51 -0300] "GET / HTTP/1.1" 200 473 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.186 Safari/537.36" -
+179.214.175.221 - - [05/Mar/2018:00:18:52 -0300] "GET /favicon.ico HTTP/1.1" 304 - "http://i9cg.com.br/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.186 Safari/537.36" -
+179.214.175.221 - - [05/Mar/2018:00:19:28 -0300] "GET / HTTP/1.1" 403 5968 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.186 Safari/537.36" -
+173.212.253.47 - - [05/Mar/2018:00:22:15 -0300] "GET /robots.txt HTTP/1.1" 404 1018 "-" "Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)" -
+173.212.253.47 - - [05/Mar/2018:00:22:27 -0300] "GET / HTTP/1.1" 403 5968 "-" "Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)" -
+216.244.66.238 - - [05/Mar/2018:01:39:13 -0300] "GET /robots.txt HTTP/1.1" 404 1014 "-" "Mozilla/5.0 (compatible; DotBot/1.1; http://www.opensiteexplorer.org/dotbot, help@moz.com)" -
+216.244.66.238 - - [05/Mar/2018:02:07:51 -0300] "GET /robots.txt HTTP/1.1" 404 1014 "-" "Mozilla/5.0 (compatible; DotBot/1.1; http://www.opensiteexplorer.org/dotbot, help@moz.com)" -
+216.244.66.234 - - [05/Mar/2018:02:47:40 -0300] "GET /robots.txt HTTP/1.1" 404 1014 "-" "Mozilla/5.0 (compatible; DotBot/1.1; http://www.opensiteexplorer.org/dotbot, help@moz.com)" -
+216.244.66.234 - - [05/Mar/2018:03:15:56 -0300] "GET /robots.txt HTTP/1.1" 404 1014 "-" "Mozilla/5.0 (compatible; DotBot/1.1; http://www.opensiteexplorer.org/dotbot, help@moz.com)" -
+216.244.66.238 - - [05/Mar/2018:03:32:10 -0300] "GET /robots.txt HTTP/1.1" 404 1014 "-" "Mozilla/5.0 (compatible; DotBot/1.1; http://www.opensiteexplorer.org/dotbot, help@moz.com)" -
+216.244.66.234 - - [05/Mar/2018:03:44:00 -0300] "GET /robots.txt HTTP/1.1" 404 1014 "-" "Mozilla/5.0 (compatible; DotBot/1.1; http://www.opensiteexplorer.org/dotbot, help@moz.com)" -
+216.244.66.234 - - [05/Mar/2018:04:11:46 -0300] "GET /robots.txt HTTP/1.1" 404 1014 "-" "Mozilla/5.0 (compatible; DotBot/1.1; http://www.opensiteexplorer.org/dotbot, help@moz.com)" -
+216.244.66.247 - - [05/Mar/2018:04:28:01 -0300] "GET /robots.txt HTTP/1.1" 404 1018 "-" "Mozilla/5.0 (compatible; DotBot/1.1; http://www.opensiteexplorer.org/dotbot, help@moz.com)" -
+216.244.66.238 - - [05/Mar/2018:04:28:41 -0300] "GET /robots.txt HTTP/1.1" 404 1014 "-" "Mozilla/5.0 (compatible; DotBot/1.1; http://www.opensiteexplorer.org/dotbot, help@moz.com)" -
+216.244.66.234 - - [05/Mar/2018:04:39:32 -0300] "GET /robots.txt HTTP/1.1" 404 1014 "-" "Mozilla/5.0 (compatible; DotBot/1.1; http://www.opensiteexplorer.org/dotbot, help@moz.com)" -
+216.244.66.238 - - [05/Mar/2018:04:56:48 -0300] "GET /robots.txt HTTP/1.1" 404 1014 "-" "Mozilla/5.0 (compatible; DotBot/1.1; http://www.opensiteexplorer.org/dotbot, help@moz.com)" -
+216.244.66.247 - - [05/Mar/2018:05:08:34 -0300] "GET /pagina/bandeira-brasao-e-hino HTTP/1.1" 404 1018 "-" "Mozilla/5.0 (compatible; DotBot/1.1; http://www.opensiteexplorer.org/dotbot, help@moz.com)" -
+216.244.66.234 - - [05/Mar/2018:05:35:03 -0300] "GET /robots.txt HTTP/1.1" 404 1018 "-" "Mozilla/5.0 (compatible; DotBot/1.1; http://www.opensiteexplorer.org/dotbot, help@moz.com)" -
+216.244.66.234 - - [05/Mar/2018:05:46:20 -0300] "GET /noticia/escolas-municipais-recebem-os-alunos-neste-inicio-de-ano-letivo HTTP/1.1" 404 1018 "-" "Mozilla/5.0 (compatible; DotBot/1.1; http://www.opensiteexplorer.org/dotbot, help@moz.com)" -
+216.244.66.238 - - [05/Mar/2018:05:53:19 -0300] "GET /robots.txt HTTP/1.1" 404 1014 "-" "Mozilla/5.0 (compatible; DotBot/1.1; http://www.opensiteexplorer.org/dotbot, help@moz.com)" -
+54.36.148.181 - - [05/Mar/2018:06:02:30 -0300] "GET /secretaria/secretaria-de-assistencia-social HTTP/1.1" 404 1018 "-" "Mozilla/5.0 (compatible; AhrefsBot/5.2; +http://ahrefs.com/robot/)" -
+216.244.66.234 - - [05/Mar/2018:06:03:03 -0300] "GET /robots.txt HTTP/1.1" 404 1014 "-" "Mozilla/5.0 (compatible; DotBot/1.1; http://www.opensiteexplorer.org/dotbot, help@moz.com)" -
+54.36.148.37 - - [05/Mar/2018:06:03:08 -0300] "GET /secretaria/secretaria-de-administracao-financas-e-planejamento HTTP/1.1" 404 1018 "-" "Mozilla/5.0 (compatible; AhrefsBot/5.2; +http://ahrefs.com/robot/)" -
+216.244.66.238 - - [05/Mar/2018:06:22:01 -0300] "GET /robots.txt HTTP/1.1" 404 1014 "-" "Mozilla/5.0 (compatible; DotBot/1.1; http://www.opensiteexplorer.org/dotbot, help@moz.com)" -
+216.244.66.234 - - [05/Mar/2018:06:31:00 -0300] "GET /robots.txt HTTP/1.1" 404 1014 "-" "Mozilla/5.0 (compatible; DotBot/1.1; http://www.opensiteexplorer.org/dotbot, help@moz.com)" -
+93.158.161.82 - - [05/Mar/2018:06:41:14 -0300] "GET /robots.txt HTTP/1.1" 404 1018 "-" "Mozilla/5.0 (compatible; YandexBot/3.0; +http://yandex.com/bots)" -
+93.158.161.82 - - [05/Mar/2018:06:41:18 -0300] "GET /favicon.ico HTTP/1.1" 404 1018 "-" "Mozilla/5.0 (compatible; YandexBot/3.0; +http://yandex.com/bots)" -
+216.244.66.238 - - [05/Mar/2018:07:18:43 -0300] "GET /robots.txt HTTP/1.1" 404 1014 "-" "Mozilla/5.0 (compatible; DotBot/1.1; http://www.opensiteexplorer.org/dotbot, help@moz.com)" -
+216.244.66.234 - - [05/Mar/2018:07:47:49 -0300] "GET /robots.txt HTTP/1.1" 404 1014 "-" "Mozilla/5.0 (compatible; DotBot/1.1; http://www.opensiteexplorer.org/dotbot, help@moz.com)" -
+216.244.66.238 - - [05/Mar/2018:08:15:03 -0300] "GET /robots.txt HTTP/1.1" 404 1014 "-" "Mozilla/5.0 (compatible; DotBot/1.1; http://www.opensiteexplorer.org/dotbot, help@moz.com)" -
+179.214.184.43 - - [05/Mar/2018:08:29:05 -0300] "GET /admin HTTP/1.1" 404 1262 "http://i9cg.com.br/admin/noticia/17" "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.186 Safari/537.36" -
+179.214.184.43 - - [05/Mar/2018:08:30:05 -0300] "GET /favicon.ico HTTP/1.1" 404 1240 "http://i9cg.com.br/admin" "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.186 Safari/537.36" -
+179.214.184.43 - - [05/Mar/2018:08:32:42 -0300] "GET / HTTP/1.1" 403 5968 "http://i9cg.com.br/admin" "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.186 Safari/537.36" -
+179.214.184.43 - - [05/Mar/2018:08:35:42 -0300] "GET / HTTP/1.1" 403 5968 "-" "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.186 Safari/537.36" -
+179.214.184.43 - - [05/Mar/2018:08:55:56 -0300] "GET / HTTP/1.1" 403 5968 "-" "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.186 Safari/537.36" -
+216.244.66.234 - - [05/Mar/2018:09:39:33 -0300] "GET /robots.txt HTTP/1.1" 404 1014 "-" "Mozilla/5.0 (compatible; DotBot/1.1; http://www.opensiteexplorer.org/dotbot, help@moz.com)" -
+216.244.66.238 - - [05/Mar/2018:09:40:06 -0300] "GET /robots.txt HTTP/1.1" 404 1014 "-" "Mozilla/5.0 (compatible; DotBot/1.1; http://www.opensiteexplorer.org/dotbot, help@moz.com)" -
+216.244.66.238 - - [05/Mar/2018:10:08:27 -0300] "GET /robots.txt HTTP/1.1" 404 1014 "-" "Mozilla/5.0 (compatible; DotBot/1.1; http://www.opensiteexplorer.org/dotbot, help@moz.com)" -
+54.36.149.82 - - [05/Mar/2018:10:20:51 -0300] "GET /publicacoes HTTP/1.1" 404 1018 "-" "Mozilla/5.0 (compatible; AhrefsBot/5.2; +http://ahrefs.com/robot/)" -
+216.244.66.234 - - [05/Mar/2018:10:35:30 -0300] "GET /robots.txt HTTP/1.1" 404 1014 "-" "Mozilla/5.0 (compatible; DotBot/1.1; http://www.opensiteexplorer.org/dotbot, help@moz.com)" -
+54.36.148.25 - - [05/Mar/2018:10:42:22 -0300] "GET /secretaria/secretaria-de-agronegocio-meio-ambiente-e-empreendedorismo HTTP/1.1" 404 1018 "-" "Mozilla/5.0 (compatible; AhrefsBot/5.2; +http://ahrefs.com/robot/)" -
+216.244.66.234 - - [05/Mar/2018:11:31:17 -0300] "GET /robots.txt HTTP/1.1" 404 1014 "-" "Mozilla/5.0 (compatible; DotBot/1.1; http://www.opensiteexplorer.org/dotbot, help@moz.com)" -

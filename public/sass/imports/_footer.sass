@@ -1,0 +1,54 @@
+.footer
+  min-height: 400px
+  background: $background-footer
+  position: absolute
+  width: 100%
+  bottom: 0
+
+.title-footer
+  color: $color-text-footer
+
+.title-contato
+  @extend .title-footer
+  &:before
+    content: url("../../img/mapa-icon.png")
+    margin-right: 10px
+
+.title-form
+  @extend .title-footer
+  &:before
+    content: url("../../img/fale-conosco.png")
+    margin-right: 10px
+
+.form-footer input, .form-footer textarea
+  background: transparent
+  border-radius: 0
+  color: #ffffff
+
+.form-footer button
+  background: transparent
+  color: #ffffff
+  border-radius: 0
+  border-color: #ffffff
+  &:hover
+    color: #ffffff
+
+
+.copyright
+  background: $background-copyright
+  bottom: 0
+  min-height: 40px
+  width: 100%
+  position: absolute
+
+.developer
+  font-weight: bold
+  color: $color-marca
+  &:hover
+    text-decoration: none
+    color: $color-marca
+
+.block-footer
+  padding-left: 1em
+  border-left: 2px solid $color-primary-footer
+  color: $color-text-footer

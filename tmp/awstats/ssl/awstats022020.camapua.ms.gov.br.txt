@@ -1,0 +1,2131 @@
+AWSTATS DATA FILE 7.7 (build 20180105)
+# If you remove this file, all statistics for date 202002 will be lost/reset.
+# Last config file used to build this data file was /home/prefcamapua/tmp/awstats/ssl/awstats.camapua.ms.gov.br.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2021                
+POS_TIME 2707                
+POS_VISITOR 46824               
+POS_DAY 98703               
+POS_DOMAIN 3699                
+POS_LOGIN 4238                
+POS_ROBOT 4393                
+POS_WORMS 5459                
+POS_EMAILSENDER 5590                
+POS_EMAILRECEIVER 5733                
+POS_SESSION 99639               
+POS_SIDER 99854               
+POS_FILETYPES 5868                
+POS_DOWNLOADS 6153                
+POS_OS 6298                
+POS_BROWSER 6604                
+POS_SCREENSIZE 9150                
+POS_UNKNOWNREFERER 9224                
+POS_UNKNOWNREFERERBROWSER 9600                
+POS_ORIGIN 9794                
+POS_SEREFERRALS 9947                
+POS_PAGEREFS 10269               
+POS_SEARCHWORDS 10657               
+POS_KEYWORDS 11005               
+POS_MISC 2368                
+POS_ERRORS 11203               
+POS_CLUSTER 4094                
+POS_SIDER_404 11374               
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20200301004655 822 201456 18363418108300
+FirstTime 20200201052902
+LastTime 20200229223821
+LastUpdate 20200301080947 822 0 821 0 0
+TotalVisits 2064                
+TotalUnique 1176                
+MonthHostsKnown 0                   
+MonthHostsUnknown 1283                
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+RealPlayerSupport 0 0 0
+JavascriptDisabled 0 0 0
+AddToFavourites 0 1137 0
+WindowsMediaPlayerSupport 0 0 0
+TotalMisc 0 0 0
+FlashSupport 0 0 0
+PDFSupport 0 0 0
+DirectorSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 31 653 18480875 110 192 3649951
+1 19 386 11777847 85 149 1758409
+2 31 580 21378451 110 171 4911719
+3 21 355 12473993 100 181 5651960
+4 6 31 1404629 122 191 2321198
+5 7 92 3256867 97 170 3071550
+6 53 993 26581107 103 186 4292938
+7 213 3021 85325238 128 290 4687585
+8 416 7590 199604459 131 315 4324686
+9 574 11769 308920298 114 325 3079284
+10 550 12595 332773382 151 381 8416478
+11 416 8557 228513208 119 334 3444055
+12 268 5194 140935469 110 259 2756334
+13 277 5831 164144746 204 364 5646677
+14 416 8855 237388372 123 338 6818976
+15 362 8424 229493249 152 327 6300264
+16 882 7254 238401592 621 763 20192829
+17 257 6039 167582817 153 289 7229002
+18 152 3076 89078933 93 188 2177783
+19 112 2626 76442800 103 188 1154356
+20 124 2187 72404251 139 234 6096311
+21 67 1770 45934539 150 223 6694145
+22 72 1349 40689975 141 218 3346311
+23 50 1296 37697093 110 207 4375384
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 19
+br 3153 70192 1859242267
+us 1921 23551 749326256
+in 193 4074 117755915
+ma 44 1135 24392187
+de 11 127 3178886
+ru 11 11 65038
+za 10 297 7669999
+jp 8 414 10310784
+cn 5 5 47541
+ar 5 151 3836624
+be 3 211 5098660
+ng 3 42 1303250
+ch 2 84 2422728
+gb 2 15 882172
+cl 2 71 1685539
+nl 1 71 1746591
+dm 1 1 9508
+ua 1 70 1676031
+pt 0 1 34214
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 23
+SemrushBot/ 1198 16446423 20200229222216 542
+bingbot/ 825 22349433 20200229175715 128
+facebookexternalhit/ 507 4809718 20200229122327 0
+Googlebot/ 505 13211162 20200229200106 28
+Googlebot\-Image/ 460 1727705 20200229092703 0
+AhrefsBot/ 370 16783966 20200228173419 48
+Applebot/ 137 2640973 20200229212702 22
+bingpreview 116 5589948 20200227054018 0
+msnbot/ 100 5602648 20200227125811 0
+Apache\-HttpClient/ 99 941628 20200227221934 0
+crawl 91 2497941 20200219134706 6
+YandexBot/ 32 185908 20200228135701 16
+bot[\s_+:,\.\;\/\\-] 12 533041 20200224055330 0
+link 12 62752 20200228134726 4
+unknown 11 264 20200226091344 11
+Cliqzbot/ 8 38143 20200208183525 4
+curl 6 219108 20200201170048 0
+no_user_agent 4 703462 20200218070803 0
+CCBot/ 2 9537 20200226032005 1
+(firefox/)([0-9]\.|[0-1][0]\.) 1 9507 20200212041705 0
+[\s_+:,\.\;\/\\-]bot 1 9504 20200202085336 0
+microsoft.*discovery 1 0 20200208103334 0
+SurdotlyBot/ 1 9500 20200216050358 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 10
+woff 7 163968 0 0
+Unknown 1538 101813836 0 0
+jpg 69229 1174463241 0 0
+woff2 961 17000404 0 0
+html 2864 30824360 0 0
+png 19241 1048757709 0 0
+eot 6 120762 0 0
+pdf 4 839491 0 0
+css 3373 218015536 0 0
+js 3300 198684883 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 2
+/arquivos/publicacoes/5a8f380b4004c.pdf 3 0 184161
+/arquivos/midias/5d432a40cf635.pdf 1 0 655330
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 16
+ios_iphone 2407 107
+win10 34944 1472
+win8 665 22
+linux 725 64
+winxp 513 32
+Unknown 337 36
+macosx 433 12
+ios_ipad 3 3
+unix 1 1
+winunknown 1 0
+macosx9 261 192
+linuxandroid 21485 1278
+winlong 12 2
+macosx11 14 1
+win7 34888 2022
+win8.1 3834 132
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 109
+safari 270 15
+chrome40.0.2214.85 6 6
+chrome72.0.3626.96 78 4
+chrome80.0.3987.106 5095 236
+chrome79.0.3945.116 628 93
+chrome78.0.3904.87 234 15
+chrome34.0.1847.131 200 200
+chrome74.0.3729.157 281 27
+safari7.0 3 3
+msie8.0 1 1
+chrome53.0.2785.89 2 2
+chrome78.0.3904.70 145 3
+microsoft\-webdav\-miniredir 1 0
+android 49 1
+chrome70.0.3538.110 23 3
+msie7.0 6 1
+opera66.0.3515.44 88 6
+firefox68.0 230 7
+chrome80.0.3987.99 2384 163
+chrome77.0.3865.116 49 4
+chrome80.0.3987.119 1849 109
+firefox11.0 4 0
+chrome76.0.3809.100 70 1
+chrome77.0.3865.120 75 2
+chrome32.0.1700.107 148 4
+chrome79.0.3945.130 37353 1578
+chrome58.0.2993.0 79 4
+chrome69.0.3497.86 11 1
+chrome76.0.3809.132 168 10
+chrome72.0.3626.119 75 3
+chrome66.0.3359.170 2 2
+chrome75.0.3770.101 148 4
+chrome63.0.3235.0 74 2
+chrome80.0.3987.87 6668 284
+firefox60.0 318 20
+firefox56.0 55 55
+chrome79.0.3945.117 17 1
+safari9.0 78 5
+chrome63.0.3233.0 34 1
+chrome71.0.3578.99 1205 71
+opera66.0.3515.72 222 7
+Unknown 324 23
+chrome66.0.3359.158 27 2
+firefox74.0 148 4
+safari7.0.3 80 80
+safari13.0.4 568 32
+chrome53.0.2785.116 1 1
+chrome54.0.2840.59 2 2
+chrome34.0.1847.137 86 86
+chrome27.0.1453.93 1 1
+chrome55.0.2883.91 11 1
+opera66.0.3515.103 70 1
+chrome81.0.4044.17 61 1
+chrome74.0.3729.169 880 107
+chrome69.0.3497.100 185 6
+firefox29.0 103 103
+safari11.0 167 4
+chrome58.0.3029.110 3 2
+chrome65.0.3325.181 70 1
+chrome49.0.2623.112 439 28
+chrome79.0.3945.93 274 16
+chrome67.0.3396.87 168 9
+chrome51.0.2704.64 1 1
+chrome68.0.3440.91 11 1
+chrome80.0.3987.122 6000 295
+firefox73.0 2107 87
+chrome79.0.3945.136 4125 272
+safari12.1.2 305 11
+safari13.0.5 1169 45
+firefox28.0 95 95
+chrome40.0.2214.89 3 3
+chrome77.0.3865.90 74 2
+chrome55.0.2883.87 2 2
+chrome41.0.2272.118 8 4
+chrome80.0.3987.116 6135 252
+chrome66.0.3359.117 1 1
+chrome79.0.3945.88 70 1
+chrome80.0.3987.100 3483 134
+chrome75.0.3770.143 86 4
+chrome73.0.3683.75 71 1
+msie11.0 452 16
+chrome38.0.1025.166 5877 256
+safari6.0.3 1 1
+firefox72.0 2633 132
+firefox13.0.1 1 1
+chrome49.0.2623.75 23 23
+safari11.1.2 14 1
+chrome47.0.2526.83 1 1
+firefox58.0 1 1
+chrome79.0.3945.79 312 9
+chrome74.0.3729.136 225 9
+chrome68.0.3440.84 70 1
+netscape5.0 1 1
+chrome60.0.3112.113 1 1
+firefox52.0 328 16
+chrome64.0.3282.137 152 5
+chrome61.0.3163.79 75 3
+firefox69.0 35 2
+edge18 1195 39
+chrome69.0.3497.92 5 1
+mozilla 12 12
+firefox70.0 339 13
+chrome80.0.3987.117 1670 101
+chrome78.0.3904.108 640 27
+chrome63.0.3236.0 77 5
+chrome74.0.3729.131 82 5
+chrome75.0.3770.142 239 13
+chrome78.0.3904.62 148 4
+firefox67.0 74 2
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 7
+SEMrushBot 20200211211135
+'' 20200208023132
+Mozilla/5.0_zgrab/0.x 20200210160226
+Mozilla/5.0_(compatible;_evc-batch/2.0) 20200227221243
+Mozilla/5.0_(compatible;_NetcraftSurveyAgent/1.0;__info@netcraft.com) 20200203080240
+WhatsApp/2.20.11_A 20200205162629
+Go-http-client/1.1 20200226055146
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 4
+WhatsApp/2.20.11_A 20200205162629
+Go-http-client/1.1 20200226055146
+SEMrushBot 20200211211135
+'' 20200208023132
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 944 965
+From1 182 182
+From2 2381 2486
+From3 30 78
+From4 1839 96812
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 9
+tbask 3 3
+www_google_co_uk 1 1
+www_google_com 2122 2198
+int_search_myway_com 3 3
+www_google_com_br 248 262
+bing 2 4
+www_google_com_pr 0 1
+google_com 0 12
+br_search_yahoo_com 2 2
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 8
+http://cpanel.camapua.ms.gov.br 18 18
+https://www.qooq-br.com 5 5
+https://googleweblight.com 2 2
+https://www.qop-home.com 2 2
+https://advanced-site-checker.com 1 48
+https://www.qoqo-q.com 1 1
+http://m.facebook.com 1 1
+http://domain.com 0 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 6
+%5ebsb%5exdm019%5elmptbr%5ebr 3
+imprensa+camapua 2
+emiss%c3%a3o+de+nfe+prefeitura+de+camapu%c3%a3 1
+coselho+tutelar+de+camapu%c3%a3+telefone 1
+prefeitura+de+camapua 1
+prefeitura+de+camapu%c3%a3 1
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 11
+de 5
+camapua 3
+camapu%c3%a3 3
+prefeitura 3
+%5ebsb%5exdm019%5elmptbr%5ebr 3
+imprensa 2
+tutelar 1
+emiss%c3%a3o 1
+coselho 1
+telefone 1
+nfe 1
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 7
+500 334 19496192
+405 8 375107
+401 39 1295
+419 1 612
+301 16 4211
+206 241 8012263
+404 208 126234
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 187
+/noticia/servidores-da-secretaria-de-assistencia-social-participam-de-capacitacao/1zqjzy'%22()%7B%7D%3Cx%3E:1zqjzy 1 https://www.camapua.ms.gov.br/noticia/servidores-da-secretaria-de-assistencia-social-participam-de-capacitacao
+/noticia/secretaria-de-assistencia-social-realiza-almoco-em-homenagem-as-mulheres/1zqjwb'%22()%7B%7D%3Cx%3E:1zqjwb 1 https://www.camapua.ms.gov.br/noticia/secretaria-de-assistencia-social-realiza-almoco-em-homenagem-as-mulheres
+/publicacao/decreto-2624-processo-eleitoral-de-dirigente-escolarl/1zqjhj'%22()%7B%7D%3Cx%3E:1zqjhj 1 https://www.camapua.ms.gov.br/publicacao/decreto-2624-processo-eleitoral-de-dirigente-escolarl
+/noticia/prefeitura-publica-decretos-a-fim-de-estabelecer-medidas-de-contencao-de-gastos/1zqjzj'%22()%7B%7D%3Cx%3E:1zqjzj 1 https://www.camapua.ms.gov.br/noticia/prefeitura-publica-decretos-a-fim-de-estabelecer-medidas-de-contencao-de-gastos
+/noticia/prefeito-protocola-na-camara-projeto-de-atualizacao-do-plano-de-cargos-e-carreiras-dos-servidores/1zqjcm'%22()%7B%7D%3Cx%3E:1zqjcm 1 https://www.camapua.ms.gov.br/noticia/prefeito-protocola-na-camara-projeto-de-atualizacao-do-plano-de-cargos-e-carreiras-dos-servidores
+/license.txt 1 -
+/pagina/sobre-a-secretaria-smas/1zqjnq'%22()%7B%7D%3Cx%3E:1zqjnq 1 https://www.camapua.ms.gov.br/pagina/sobre-a-secretaria-smas
+/pagina/sobre-a-secretaria-saude/1zqjqm'%22()%7B%7D%3Cx%3E:1zqjqm 1 https://www.camapua.ms.gov.br/pagina/sobre-a-secretaria-saude
+/secretaria/conheca-a-cidade/1zqjhv'%22()%7B%7D%3Cx%3E:1zqjhv 1 https://www.camapua.ms.gov.br/secretaria/conheca-a-cidade
+/pagina/sobre-a-secretaria-samae/1zqjdy'%22()%7B%7D%3Cx%3E:1zqjdy 1 https://www.camapua.ms.gov.br/pagina/sobre-a-secretaria-samae
+/requestXaX404 3 1zqjsf'\"(){}<x>:/1zqjsf
+/noticia/prefeitura-repassara-r-25-milhoes-de-reais-para-o-hospital/1zqjgl'%22()%7B%7D%3Cx%3E:1zqjgl 1 https://www.camapua.ms.gov.br/noticia/prefeitura-repassara-r-25-milhoes-de-reais-para-o-hospital
+/noticia/prefeitura-esta-disponibilizando-consultas-oftalmologicas-gratuitas/1zqjvs'%22()%7B%7D%3Cx%3E:1zqjvs 1 https://www.camapua.ms.gov.br/noticia/prefeitura-esta-disponibilizando-consultas-oftalmologicas-gratuitas
+/noticia/campeonato-municipal-tem-sequencia-no-ginasio-de-esportes/1zqjgd'%22()%7B%7D%3Cx%3E:1zqjgd 1 https://www.camapua.ms.gov.br/noticia/campeonato-municipal-tem-sequencia-no-ginasio-de-esportes
+/publicacao/decreto-2332-processo-seletivo-simplificado-para-contratacao-de-pessoal/1zqjbd'%22()%7B%7D%3Cx%3E:1zqjbd 1 https://www.camapua.ms.gov.br/publicacao/decreto-2332-processo-seletivo-simplificado-para-contratacao-de-pessoal
+/noticia/prefeitura-decreta-ponto-facultativo/1zqjvs'%22()%7B%7D%3Cx%3E:1zqjvs 1 https://www.camapua.ms.gov.br/noticia/prefeitura-decreta-ponto-facultativo
+/conheca-a-cidade/1zqjmw'%22()%7B%7D%3Cx%3E:1zqjmw 1 https://www.camapua.ms.gov.br/conheca-a-cidade
+/noticia/prefeitura-faz-entrega-de-bolas-para-o-projeto-bom-de-bola-10-na-escola/1zqjvc'%22()%7B%7D%3Cx%3E:1zqjvc 1 https://www.camapua.ms.gov.br/noticia/prefeitura-faz-entrega-de-bolas-para-o-projeto-bom-de-bola-10-na-escola
+/noticia/prefeitura-libera-pagamento-na-ultima-quinta-feira-do-mes/1zqjtz'%22()%7B%7D%3Cx%3E:1zqjtz 1 https://www.camapua.ms.gov.br/noticia/prefeitura-libera-pagamento-na-ultima-quinta-feira-do-mes
+/pagina/palavras-do-vice-prefeito/1zqjua'%22()%7B%7D%3Cx%3E:1zqjua 1 https://www.camapua.ms.gov.br/pagina/palavras-do-vice-prefeito
+/noticia/convite-para-audiencia-publica/1zqjbp'%22()%7B%7D%3Cx%3E:1zqjbp 1 https://www.camapua.ms.gov.br/noticia/convite-para-audiencia-publica
+/noticia/secretaria-municipal-de-educacao-troca-as-caixas-dagua-da-escola-sudalydio/1zqjsd'%22()%7B%7D%3Cx%3E:1zqjsd 1 https://www.camapua.ms.gov.br/noticia/secretaria-municipal-de-educacao-troca-as-caixas-dagua-da-escola-sudalydio
+/pagina/conheca-a-prefeitura/1zqjvq'%22()%7B%7D%3Cx%3E:1zqjvq 1 https://www.camapua.ms.gov.br/pagina/conheca-a-prefeitura
+/noticia/camapua-disputa-a-copa-pelezinho/1zqjcr'%22()%7B%7D%3Cx%3E:1zqjcr 1 https://www.camapua.ms.gov.br/noticia/camapua-disputa-a-copa-pelezinho
+/noticia/salario-dos-servidores-municipais-esta-na-conta/1zqjsj'%22()%7B%7D%3Cx%3E:1zqjsj 1 https://www.camapua.ms.gov.br/noticia/salario-dos-servidores-municipais-esta-na-conta
+/secretaria/secretaria-de-assuntos-juridicos/1zqjmx'%22()%7B%7D%3Cx%3E:1zqjmx 1 https://www.camapua.ms.gov.br/secretaria/secretaria-de-assuntos-juridicos
+/noticia/prefeitura-traz-projeto-de-cultural-kombinado-para-apresentacoes/1zqjdj'%22()%7B%7D%3Cx%3E:1zqjdj 1 https://www.camapua.ms.gov.br/noticia/prefeitura-traz-projeto-de-cultural-kombinado-para-apresentacoes
+/noticia/pela-primeira-vez-prefeitura-realiza-pagamento-do-13o-salario-as-familias-acolhedoras-de-camapua/1zqjka'%22()%7B%7D%3Cx%3E:1zqjka 1 https://www.camapua.ms.gov.br/noticia/pela-primeira-vez-prefeitura-realiza-pagamento-do-13o-salario-as-familias-acolhedoras-de-camapua
+/noticia/prefeitura-repassara-auxilio-financeiro-para-o-hospital/1zqjiz'%22()%7B%7D%3Cx%3E:1zqjiz 1 https://www.camapua.ms.gov.br/noticia/prefeitura-repassara-auxilio-financeiro-para-o-hospital
+/noticia/audiencia-publica/1zqjbz'%22()%7B%7D%3Cx%3E:1zqjbz 1 https://www.camapua.ms.gov.br/noticia/audiencia-publica
+/noticia/capacitacao-tecnica-sobre-regularizacao-fundiaria-e-tema-de-palestra/1zqjsk'%22()%7B%7D%3Cx%3E:1zqjsk 1 https://www.camapua.ms.gov.br/noticia/capacitacao-tecnica-sobre-regularizacao-fundiaria-e-tema-de-palestra
+/noticia/prefeito-recebe-o-deputado-elizeu-dionizio-em-camapua/1zqjfj'%22()%7B%7D%3Cx%3E:1zqjfj 1 https://www.camapua.ms.gov.br/noticia/prefeito-recebe-o-deputado-elizeu-dionizio-em-camapua
+/noticia/prefeito-concede-aumento-aos-profissionais-da-educacao/1zqjhx'%22()%7B%7D%3Cx%3E:1zqjhx 1 https://www.camapua.ms.gov.br/noticia/prefeito-concede-aumento-aos-profissionais-da-educacao
+/noticia/saude-da-inicio-a-segunda-fase-da-vacinacao-contra-o-sarampo-em-camapua/1zqjby'%22()%7B%7D%3Cx%3E:1zqjby 1 https://www.camapua.ms.gov.br/noticia/saude-da-inicio-a-segunda-fase-da-vacinacao-contra-o-sarampo-em-camapua
+/noticia/prefeito-decreta-luto-oficial/1zqjrl'%22()%7B%7D%3Cx%3E:1zqjrl 1 https://www.camapua.ms.gov.br/noticia/prefeito-decreta-luto-oficial
+/noticia/prefeito-e-equipe-participam-de-debate-sobre-acoes-culturais-para-2020-na-regiao-norte/1zqjiu'%22()%7B%7D%3Cx%3E:1zqjiu 1 https://www.camapua.ms.gov.br/noticia/prefeito-e-equipe-participam-de-debate-sobre-acoes-culturais-para-2020-na-regiao-norte
+/noticia/prefeitura-realiza-manutencao-nas-ruas-da-vila-olidia-pereira-da-rocha/1zqjil'%22()%7B%7D%3Cx%3E:1zqjil 1 https://www.camapua.ms.gov.br/noticia/prefeitura-realiza-manutencao-nas-ruas-da-vila-olidia-pereira-da-rocha
+/noticia/prefeito-visita-a-construcao-da-estacao-meteorologica/1zqjes'%22()%7B%7D%3Cx%3E:1zqjes 1 https://www.camapua.ms.gov.br/noticia/prefeito-visita-a-construcao-da-estacao-meteorologica
+/noticia/prefeitura-recolhe-pneus-usados-em-borracharias/1zqjtd'%22()%7B%7D%3Cx%3E:1zqjtd 1 https://www.camapua.ms.gov.br/noticia/prefeitura-recolhe-pneus-usados-em-borracharias
+/noticia/escolas-da-rede-municipal-de-ensino-participam-do-premio-mpt-na-escola-2019/1zqjkl'%22()%7B%7D%3Cx%3E:1zqjkl 1 https://www.camapua.ms.gov.br/noticia/escolas-da-rede-municipal-de-ensino-participam-do-premio-mpt-na-escola-2019
+/noticia/patrulha-mecanizada-leva-tecnologia-para-o-pequeno-produtor/1zqjhf'%22()%7B%7D%3Cx%3E:1zqjhf 1 https://www.camapua.ms.gov.br/noticia/patrulha-mecanizada-leva-tecnologia-para-o-pequeno-produtor
+/noticia/grupo-da-terceira-idade-volta-a-se-reunir-no-salao-conviver/1zqjny'%22()%7B%7D%3Cx%3E:1zqjny 1 https://www.camapua.ms.gov.br/noticia/grupo-da-terceira-idade-volta-a-se-reunir-no-salao-conviver
+/noticia/prefeitura-faz-manutencao-na-via-que-da-acesso-ao-bairro-coophavale/1zqjpt'%22()%7B%7D%3Cx%3E:1zqjpt 1 https://www.camapua.ms.gov.br/noticia/prefeitura-faz-manutencao-na-via-que-da-acesso-ao-bairro-coophavale
+/noticia/cmdca-divulga-resultado-da-prova-especifica-para-conselheiros-tutelares/1zqjwz'%22()%7B%7D%3Cx%3E:1zqjwz 1 https://www.camapua.ms.gov.br/noticia/cmdca-divulga-resultado-da-prova-especifica-para-conselheiros-tutelares
+/noticia/prefeitura-fara-o-lancamento-do-projeto-de-atendimento-oncologico-em-camapua/1zqjap'%22()%7B%7D%3Cx%3E:1zqjap 1 https://www.camapua.ms.gov.br/noticia/prefeitura-fara-o-lancamento-do-projeto-de-atendimento-oncologico-em-camapua
+/secretaria/secretaria-de-assistencia-social/1zqjaa'%22()%7B%7D%3Cx%3E:1zqjaa 1 https://www.camapua.ms.gov.br/secretaria/secretaria-de-assistencia-social
+/.well-known/openpgpkey/policy 1 -
+/noticia/conferencia-municipal-de-saude-sera-dia-09/1zqjlk'%22()%7B%7D%3Cx%3E:1zqjlk 1 https://www.camapua.ms.gov.br/noticia/conferencia-municipal-de-saude-sera-dia-09
+/noticia/centro-de-educacao-de-camapua-e-destaque-nacional-em-projeto-do-ministerio-da-educacao/1zqjxi'%22()%7B%7D%3Cx%3E:1zqjxi 1 https://www.camapua.ms.gov.br/noticia/centro-de-educacao-de-camapua-e-destaque-nacional-em-projeto-do-ministerio-da-educacao
+/requestXaX404/1zqjzm'%22()%7B%7D%3Cx%3E:1zqjzm 1 https://www.camapua.ms.gov.br/requestXaX404
+/noticia/camapua-realiza-o-primeiro-encontro-nacional-de-violeiros/1zqjdt'%22()%7B%7D%3Cx%3E:1zqjdt 1 https://www.camapua.ms.gov.br/noticia/camapua-realiza-o-primeiro-encontro-nacional-de-violeiros
+/noticia/camapua-nao-tem-caso-de-dengue-notificado-em-2018/1zqjeh'%22()%7B%7D%3Cx%3E:1zqjeh 1 https://www.camapua.ms.gov.br/noticia/camapua-nao-tem-caso-de-dengue-notificado-em-2018
+/sitemap.xml 3 -
+/noticia/prefeito-envia-diversos-projetos-de-lei-para-camara-de-vareadores/1zqjjt'%22()%7B%7D%3Cx%3E:1zqjjt 1 https://www.camapua.ms.gov.br/noticia/prefeito-envia-diversos-projetos-de-lei-para-camara-de-vareadores
+/noticia/prefeito-decreta-a-regulamentacao-do-servico-de-inspecao-municipal/1zqjsb'%22()%7B%7D%3Cx%3E:1zqjsb 1 https://www.camapua.ms.gov.br/noticia/prefeito-decreta-a-regulamentacao-do-servico-de-inspecao-municipal
+/noticia/equipe-da-prefeitura-participa-de-curso-de-qualificacao-sobre-assistencia-social-na-assomasul/1zqjdl'%22()%7B%7D%3Cx%3E:1zqjdl 1 https://www.camapua.ms.gov.br/noticia/equipe-da-prefeitura-participa-de-curso-de-qualificacao-sobre-assistencia-social-na-assomasul
+/noticia/coordenadoria-da-mulher-realiza-palestra-sobre-feminicidio/1zqjhy'%22()%7B%7D%3Cx%3E:1zqjhy 1 https://www.camapua.ms.gov.br/noticia/coordenadoria-da-mulher-realiza-palestra-sobre-feminicidio
+/noticia/prefeitura-estabelece-horario-de-atendimento-durante-os-jogos-da-selecao-brasileira-na-copa/1zqjjq'%22()%7B%7D%3Cx%3E:1zqjjq 1 https://www.camapua.ms.gov.br/noticia/prefeitura-estabelece-horario-de-atendimento-durante-os-jogos-da-selecao-brasileira-na-copa
+/pagina/palavras-do-prefeito/1zqjuq'%22()%7B%7D%3Cx%3E:1zqjuq 1 https://www.camapua.ms.gov.br/pagina/palavras-do-prefeito
+/noticia/prefeitura-vacina-mais-de-3-mil-animais-entre-caninos-e-felinos-durante-campanha-antirrabica-em-camapua/1zqjnl'%22()%7B%7D%3Cx%3E:1zqjnl 1 https://www.camapua.ms.gov.br/noticia/prefeitura-vacina-mais-de-3-mil-animais-entre-caninos-e-felinos-durante-campanha-antirrabica-em-camapua
+/pagina/bandeira-brasao-e-hino/1zqjsr'%22()%7B%7D%3Cx%3E:1zqjsr 1 https://www.camapua.ms.gov.br/pagina/bandeira-brasao-e-hino
+/conheca-a-cidade 13 https://www.camapua.ms.gov.br/
+/noticia/com-apoio-da-prefeitura-alunos-do-ceep-participam-de-feira-em-universidade-na-capital/1zqjmx'%22()%7B%7D%3Cx%3E:1zqjmx 1 https://www.camapua.ms.gov.br/noticia/com-apoio-da-prefeitura-alunos-do-ceep-participam-de-feira-em-universidade-na-capital
+/noticia/prefeito-decreta-luto-oficial-pelo-falecimento-de-gabriel-melhado/1zqjhx'%22()%7B%7D%3Cx%3E:1zqjhx 1 https://www.camapua.ms.gov.br/noticia/prefeito-decreta-luto-oficial-pelo-falecimento-de-gabriel-melhado
+/noticia/projeto-da-secretaria-de-saude-atende-mais-de-200-pessoas-em-seu-lancamento/1zqjtm'%22()%7B%7D%3Cx%3E:1zqjtm 1 https://www.camapua.ms.gov.br/noticia/projeto-da-secretaria-de-saude-atende-mais-de-200-pessoas-em-seu-lancamento
+/noticia/esclarecimento-sobre-uso-indevido-de-veiculos-publicos/1zqjvz'%22()%7B%7D%3Cx%3E:1zqjvz 1 https://www.camapua.ms.gov.br/noticia/esclarecimento-sobre-uso-indevido-de-veiculos-publicos
+/noticia/prefeito-e-vice-discutem-lancamento-entregas-e-conclusao-de-obras-do-governo-do-estado-em-camapua/1zqjwe'%22()%7B%7D%3Cx%3E:1zqjwe 1 https://www.camapua.ms.gov.br/noticia/prefeito-e-vice-discutem-lancamento-entregas-e-conclusao-de-obras-do-governo-do-estado-em-camapua
+/publicacao/decreto-2307-processo-eleitoral-do-dirigente-escolar/1zqjot'%22()%7B%7D%3Cx%3E:1zqjot 1 https://www.camapua.ms.gov.br/publicacao/decreto-2307-processo-eleitoral-do-dirigente-escolar
+/noticia/iniciadas-as-obras-de-drenagem-em-ruas-do-cristo-redentor/1zqjdn'%22()%7B%7D%3Cx%3E:1zqjdn 1 https://www.camapua.ms.gov.br/noticia/iniciadas-as-obras-de-drenagem-em-ruas-do-cristo-redentor
+/noticia/quem-pratica-queimada-pode-levar-multa/1zqjgv'%22()%7B%7D%3Cx%3E:1zqjgv 1 https://www.camapua.ms.gov.br/noticia/quem-pratica-queimada-pode-levar-multa
+/noticia/resultado-oficial-do-processo-seletivo-simplificado-para-contratacao-de-professores/1zqjcu'%22()%7B%7D%3Cx%3E:1zqjcu 1 https://www.camapua.ms.gov.br/noticia/resultado-oficial-do-processo-seletivo-simplificado-para-contratacao-de-professores
+/noticia/prefeitura-segue-realizando-limpeza-pela-cidade/1zqjje'%22()%7B%7D%3Cx%3E:1zqjje 1 https://www.camapua.ms.gov.br/noticia/prefeitura-segue-realizando-limpeza-pela-cidade
+/noticia/prefeitura-recebe-repasses-financeiros-para-a-saude/1zqjmd'%22()%7B%7D%3Cx%3E:1zqjmd 1 https://www.camapua.ms.gov.br/noticia/prefeitura-recebe-repasses-financeiros-para-a-saude
+/pagina/equipe-de-governo/1zqjtb'%22()%7B%7D%3Cx%3E:1zqjtb 1 https://www.camapua.ms.gov.br/pagina/equipe-de-governo
+/noticia/prefeitura-publica-balanco-de-2018/1zqjmi'%22()%7B%7D%3Cx%3E:1zqjmi 1 https://www.camapua.ms.gov.br/noticia/prefeitura-publica-balanco-de-2018
+/noticia/rede-municipal-de-ensino-desenvolve-o-projeto-mpt-na-escola/1zqjhu'%22()%7B%7D%3Cx%3E:1zqjhu 1 https://www.camapua.ms.gov.br/noticia/rede-municipal-de-ensino-desenvolve-o-projeto-mpt-na-escola
+/noticia/com-apoio-de-beto-pereira-e-mandetta-prefeito-viabiliza-mais-de-600-mil-para-saude-de-camapua/1zqjgc'%22()%7B%7D%3Cx%3E:1zqjgc 1 https://www.camapua.ms.gov.br/noticia/com-apoio-de-beto-pereira-e-mandetta-prefeito-viabiliza-mais-de-600-mil-para-saude-de-camapua
+/publicacao/decreto-2307-processo-eleitoral-do-dirigente-escolar/1zqjch'%22()%7B%7D%3Cx%3E:1zqjch 1 https://www.camapua.ms.gov.br/publicacao/decreto-2307-processo-eleitoral-do-dirigente-escolar
+/publicacao/decreto-2332-processo-seletivo-simplificado-para-contratacao-de-pessoal/1zqjid'%22()%7B%7D%3Cx%3E:1zqjid 1 https://www.camapua.ms.gov.br/publicacao/decreto-2332-processo-seletivo-simplificado-para-contratacao-de-pessoal
+/noticia/prefeitura-multa-empresas-por-descumprimento-de-contrato/1zqjqt'%22()%7B%7D%3Cx%3E:1zqjqt 1 https://www.camapua.ms.gov.br/noticia/prefeitura-multa-empresas-por-descumprimento-de-contrato
+/secretaria/secretaria-de-infraestrutura-e-servicos-publicos/1zqjse'%22()%7B%7D%3Cx%3E:1zqjse 1 https://www.camapua.ms.gov.br/secretaria/secretaria-de-infraestrutura-e-servicos-publicos
+/pagina/sobre-a-secretaria-educacao/1zqjnr'%22()%7B%7D%3Cx%3E:1zqjnr 1 https://www.camapua.ms.gov.br/pagina/sobre-a-secretaria-educacao
+/noticia/mais-de-45-ton-de-lixo-e-entulho-foram-recolhidas-com-o-inicio-do-programa-de-limpeza-urbana/1zqjwu'%22()%7B%7D%3Cx%3E:1zqjwu 1 https://www.camapua.ms.gov.br/noticia/mais-de-45-ton-de-lixo-e-entulho-foram-recolhidas-com-o-inicio-do-programa-de-limpeza-urbana
+/contato/1zqjnq'%22()%7B%7D%3Cx%3E:1zqjnq 1 https://www.camapua.ms.gov.br/contato
+/noticia/salario-dos-servidores-municipais-ja-esta-na-conta/1zqjzf'%22()%7B%7D%3Cx%3E:1zqjzf 1 https://www.camapua.ms.gov.br/noticia/salario-dos-servidores-municipais-ja-esta-na-conta
+/noticia/pagamento-esta-na-conta/1zqjui'%22()%7B%7D%3Cx%3E:1zqjui 1 https://www.camapua.ms.gov.br/noticia/pagamento-esta-na-conta
+/noticia/audiencia-publica-de-apresentacao-de-relatorio/1zqjvt'%22()%7B%7D%3Cx%3E:1zqjvt 1 https://www.camapua.ms.gov.br/noticia/audiencia-publica-de-apresentacao-de-relatorio
+/noticia/prefeitura-tera-expediente-somente-a-tarde-na-segunda/1zqjdx'%22()%7B%7D%3Cx%3E:1zqjdx 1 https://www.camapua.ms.gov.br/noticia/prefeitura-tera-expediente-somente-a-tarde-na-segunda
+/noticia/prefeitura-investe-em-programacao-diversificada-na-semana-da-crianca/1zqjhx'%22()%7B%7D%3Cx%3E:1zqjhx 1 https://www.camapua.ms.gov.br/noticia/prefeitura-investe-em-programacao-diversificada-na-semana-da-crianca
+/pagina/historia-do-municipio/1zqjbg'%22()%7B%7D%3Cx%3E:1zqjbg 1 https://www.camapua.ms.gov.br/pagina/historia-do-municipio
+/noticia/escola-ernesto-solon-borges-realiza-conferencia-sobre-meio-ambiente/1zqjsz'%22()%7B%7D%3Cx%3E:1zqjsz 1 https://www.camapua.ms.gov.br/noticia/escola-ernesto-solon-borges-realiza-conferencia-sobre-meio-ambiente
+/pagina/sobre-a-secretaria-saj/1zqjjb'%22()%7B%7D%3Cx%3E:1zqjjb 1 https://www.camapua.ms.gov.br/pagina/sobre-a-secretaria-saj
+/noticia/mapeamento-de-seguranca-alimentar-e-nutricional-e-realizado-em-camapua/1zqjby'%22()%7B%7D%3Cx%3E:1zqjby 1 https://www.camapua.ms.gov.br/noticia/mapeamento-de-seguranca-alimentar-e-nutricional-e-realizado-em-camapua
+/noticia/secretaria-de-saude-participa-de-reuniao-do-hiperdia-na-ubs-pontinha-do-cocho/1zqjqa'%22()%7B%7D%3Cx%3E:1zqjqa 1 https://www.camapua.ms.gov.br/noticia/secretaria-de-saude-participa-de-reuniao-do-hiperdia-na-ubs-pontinha-do-cocho
+/noticia/primeiro-encontro-nacional-de-violeiros-em-ms-foi-um-sucesso/1zqjsa'%22()%7B%7D%3Cx%3E:1zqjsa 1 https://www.camapua.ms.gov.br/noticia/primeiro-encontro-nacional-de-violeiros-em-ms-foi-um-sucesso
+/noticia/prefeito-vice-e-primeira-dama-participam-da-sessao-solene-de-abertura-dos-trabalhos-legislativos/1zqjec'%22()%7B%7D%3Cx%3E:1zqjec 1 https://www.camapua.ms.gov.br/noticia/prefeito-vice-e-primeira-dama-participam-da-sessao-solene-de-abertura-dos-trabalhos-legislativos
+/noticia/prefeitura-articula-acao-educativa-com-o-ministerio-publico-do-trabalho/1zqjie'%22()%7B%7D%3Cx%3E:1zqjie 1 https://www.camapua.ms.gov.br/noticia/prefeitura-articula-acao-educativa-com-o-ministerio-publico-do-trabalho
+/noticia/audiencia-publica-de-avaliacao-do-plano-municipal-de-educacao/1zqjoe'%22()%7B%7D%3Cx%3E:1zqjoe 1 https://www.camapua.ms.gov.br/noticia/audiencia-publica-de-avaliacao-do-plano-municipal-de-educacao
+/noticia/prefeito-e-equipe-participam-de-importante-reuniao-na-agehab/1zqjxk'%22()%7B%7D%3Cx%3E:1zqjxk 1 https://www.camapua.ms.gov.br/noticia/prefeito-e-equipe-participam-de-importante-reuniao-na-agehab
+/noticia/profissionais-de-camapua-participam-de-seminario-internacional-sobre-acolhimento-familiar-em-campinas-sp/1zqjck'%22()%7B%7D%3Cx%3E:1zqjck 1 https://www.camapua.ms.gov.br/noticia/profissionais-de-camapua-participam-de-seminario-internacional-sobre-acolhimento-familiar-em-campinas-sp
+/noticia/por-intermedio-do-prefeito-delano-huber-almir-sater-fara-show-em-camapua/1zqjxg'%22()%7B%7D%3Cx%3E:1zqjxg 1 https://www.camapua.ms.gov.br/noticia/por-intermedio-do-prefeito-delano-huber-almir-sater-fara-show-em-camapua
+/pagina/endereco-das-unidades-de-saude/1zqjpy'%22()%7B%7D%3Cx%3E:1zqjpy 1 https://www.camapua.ms.gov.br/pagina/endereco-das-unidades-de-saude
+/noticia/camapua-esta-no-mapa-estrategico-do-sebrae-para-desenvolvimento-do-turismo-na-regiao-norte/1zqjpm'%22()%7B%7D%3Cx%3E:1zqjpm 1 https://www.camapua.ms.gov.br/noticia/camapua-esta-no-mapa-estrategico-do-sebrae-para-desenvolvimento-do-turismo-na-regiao-norte
+/noticia/palestra-sobre-piscicultura-e-realizada-em-camapua/1zqjvu'%22()%7B%7D%3Cx%3E:1zqjvu 1 https://www.camapua.ms.gov.br/noticia/palestra-sobre-piscicultura-e-realizada-em-camapua
+/noticia/secretaria-de-infraestrutura-realiza-limpeza-na-praca-do-bairro-pedro-luiz-amorim/1zqjkz'%22()%7B%7D%3Cx%3E:1zqjkz 1 https://www.camapua.ms.gov.br/noticia/secretaria-de-infraestrutura-realiza-limpeza-na-praca-do-bairro-pedro-luiz-amorim
+/noticia/escola-ernesto-solon-borges-recebe-reforma-na-parte-estrutural/1zqjsf'%22()%7B%7D%3Cx%3E:1zqjsf 1 https://www.camapua.ms.gov.br/noticia/escola-ernesto-solon-borges-recebe-reforma-na-parte-estrutural
+/noticia/prefeitura-decreta-ponto-facultativo-nesta-quinta-feira-santa/1zqjhn'%22()%7B%7D%3Cx%3E:1zqjhn 1 https://www.camapua.ms.gov.br/noticia/prefeitura-decreta-ponto-facultativo-nesta-quinta-feira-santa
+/noticia/prefeitura-realiza-manutencao-nas-ruas-do-bairro-pedro-luiz-amorim/1zqjrx'%22()%7B%7D%3Cx%3E:1zqjrx 1 https://www.camapua.ms.gov.br/noticia/prefeitura-realiza-manutencao-nas-ruas-do-bairro-pedro-luiz-amorim
+/noticia/prefeitura-faz-cascalhamento-e-manutencao-nas-ruas-do-bairro-jardim-sao-bento/1zqjzn'%22()%7B%7D%3Cx%3E:1zqjzn 1 https://www.camapua.ms.gov.br/noticia/prefeitura-faz-cascalhamento-e-manutencao-nas-ruas-do-bairro-jardim-sao-bento
+/secretaria/secretaria-de-agronegocio-meio-ambiente-e-empreendedorismo/1zqjxq'%22()%7B%7D%3Cx%3E:1zqjxq 1 https://www.camapua.ms.gov.br/secretaria/secretaria-de-agronegocio-meio-ambiente-e-empreendedorismo
+/noticia/conheca-a-cidade/1zqjhv'%22()%7B%7D%3Cx%3E:1zqjhv 1 https://www.camapua.ms.gov.br/noticia/conheca-a-cidade
+/noticia/realizada-a-terceira-etapa-da-campanha-de-limpeza-urbana/1zqjca'%22()%7B%7D%3Cx%3E:1zqjca 1 https://www.camapua.ms.gov.br/noticia/realizada-a-terceira-etapa-da-campanha-de-limpeza-urbana
+/noticia/professores-se-reunem-para-discussao-da-base-nacional-comum-curricular/1zqjuy'%22()%7B%7D%3Cx%3E:1zqjuy 1 https://www.camapua.ms.gov.br/noticia/professores-se-reunem-para-discussao-da-base-nacional-comum-curricular
+/noticia/prefeito-e-autoridades-entregam-86-novas-unidades-habitacionais-no-cristo-redentor-2/1zqjmq'%22()%7B%7D%3Cx%3E:1zqjmq 1 https://www.camapua.ms.gov.br/noticia/prefeito-e-autoridades-entregam-86-novas-unidades-habitacionais-no-cristo-redentor-2
+/noticia/prefeitura-cancela-carnaval-para-investir-em-outras-areas-essenciais/1zqjbn'%22()%7B%7D%3Cx%3E:1zqjbn 1 https://www.camapua.ms.gov.br/noticia/prefeitura-cancela-carnaval-para-investir-em-outras-areas-essenciais
+/publicacao/decreto-2624-processo-eleitoral-de-dirigente-escolarl/1zqjdb'%22()%7B%7D%3Cx%3E:1zqjdb 1 https://www.camapua.ms.gov.br/publicacao/decreto-2624-processo-eleitoral-de-dirigente-escolarl
+/noticia/uems-abre-vagas-para-portadores-de-diploma-no-polo-da-uab-de-camapua/1zqjlq'%22()%7B%7D%3Cx%3E:1zqjlq 1 https://www.camapua.ms.gov.br/noticia/uems-abre-vagas-para-portadores-de-diploma-no-polo-da-uab-de-camapua
+/noticia/populacao-define-novos-membros-do-conselho-tutelar-de-camapua/1zqjaw'%22()%7B%7D%3Cx%3E:1zqjaw 1 https://www.camapua.ms.gov.br/noticia/populacao-define-novos-membros-do-conselho-tutelar-de-camapua
+/noticia/prefeitura-tem-dois-novos-nomes-a-frente-desporto-local/1zqjqq'%22()%7B%7D%3Cx%3E:1zqjqq 1 https://www.camapua.ms.gov.br/noticia/prefeitura-tem-dois-novos-nomes-a-frente-desporto-local
+/pagina/ouvidoria-do-sus/1zqjbx'%22()%7B%7D%3Cx%3E:1zqjbx 1 https://www.camapua.ms.gov.br/pagina/ouvidoria-do-sus
+/noticia/escolas-da-rede-municipal-de-ensino-se-destacam-com-os-resultados-alcancados-no-ideb/1zqjvj'%22()%7B%7D%3Cx%3E:1zqjvj 1 https://www.camapua.ms.gov.br/noticia/escolas-da-rede-municipal-de-ensino-se-destacam-com-os-resultados-alcancados-no-ideb
+/secretaria/secretaria-de-educacao-cultura-esporte-e-lazer/1zqjgc'%22()%7B%7D%3Cx%3E:1zqjgc 1 https://www.camapua.ms.gov.br/secretaria/secretaria-de-educacao-cultura-esporte-e-lazer
+/noticia/prefeito-reduz-o-proprio-salario-da-vice-e-de-secretarios/1zqjzx'%22()%7B%7D%3Cx%3E:1zqjzx 1 https://www.camapua.ms.gov.br/noticia/prefeito-reduz-o-proprio-salario-da-vice-e-de-secretarios
+/pagina/como-chegar/1zqjem'%22()%7B%7D%3Cx%3E:1zqjem 1 https://www.camapua.ms.gov.br/pagina/como-chegar
+/noticia/secretaria-municipal-de-saude-intensifica-acoes-de-combate-a-dengue/1zqjxu'%22()%7B%7D%3Cx%3E:1zqjxu 1 https://www.camapua.ms.gov.br/noticia/secretaria-municipal-de-saude-intensifica-acoes-de-combate-a-dengue
+/noticia/informacao-importante/1zqjhd'%22()%7B%7D%3Cx%3E:1zqjhd 1 https://www.camapua.ms.gov.br/noticia/informacao-importante
+/noticia/prefeito-e-vice-entregam-ovos-de-pascoa-para-alunos-da-rede-municipal/1zqjyd'%22()%7B%7D%3Cx%3E:1zqjyd 1 https://www.camapua.ms.gov.br/noticia/prefeito-e-vice-entregam-ovos-de-pascoa-para-alunos-da-rede-municipal
+/noticia/secretaria-de-saude-realiza-acao-no-centro-da-cidade/1zqjnh'%22()%7B%7D%3Cx%3E:1zqjnh 1 https://www.camapua.ms.gov.br/noticia/secretaria-de-saude-realiza-acao-no-centro-da-cidade
+/noticia/prefeito-decreta-luto-oficial-em-razao-do-falecimento-do-dr-angelo/1zqjba'%22()%7B%7D%3Cx%3E:1zqjba 1 https://www.camapua.ms.gov.br/noticia/prefeito-decreta-luto-oficial-em-razao-do-falecimento-do-dr-angelo
+/noticia/secretaria-de-saude-realiza-audiencia-publica-nesta-quinta-feira/1zqjre'%22()%7B%7D%3Cx%3E:1zqjre 1 https://www.camapua.ms.gov.br/noticia/secretaria-de-saude-realiza-audiencia-publica-nesta-quinta-feira
+/img/ 1 -
+/noticia/horario-de-expediente-nesta-quarta-feira-27/1zqjps'%22()%7B%7D%3Cx%3E:1zqjps 1 https://www.camapua.ms.gov.br/noticia/horario-de-expediente-nesta-quarta-feira-27
+/noticia/escolas-municipais-recebem-os-alunos-neste-inicio-de-ano-letivo/1zqjvf'%22()%7B%7D%3Cx%3E:1zqjvf 1 https://www.camapua.ms.gov.br/noticia/escolas-municipais-recebem-os-alunos-neste-inicio-de-ano-letivo
+/noticia/equipe-do-nasf-fara-acao-voltada-a-pratica-de-exercicios-fisicos/1zqjgc'%22()%7B%7D%3Cx%3E:1zqjgc 1 https://www.camapua.ms.gov.br/noticia/equipe-do-nasf-fara-acao-voltada-a-pratica-de-exercicios-fisicos
+/noticia/prefeito-entrega-novos-uniformes-aos-servidores-da-secretaria-de-infraestrutura/1zqjbq'%22()%7B%7D%3Cx%3E:1zqjbq 1 https://www.camapua.ms.gov.br/noticia/prefeito-entrega-novos-uniformes-aos-servidores-da-secretaria-de-infraestrutura
+/noticias/1zqjyj'%22()%7B%7D%3Cx%3E:1zqjyj 1 https://www.camapua.ms.gov.br/noticias
+/noticia/visando-economia-e-contencao-de-gastos-prefeitura-estara-com-atendimento-em-novo-horario/1zqjdd'%22()%7B%7D%3Cx%3E:1zqjdd 1 https://www.camapua.ms.gov.br/noticia/visando-economia-e-contencao-de-gastos-prefeitura-estara-com-atendimento-em-novo-horario
+/secretaria/secretaria-de-governo/1zqjar'%22()%7B%7D%3Cx%3E:1zqjar 1 https://www.camapua.ms.gov.br/secretaria/secretaria-de-governo
+/noticia/secretaria-de-saude-convida-populacao-para-audiencia-publica/1zqjlr'%22()%7B%7D%3Cx%3E:1zqjlr 1 https://www.camapua.ms.gov.br/noticia/secretaria-de-saude-convida-populacao-para-audiencia-publica
+/noticia/prefeito-vereador-e-deputado-se-reunem-na-agesul-cobrando-inicio-de-obras-em-camapua/1zqjec'%22()%7B%7D%3Cx%3E:1zqjec 1 https://www.camapua.ms.gov.br/noticia/prefeito-vereador-e-deputado-se-reunem-na-agesul-cobrando-inicio-de-obras-em-camapua
+/noticia/prefeito-e-vice-se-reunem-com-moradores-da-vila-industrial/1zqjkk'%22()%7B%7D%3Cx%3E:1zqjkk 1 https://www.camapua.ms.gov.br/noticia/prefeito-e-vice-se-reunem-com-moradores-da-vila-industrial
+/noticia/prefeitura-faz-aquisicao-de-equipamentos-para-a-cantina-central/1zqjhm'%22()%7B%7D%3Cx%3E:1zqjhm 1 https://www.camapua.ms.gov.br/noticia/prefeitura-faz-aquisicao-de-equipamentos-para-a-cantina-central
+/noticia/prefeitura-baixa-decreto-em-razao-da-paralisacao-do-setor-de-transportes/1zqjdp'%22()%7B%7D%3Cx%3E:1zqjdp 1 https://www.camapua.ms.gov.br/noticia/prefeitura-baixa-decreto-em-razao-da-paralisacao-do-setor-de-transportes
+/noticia/projeto-para-gestantes-e-realizado-em-camapua/1zqjqo'%22()%7B%7D%3Cx%3E:1zqjqo 1 https://www.camapua.ms.gov.br/noticia/projeto-para-gestantes-e-realizado-em-camapua
+/wp-login.php 5 -
+/noticia/vacina-contra-o-sarampo-ja-esta-disponivel-para-menores-de-5-anos-em-camapua/1zqjig'%22()%7B%7D%3Cx%3E:1zqjig 1 https://www.camapua.ms.gov.br/noticia/vacina-contra-o-sarampo-ja-esta-disponivel-para-menores-de-5-anos-em-camapua
+/galerias/1zqjbd'%22()%7B%7D%3Cx%3E:1zqjbd 1 https://www.camapua.ms.gov.br/galerias
+/noticia/prefeitura-de-camapua-libera-pagamento-integral-do-130-salario-dos-servidores/1zqjin'%22()%7B%7D%3Cx%3E:1zqjin 1 https://www.camapua.ms.gov.br/noticia/prefeitura-de-camapua-libera-pagamento-integral-do-130-salario-dos-servidores
+/noticia/prefeito-vai-a-cascavel-em-busca-de-novos-investidores-para-camapua/1zqjbb'%22()%7B%7D%3Cx%3E:1zqjbb 1 https://www.camapua.ms.gov.br/noticia/prefeito-vai-a-cascavel-em-busca-de-novos-investidores-para-camapua
+/noticia/arbitral-define-confrontos-do-campeonato-municipal-de-futebol-de-salao/1zqjqt'%22()%7B%7D%3Cx%3E:1zqjqt 1 https://www.camapua.ms.gov.br/noticia/arbitral-define-confrontos-do-campeonato-municipal-de-futebol-de-salao
+/noticia/sanesul-de-camapua-e-contemplada-com-caminhao-cacamba/1zqjzn'%22()%7B%7D%3Cx%3E:1zqjzn 1 https://www.camapua.ms.gov.br/noticia/sanesul-de-camapua-e-contemplada-com-caminhao-cacamba
+/noticia/na-cantina-municipal-prefeito-ve-de-perto-o-preparo-e-a-qualidade-da-merenda-escolar/1zqjvl'%22()%7B%7D%3Cx%3E:1zqjvl 1 https://www.camapua.ms.gov.br/noticia/na-cantina-municipal-prefeito-ve-de-perto-o-preparo-e-a-qualidade-da-merenda-escolar
+/noticia/assinado-convenio-entre-a-prefeitura-e-a-prf/1zqjgg'%22()%7B%7D%3Cx%3E:1zqjgg 1 https://www.camapua.ms.gov.br/noticia/assinado-convenio-entre-a-prefeitura-e-a-prf
+/noticia/camapuanenses-sao-atendidos-na-caravana-da-saude/1zqjmf'%22()%7B%7D%3Cx%3E:1zqjmf 1 https://www.camapua.ms.gov.br/noticia/camapuanenses-sao-atendidos-na-caravana-da-saude
+/noticia/escola-sudalydio-rodrigues-machado-realiza-conferencia-sobre-meio-ambiente/1zqjfk'%22()%7B%7D%3Cx%3E:1zqjfk 1 https://www.camapua.ms.gov.br/noticia/escola-sudalydio-rodrigues-machado-realiza-conferencia-sobre-meio-ambiente
+/noticia/prefeito-faz-entrega-dos-kits-e-uniformes-nas-escolas-municipais/1zqjmm'%22()%7B%7D%3Cx%3E:1zqjmm 1 https://www.camapua.ms.gov.br/noticia/prefeito-faz-entrega-dos-kits-e-uniformes-nas-escolas-municipais
+/noticia/rede-municipal-de-ensino-esta-com-matriculas-abertas/1zqjmm'%22()%7B%7D%3Cx%3E:1zqjmm 1 https://www.camapua.ms.gov.br/noticia/rede-municipal-de-ensino-esta-com-matriculas-abertas
+/noticia/bairro-alto-e-vila-izolina-recebem-a-segunda-etapa-do-programa-de-limpeza-urbana/1zqjds'%22()%7B%7D%3Cx%3E:1zqjds 1 https://www.camapua.ms.gov.br/noticia/bairro-alto-e-vila-izolina-recebem-a-segunda-etapa-do-programa-de-limpeza-urbana
+/noticia/prefeitura-entrega-uniformes-e-kits-escolares/1zqjus'%22()%7B%7D%3Cx%3E:1zqjus 1 https://www.camapua.ms.gov.br/noticia/prefeitura-entrega-uniformes-e-kits-escolares
+/1zqjwc'%22()%7B%7D%3Cx%3E:1zqjwc 1 https://www.camapua.ms.gov.br
+/pagina/conheca-a-cidade/1zqjtu'%22()%7B%7D%3Cx%3E:1zqjtu 1 https://www.camapua.ms.gov.br/pagina/conheca-a-cidade
+/noticia/prefeitura-garante-transporte-escolar-para-os-alunos-de-camapua/1zqjjl'%22()%7B%7D%3Cx%3E:1zqjjl 1 https://www.camapua.ms.gov.br/noticia/prefeitura-garante-transporte-escolar-para-os-alunos-de-camapua
+/pagina/sobre-a-secretaria/1zqjjp'%22()%7B%7D%3Cx%3E:1zqjjp 1 https://www.camapua.ms.gov.br/pagina/sobre-a-secretaria
+/noticia/audiencia-publica-secretaria-de-saude/1zqjxm'%22()%7B%7D%3Cx%3E:1zqjxm 1 https://www.camapua.ms.gov.br/noticia/audiencia-publica-secretaria-de-saude
+/noticia/palestra-sobre-cooperativismo-e-realizada-em-camapua/1zqjtt'%22()%7B%7D%3Cx%3E:1zqjtt 1 https://www.camapua.ms.gov.br/noticia/palestra-sobre-cooperativismo-e-realizada-em-camapua
+/publicacoes/1zqjzz'%22()%7B%7D%3Cx%3E:1zqjzz 1 https://www.camapua.ms.gov.br/publicacoes
+/pagina/telefones-uteis/1zqjwh'%22()%7B%7D%3Cx%3E:1zqjwh 1 https://www.camapua.ms.gov.br/pagina/telefones-uteis
+/secretaria/secretaria-de-administracao-financas-e-planejamento/1zqjhg'%22()%7B%7D%3Cx%3E:1zqjhg 1 https://www.camapua.ms.gov.br/secretaria/secretaria-de-administracao-financas-e-planejamento
+/noticia/obra-de-recapeamento-de-diversas-ruas-em-camapua-ja-foi-licitada/1zqjsx'%22()%7B%7D%3Cx%3E:1zqjsx 1 https://www.camapua.ms.gov.br/noticia/obra-de-recapeamento-de-diversas-ruas-em-camapua-ja-foi-licitada
+/publicacao/conheca-a-cidade/1zqjtt'%22()%7B%7D%3Cx%3E:1zqjtt 1 https://www.camapua.ms.gov.br/publicacao/conheca-a-cidade
+/noticia/professor-de-camapua-e-destaque-no-110-premio-professores-do-brasil/1zqjxv'%22()%7B%7D%3Cx%3E:1zqjxv 1 https://www.camapua.ms.gov.br/noticia/professor-de-camapua-e-destaque-no-110-premio-professores-do-brasil
+/noticia/prefeito-assina-termo-de-colaboracao-com-entidades/1zqjnm'%22()%7B%7D%3Cx%3E:1zqjnm 1 https://www.camapua.ms.gov.br/noticia/prefeito-assina-termo-de-colaboracao-com-entidades
+/noticia/palestra-tecnica-gratuita-sobre-psicultura-acontece-nesta-sexta-feira/1zqjui'%22()%7B%7D%3Cx%3E:1zqjui 1 https://www.camapua.ms.gov.br/noticia/palestra-tecnica-gratuita-sobre-psicultura-acontece-nesta-sexta-feira
+/noticia/banda-municipal-esta-com-inscricoes-abertas-para-novos-integrantes/1zqjxl'%22()%7B%7D%3Cx%3E:1zqjxl 1 https://www.camapua.ms.gov.br/noticia/banda-municipal-esta-com-inscricoes-abertas-para-novos-integrantes
+/noticia/secretaria-de-assistencia-social-recebe-veiculo-0km/1zqjky'%22()%7B%7D%3Cx%3E:1zqjky 1 https://www.camapua.ms.gov.br/noticia/secretaria-de-assistencia-social-recebe-veiculo-0km
+/noticia/escola-municipal-ernesto-solon-borges-realiza-iii-feira-cientifica-e-cultural-na-modalidade-ambulante/1zqjqd'%22()%7B%7D%3Cx%3E:1zqjqd 1 https://www.camapua.ms.gov.br/noticia/escola-municipal-ernesto-solon-borges-realiza-iii-feira-cientifica-e-cultural-na-modalidade-ambulante
+/noticia/campanha-de-vacinacao-contra-a-gripe-comeca-nesta-quarta-feira-dia-10-de-abril/1zqjps'%22()%7B%7D%3Cx%3E:1zqjps 1 https://www.camapua.ms.gov.br/noticia/campanha-de-vacinacao-contra-a-gripe-comeca-nesta-quarta-feira-dia-10-de-abril
+/secretaria/secretaria-de-saude/1zqjug'%22()%7B%7D%3Cx%3E:1zqjug 1 https://www.camapua.ms.gov.br/secretaria/secretaria-de-saude
+/noticia/prefeitura-retoma-o-atendimento-de-ultrassonografia-no-municipio/1zqjjy'%22()%7B%7D%3Cx%3E:1zqjjy 1 https://www.camapua.ms.gov.br/noticia/prefeitura-retoma-o-atendimento-de-ultrassonografia-no-municipio
+/noticia/fomentando-a-agricultura-familiar-prefeitura-realiza-preparacao-de-solo-para-pequenos-produtores/1zqjbm'%22()%7B%7D%3Cx%3E:1zqjbm 1 https://www.camapua.ms.gov.br/noticia/fomentando-a-agricultura-familiar-prefeitura-realiza-preparacao-de-solo-para-pequenos-produtores
+/img/logo.png 2 -
+/noticia/prefeitura-e-energisa-realizam-parceria-em-camapua/1zqjew'%22()%7B%7D%3Cx%3E:1zqjew 1 https://www.camapua.ms.gov.br/noticia/prefeitura-e-energisa-realizam-parceria-em-camapua
+/noticia/com-recurso-proprio-prefeitura-compra-caminhao-basculante/1zqjxi'%22()%7B%7D%3Cx%3E:1zqjxi 1 https://www.camapua.ms.gov.br/noticia/com-recurso-proprio-prefeitura-compra-caminhao-basculante
+/noticia/patrulha-mecanizada-leva-tecnologia-para-quem-mora-no-campo/1zqjhg'%22()%7B%7D%3Cx%3E:1zqjhg 1 https://www.camapua.ms.gov.br/noticia/patrulha-mecanizada-leva-tecnologia-para-quem-mora-no-campo
+/noticia/audiencia-publica-da-secretaria-de-saude/1zqjsr'%22()%7B%7D%3Cx%3E:1zqjsr 1 https://www.camapua.ms.gov.br/noticia/audiencia-publica-da-secretaria-de-saude
+/pagina/Manual-de-Procedimentos-Administrativos/1zqjjo'%22()%7B%7D%3Cx%3E:1zqjjo 1 https://www.camapua.ms.gov.br/pagina/Manual-de-Procedimentos-Administrativos
+/noticia/reparticoes-publicas-terao-expediente-somente-na-parte-da-manha-nesta-sexta/1zqjsn'%22()%7B%7D%3Cx%3E:1zqjsn 1 https://www.camapua.ms.gov.br/noticia/reparticoes-publicas-terao-expediente-somente-na-parte-da-manha-nesta-sexta
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 1283
+170.80.32.210 844 13002 357643987 20200229223821
+64.227.74.126 564 564 56906338 20200225161303
+187.7.231.170 498 6459 156337478 20200228141614
+177.4.187.136 37 58 351689 20200228094849
+66.249.83.6 35 804 27078417 20200226132657
+66.249.83.2 34 768 25982603 20200228090833
+189.103.90.36 33 480 12422167 20200228144420
+66.249.83.4 31 818 32220431 20200229145703
+201.56.135.2 30 609 16421655 20200227125925
+187.86.225.152 26 331 8947150 20200219102633
+66.249.88.28 24 519 18739245 20200224171049
+201.7.0.188 22 684 17506269 20200226133557
+66.102.8.193 21 402 12291717 20200229062535
+66.249.88.30 21 425 14956708 20200224090507
+201.7.1.64 20 34 190241 20200229090226
+187.53.59.226 20 328 8204247 20200228100812
+187.23.222.240 19 403 10880999 20200227164601
+66.102.8.198 19 412 13470209 20200228160204
+201.7.1.251 19 239 5711484 20200228154912
+66.249.88.26 18 421 15466281 20200221184041
+189.10.97.114 18 537 8907401 20200227163506
+179.214.128.41 18 579 14396913 20200227090808
+45.182.16.74 18 146 7692738 20200204171236
+45.190.161.32 17 237 8178369 20200213153204
+170.80.32.224 17 528 13262886 20200228134636
+187.36.120.199 3 79 1949921 20200206120556
+179.83.21.202 1 1 9511 20200222104317
+187.24.129.125 1 11 653919 20200217110340
+179.254.24.196 2 80 1979855 20200221111558
+45.190.161.29 11 172 4543383 20200224220148
+200.162.128.78 2 71 1685547 20200207092701
+168.205.127.245 2 12 663555 20200220132639
+177.79.29.167 0 16 415113 
+189.72.225.224 1 9 9513 20200228083354
+191.33.204.207 9 90 3193302 20200219152829
+45.225.6.162 13 362 4724469 20200220111635
+177.79.30.200 1 2 96436 20200207155832
+200.160.124.65 1 70 1676033 20200204104746
+187.91.190.1 1 20 1137607 20200228201316
+201.67.36.130 4 151 3829662 20200214115909
+200.181.121.177 4 87 2538914 20200220161722
+179.255.54.25 2 13 646219 20200219214820
+179.217.138.27 1 70 1676027 20200204171818
+200.152.93.246 1 70 1676034 20200221104909
+177.79.33.143 1 1 9512 20200204090950
+45.231.212.198 1 70 1676036 20200220082607
+200.198.136.145 9 81 3174507 20200221070641
+177.0.91.64 2 5 19019 20200227100657
+177.79.35.60 0 26 608221 
+200.210.91.130 1 70 1676035 20200221150242
+66.249.88.8 0 3 18039 
+170.238.249.131 1 14 746693 20200221070929
+177.68.146.89 3 75 1917190 20200229131459
+177.4.20.218 1 25 731705 20200213140224
+189.31.44.19 3 77 1953866 20200211102744
+131.0.218.89 1 11 655062 20200215211803
+201.76.178.62 3 75 1911519 20200214102136
+177.5.224.227 8 162 5374949 20200206105028
+177.79.29.73 1 1 9512 20200206090454
+179.180.48.85 1 70 1676027 20200217110129
+189.115.98.23 6 17 463869 20200226204046
+179.214.175.92 2 74 1907675 20200211193557
+177.6.80.58 1 11 653918 20200226154434
+45.6.110.20 2 61 1594915 20200214180821
+187.36.110.36 12 50 2475154 20200228140912
+177.79.52.177 0 1 0 
+200.129.210.230 4 85 2483659 20200219135855
+200.140.151.133 1 70 1676028 20200207201005
+159.138.148.17 1 1 5347 20200228123457
+54.185.103.89 1 1 9503 20200226055146
+177.79.70.137 2 77 2012509 20200205113430
+177.79.33.112 2 65 1758215 20200227153432
+189.103.129.50 1 70 1676034 20200220100549
+191.37.229.84 1 70 1676032 20200203083935
+201.21.61.112 2 72 1729975 20200221114504
+200.96.129.247 2 74 1907672 20200207085316
+187.5.107.206 3 88 2620372 20200219093102
+177.79.31.13 3 31 845859 20200216191139
+177.201.88.198 2 74 1907674 20200205091741
+201.7.1.219 4 83 1926697 20200227102846
+189.40.79.166 2 74 1907672 20200219194438
+177.79.32.8 0 1 49021 
+189.7.78.23 1 70 1676034 20200214144812
+177.79.33.75 0 1 47298 
+131.0.112.104 1 70 1676033 20200221091452
+189.59.109.193 2 12 663143 20200226124414
+191.251.33.204 3 76 1968559 20200221163010
+177.215.90.180 1 70 1676033 20200207103441
+45.190.161.21 2 32 1923457 20200219164133
+201.148.120.58 1 70 1676030 20200205110529
+177.79.35.12 2 16 621485 20200206143107
+200.140.132.210 4 146 3636289 20200219131026
+177.79.35.197 1 6 375996 20200207205016
+187.53.59.224 5 149 3824850 20200210170644
+45.234.254.114 1 70 1676032 20200219063021
+187.53.220.254 3 77 1926571 20200206112117
+191.33.245.184 4 148 3815340 20200226134438
+45.160.58.128 2 74 1909772 20200221164305
+138.122.154.155 3 76 1968321 20200227095244
+201.7.28.170 1 4 9511 20200203113819
+177.79.31.84 1 37 1314344 20200210063349
+177.83.3.28 4 148 3815353 20200224152504
+66.249.80.38 0 11 817284 
+72.21.196.64 1 70 1676031 20200205162259
+179.185.91.194 2 74 1907671 20200217091329
+177.79.29.12 2 10 571815 20200205162629
+177.194.230.228 1 70 1676030 20200221104820
+191.96.241.217 1 1 9506 20200205115550
+191.184.201.125 2 74 1907680 20200218102013
+187.25.40.101 3 6 255627 20200211085718
+177.83.16.26 2 77 2108334 20200213103919
+201.77.225.7 1 69 1638986 20200221100822
+45.6.108.255 1 70 1676033 20200219155111
+177.79.30.84 0 24 607107 
+201.14.114.86 4 84 1959219 20200229074912
+179.148.102.152 3 6 446729 20200220081204
+177.5.251.56 1 2 9514 20200213084058
+177.79.35.217 2 23 1051702 20200228092132
+179.253.26.132 6 100 3165974 20200217074959
+5.9.17.118 1 1 33269 20200216073308
+177.3.203.179 2 74 1783702 20200211091843
+170.78.96.29 1 5 237248 20200222121807
+177.201.67.178 5 83 1974108 20200203153604
+179.95.243.251 4 148 3815344 20200218120734
+201.88.3.236 16 310 9299965 20200218161604
+189.124.4.167 0 1 47814 
+179.214.196.211 1 5 266172 20200211151144
+177.202.15.17 1 1 9506 20200205170232
+177.79.34.76 3 44 1311726 20200212190324
+187.7.221.55 1 8 520471 20200229191533
+114.119.130.70 1 1 9505 20200216121122
+66.249.88.14 0 5 75375 
+177.6.244.49 2 75 1954263 20200221202522
+177.0.88.66 0 7 165698 
+177.30.80.76 1 70 1676031 20200204170634
+201.25.84.153 0 3 133799 
+200.96.139.78 2 74 1783698 20200222100204
+179.253.191.178 2 74 1907667 20200218172248
+189.103.89.49 6 156 3878041 20200227095841
+177.9.224.240 2 44 1311252 20200222123056
+179.254.137.101 1 3 178010 20200211002601
+179.104.125.16 2 71 1685549 20200207155945
+177.79.31.208 1 6 419865 20200203151906
+179.214.219.7 1 70 1676034 20200212152617
+177.0.77.126 0 1 44272 
+187.25.54.62 2 74 1907673 20200212173841
+189.10.97.98 2 80 1956780 20200213174400
+191.33.240.20 1 70 1676031 20200212154003
+177.32.152.217 2 74 1907677 20200210154538
+201.44.162.194 3 78 2037105 20200219143557
+177.7.124.159 2 48 1472223 20200205165616
+191.33.204.130 1 23 602996 20200221093252
+179.214.198.81 2 74 1907671 20200219082835
+191.249.119.203 2 74 1907668 20200228140219
+177.79.34.23 2 22 1011919 20200207020539
+201.14.114.156 2 2 19026 20200222074257
+191.217.117.20 2 18 908144 20200218083503
+179.162.59.71 2 78 2024785 20200221143748
+45.239.185.192 0 1 77189 
+35.247.64.5 10 10 541053 20200225142901
+189.40.77.229 2 70 1839496 20200204145436
+179.124.9.231 5 77 2541712 20200218171111
+189.40.75.1 3 75 1913576 20200203135748
+66.102.7.100 1 7 519753 20200226201332
+189.40.76.179 2 5 32487 20200219100839
+187.57.63.46 2 74 1907674 20200214155438
+176.193.10.84 4 4 20369 20200219033338
+177.79.35.45 1 22 514998 20200227162601
+143.255.79.9 1 19 1149154 20200205174552
+66.244.123.103 1 70 1676029 20200211185548
+200.139.122.133 1 70 1676035 20200213163823
+191.33.204.42 2 74 1907677 20200226223355
+201.131.155.41 4 82 2196797 20200203115515
+189.103.75.28 3 49 1481729 20200203120726
+179.255.139.236 1 4 9510 20200211103635
+177.77.225.183 2 74 1907674 20200207232749
+187.32.11.242 2 74 1907674 20200228103825
+45.4.108.105 0 1 49358 
+177.3.229.157 1 70 1676033 20200225181806
+191.223.178.243 4 148 3815343 20200221151017
+177.79.30.227 0 2 98415 
+189.59.108.0 1 70 1676030 20200218162800
+201.22.95.10 1 55 1437234 20200220080838
+177.79.31.73 1 25 596665 20200217150011
+177.79.33.177 1 8 511138 20200220135510
+179.218.7.121 1 70 1676034 20200220123045
+189.73.232.117 4 148 3815352 20200228124914
+179.254.126.160 2 3 133320 20200210110456
+200.96.241.163 1 14 805336 20200213093021
+177.4.187.29 1 11 654041 20200224130608
+179.95.224.242 2 28 1229492 20200226115154
+177.17.155.206 2 74 1907672 20200227155830
+191.240.145.230 1 42 1116606 20200210173437
+177.4.177.125 1 1 9516 20200220173536
+177.202.6.237 2 78 1973332 20200210084819
+66.249.83.8 2 34 970253 20200226135211
+201.25.85.111 2 75 1956506 20200212114223
+189.27.79.252 1 70 1676036 20200208174351
+34.226.207.87 1 1 80969 20200218141715
+45.236.224.250 4 153 3848571 20200221162705
+189.40.76.228 2 36 1225581 20200202000013
+177.17.157.178 14 106 3078231 20200217151539
+177.79.35.183 3 78 2045409 20200219100841
+189.59.105.88 8 23 552403 20200220141926
+201.49.72.242 1 70 1676033 20200212165239
+200.150.118.98 6 81 2037588 20200217131646
+138.246.253.5 6 6 0 20200225164658
+177.79.31.45 1 29 764619 20200227084535
+179.95.233.170 3 105 3587513 20200210125615
+170.254.189.24 1 70 1676037 20200220095928
+177.103.54.77 1 70 1676032 20200228161017
+177.79.29.206 1 4 222220 20200214192534
+179.254.222.242 1 14 801205 20200228093823
+191.33.246.230 3 16 762729 20200204105002
+179.185.89.78 4 147 3603404 20200217132851
+189.103.85.188 4 78 2157942 20200213181321
+187.20.204.2 8 80 1964724 20200227141526
+66.249.85.38 0 1 59358 
+187.17.201.63 14 389 9888502 20200227143450
+177.69.61.124 1 48 1360688 20200206141607
+200.140.142.253 2 74 1907673 20200228115650
+200.19.32.120 1 70 1676031 20200217152509
+200.140.142.255 1 1 4125 20200226165300
+177.79.33.246 2 44 1223791 20200227102842
+187.53.48.192 1 34 1075009 20200207132507
+177.79.30.174 0 8 476625 
+189.27.66.221 1 70 1676032 20200226082153
+189.59.83.89 1 70 1676028 20200206155916
+179.134.115.227 2 12 667294 20200203175320
+191.34.111.105 3 81 1985729 20200227131500
+177.79.36.61 1 29 955869 20200211142714
+187.24.136.51 4 16 817116 20200226111723
+201.17.108.160 1 70 1676033 20200207182546
+177.194.224.35 12 318 8284478 20200212113943
+177.6.81.198 9 180 5090951 20200228080016
+179.253.191.82 3 7 28534 20200205092524
+179.212.177.205 1 70 1676031 20200213142024
+189.58.106.11 1 70 1676035 20200221082202
+177.83.3.187 3 75 1917181 20200203154901
+201.21.63.22 1 48 1360699 20200226125526
+152.244.219.247 1 25 1518875 20200211143034
+72.249.214.208 0 1 49984 
+189.103.81.117 5 92 2781234 20200206155850
+191.223.77.239 2 69 1833640 20200202091135
+189.22.42.2 4 86 2565875 20200217095624
+177.79.35.249 1 50 1405838 20200205114046
+200.150.87.161 1 70 1676035 20200224083849
+170.81.36.46 4 148 3815346 20200211232327
+34.83.246.133 6 6 307038 20200220114732
+187.24.129.2 2 30 1051927 20200213104021
+170.66.1.63 11 91 2427409 20200206125646
+177.99.207.75 3 80 1958104 20200226071856
+189.40.79.66 1 1 9509 20200220124134
+177.79.31.217 1 47 1245917 20200224211108
+179.125.172.114 2 74 1907674 20200205112926
+45.190.161.31 3 25 1609180 20200205091405
+186.218.192.8 1 70 1676032 20200206155551
+187.25.59.53 3 13 662397 20200221155924
+114.119.149.80 1 1 9512 20200224124019
+189.103.71.216 13 315 7944917 20200226132935
+177.5.201.56 3 49 1481732 20200219190317
+177.79.33.248 0 9 528592 
+170.233.79.212 2 74 1907668 20200204112335
+187.113.15.235 1 70 1676031 20200227085405
+179.214.130.150 1 11 654041 20200218112542
+177.1.195.99 1 63 9508 20200205135728
+201.148.236.46 3 71 1941898 20200225225332
+34.83.151.140 3 3 153519 20200229084617
+179.255.221.218 1 70 1676034 20200213141457
+201.25.85.65 0 22 700305 
+177.79.29.249 1 1 9510 20200228132822
+109.69.228.219 1 70 1676030 20200219080316
+189.7.20.185 11 83 1987611 20200227075744
+200.140.151.57 3 75 1917172 20200205141039
+189.11.227.102 2 74 1907670 20200226092417
+131.100.152.46 5 75 1742720 20200228142330
+177.79.34.21 1 10 350517 20200211175732
+177.3.236.48 2 74 1907673 20200221140032
+177.6.80.15 5 16 685139 20200205091600
+177.79.29.23 1 5 339805 20200212173156
+177.74.132.181 11 366 8765679 20200227173930
+177.156.199.219 2 79 1948593 20200219155226
+189.103.91.211 2 64 1798149 20200204124541
+189.86.223.248 0 19 443713 
+179.180.54.134 1 70 1676028 20200207163708
+177.79.31.16 1 1 9506 20200221071417
+177.66.156.10 1 70 1676032 20200213192438
+177.73.69.145 1 14 801201 20200227100541
+187.113.46.214 1 1 9512 20200226144921
+170.0.57.232 9 227 5993970 20200225161331
+189.125.118.18 1 70 1676032 20200212165204
+177.79.32.111 2 30 762389 20200205114038
+143.137.55.139 0 1 49358 
+191.223.36.17 4 79 1926695 20200218081103
+45.6.110.141 1 7 9508 20200204144522
+169.198.254.64 4 17 814404 20200212175355
+177.79.36.58 1 4 324822 20200220102000
+177.79.30.11 1 54 1542571 20200203210053
+170.238.230.74 1 70 1676035 20200212212241
+189.72.196.166 2 74 1907671 20200206180227
+200.160.185.6 1 70 1676033 20200212103204
+187.32.17.234 1 70 1676035 20200212104933
+189.103.76.44 3 75 1917179 20200209102359
+177.79.78.189 1 3 9510 20200206083830
+177.79.54.99 1 39 1023147 20200207170640
+177.83.12.222 1 55 1417986 20200228160114
+200.53.20.232 1 70 1676034 20200222095800
+187.55.140.168 3 75 1917177 20200214025936
+179.148.113.154 3 66 1876372 20200226154957
+177.91.127.65 1 70 1676035 20200228064012
+177.79.30.167 2 53 1402189 20200227162804
+179.214.168.31 1 70 1676027 20200227155728
+187.95.125.167 1 70 1676030 20200217142946
+187.6.17.221 2 74 1907669 20200222005331
+177.79.35.100 0 15 340604 
+13.59.220.97 2 2 19017 20200215062636
+189.59.120.126 1 14 891937 20200203112308
+200.103.9.91 2 72 1896871 20200227175233
+179.101.218.122 2 69 1833644 20200214083641
+191.33.201.12 3 75 1911519 20200228113813
+201.40.16.32 2 74 1907673 20200204153702
+191.54.135.68 1 70 1676035 20200210141402
+177.79.34.188 0 46 1183070 
+66.249.88.40 5 158 7166063 20200229180945
+179.177.8.254 3 76 1953445 20200203092107
+179.103.245.68 2 27 1224622 20200221131954
+177.83.23.202 2 74 1907673 20200226123021
+177.79.53.16 1 1 9512 20200214132505
+177.79.32.23 2 29 795158 20200224094605
+177.22.218.210 1 70 1676036 20200228101337
+179.228.73.204 4 148 3815345 20200224091128
+201.48.182.87 1 70 1676032 20200204175708
+64.233.172.170 1 12 523560 20200226134717
+187.53.59.225 2 74 1907673 20200214095248
+192.243.53.51 1 1 9508 20200211211135
+177.79.30.250 2 23 736290 20200204151355
+191.24.4.210 2 74 1907670 20200227063559
+189.40.79.143 2 2 19018 20200219131745
+177.17.148.62 4 79 2063060 20200204143510
+187.59.48.136 1 70 1676037 20200211215100
+201.2.120.94 11 90 2148729 20200228091124
+177.184.128.3 0 1 68090 
+177.84.238.65 1 70 1676032 20200228120701
+177.79.78.193 2 2 19022 20200221083807
+191.223.132.144 6 96 2766614 20200220091240
+179.220.10.42 0 15 238801 
+191.223.133.122 2 74 1907674 20200228100353
+187.113.12.234 7 85 2187568 20200227173737
+187.36.102.76 2 41 1293735 20200223232951
+191.31.140.194 1 70 1676035 20200220101813
+189.58.100.212 5 146 3602720 20200220140104
+170.233.224.100 2 74 1907664 20200220180932
+177.144.218.173 2 6 275678 20200210162519
+191.216.53.246 1 1 9513 20200221094157
+179.177.14.88 1 70 1676036 20200204162850
+177.79.33.6 1 20 365095 20200203210055
+177.6.80.197 4 4 38049 20200218160456
+191.223.177.35 2 74 1907672 20200210140441
+177.5.240.31 1 9 532047 20200218124529
+187.4.83.29 2 74 1151176 20200212092702
+143.255.73.69 0 1 299663 
+191.217.117.6 13 159 3937140 20200221160804
+189.72.241.215 1 4 9513 20200205083440
+191.33.243.131 3 206 9461745 20200210171212
+187.53.59.223 2 51 1613692 20200218105229
+177.74.129.13 1 70 1676031 20200226104705
+177.4.169.175 2 74 1907672 20200211150444
+201.34.248.225 2 74 1907672 20200201213527
+187.55.188.2 2 39 703784 20200214084828
+191.184.196.74 5 79 1982039 20200206144707
+187.23.205.207 5 155 3865688 20200218143332
+177.155.88.46 1 59 1450655 20200204142237
+177.79.32.39 1 1 9510 20200205125141
+187.17.197.141 2 74 1907674 20200220145143
+177.79.30.178 1 15 548209 20200227192741
+177.55.176.216 1 70 1676032 20200205114540
+191.33.207.214 8 11 55028 20200204155632
+201.2.49.133 2 79 1934407 20200217085719
+179.183.212.128 0 1 151639 
+179.221.125.135 2 74 1907670 20200219204309
+189.15.97.74 3 73 1739476 20200207100043
+187.24.143.108 3 29 1277399 20200211171016
+179.162.63.129 2 80 1938229 20200206112034
+168.181.48.18 2 71 1685540 20200208000429
+177.220.191.12 1 68 1552061 20200214112002
+131.108.100.9 1 34 1075007 20200224155939
+45.174.156.29 1 11 655063 20200218161235
+201.34.248.186 2 2 19023 20200210101508
+170.233.224.212 2 12 663547 20200206105342
+187.36.111.60 13 308 8070893 20200221113252
+179.255.136.120 3 32 1328179 20200221113015
+189.9.36.163 5 82 2176321 20200207091958
+64.215.22.98 2 74 1907674 20200210110805
+179.134.127.139 2 74 1907670 20200218070431
+177.79.33.70 1 23 875552 20200217150009
+179.133.123.204 1 1 9518 20200227201814
+177.79.30.202 0 1 49358 
+177.79.30.239 1 47 1248801 20200211142712
+179.214.181.152 0 44 1063093 
+187.95.114.68 1 70 1676031 20200204092121
+177.97.38.43 6 91 2770263 20200214161148
+191.184.212.133 5 77 1936185 20200217103923
+179.255.145.133 4 83 2201202 20200220191502
+54.190.153.135 1 1 9505 20200224065357
+177.5.80.222 1 70 1676033 20200210172031
+187.65.171.240 1 70 1676027 20200220164646
+177.79.34.247 0 1 47298 
+200.242.185.210 4 98 3185179 20200228161605
+179.124.9.149 1 1 9512 20200204115743
+138.204.27.150 2 140 3352062 20200206150246
+200.144.0.5 1 70 1676030 20200205104824
+201.148.236.11 3 75 1911915 20200206094545
+177.25.204.160 0 58 1394994 
+189.59.114.194 1 1 9513 20200224081828
+177.6.250.146 4 149 3864701 20200224104557
+189.113.48.249 1 70 1676031 20200221115314
+66.102.6.2 3 26 1325526 20200210181457
+191.184.209.185 1 70 1676030 20200222115633
+191.223.133.18 2 74 1907674 20200226104535
+164.144.56.20 1 57 1434350 20200210183806
+160.19.245.131 2 74 1907673 20200219135312
+170.254.23.100 0 1 70561 
+201.25.85.76 2 74 1907675 20200223214653
+168.181.48.96 4 78 2156169 20200203140051
+45.190.161.27 2 75 2059309 20200207141225
+177.35.123.38 2 74 1907671 20200224164942
+177.194.231.163 3 75 1917183 20200221135208
+177.79.32.108 1 18 572502 20200204232712
+131.0.218.47 3 23 1316823 20200220094535
+189.59.104.205 1 70 1676029 20200212210253
+45.232.214.97 1 70 1676031 20200219165113
+187.86.225.151 11 381 9955298 20200220094248
+177.23.243.4 2 43 1306052 20200223203251
+177.79.31.24 2 43 1232005 20200219092910
+189.46.26.66 1 14 805335 20200210161708
+5.9.94.207 1 1 33805 20200227075447
+177.79.29.211 1 22 888813 20200220082204
+189.72.164.11 2 76 2007412 20200210165329
+187.54.235.161 0 5 351734 
+170.81.36.70 2 74 1907675 20200219150743
+177.79.35.229 1 1 9509 20200208131803
+177.202.176.86 2 71 1685542 20200224133448
+189.114.244.155 2 140 3352076 20200221102522
+177.35.124.237 5 9 47561 20200217111252
+179.95.225.5 1 48 1360701 20200218113044
+167.249.191.16 1 12 695926 20200204221100
+179.109.156.80 4 15 714119 20200218141530
+201.25.83.194 2 74 1907673 20200225184912
+177.78.160.142 2 12 657885 20200217092153
+187.6.119.39 2 74 1907671 20200215102233
+191.184.192.169 1 6 313470 20200209000527
+201.25.85.106 2 74 1907670 20200207102254
+177.79.78.87 1 3 90313 20200205162607
+191.251.36.153 4 7 254503 20200226140417
+186.232.245.242 16 373 9370142 20200221084804
+186.208.137.172 1 70 1676027 20200207095201
+187.53.50.185 2 74 1907670 20200227094102
+177.79.29.182 1 2 9511 20200203142106
+187.53.142.2 2 74 1907672 20200205121436
+189.31.140.164 1 70 1676032 20200214122836
+187.25.45.110 1 1 9515 20200205093013
+179.95.245.250 5 77 1921423 20200220102052
+179.177.12.38 2 74 1907673 20200220092401
+177.35.124.141 2 74 1907667 20200206095834
+201.25.86.163 3 6 36715 20200212105524
+177.134.247.193 1 47 1352519 20200210103624
+200.210.132.226 1 8 719257 20200226155559
+186.212.72.21 9 155 3893307 20200221150913
+177.34.65.35 1 70 1676029 20200204082948
+189.58.162.159 2 74 1907673 20200221161947
+179.254.221.194 2 74 1907675 20200201113947
+201.74.9.174 1 70 1676032 20200224110644
+179.135.119.153 2 74 1907674 20200221084048
+170.81.95.79 1 70 1676034 20200203121614
+179.134.120.163 2 52 1510885 20200212191335
+177.25.159.20 0 5 305681 
+200.96.241.13 1 14 801199 20200211144537
+170.80.32.5 2 74 1907671 20200219234410
+189.22.39.34 1 70 1676034 20200215100252
+179.124.11.155 4 81 2159753 20200212111326
+200.212.250.226 1 11 653636 20200203133046
+186.194.190.254 1 5 266170 20200206184851
+201.80.208.236 2 74 1907674 20200215203141
+177.79.55.189 1 2 9509 20200203083426
+187.66.72.121 1 70 1676037 20200204132057
+138.255.115.100 1 70 1676029 20200219101210
+189.40.79.245 1 24 1161380 20200204091437
+104.248.14.224 1 1 80968 20200203074907
+179.255.137.23 1 1 4249 20200205095732
+177.3.206.207 2 74 1907676 20200218070843
+138.94.66.138 1 70 1676032 20200213140631
+189.103.66.49 2 52 1660707 20200228233629
+177.79.78.144 1 17 586727 20200220205423
+177.6.99.108 3 77 1952990 20200205145545
+187.7.221.195 2 74 1907667 20200212205330
+187.53.177.148 6 157 4323405 20200226172625
+200.163.115.206 2 45 1318088 20200206190644
+187.86.225.14 1 70 1676038 20200212163838
+187.7.221.66 1 70 1676031 20200215174602
+177.84.0.107 1 14 749630 20200223130349
+201.77.94.42 3 75 1917191 20200227093103
+138.121.152.211 3 77 1953864 20200211162848
+179.255.220.232 2 27 1577402 20200218135831
+179.95.235.58 1 70 1676037 20200220170723
+189.31.185.4 7 224 5487246 20200226100708
+201.7.84.178 1 70 1676034 20200206140335
+179.113.245.196 3 75 1911519 20200217140322
+187.59.152.86 4 76 1926697 20200222095028
+187.54.65.204 6 152 4677997 20200206153310
+64.233.172.168 0 15 813719 
+131.0.218.2 2 12 660398 20200213082521
+177.79.32.33 1 15 987678 20200204151215
+177.79.56.150 1 26 742620 20200215202135
+177.16.96.111 4 4 38048 20200221145319
+189.4.73.233 1 70 1676039 20200226092450
+186.222.57.125 4 77 2042230 20200220153225
+177.6.196.121 3 73 1740500 20200226142805
+177.79.57.196 1 4 156349 20200203152846
+66.249.88.60 1 1 0 20200226134717
+179.11.231.186 2 55 1724491 20200224201111
+179.254.206.245 1 1 9511 20200228180826
+177.4.169.24 8 226 6003811 20200220095556
+179.185.88.115 0 23 573578 
+197.210.46.208 2 22 854506 20200228092246
+177.79.31.67 1 1 9513 20200227164105
+191.0.172.195 2 30 1237193 20200224223906
+160.20.32.146 1 70 1676032 20200217143809
+200.166.193.78 2 74 1907677 20200217155630
+114.119.131.28 1 1 9505 20200220123227
+177.146.56.67 1 1 9512 20200219090406
+179.114.234.16 1 11 653914 20200206101637
+189.40.78.136 1 2 17699 20200217163210
+170.66.1.235 2 74 1907670 20200211121217
+189.5.102.91 2 12 660334 20200227113146
+177.43.78.199 5 82 1954547 20200220084543
+200.186.3.240 1 51 1232315 20200219153423
+177.79.33.151 0 26 643730 
+187.108.30.175 1 70 1676034 20200216121723
+187.7.221.159 3 7 34979 20200228095410
+193.30.121.226 1 1 80497 20200210020352
+187.55.164.57 2 5 241149 20200214163146
+187.7.239.135 12 229 5987425 20200227130152
+177.34.15.26 3 77 1953867 20200210152746
+177.0.88.128 3 16 1121907 20200222154959
+177.69.73.73 1 70 1676032 20200217094749
+187.85.171.173 7 83 1987966 20200226120302
+64.233.172.166 9 91 4074852 20200226184112
+189.27.69.52 2 74 1907670 20200221100111
+177.2.103.45 14 390 9855517 20200229093459
+114.119.149.148 1 1 9509 20200228123047
+177.79.33.195 1 1 9509 20200205124341
+187.7.225.50 2 71 1685540 20200224124540
+177.79.34.40 0 7 221498 
+177.42.106.139 1 70 1676024 20200205110833
+187.36.104.32 2 74 1907668 20200226130507
+187.85.107.132 1 70 1676033 20200221212432
+168.196.79.213 3 77 1953485 20200227140806
+64.225.13.53 1 1 36511 20200203080240
+177.79.78.99 0 6 314237 
+191.207.208.199 1 1 9514 20200206190426
+177.79.34.119 1 1 9513 20200203130449
+179.255.146.224 2 74 1907673 20200204104807
+177.69.72.130 1 69 1638990 20200205104021
+95.220.194.85 1 1 5301 20200210152435
+187.7.239.218 3 52 2205172 20200210190828
+177.5.79.74 7 84 2004792 20200222072146
+192.119.107.35 1 1 9506 20200217012515
+179.185.89.109 2 74 1907677 20200226150552
+189.110.160.64 3 141 3361581 20200220071857
+177.79.78.50 0 31 675664 
+191.33.248.114 2 74 1907671 20200207163111
+186.219.217.23 13 233 7545126 20200220133155
+191.128.171.253 2 74 1907672 20200218162638
+177.6.102.51 0 6 340335 
+200.181.118.98 10 301 7665234 20200212115937
+151.228.145.211 1 14 801204 20200220130940
+177.6.250.37 11 163 4125253 20200219074724
+45.188.182.133 2 74 1907675 20200205101831
+189.97.214.1 1 1 9512 20200219205409
+201.75.3.10 1 70 1676030 20200213145129
+66.249.88.22 0 3 103968 
+177.79.34.182 0 28 762837 
+177.79.56.178 1 3 9512 20200205145752
+189.59.105.110 6 78 1945714 20200207172614
+189.59.84.146 5 77 1927721 20200206110248
+131.161.135.7 1 14 744847 20200218224157
+45.183.237.242 5 77 2535992 20200218010922
+177.202.11.85 1 3 9512 20200228084658
+177.79.35.14 0 35 1114820 
+187.36.124.179 1 13 514640 20200204112107
+177.79.33.238 0 1 0 
+45.236.226.62 3 16 765667 20200224141032
+177.101.136.187 1 70 1676031 20200213100304
+189.16.87.98 5 108 3585492 20200218094202
+179.253.191.64 2 79 1948376 20200203092606
+177.0.106.117 2 76 2031379 20200225100358
+177.79.52.226 0 26 699179 
+179.177.12.98 2 11 257181 20200212175554
+170.233.225.57 5 77 1930428 20200220182630
+95.220.197.250 4 4 20358 20200205095716
+177.79.66.20 1 52 1101698 20200226130237
+189.26.165.203 2 74 1907672 20200225095406
+201.16.233.49 0 1 70561 
+177.124.71.77 4 91 2605695 20200226122113
+38.99.62.94 9 9 724471 20200227221243
+189.59.100.194 3 75 1917195 20200226154755
+179.190.44.68 2 74 1907673 20200210171715
+200.201.163.83 13 112 1385970 20200220161130
+177.79.31.86 0 9 149459 
+131.0.218.106 3 38 1357450 20200206154218
+179.147.243.13 1 20 1094480 20200212152227
+179.187.91.85 1 1 9513 20200211080406
+187.55.139.87 5 82 1962550 20200219164107
+177.4.171.38 2 30 1488404 20200201161855
+66.249.88.5 0 2 53882 
+179.183.64.73 3 84 2352366 20200229105301
+189.125.3.78 1 70 1676027 20200207103751
+191.249.112.37 2 74 1907673 20200221001619
+189.10.127.103 2 48 1472221 20200208232323
+177.79.33.78 2 13 212804 20200210063514
+189.26.163.201 2 74 1907669 20200205092657
+200.96.129.30 2 33 1253269 20200206154937
+177.79.34.34 1 3 9511 20200203141715
+191.184.197.60 5 77 1967905 20200226210114
+177.79.30.89 2 18 967885 20200205205126
+177.194.234.150 2 74 1907671 20200205121935
+170.80.32.2 13 315 8849764 20200217203225
+177.67.108.24 0 1 2782495 
+191.177.142.168 1 70 1676029 20200214172914
+177.205.104.22 3 76 1736783 20200228153156
+179.127.67.113 1 70 1676033 20200210112856
+34.82.228.187 3 3 153519 20200225143108
+187.4.94.253 2 74 1907672 20200207171548
+187.23.204.241 1 70 1676031 20200212105810
+177.1.197.242 3 13 661324 20200205181330
+177.79.32.26 2 45 1095813 20200211230739
+177.79.36.101 3 3 28530 20200228115022
+179.133.2.48 4 14 677302 20200206081803
+189.92.216.41 2 12 1586318 20200222144429
+168.194.162.227 1 70 1676030 20200226190337
+201.77.94.246 9 156 3966205 20200220093832
+66.249.88.11 0 5 32184 
+201.34.201.46 12 161 1767478 20200213133040
+189.27.68.150 2 74 1907675 20200214140127
+187.55.164.199 2 36 940266 20200206104443
+179.95.249.42 1 70 1676032 20200218151029
+179.252.86.82 1 70 1676028 20200203150633
+189.31.43.92 2 74 1907676 20200214120952
+179.83.18.75 5 14 171082 20200226140702
+201.25.85.180 3 59 1755155 20200217165731
+179.255.220.37 5 83 2247222 20200228153507
+66.249.80.33 1 10 492621 20200206090851
+179.214.177.23 2 74 1907670 20200219114737
+179.177.15.102 4 82 1954808 20200218162007
+177.10.98.26 1 70 1676030 20200227104423
+177.205.111.18 2 74 1737940 20200224160833
+168.232.206.11 1 70 1676033 20200213094137
+179.255.47.204 2 74 1907673 20200221081859
+189.72.240.174 7 82 2058558 20200210144327
+177.83.18.77 3 77 1953870 20200226075544
+177.79.29.179 1 15 303503 20200207020517
+179.242.9.106 6 18 1662153 20200204164819
+177.22.208.176 1 17 958159 20200204145007
+189.27.88.65 1 70 1676031 20200205110624
+189.103.64.43 3 75 1917181 20200203095330
+138.185.63.2 2 74 1907673 20200215194039
+179.214.192.215 2 74 1907674 20200212170102
+177.79.33.184 1 4 9511 20200205084239
+179.176.172.159 1 14 779222 20200204092729
+45.182.17.14 4 76 2042927 20200202121737
+34.220.58.172 1 1 9501 20200213064759
+189.31.43.204 3 83 1989385 20200214171258
+189.59.113.150 3 78 2037101 20200213093936
+187.119.227.245 1 14 754238 20200218101340
+189.72.196.164 1 1 9509 20200201091930
+138.204.150.44 0 1 70561 
+200.17.208.248 1 70 1676035 20200210170517
+198.108.66.240 1 1 9505 20200210160226
+200.232.55.186 3 69 1653948 20200212120233
+177.79.35.193 2 76 2021930 20200203101112
+177.73.105.20 3 75 1917191 20200218102933
+187.17.163.162 9 219 5307294 20200224140425
+179.254.206.80 5 54 1642223 20200205214103
+179.255.240.92 2 38 2190527 20200211173320
+45.190.160.10 9 178 5184559 20200218140808
+187.4.64.82 2 81 2318809 20200212083849
+177.79.31.210 2 2 19038 20200220194054
+189.59.83.189 1 70 1676033 20200220103849
+177.194.255.79 1 14 318460 20200213104026
+114.119.156.77 1 1 9510 20200215062438
+179.214.200.188 1 70 1676035 20200214153118
+191.37.229.43 1 68 1552061 20200221123119
+201.21.241.4 1 70 1676029 20200217144556
+177.79.36.13 0 29 806950 
+177.79.32.75 0 6 292610 
+200.163.116.204 4 148 3815342 20200223233308
+187.55.141.220 2 71 1685541 20200219143001
+177.4.178.138 2 74 1907671 20200228172456
+179.254.115.91 2 74 1907674 20200220062135
+64.233.172.161 6 78 3124432 20200218203848
+138.204.26.182 1 70 1676037 20200201090325
+81.133.241.97 1 1 80968 20200209061133
+189.27.93.214 1 70 1676028 20200226134357
+201.14.73.199 2 77 2060498 20200220094557
+177.79.31.218 0 1 0 
+187.24.129.87 2 74 1907671 20200210114806
+187.112.43.96 2 74 1907672 20200212142156
+177.83.13.17 7 91 2492188 20200207170913
+45.6.110.228 2 73 1896180 20200212221155
+200.181.32.52 2 74 1907668 20200203081603
+152.254.220.77 1 70 1676029 20200229154244
+186.219.222.121 1 70 1676035 20200210180248
+45.170.26.243 2 74 1907669 20200212094117
+177.154.250.165 1 70 1676026 20200207151138
+189.112.248.130 1 70 1676034 20200207152045
+189.59.97.42 2 72 1729961 20200228103214
+189.40.76.33 2 12 658234 20200211171810
+191.184.219.141 1 11 654037 20200219084823
+177.17.146.93 2 74 1909770 20200226171951
+189.11.219.87 1 70 1676027 20200224211119
+177.79.78.253 0 20 530980 
+201.66.25.238 1 70 1676033 20200214102755
+177.79.34.220 3 60 1637247 20200203082800
+201.91.136.74 1 4 9509 20200204135909
+168.194.81.152 1 70 1676033 20200214211939
+177.6.80.163 2 74 1907671 20200206101338
+187.125.3.78 1 20 1094479 20200228051959
+201.44.24.178 0 2 222200 
+45.190.161.24 1 70 1676028 20200203095125
+179.255.139.141 1 28 1614072 20200227225144
+187.25.49.55 2 2 11214 20200220140531
+189.103.82.9 14 164 4127091 20200214111728
+177.1.201.237 2 74 1907674 20200226134435
+131.0.218.109 2 14 799982 20200211150832
+177.116.73.130 2 74 1907669 20200205101229
+200.163.85.236 2 22 1312576 20200217183824
+195.138.84.186 1 70 1676031 20200229075803
+189.59.86.210 6 86 2299155 20200226095540
+177.79.31.6 3 9 298188 20200203113952
+131.0.218.49 1 20 1094482 20200218204032
+191.5.125.140 1 41 1111832 20200213151547
+187.53.142.124 2 13 19022 20200220144442
+200.241.176.181 5 88 2402159 20200217150713
+177.155.220.237 1 70 1676032 20200218102932
+177.11.162.18 1 70 1676035 20200213135951
+177.79.35.78 0 9 317733 
+177.5.248.19 2 12 660390 20200216231029
+179.253.191.236 1 70 1676030 20200213141112
+177.83.110.141 1 70 1676031 20200213150509
+187.73.214.56 3 81 1964344 20200214155226
+189.103.69.32 4 76 1926699 20200218085046
+45.237.252.128 1 70 1676034 20200213150325
+189.40.86.115 1 12 715490 20200215150048
+45.190.163.10 12 185 6024723 20200217151100
+200.140.90.5 3 55 1725813 20200220073525
+45.179.207.98 2 74 1907672 20200217150138
+186.193.1.179 1 12 748508 20200219233010
+200.205.18.106 1 70 1676034 20200227102339
+191.11.175.52 2 14 799988 20200218094427
+187.113.133.6 1 1 9517 20200206195327
+177.0.90.241 3 80 1958103 20200227092602
+187.45.155.249 0 1 70561 
+213.159.213.236 1 1 9506 20200212041746
+179.168.214.115 2 74 1907675 20200201145954
+201.87.15.179 2 74 1907673 20200228134735
+187.4.64.157 2 78 1926186 20200214115223
+177.79.35.136 1 1 9505 20200207151227
+201.48.198.188 1 5 173390 20200205080739
+66.249.85.36 0 1 53145 
+187.95.114.226 1 70 1676033 20200213153415
+177.40.71.126 2 74 1907670 20200204162856
+187.6.124.82 2 74 1907672 20200204082313
+66.102.7.102 0 7 388640 
+177.103.177.135 1 70 1676034 20200220113042
+45.231.212.146 2 76 1712056 20200210153706
+191.33.240.189 12 88 2140245 20200205162611
+177.6.250.7 6 225 5930703 20200226141842
+189.27.120.69 1 8 485453 20200210105652
+191.251.40.32 1 1 9509 20200219083028
+177.79.32.122 0 4 172921 
+187.23.202.162 1 70 1676035 20200203101115
+177.202.176.63 2 16 660083 20200205110245
+189.115.98.2 1 1 9509 20200220145030
+187.6.232.84 2 12 658744 20200215114249
+177.79.78.104 1 16 962097 20200206161503
+179.254.137.46 3 75 1917183 20200216213408
+177.79.29.66 1 23 817282 20200217085127
+179.214.190.186 2 74 1907674 20200218134730
+164.163.239.163 1 55 1417987 20200226102700
+187.50.107.2 1 70 1676033 20200224181648
+177.83.25.76 2 74 1907672 20200219083744
+189.4.73.10 1 11 655062 20200214171929
+213.152.162.154 0 1 70561 
+187.23.204.61 2 2 8444 20200212094958
+177.5.251.226 2 2 19020 20200221163912
+170.233.46.244 0 1 47012 
+191.217.117.90 2 74 1907677 20200203172335
+201.10.155.103 3 7 28535 20200213183721
+177.79.29.226 1 1 9512 20200206091227
+74.82.60.178 5 31 1567071 20200205125145
+187.58.246.177 1 1 9509 20200223171827
+187.66.130.245 2 2 19022 20200213212421
+187.8.213.218 16 290 10151983 20200226193305
+177.17.151.120 2 74 1907678 20200210155649
+201.80.169.57 1 70 1676031 20200206151759
+179.177.10.14 2 74 1907672 20200221083748
+189.73.199.206 5 138 2951601 20200210145638
+189.115.98.186 2 74 1907672 20200226194431
+201.3.15.239 2 27 1224622 20200206161459
+201.25.84.112 1 1 9511 20200226071857
+187.23.218.103 1 70 1676029 20200212144648
+187.23.223.2 4 7 260170 20200228091643
+191.223.156.60 1 38 1095802 20200201165358
+179.173.51.250 1 4 427714 20200206131757
+177.79.35.144 2 50 1300568 20200219175046
+200.96.131.44 5 77 1944717 20200205161109
+177.6.80.110 5 158 3408732 20200221095626
+187.6.254.122 2 140 3352068 20200220172343
+191.184.202.59 1 70 1676036 20200203161856
+177.79.36.45 1 3 167758 20200208141256
+177.131.178.143 1 70 1676028 20200217141236
+170.80.33.250 3 76 1967149 20200228224618
+50.16.241.114 8 151 6369452 20200203023456
+189.31.44.168 9 51 1134600 20200221101210
+66.249.85.33 0 2 222200 
+170.245.71.4 1 70 1676031 20200210112355
+187.24.132.35 1 1 4208 20200221185114
+177.79.35.91 2 57 1537115 20200218195846
+187.113.53.198 1 11 655063 20200207064948
+78.47.9.29 1 48 1355282 20200207225327
+191.223.132.153 1 4 9516 20200220082035
+187.44.112.10 1 70 1676031 20200220094040
+201.25.84.222 2 74 1907675 20200227110239
+189.59.103.68 2 6 30508 20200203143050
+200.175.233.248 3 77 1953868 20200221094350
+177.0.91.48 3 12 170175 20200205185844
+189.87.115.27 12 97 4489397 20200220110329
+3.135.201.45 2 2 19020 20200209135849
+187.23.209.173 14 222 8368601 20200228192823
+170.84.163.129 1 70 1676031 20200224154744
+189.103.92.31 3 75 1911424 20200204181721
+187.4.64.27 8 223 6404442 20200228103526
+187.55.189.110 10 236 6019542 20200214131052
+177.79.33.175 1 8 407351 20200220095406
+187.72.139.177 1 70 1676031 20200210163232
+191.33.251.11 2 79 1931449 20200217091700
+45.171.146.187 6 80 1962088 20200204134302
+170.66.1.236 3 75 1917179 20200207162916
+189.59.61.80 5 149 3819192 20200224113224
+191.184.203.89 1 70 1676033 20200205155336
+187.90.175.138 1 1 9509 20200205084318
+177.79.78.97 1 16 270959 20200221080423
+179.183.64.25 1 10 42192 20200206093907
+177.79.35.187 0 4 225404 
+35.203.155.199 8 8 559334 20200226203101
+179.95.235.234 2 74 1907675 20200214091954
+187.180.183.16 1 70 1676030 20200214115222
+191.34.98.247 1 1 9506 20200221093702
+177.68.166.46 1 21 1009641 20200211225341
+189.103.87.145 2 74 1907672 20200206224556
+52.11.90.131 1 1 9503 20200211072403
+189.59.81.33 1 70 1676034 20200212142533
+189.86.242.83 1 70 1676034 20200212163155
+201.81.195.87 2 12 660390 20200204222638
+177.103.228.41 1 70 1676036 20200212131502
+189.114.162.35 2 79 1948592 20200218103754
+168.227.12.101 4 81 2160591 20200226132820
+143.137.251.128 2 74 1907671 20200213134443
+66.102.8.196 14 398 13519571 20200228160203
+45.236.227.141 1 11 655062 20200220101056
+191.5.217.237 0 1 19104 
+177.79.30.123 1 16 1008371 20200203121244
+177.6.81.169 4 76 1926686 20200221143538
+191.223.77.121 1 1 9507 20200205203305
+177.157.81.216 1 70 1676031 20200206132921
+201.14.114.16 0 1 70561 
+177.79.34.138 1 10 604613 20200212105807
+177.79.30.242 2 37 1007352 20200228114101
+177.12.46.222 2 74 1907672 20200221111922
+45.182.211.201 0 1 299663 
+138.255.73.101 2 30 1364757 20200218083511
+139.180.167.221 1 1 38500 20200204020639
+187.5.55.170 2 74 1907673 20200216155641
+177.85.177.160 1 70 1676029 20200220170821
+170.0.42.253 1 70 1676029 20200219232533
+177.4.187.69 1 70 1676031 20200226124117
+177.79.31.142 2 69 1608952 20200229154641
+200.129.205.205 4 88 2473827 20200204094719
+191.129.124.99 2 65 1806269 20200206010342
+177.87.58.8 2 74 1907675 20200220194938
+177.79.78.139 1 1 9510 20200228133105
+179.187.86.40 2 74 1907667 20200213095517
+191.249.114.220 2 74 1907675 20200210174113
+177.2.84.92 3 76 1972840 20200220162053
+189.40.72.192 2 29 1233383 20200215144046
+177.79.30.165 1 1 9516 20200228131244
+177.79.32.124 1 12 772209 20200228093708
+186.231.36.98 1 70 1676032 20200206172259
+179.177.12.84 1 1 9513 20200210151344
+200.96.241.105 4 97 3119714 20200212173158
+177.35.124.99 5 78 1955182 20200203175953
+187.115.35.106 1 70 1676031 20200210190302
+191.207.211.48 2 51 1613693 20200229070526
+179.104.42.245 1 70 1676030 20200213155416
+189.4.82.49 2 80 1948508 20200224125527
+177.79.29.133 1 22 897485 20200211175728
+189.78.23.113 3 75 1917181 20200220031155
+186.226.223.236 0 1 299663 
+66.249.88.42 8 135 5548617 20200227085329
+179.252.86.38 6 102 3251803 20200227112137
+189.114.255.56 1 11 642782 20200220075651
+179.255.221.197 1 11 653586 20200223075317
+177.202.0.100 2 80 1936102 20200219095108
+177.79.31.138 2 59 1567066 20200227172008
+5.146.199.217 1 70 1676033 20200221024211
+170.84.41.252 5 82 2828025 20200206113807
+200.140.151.192 2 74 1907670 20200225231634
+179.185.89.232 1 70 1676034 20200226170016
+177.17.144.130 1 70 1676031 20200214093342
+187.55.141.175 2 71 1685537 20200210153425
+187.25.33.40 2 15 760947 20200218201952
+191.129.100.253 6 84 2674032 20200226095959
+201.56.114.20 1 70 1676036 20200223143324
+189.59.106.35 1 1 9513 20200225113252
+177.46.208.198 0 25 555018 
+189.27.84.93 1 70 1676028 20200204155941
+63.35.212.119 1 2 95029 20200224022529
+177.79.71.142 1 26 824305 20200226130233
+197.210.46.220 0 19 439230 
+177.79.33.155 0 5 234172 
+45.190.161.22 3 75 1911418 20200225113230
+45.6.120.22 2 11 541099 20200220203616
+177.129.24.190 0 1 44272 
+179.214.160.12 2 74 1907671 20200228112836
+179.147.225.181 2 34 1257923 20200224204514
+132.255.240.153 3 6 28539 20200213161618
+45.174.156.242 2 74 1907673 20200229100506
+179.95.235.66 3 77 2012141 20200219133647
+131.255.92.186 1 70 1676035 20200220120915
+200.143.103.162 3 84 2352354 20200203093345
+177.79.31.93 1 11 655060 20200209184041
+66.249.80.36 0 5 263981 
+179.177.13.198 4 79 2065429 20200211143757
+177.79.30.136 2 48 1299450 20200206181828
+187.29.160.182 2 12 663559 20200213140732
+132.255.240.155 5 86 2521062 20200206162441
+187.84.3.30 2 71 1685537 20200204214550
+200.201.175.23 5 77 1919196 20200213173251
+187.4.151.2 3 32 1642214 20200225013138
+66.249.88.17 0 1 8184 
+177.6.81.187 14 306 6087755 20200228213332
+143.137.251.6 1 70 1676030 20200217142034
+201.42.213.251 1 70 1676036 20200227131648
+170.66.1.231 4 78 2053611 20200221101635
+177.157.44.1 1 65 1491484 20200212155013
+177.59.29.134 2 19 844039 20200202120729
+189.103.70.246 4 76 1926685 20200203172140
+177.25.149.139 1 8 482069 20200208192919
+66.102.6.4 1 17 1032101 20200204122209
+179.214.170.82 4 76 1963197 20200226161309
+189.59.111.60 3 75 1917185 20200211085206
+189.72.241.170 1 10 9517 20200221102428
+177.5.250.212 2 74 1907672 20200211072304
+186.251.165.22 1 70 1676033 20200212210715
+179.255.52.40 2 45 1318090 20200217200534
+201.27.133.93 2 44 1311250 20200228234838
+179.254.136.42 4 4 38036 20200219172847
+187.54.235.149 2 74 1907670 20200226122004
+201.34.248.223 2 74 1632983 20200214200202
+179.183.210.231 2 74 1907674 20200203092906
+64.233.172.38 2 7 305825 20200213082517
+177.79.35.246 0 8 322266 
+189.31.185.219 1 70 1676029 20200211113849
+45.171.146.251 0 1 70561 
+200.229.91.235 1 70 1676032 20200210094715
+177.58.234.114 2 27 1224627 20200228112315
+177.79.31.189 0 17 370557 
+177.60.92.77 1 3 178459 20200209194322
+187.6.86.203 3 145 3620082 20200221105252
+177.79.36.95 1 8 441333 20200206095554
+187.23.223.105 1 70 1676032 20200228165552
+191.223.177.96 2 6 320006 20200207170602
+179.254.24.238 2 80 1939000 20200228095645
+177.79.29.46 0 3 120896 
+177.79.35.27 2 21 762482 20200227192752
+186.219.216.150 4 151 3625147 20200212172359
+177.17.149.124 2 74 1907672 20200227082801
+177.79.78.53 1 32 1472393 20200216190836
+200.129.215.100 2 74 1907674 20200204171855
+189.40.77.138 1 13 91286 20200218083205
+177.74.132.111 1 70 1676030 20200214205812
+177.79.78.188 0 22 590510 
+200.255.122.231 1 70 1676031 20200204161701
+179.96.30.246 1 70 1676035 20200210130630
+177.23.113.183 1 70 1676034 20200204170002
+191.184.196.146 1 21 1269419 20200203090700
+170.245.69.26 1 70 1676034 20200219082001
+179.180.53.214 2 79 1933666 20200217163800
+45.190.161.30 9 103 3331329 20200227095749
+189.27.93.242 6 16 663488 20200227142203
+45.225.6.154 5 82 1952545 20200214100925
+189.62.47.8 1 27 1037746 20200209112602
+177.79.33.172 0 6 69800 
+200.115.126.14 1 70 1676033 20200222183445
+177.79.36.83 3 13 421969 20200220082240
+189.27.73.168 2 2 19016 20200213162040
+179.185.88.106 5 153 3857577 20200226133726
+200.96.131.32 2 74 1907678 20200217131841
+177.25.194.130 1 12 281038 20200205091325
+177.79.78.33 0 4 369610 
+187.55.141.28 2 75 1956690 20200204083908
+177.97.36.22 1 50 1377067 20200217164409
+177.144.214.190 1 11 653920 20200210100733
+170.80.32.225 5 149 3824864 20200218072952
+187.4.64.130 5 154 4131132 20200213085853
+187.23.222.14 1 61 1507142 20200218164749
+177.79.29.232 2 27 1204784 20200227152518
+177.132.144.179 1 70 1676029 20200204104045
+191.184.214.104 2 74 1907666 20200205094416
+34.213.185.195 1 1 9505 20200223062504
+189.114.172.80 2 78 1940415 20200226140036
+177.15.130.114 2 37 905677 20200211174229
+191.186.85.58 1 59 1450659 20200208175220
+45.163.95.80 10 367 9234052 20200228142921
+168.194.161.97 1 70 1676031 20200202103208
+179.95.240.208 1 9 532050 20200207153348
+177.79.31.243 0 3 142781 
+191.8.167.51 0 1 70561 
+213.138.229.81 0 1 34214 
+191.32.62.146 2 74 1907671 20200220084527
+179.133.178.150 3 8 56089 20200226161039
+200.185.115.52 3 75 1917173 20200203114024
+189.27.67.202 2 79 1934590 20200228144833
+45.6.123.207 3 71 1886373 20200206050131
+191.184.200.29 1 70 1676033 20200211152838
+187.53.142.13 2 75 2028877 20200215012022
+189.16.7.180 1 1 9511 20200228125851
+92.63.111.27 1 1 9504 20200214041459
+189.103.83.203 3 75 1917185 20200212185805
+179.185.91.237 1 70 1676033 20200221081617
+177.163.67.231 2 51 1613694 20200227074038
+177.79.30.162 2 39 792853 20200210164409
+189.11.245.116 5 94 2925230 20200220173859
+189.40.78.241 2 22 1312578 20200205082210
+35.247.11.16 7 7 387535 20200223012424
+189.123.219.102 1 70 1676036 20200220120944
+174.138.60.180 1 1 80496 20200203065623
+200.163.115.230 2 74 1907674 20200220143828
+200.181.1.187 2 12 534203 20200229143952
+132.255.240.152 1 70 1676033 20200218155701
+170.83.91.5 2 80 1953077 20200214082743
+187.54.115.167 2 74 1907669 20200206175935
+191.189.0.240 1 70 1676037 20200213143944
+177.79.36.48 2 42 1072691 20200204151827
+187.113.50.33 2 22 622317 20200211174959
+201.87.26.24 1 70 1676033 20200228160051
+45.225.138.45 2 74 1907674 20200227141237
+191.223.133.165 3 3 28533 20200207105555
+177.43.240.189 0 10 221052 
+177.202.13.232 2 75 1954271 20200217111256
+177.116.127.156 1 7 287091 20200211163315
+179.214.135.127 2 31 1693155 20200217191201
+177.79.30.245 0 7 329220 
+187.55.140.161 2 74 1907675 20200211103454
+138.94.181.47 2 74 1907675 20200205083609
+177.73.104.43 2 74 1907672 20200213104103
+179.254.206.173 2 74 1907671 20200205154231
+177.5.79.128 3 6 28537 20200206151640
+45.172.99.34 0 1 70561 
+179.214.177.159 2 2 19024 20200211142345
+191.36.172.18 1 70 1676036 20200201190759
+201.7.22.51 2 74 1907670 20200207103538
+177.202.5.14 2 75 1956508 20200226093426
+64.233.172.164 12 88 4411008 20200228011522
+177.212.42.225 1 5 266170 20200212092654
+177.79.29.109 2 5 19021 20200204151159
+179.101.254.32 1 4 150693 20200214114238
+35.233.215.107 4 4 146044 20200216002230
+177.6.81.135 1 70 1676037 20200214144211
+189.59.56.94 1 11 655062 20200222055908
+186.215.67.58 1 70 1676033 20200203092643
+179.148.68.198 1 6 321304 20200203164119
+179.95.250.88 2 74 1907670 20200221104059
+179.255.221.159 2 2 19020 20200228112042
+177.6.80.177 2 80 1954825 20200228151213
+189.103.80.34 6 79 1936579 20200207220856
+45.190.161.23 10 143 4412825 20200214145411
+200.198.204.86 1 38 1005746 20200211174142
+177.4.177.48 2 75 1957033 20200217131004
+177.6.250.34 4 27 574183 20200228144355
+64.233.172.36 1 8 490172 20200213082518
+177.10.216.35 0 1 74526 
+179.162.61.115 2 13 525095 20200212113514
+187.59.152.18 1 70 1676035 20200218090018
+187.181.194.12 1 70 1676031 20200224181541
+45.190.161.25 2 83 2124309 20200214092851
+177.79.35.248 1 5 361429 20200207102420
+177.17.149.202 1 20 1094482 20200210201125
+187.1.190.50 1 70 1676033 20200213171609
+200.181.1.220 2 74 1907673 20200204105538
+200.96.131.24 2 74 1907667 20200211112134
+131.0.218.113 1 8 523549 20200203151648
+177.79.34.143 0 8 427107 
+179.254.137.59 2 74 1907673 20200207134215
+189.115.96.81 3 73 1851487 20200227151309
+177.79.29.94 0 15 776003 
+177.6.120.109 3 77 2116555 20200223101923
+201.77.94.250 3 3 28533 20200226130925
+201.56.135.52 3 6 28542 20200203094709
+177.79.33.197 2 21 765499 20200220205358
+179.11.209.80 2 13 725420 20200212173447
+189.48.119.190 1 21 1394142 20200207163802
+177.147.201.139 2 74 1907676 20200221224135
+189.103.66.16 3 79 2209893 20200209172432
+45.186.222.33 2 71 1685543 20200213162846
+177.79.35.134 2 16 866917 20200203121051
+179.95.243.245 2 80 1996012 20200217161727
+66.249.88.38 9 164 6781325 20200226125003
+177.190.192.146 1 70 1676034 20200217194742
+186.215.58.124 0 10 168256 
+179.179.70.198 1 70 1676030 20200206095452
+35.185.242.234 5 5 314511 20200228023734
+191.34.99.184 1 9 423236 20200216202831
+191.34.110.5 7 86 2320399 20200213162345
+187.24.129.119 2 12 667294 20200213134903
+179.162.60.196 1 14 279841 20200221093246
+177.79.31.240 1 7 41115 20200205190130
+34.83.105.203 1 1 80497 20200226203309
+187.113.55.8 2 20 1099617 20200219181525
+179.124.9.213 2 74 1907674 20200205144600
+200.163.116.70 3 6 250664 20200220173039
+177.4.177.155 1 1 9509 20200229065115
+177.6.81.211 10 240 6235995 20200227102029
+186.226.244.9 1 70 1676031 20200210095721
+189.56.23.18 1 58 1442538 20200224204912
+191.33.206.29 2 6 19019 20200226141217
+191.33.207.102 4 76 1922449 20200201154518
+189.27.80.114 2 74 1907673 20200217161806
+201.6.117.171 3 141 3361576 20200210154925
+187.55.141.63 3 78 1990280 20200221175911
+187.4.110.155 1 70 1676033 20200220071406
+191.34.98.79 1 14 772905 20200220151702
+177.79.51.150 1 14 805106 20200203152745
+200.140.90.160 2 74 1907673 20200228174636
+201.25.83.150 2 74 1907666 20200213082852
+138.255.114.25 1 11 654488 20200207193910
+187.7.221.227 6 85 2446699 20200212095201
+45.162.37.23 2 75 1756529 20200203150053
+45.190.161.33 14 255 4780270 20200221125853
+177.212.44.222 2 22 1193298 20200227165647
+187.36.107.220 2 74 1907671 20200212062225
+131.100.152.22 2 74 1907675 20200219092744
+177.79.52.39 1 48 1165057 20200215202139
+187.5.68.123 0 1 93751 
+200.181.1.242 3 75 1917185 20200204212545
+200.96.139.243 1 1 9511 20200206142812
+197.211.61.187 1 1 9514 20200226080551
+177.79.32.66 1 2 15172 20200203101140
+191.251.118.101 1 14 805333 20200204130923
+201.7.222.18 2 74 1907669 20200205133957
+177.79.33.21 0 5 216458 
+186.236.136.51 2 74 1907670 20200206143029
+189.10.127.128 3 56 1545838 20200211035406
+168.181.48.97 1 70 1676033 20200212102338
+189.40.65.66 3 54 1580455 20200219144032
+132.255.240.185 3 31 1246716 20200226222914
+34.195.119.5 1 1 48737 20200202113506
+66.102.7.97 1 10 470831 20200226201329
+177.35.122.176 3 75 1911920 20200210102911
+177.40.112.75 1 62 1471575 20200206192544
+45.190.161.26 16 596 15323498 20200218100834
+187.7.221.47 2 75 1944709 20200211150002
+143.0.37.70 1 15 890453 20200210150132
+191.24.29.213 0 1 48456 
+187.55.165.149 4 77 1980596 20200204110523
+189.72.143.110 2 74 1907675 20200212173942
+189.26.77.70 10 156 3908689 20200221135324
+64.233.172.33 1 9 524797 20200213082516
+152.244.68.60 2 12 667308 20200206132922
+132.255.240.183 3 21 1138400 20200210130152
+45.170.19.96 2 74 1907672 20200203141845
+200.181.123.178 1 70 1676032 20200206141823
+177.79.29.4 2 61 1682044 20200221080412
+160.20.35.56 1 70 1676033 20200228092404
+179.184.11.86 2 74 1907673 20200219100109
+191.223.177.240 2 74 1907668 20200205125707
+189.27.83.16 1 70 1676032 20200211104617
+177.79.34.124 1 51 1090395 20200217085132
+50.16.241.113 8 166 7825151 20200208023051
+189.27.64.105 0 14 451252 
+189.40.78.45 1 8 523548 20200228092752
+177.215.6.194 1 2 9512 20200227110729
+131.161.33.225 0 1 44272 
+168.205.149.220 2 77 1932224 20200205125903
+187.7.221.117 2 74 1913071 20200228173038
+132.255.240.188 4 87 2680009 20200204153146
+177.5.79.2 3 53 1670219 20200223143810
+189.115.111.46 1 14 746068 20200218051131
+189.126.55.122 1 70 1676037 20200212134034
+187.54.65.80 12 164 4244400 20200212120507
+187.36.118.94 6 147 3569608 20200210101750
+177.74.128.187 1 70 1676037 20200205111506
+200.96.241.209 2 74 1907669 20200205085351
+179.236.60.251 1 70 1676033 20200205111234
+177.79.57.59 2 48 1208492 20200221103054
+191.249.177.52 3 75 1917171 20200215193907
+187.113.15.25 2 74 1907673 20200203142749
+187.55.166.117 1 1 9512 20200214151750
+177.128.122.105 1 70 1676029 20200219084010
+187.113.15.71 1 70 1676025 20200221155024
+177.3.204.28 1 1 9514 20200214091228
+179.214.195.194 1 1 4250 20200213085200
+186.248.104.114 0 1 84363 
+66.249.88.20 0 1 38852 
+143.202.233.4 5 15 1532877 20200214130108
+45.190.161.28 10 121 5652371 20200224164704
+189.45.159.131 1 70 1676031 20200218075707
+200.219.135.4 5 77 2991947 20200220134418
+177.1.86.129 8 229 5941402 20200228145440
+179.189.86.42 3 75 1917184 20200212124103
+191.251.100.229 1 1 9512 20200224082403
+177.156.195.121 2 76 1924041 20200219101034
+187.113.8.112 2 74 1907671 20200205165443
+189.40.76.14 1 1 9511 20200204181739
+191.33.201.174 1 26 612944 20200204165912
+201.25.84.210 2 75 1944717 20200203174605
+200.130.5.3 2 74 1907671 20200204101857
+177.69.168.91 2 74 1907672 20200221124924
+177.79.78.152 1 2 125447 20200217112557
+189.109.216.82 2 102 2740512 20200228153428
+191.33.240.55 4 80 2167811 20200211100853
+34.82.192.151 7 7 299563 20200229084821
+187.53.150.206 1 70 1676027 20200204103438
+45.161.48.150 2 74 1907671 20200204211738
+200.175.232.130 1 70 1676030 20200221172923
+45.6.110.160 1 9 9509 20200203090903
+179.254.135.234 1 11 655063 20200216203608
+187.53.46.211 5 149 3824856 20200206092202
+170.246.228.45 1 1 9510 20200217144830
+177.203.9.135 1 5 9512 20200203114711
+189.27.64.174 3 53 3154186 20200208114008
+179.214.165.195 1 70 1676035 20200203212343
+45.190.161.20 10 300 7659366 20200226215849
+177.79.31.194 0 3 246687 
+148.78.3.73 3 20 1087469 20200229113040
+177.79.78.32 1 45 1143055 20200227084518
+189.9.1.22 1 70 1676033 20200222122013
+200.175.238.85 1 70 1676035 20200217173624
+187.112.214.65 1 70 1676034 20200214142001
+177.202.176.172 7 12 97367 20200215084419
+177.97.35.238 2 74 1907678 20200227060459
+66.102.6.6 2 28 1841126 20200209061509
+177.83.14.14 2 74 1907673 20200218145757
+187.55.166.114 2 74 1677463 20200219111141
+191.5.61.184 4 78 1977984 20200203150630
+177.53.190.226 1 70 1676032 20200220103149
+177.205.121.201 1 70 1676035 20200220140932
+179.214.146.99 1 70 1676036 20200214152024
+189.40.79.229 2 12 120429 20200218175946
+187.113.53.179 1 70 1676028 20200225141254
+201.69.57.10 0 1 70561 
+189.11.226.38 1 2 9514 20200227133227
+187.65.163.46 1 70 1676029 20200210114735
+167.250.216.80 3 141 3361571 20200219091955
+177.79.32.125 0 1 11488 
+187.23.209.86 1 11 655059 20200209092913
+179.255.146.135 1 4 9513 20200228141002
+45.234.68.73 10 80 2044821 20200228133618
+200.96.130.25 3 29 1468448 20200209161700
+187.25.61.125 5 79 3028604 20200204162643
+177.97.36.76 2 55 961185 20200207170404
+177.79.30.46 0 20 716734 
+177.79.31.148 1 1 9510 20200229110942
+187.23.204.191 1 70 1676029 20200206163828
+177.79.35.212 1 52 1260168 20200204232713
+191.24.23.4 5 64 2026095 20200225112816
+177.5.251.17 1 1 9515 20200206101815
+189.27.70.161 4 75 1834496 20200220114529
+177.135.69.11 1 70 1676030 20200214103902
+177.92.10.106 2 74 1907674 20200217130059
+187.90.170.228 2 28 1574562 20200205232406
+177.79.32.78 0 8 359460 
+177.79.52.84 3 42 1136098 20200207170658
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 29
+20200201 39 856 24705157 22
+20200202 27 537 18099177 17
+20200203 314 6102 163807554 123
+20200204 235 5253 149319636 106
+20200205 256 5066 133499372 104
+20200206 242 5111 142256626 99
+20200207 199 3885 103982415 81
+20200208 40 757 26515056 22
+20200209 30 558 17485616 20
+20200210 227 5052 143975600 100
+20200211 206 3720 108340957 91
+20200212 206 5098 135078295 89
+20200213 208 4596 119247844 89
+20200214 196 4604 121516538 85
+20200215 51 904 26420387 28
+20200216 31 707 21394967 21
+20200217 245 5349 149140380 95
+20200218 247 4835 134679100 104
+20200219 238 4913 129579552 96
+20200220 269 5231 141479448 117
+20200221 278 5971 153780906 109
+20200222 63 1523 43321160 33
+20200223 35 753 22533100 22
+20200224 74 2151 59384269 51
+20200225 612 1729 91640658 25
+20200226 248 4578 126508344 110
+20200227 245 4972 131127924 90
+20200228 254 4595 123522007 88
+20200229 61 1117 28342145 27
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 7
+5mn-15mn 88
+15mn-30mn 55
+2mn-5mn 76
+30s-2mn 140
+0s-30s 1565
+30mn-1h 73
+1h+ 67
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 177
+/ 2864 30824360 1720 1037
+/libs/bootstrap/dist/fonts/glyphicons-halflings-regular.woff2 961 17000404 18 527
+/pagina/telefones-uteis 114 484116 44 70
+/noticias 85 526932 20 24
+/contato 75 288285 10 29
+/pesquisar 69 328677 0 28
+/secretaria/secretaria-de-educacao-cultura-esporte-e-lazer 68 2934715 21 24
+/pagina/palavras-do-prefeito 66 25427232 10 21
+/pagina/endereco-das-unidades-de-saude 49 231813 33 37
+/secretaria/secretaria-de-saude 41 218238 20 21
+/pagina/sobre-a-secretaria-educacao 41 250536 25 24
+/pagina/sobre-a-secretaria-smas 36 306366 12 13
+/secretaria/secretaria-de-administracao-financas-e-planejamento 35 165565 7 10
+/secretaria/secretaria-de-infraestrutura-e-servicos-publicos 32 163029 4 13
+/pagina/conheca-a-prefeitura 31 164277 5 11
+/pagina/historia-do-municipio 30 158092 19 19
+/noticia/prefeito-e-autoridades-entregam-86-novas-unidades-habitacionais-no-cristo-redentor-2 26 145765 3 13
+/noticia/resultado-oficial-do-processo-seletivo-simplificado-para-contratacao-de-professores 25 4131687 5 8
+/pagina/equipe-de-governo 23 102984 9 12
+/secretaria/secretaria-de-agronegocio-meio-ambiente-e-empreendedorismo 22 107390 5 11
+/pagina/sobre-a-secretaria-saude 18 104754 5 6
+/pagina/conheca-a-cidade 17 79836 12 13
+/noticia/camapua-esta-no-mapa-estrategico-do-sebrae-para-desenvolvimento-do-turismo-na-regiao-norte 16 3031333 3 7
+/secretaria/secretaria-de-assistencia-social 15 78374 1 6
+/noticia/populacao-define-novos-membros-do-conselho-tutelar-de-camapua 15 125689 8 6
+/noticia/prefeitura-esta-disponibilizando-consultas-oftalmologicas-gratuitas 3 13705 0 0
+/noticia/mais-de-45-ton-de-lixo-e-entulho-foram-recolhidas-com-o-inicio-do-programa-de-limpeza-urbana 3 1952557 0 0
+/noticia/camapua-nao-tem-caso-de-dengue-notificado-em-2018 3 14655 0 0
+/noticia/profissionais-de-camapua-participam-de-seminario-internacional-sobre-acolhimento-familiar-em-campinas-sp 4 23866 1 0
+/noticia/escola-ernesto-solon-borges-recebe-reforma-na-parte-estrutural 3 14562 0 0
+/noticia/secretaria-de-infraestrutura-realiza-limpeza-na-praca-do-bairro-pedro-luiz-amorim 3 695589 0 0
+/noticia/prefeitura-recolhe-pneus-usados-em-borracharias 4 18135 0 0
+/noticia/horario-de-expediente-nesta-quarta-feira-27 3 12697 0 0
+/noticia/primeiro-encontro-nacional-de-violeiros-em-ms-foi-um-sucesso 3 15758 0 0
+/noticia/salario-dos-servidores-municipais-esta-na-conta 3 13256 0 0
+/noticia/uems-abre-vagas-para-portadores-de-diploma-no-polo-da-uab-de-camapua 3 14771 0 0
+/noticia/prefeito-recebe-o-deputado-elizeu-dionizio-em-camapua 3 15290 0 0
+/noticia/prefeito-decreta-luto-oficial-pelo-falecimento-de-gabriel-melhado 3 13752 0 0
+/noticia/iniciadas-as-obras-de-drenagem-em-ruas-do-cristo-redentor 3 13917 0 0
+/pagina/Manual-de-Procedimentos-Administrativos 11 64941 0 5
+/noticia/prefeitura-realiza-manutencao-nas-ruas-da-vila-olidia-pereira-da-rocha 3 14809 0 0
+/noticia/quem-pratica-queimada-pode-levar-multa 3 14288 0 0
+/noticia/prefeitura-estabelece-horario-de-atendimento-durante-os-jogos-da-selecao-brasileira-na-copa 3 13523 0 0
+/noticia/prefeito-decreta-a-regulamentacao-do-servico-de-inspecao-municipal 3 14341 0 0
+/noticia/prefeitura-publica-decretos-a-fim-de-estabelecer-medidas-de-contencao-de-gastos 3 14555 0 0
+/noticia/prefeitura-recebe-repasses-financeiros-para-a-saude 3 13937 0 0
+/noticia/escolas-da-rede-municipal-de-ensino-participam-do-premio-mpt-na-escola-2019 3 16171 0 0
+/noticia/prefeito-decreta-luto-oficial-em-razao-do-falecimento-do-dr-angelo 3 13519 0 0
+/noticia/prefeitura-decreta-ponto-facultativo-nesta-quinta-feira-santa 4 16996 0 0
+/noticia/prefeito-vice-e-primeira-dama-participam-da-sessao-solene-de-abertura-dos-trabalhos-legislativos 5 3945419 1 0
+/secretaria/secretaria-de-assuntos-juridicos 8 37860 1 1
+/noticia/prefeito-e-equipe-participam-de-debate-sobre-acoes-culturais-para-2020-na-regiao-norte 4 23060 1 0
+/noticia/prefeitura-investe-em-programacao-diversificada-na-semana-da-crianca 3 13436 0 0
+/noticia/sanesul-de-camapua-e-contemplada-com-caminhao-cacamba 3 13791 0 0
+/noticia/na-cantina-municipal-prefeito-ve-de-perto-o-preparo-e-a-qualidade-da-merenda-escolar 3 14928 0 0
+/noticia/prefeitura-faz-entrega-de-bolas-para-o-projeto-bom-de-bola-10-na-escola 3 13089 0 0
+/pagina/palavras-do-vice-prefeito 8 30325 1 3
+/noticia/prefeitura-publica-balanco-de-2018 3 40041 0 0
+/noticia/escolas-municipais-recebem-os-alunos-neste-inicio-de-ano-letivo 5 1468136 0 1
+/publicacoes-tipo/concursos-publicos 1 5059 1 0
+/noticia/prefeitura-faz-aquisicao-de-equipamentos-para-a-cantina-central 3 13968 0 0
+/noticia/palestra-sobre-cooperativismo-e-realizada-em-camapua 4 252647 1 1
+/noticia/esclarecimento-sobre-uso-indevido-de-veiculos-publicos 3 13865 0 0
+/noticia/prefeito-vereador-e-deputado-se-reunem-na-agesul-cobrando-inicio-de-obras-em-camapua 4 18012 0 1
+/noticia/prefeitura-multa-empresas-por-descumprimento-de-contrato 3 13893 0 0
+/noticia/prefeitura-traz-projeto-de-cultural-kombinado-para-apresentacoes 3 14894 0 0
+/publicacao/decreto-2307-processo-eleitoral-do-dirigente-escolar 6 25808 1 1
+/noticia/fomentando-a-agricultura-familiar-prefeitura-realiza-preparacao-de-solo-para-pequenos-produtores 3 15706 0 0
+/noticia/prefeito-e-vice-se-reunem-com-moradores-da-vila-industrial 3 14074 0 0
+/noticia/secretaria-de-assistencia-social-realiza-almoco-em-homenagem-as-mulheres 3 14281 0 0
+/noticia/pagamento-esta-na-conta 3 13591 0 0
+/noticia/projeto-para-gestantes-e-realizado-em-camapua 3 14224 0 0
+/noticia/prefeito-e-vice-entregam-ovos-de-pascoa-para-alunos-da-rede-municipal 3 15957 0 0
+/noticia/conferencia-municipal-de-saude-sera-dia-09 3 13265 0 0
+/noticia/assinado-convenio-entre-a-prefeitura-e-a-prf 4 20167 1 1
+/noticia/prefeito-e-vice-discutem-lancamento-entregas-e-conclusao-de-obras-do-governo-do-estado-em-camapua 4 21260 0 1
+/noticia/prefeito-reduz-o-proprio-salario-da-vice-e-de-secretarios 3 14528 0 0
+/noticia/prefeitura-repassara-r-25-milhoes-de-reais-para-o-hospital 10 47363 2 4
+/noticia/campeonato-municipal-tem-sequencia-no-ginasio-de-esportes 3 13827 0 0
+/pagina/sobre-a-secretaria 9 37980 2 2
+/noticia/cmdca-divulga-resultado-da-prova-especifica-para-conselheiros-tutelares 3 15615 0 0
+/noticia/prefeito-decreta-luto-oficial 3 13027 0 0
+/noticia/prefeitura-retoma-o-atendimento-de-ultrassonografia-no-municipio 6 28161 1 2
+/pagina/como-chegar 7 27394 3 4
+/noticia/prefeitura-tem-dois-novos-nomes-a-frente-desporto-local 8 39848 2 4
+/noticia/secretaria-municipal-de-educacao-troca-as-caixas-dagua-da-escola-sudalydio 3 13483 0 0
+/galerias 5 18558 0 1
+/noticia/escolas-da-rede-municipal-de-ensino-se-destacam-com-os-resultados-alcancados-no-ideb 3 17202 0 0
+/noticia/secretaria-de-saude-convida-populacao-para-audiencia-publica 3 12711 0 0
+/noticia/com-apoio-de-beto-pereira-e-mandetta-prefeito-viabiliza-mais-de-600-mil-para-saude-de-camapua 4 22629 1 1
+/noticia/grupo-da-terceira-idade-volta-a-se-reunir-no-salao-conviver 8 39294 3 3
+/noticia/secretaria-de-saude-realiza-acao-no-centro-da-cidade 3 13112 0 0
+/noticia/equipe-da-prefeitura-participa-de-curso-de-qualificacao-sobre-assistencia-social-na-assomasul 4 21404 1 1
+/noticia/audiencia-publica 6 25243 0 1
+/noticia/por-intermedio-do-prefeito-delano-huber-almir-sater-fara-show-em-camapua 3 8548097 0 0
+/noticia/audiencia-publica-de-avaliacao-do-plano-municipal-de-educacao 3 14906 0 0
+/secretaria/secretaria-de-governo 8 36007 0 1
+/pagina/sobre-a-secretaria-samae 5 20491 0 1
+/noticia/secretaria-de-saude-participa-de-reuniao-do-hiperdia-na-ubs-pontinha-do-cocho 3 15946 0 0
+/noticia/camapua-realiza-o-primeiro-encontro-nacional-de-violeiros 4 21334 1 1
+/pagina/bandeira-brasao-e-hino 9 452348 1 4
+/noticia/professores-se-reunem-para-discussao-da-base-nacional-comum-curricular 3 13878 0 0
+/noticia/prefeitura-faz-manutencao-na-via-que-da-acesso-ao-bairro-coophavale 3 13096 0 0
+/noticia/prefeitura-decreta-ponto-facultativo 3 13136 0 0
+/noticia/prefeitura-faz-cascalhamento-e-manutencao-nas-ruas-do-bairro-jardim-sao-bento 3 13270 0 0
+/noticia/bairro-alto-e-vila-izolina-recebem-a-segunda-etapa-do-programa-de-limpeza-urbana 3 14242 0 0
+/noticia/prefeito-entrega-novos-uniformes-aos-servidores-da-secretaria-de-infraestrutura 3 13466 0 0
+/noticia/salario-dos-servidores-municipais-ja-esta-na-conta 3 13102 0 0
+/noticia/saude-da-inicio-a-segunda-fase-da-vacinacao-contra-o-sarampo-em-camapua 4 19763 0 1
+/noticia/centro-de-educacao-de-camapua-e-destaque-nacional-em-projeto-do-ministerio-da-educacao 4 972873 0 0
+/noticia/com-recurso-proprio-prefeitura-compra-caminhao-basculante 3 1026318 0 0
+/noticia/coordenadoria-da-mulher-realiza-palestra-sobre-feminicidio 3 13402 0 0
+/noticia/prefeitura-garante-transporte-escolar-para-os-alunos-de-camapua 3 15363 0 0
+/noticia/rede-municipal-de-ensino-esta-com-matriculas-abertas 3 16156 0 0
+/libs/bootstrap/dist/fonts/glyphicons-halflings-regular.woff 7 163968 0 3
+/noticia/escola-municipal-ernesto-solon-borges-realiza-iii-feira-cientifica-e-cultural-na-modalidade-ambulante 4 22191 0 1
+/noticia/prefeito-faz-entrega-dos-kits-e-uniformes-nas-escolas-municipais 3 14146 0 0
+/noticia/campanha-de-vacinacao-contra-a-gripe-comeca-nesta-quarta-feira-dia-10-de-abril 3 16088 0 0
+/noticia/prefeitura-articula-acao-educativa-com-o-ministerio-publico-do-trabalho 3 15512 0 0
+/noticia/equipe-do-nasf-fara-acao-voltada-a-pratica-de-exercicios-fisicos 3 13655 0 0
+/noticia/prefeitura-e-energisa-realizam-parceria-em-camapua 4 21679659 1 1
+/noticia/camapua-disputa-a-copa-pelezinho 3 13261 0 0
+/publicacoes-pesquisar 4 29669 0 0
+/noticia/reparticoes-publicas-terao-expediente-somente-na-parte-da-manha-nesta-sexta 3 13401 0 0
+/noticia/escola-ernesto-solon-borges-realiza-conferencia-sobre-meio-ambiente 3 13958 0 0
+/noticia/palestra-sobre-piscicultura-e-realizada-em-camapua 4 19237 1 0
+/noticia/prefeitura-vacina-mais-de-3-mil-animais-entre-caninos-e-felinos-durante-campanha-antirrabica-em-camapua 3 15623 0 0
+/noticia/mapeamento-de-seguranca-alimentar-e-nutricional-e-realizado-em-camapua 3 14947 0 0
+/contatar 5 19855 0 0
+/noticia/projeto-da-secretaria-de-saude-atende-mais-de-200-pessoas-em-seu-lancamento 3 14420 0 0
+/noticia/secretaria-de-assistencia-social-recebe-veiculo-0km 3 12917 0 0
+/noticia/realizada-a-terceira-etapa-da-campanha-de-limpeza-urbana 3 14731 0 0
+/noticia/patrulha-mecanizada-leva-tecnologia-para-quem-mora-no-campo 3 16005 0 0
+/noticia/prefeitura-de-camapua-libera-pagamento-integral-do-130-salario-dos-servidores 6 32307 0 1
+/noticia/camapuanenses-sao-atendidos-na-caravana-da-saude 3 14296 0 0
+/publicacao/decreto-2332-processo-seletivo-simplificado-para-contratacao-de-pessoal 8 34484 1 3
+/noticia/prefeitura-segue-realizando-limpeza-pela-cidade 3 1367838 0 0
+/noticia/prefeito-protocola-na-camara-projeto-de-atualizacao-do-plano-de-cargos-e-carreiras-dos-servidores 3 15824 0 0
+/noticia/pela-primeira-vez-prefeitura-realiza-pagamento-do-13o-salario-as-familias-acolhedoras-de-camapua 13 67851 3 3
+/pagina/ouvidoria-do-sus 6 33526 1 2
+/noticia/arbitral-define-confrontos-do-campeonato-municipal-de-futebol-de-salao 3 14524 0 0
+/noticia/audiencia-publica-secretaria-de-saude 3 12753 0 0
+/noticia/prefeitura-entrega-uniformes-e-kits-escolares 3 17273653 0 0
+/noticia/patrulha-mecanizada-leva-tecnologia-para-o-pequeno-produtor 3 14938 0 0
+/noticia/capacitacao-tecnica-sobre-regularizacao-fundiaria-e-tema-de-palestra 3 13869 0 0
+/noticia/prefeitura-repassara-auxilio-financeiro-para-o-hospital 3 15184 0 0
+/libs/bootstrap/dist/fonts/glyphicons-halflings-regular.eot 6 120762 0 4
+/noticia/servidores-da-secretaria-de-assistencia-social-participam-de-capacitacao 7 35797 4 4
+/noticia/audiencia-publica-de-apresentacao-de-relatorio 3 12900 0 0
+/noticia/secretaria-de-saude-realiza-audiencia-publica-nesta-quinta-feira 3 13573 0 0
+/noticia/secretaria-municipal-de-saude-intensifica-acoes-de-combate-a-dengue 3 14180 0 0
+/noticia/prefeitura-baixa-decreto-em-razao-da-paralisacao-do-setor-de-transportes 3 14854 0 0
+/noticia/visando-economia-e-contencao-de-gastos-prefeitura-estara-com-atendimento-em-novo-horario 4 19638 1 1
+/pagina/sobre-a-secretaria-saj 5 27513 0 0
+/noticia/prefeito-vai-a-cascavel-em-busca-de-novos-investidores-para-camapua 3 15368 0 0
+/noticia/prefeitura-cancela-carnaval-para-investir-em-outras-areas-essenciais 3 14782 0 0
+/noticia/vacina-contra-o-sarampo-ja-esta-disponivel-para-menores-de-5-anos-em-camapua 8 39105 3 1
+/noticia/escola-sudalydio-rodrigues-machado-realiza-conferencia-sobre-meio-ambiente 3 14410 0 0
+/noticia/prefeito-concede-aumento-aos-profissionais-da-educacao 3 15544 0 0
+/noticia/convite-para-audiencia-publica 3 13403 0 0
+/noticia/prefeitura-realiza-manutencao-nas-ruas-do-bairro-pedro-luiz-amorim 3 13532 0 0
+/noticia/prefeito-envia-diversos-projetos-de-lei-para-camara-de-vareadores 7 35761 1 1
+/noticia/com-apoio-da-prefeitura-alunos-do-ceep-participam-de-feira-em-universidade-na-capital 4 23685 0 0
+/noticia/prefeitura-tera-expediente-somente-a-tarde-na-segunda 3 12786 0 0
+/noticia/rede-municipal-de-ensino-desenvolve-o-projeto-mpt-na-escola 3 15345 0 0
+/publicacao/decreto-2624-processo-eleitoral-de-dirigente-escolarl 8 34401 1 0
+/noticia/palestra-tecnica-gratuita-sobre-psicultura-acontece-nesta-sexta-feira 3 14740 0 0
+/noticia/audiencia-publica-da-secretaria-de-saude 4 17791 1 1
+/noticia/prefeito-e-equipe-participam-de-importante-reuniao-na-agehab 5 23755 0 0
+/noticia/prefeitura-libera-pagamento-na-ultima-quinta-feira-do-mes 3 13549 0 0
+/noticia/prefeito-assina-termo-de-colaboracao-com-entidades 3 14493 0 0
+/noticia/prefeito-visita-a-construcao-da-estacao-meteorologica 3 14321 0 0
+/noticia/obra-de-recapeamento-de-diversas-ruas-em-camapua-ja-foi-licitada 3 14086 0 0
+/noticia/banda-municipal-esta-com-inscricoes-abertas-para-novos-integrantes 6 27777 1 2
+/noticia/professor-de-camapua-e-destaque-no-110-premio-professores-do-brasil 3 14140 0 0
+/noticia/informacao-importante 3 13083 0 0
+/noticia/prefeitura-fara-o-lancamento-do-projeto-de-atendimento-oncologico-em-camapua 3 14598 0 0
+END_SIDER

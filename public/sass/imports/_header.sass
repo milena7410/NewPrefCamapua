@@ -1,0 +1,39 @@
+.topbar
+  background: $azul-primary
+  padding: 10px
+  color: white
+
+.topo-bg
+  background: url("../../img/background-topo.jpg") no-repeat
+  min-height: 350px
+
+.topo-fale-conosco
+  background: $azul-primary
+
+.container-fale-conosco
+  @extend .container-titulo
+  height: 20px
+
+.title-fale-conosco
+  @extend .title-section
+  background: $azul-primary
+  &:after
+    top: 40%
+    left: 86.1%
+    border-width: 55px
+  &:before
+    top: 40%
+    right: 86.1%
+    border-width: 55px
+  h3
+    border: none
+    padding: 10px 45px
+    margin-left: 5px
+
+.container-logo
+  background: rgba(255, 255, 255, 0.8)
+  min-height: 350px
+  max-width: 380px
+  display: flex
+  justify-content: center
+  align-items: center

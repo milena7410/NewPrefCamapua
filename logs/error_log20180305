@@ -1,0 +1,42 @@
+[Mon Mar 05 00:18:51 2018] [error] [client 179.214.175.221] PHP Warning:  require(/home/storage/6/96/7a/i9cg/public_html/../vendor/autoload.php): failed to open stream: No such file or directory in /home/storage/6/96/7a/i9cg/public_html/index.php on line 24
+[Mon Mar 05 00:18:51 2018] [error] [client 179.214.175.221] PHP Fatal error:  require(): Failed opening required '/home/storage/6/96/7a/i9cg/public_html/../vendor/autoload.php' (include_path='.:/usr/share/pear') in /home/storage/6/96/7a/i9cg/public_html/index.php on line 24
+[Mon Mar 05 00:19:28 2018] [error] [client 179.214.175.221] Directory index forbidden by Options directive: /home/storage/6/96/7a/i9cg/public_html/
+[Mon Mar 05 00:22:15 2018] [error] [client 173.212.253.47] File does not exist: /home/storage/6/96/7a/i9cg/public_html/robots.txt
+[Mon Mar 05 00:22:27 2018] [error] [client 173.212.253.47] Directory index forbidden by Options directive: /home/storage/6/96/7a/i9cg/public_html/
+[Mon Mar 05 01:39:13 2018] [error] [client 216.244.66.238] File does not exist: /home/storage/6/96/7a/i9cg/public_html/robots.txt
+[Mon Mar 05 02:07:51 2018] [error] [client 216.244.66.238] File does not exist: /home/storage/6/96/7a/i9cg/public_html/robots.txt
+[Mon Mar 05 02:47:40 2018] [error] [client 216.244.66.234] File does not exist: /home/storage/6/96/7a/i9cg/public_html/robots.txt
+[Mon Mar 05 03:15:56 2018] [error] [client 216.244.66.234] File does not exist: /home/storage/6/96/7a/i9cg/public_html/robots.txt
+[Mon Mar 05 03:32:10 2018] [error] [client 216.244.66.238] File does not exist: /home/storage/6/96/7a/i9cg/public_html/robots.txt
+[Mon Mar 05 03:44:00 2018] [error] [client 216.244.66.234] File does not exist: /home/storage/6/96/7a/i9cg/public_html/robots.txt
+[Mon Mar 05 04:11:46 2018] [error] [client 216.244.66.234] File does not exist: /home/storage/6/96/7a/i9cg/public_html/robots.txt
+[Mon Mar 05 04:28:01 2018] [error] [client 216.244.66.247] File does not exist: /home/storage/6/96/7a/i9cg/public_html/robots.txt
+[Mon Mar 05 04:28:41 2018] [error] [client 216.244.66.238] File does not exist: /home/storage/6/96/7a/i9cg/public_html/robots.txt
+[Mon Mar 05 04:39:32 2018] [error] [client 216.244.66.234] File does not exist: /home/storage/6/96/7a/i9cg/public_html/robots.txt
+[Mon Mar 05 04:56:48 2018] [error] [client 216.244.66.238] File does not exist: /home/storage/6/96/7a/i9cg/public_html/robots.txt
+[Mon Mar 05 05:08:34 2018] [error] [client 216.244.66.247] File does not exist: /home/storage/6/96/7a/i9cg/public_html/pagina
+[Mon Mar 05 05:35:03 2018] [error] [client 216.244.66.234] File does not exist: /home/storage/6/96/7a/i9cg/public_html/robots.txt
+[Mon Mar 05 05:46:20 2018] [error] [client 216.244.66.234] File does not exist: /home/storage/6/96/7a/i9cg/public_html/noticia
+[Mon Mar 05 05:53:19 2018] [error] [client 216.244.66.238] File does not exist: /home/storage/6/96/7a/i9cg/public_html/robots.txt
+[Mon Mar 05 06:02:30 2018] [error] [client 54.36.148.181] File does not exist: /home/storage/6/96/7a/i9cg/public_html/secretaria
+[Mon Mar 05 06:03:03 2018] [error] [client 216.244.66.234] File does not exist: /home/storage/6/96/7a/i9cg/public_html/robots.txt
+[Mon Mar 05 06:03:08 2018] [error] [client 54.36.148.37] File does not exist: /home/storage/6/96/7a/i9cg/public_html/secretaria
+[Mon Mar 05 06:22:01 2018] [error] [client 216.244.66.238] File does not exist: /home/storage/6/96/7a/i9cg/public_html/robots.txt
+[Mon Mar 05 06:31:00 2018] [error] [client 216.244.66.234] File does not exist: /home/storage/6/96/7a/i9cg/public_html/robots.txt
+[Mon Mar 05 06:41:14 2018] [error] [client 93.158.161.82] File does not exist: /home/storage/6/96/7a/i9cg/public_html/robots.txt
+[Mon Mar 05 06:41:18 2018] [error] [client 93.158.161.82] File does not exist: /home/storage/6/96/7a/i9cg/public_html/favicon.ico
+[Mon Mar 05 07:18:43 2018] [error] [client 216.244.66.238] File does not exist: /home/storage/6/96/7a/i9cg/public_html/robots.txt
+[Mon Mar 05 07:47:49 2018] [error] [client 216.244.66.234] File does not exist: /home/storage/6/96/7a/i9cg/public_html/robots.txt
+[Mon Mar 05 08:15:03 2018] [error] [client 216.244.66.238] File does not exist: /home/storage/6/96/7a/i9cg/public_html/robots.txt
+[Mon Mar 05 08:29:05 2018] [error] [client 179.214.184.43] File does not exist: /home/storage/6/96/7a/i9cg/public_html/admin, referer: http://i9cg.com.br/admin/noticia/17
+[Mon Mar 05 08:30:05 2018] [error] [client 179.214.184.43] File does not exist: /home/storage/6/96/7a/i9cg/public_html/favicon.ico, referer: http://i9cg.com.br/admin
+[Mon Mar 05 08:32:42 2018] [error] [client 179.214.184.43] Directory index forbidden by Options directive: /home/storage/6/96/7a/i9cg/public_html/, referer: http://i9cg.com.br/admin
+[Mon Mar 05 08:35:42 2018] [error] [client 179.214.184.43] Directory index forbidden by Options directive: /home/storage/6/96/7a/i9cg/public_html/
+[Mon Mar 05 08:55:56 2018] [error] [client 179.214.184.43] Directory index forbidden by Options directive: /home/storage/6/96/7a/i9cg/public_html/
+[Mon Mar 05 09:39:33 2018] [error] [client 216.244.66.234] File does not exist: /home/storage/6/96/7a/i9cg/public_html/robots.txt
+[Mon Mar 05 09:40:06 2018] [error] [client 216.244.66.238] File does not exist: /home/storage/6/96/7a/i9cg/public_html/robots.txt
+[Mon Mar 05 10:08:27 2018] [error] [client 216.244.66.238] File does not exist: /home/storage/6/96/7a/i9cg/public_html/robots.txt
+[Mon Mar 05 10:20:51 2018] [error] [client 54.36.149.82] File does not exist: /home/storage/6/96/7a/i9cg/public_html/publicacoes
+[Mon Mar 05 10:35:30 2018] [error] [client 216.244.66.234] File does not exist: /home/storage/6/96/7a/i9cg/public_html/robots.txt
+[Mon Mar 05 10:42:22 2018] [error] [client 54.36.148.25] File does not exist: /home/storage/6/96/7a/i9cg/public_html/secretaria
+[Mon Mar 05 11:31:17 2018] [error] [client 216.244.66.234] File does not exist: /home/storage/6/96/7a/i9cg/public_html/robots.txt

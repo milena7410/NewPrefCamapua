@@ -1,0 +1,4865 @@
+AWSTATS DATA FILE 7.7 (build 20180105)
+# If you remove this file, all statistics for date 202001 will be lost/reset.
+# Last config file used to build this data file was /home/prefcamapua/tmp/awstats/awstats.camapua.ms.gov.br.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2017                
+POS_TIME 2705                
+POS_VISITOR 110974              
+POS_DAY 159781              
+POS_DOMAIN 3727                
+POS_LOGIN 4464                
+POS_ROBOT 4619                
+POS_WORMS 6318                
+POS_EMAILSENDER 6449                
+POS_EMAILRECEIVER 6592                
+POS_SESSION 160770              
+POS_SIDER 160984              
+POS_FILETYPES 6727                
+POS_DOWNLOADS 7087                
+POS_OS 18095               
+POS_BROWSER 18454               
+POS_SCREENSIZE 22392               
+POS_UNKNOWNREFERER 22466               
+POS_UNKNOWNREFERERBROWSER 23535               
+POS_ORIGIN 24160               
+POS_SEREFERRALS 24312               
+POS_PAGEREFS 24653               
+POS_SEARCHWORDS 25096               
+POS_KEYWORDS 25281               
+POS_MISC 2367                
+POS_ERRORS 25379               
+POS_CLUSTER 4320                
+POS_SIDER_404 25545               
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20200201000000 1647 363035 12318607761253
+FirstTime 20200101004119
+LastTime 20200131235959
+LastUpdate 20200201090320 1647 0 1646 0 0
+TotalVisits 1347                
+TotalUnique 565                 
+MonthHostsKnown 0                   
+MonthHostsUnknown 1517                
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+WindowsMediaPlayerSupport 0 0 0
+QuickTimeSupport 0 0 0
+RealPlayerSupport 0 0 0
+JavascriptDisabled 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+PDFSupport 0 0 0
+TotalMisc 0 0 0
+AddToFavourites 0 894 0
+JavaEnabled 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 59 269 73435513 430 623 25083763
+1 49 1372 43330184 416 567 27373323
+2 49 1405 42914763 472 617 39069129
+3 58 98 21915801 421 557 46689991
+4 11 24 4515455 399 585 38279276
+5 49 64 19065653 438 624 38372922
+6 28 169 36492162 436 582 22279496
+7 100 676 117413057 405 547 22272580
+8 536 4960 454170246 628 922 65094486
+9 397 3830 575608800 449 800 46328650
+10 525 4358 609158435 667 1058 70019481
+11 361 2888 475249749 509 826 59621876
+12 281 1509 346832969 700 956 65865239
+13 242 2237 313603132 396 629 41121863
+14 190 1999 347633258 470 806 44115085
+15 190 2328 435821147 481 803 61008416
+16 163 1819 403038451 465 799 55296799
+17 205 2247 348189944 481 724 49558908
+18 159 1040 264088441 409 660 35397692
+19 158 984 174080673 441 668 44156044
+20 128 626 136082963 473 708 40361690
+21 44 284 100541656 748 941 53620894
+22 72 737 205398151 659 887 83344077
+23 481 763 99769768 342 493 21121991
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 32
+br 2555 22623 3108187584
+us 1543 9825 2110822680
+ma 65 449 61190730
+nl 63 63 812795
+jp 61 79 24069966
+in 43 654 192975496
+gb 37 61 3492351
+fr 37 38 11578909
+sk 31 2294 6334810
+ca 23 63 2995677
+cn 12 12 387988
+cz 11 11 888394
+de 11 177 40025141
+kr 9 177 11914719
+ru 8 9 608421
+al 5 5 332893
+se 3 3 545701
+gr 3 3 28497
+cr 3 17 3348212
+ec 2 75 4495591
+md 2 2 213556
+dm 2 2 18988
+ie 2 3 3426662
+ch 1 14 8337016
+ir 1 2 130696
+ua 0 1 2560554
+ar 1 14 5880799
+it 0 1 2560554
+za 0 1 2560554
+kz 1 5 266154
+be 0 2 405400
+nz 0 1 2560554
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 38
+SemrushBot/ 1445 42892349 20200131225232 660
+bingbot/ 1188 81121150 20200131230434 148
+Googlebot/ 1179 46253561 20200131211530 55
+AhrefsBot/ 836 58809986 20200131224909 74
+DotBot/ 481 55298260 20200131045008 46
+BDCbot/ 432 28605959 20200106234009 1
+crawl 384 31264492 20200114202316 2
+BLEXBot/ 324 26058630 20200124132514 9
+unknown 319 7656 20200131232459 319
+GrapeshotCrawler/ 279 4352312 20200131193500 46
+facebookexternalhit/ 256 2981307 20200130111347 0
+MegaIndex\.ru/ 208 10294311 20200110081205 1
+Googlebot\-Image/ 192 3246143 20200131093935 0
+bingpreview 159 8882338 20200131195802 0
+Applebot/ 150 4340732 20200131131217 44
+msnbot/ 121 24551262 20200131211441 39
+baidu 90 5247587 20200128182528 0
+no_user_agent 73 4271508 20200131102653 7
+MJ12bot/ 62 4164654 20200126202746 19
+Mail\.RU_Bot/ 53 544570 20200130225956 26
+bot[\s_+:,\.\;\/\\-] 46 1516884 20200131043957 3
+YandexBot/ 42 33485 20200131181629 38
+CCBot/ 34 798825 20200128052713 2
+(firefox/)([0-9]\.|[0-1][0]\.) 31 2118503 20200130054509 0
+DomainStatsBot/ 30 2110867 20200131194314 1
+DuckDuckGo\-Favicons\-Bot/ 3 28515 20200131143714 0
+[\s_+:,\.\;\/\\-]bot 3 72 20200129203315 3
+Apache\-HttpClient/ 20 189840 20200114070231 0
+Sogou[\x20]web[\x20]spider/ 2 48 20200123085749 2
+360Spider 2 19013 20200107015250 0
+Googlebot\-Video/ 1 10543692 20200103033824 0
+Dalvik/ 16 3675233 20200128223829 0
+curl 4 446634 20200131182135 0
+Konqueror/ 4 18328 20200130054420 0
+Yahoo![\x20]Slurp 4 19055 20200108090623 2
+java 29 1730797 20200105104538 0
+link 28 173076 20200131213320 7
+oBot/ 3 108199 20200126184209 2
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 14
+map 1 542194 0 0
+woff 13 304512 0 0
+css 1340 84454704 0 0
+woff2 320 5264176 0 0
+eot 11 201270 0 0
+wmv 11 115980612 0 0
+ttf 2 90808 0 0
+pdf 480 175386234 0 0
+doc 19 20576018 0 0
+png 8480 4733086820 0 0
+jpg 20483 330002150 0 0
+Unknown 1486 29765893 0 0
+html 2702 40143872 0 0
+js 1338 78158755 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 223
+/arquivos/publicacoes/5ad1030cf36b7.pdf 334 12 35929743
+/arquivos/publicacoes/5a9010bf7082b.pdf 21 1 6834185
+/arquivos/midias/5d432b065324d.wmv 16 0 168699072
+/arquivos/publicacoes/5a900595acf46.pdf 16 7 6916136
+/arquivos/publicacoes/5a8fff7ed55bc.doc 11 0 18213888
+/arquivos/publicacoes/5cadf315bb646.pdf 11 8 4557948
+/arquivos/publicacoes/5a90028c96d59.doc 10 1 2917138
+/arquivos/publicacoes/5a900c2449fb8.pdf 9 1 6952131
+/arquivos/midias/5d432a40cf635.pdf 9 0 5897970
+/arquivos/publicacoes/5a900d24ed836.pdf 8 0 1093568
+/arquivos/publicacoes/5d5acecec0ca7.pdf 8 0 2103040
+/arquivos/publicacoes/5d1f9140b5dc4.pdf 8 12 418400
+/arquivos/publicacoes/5ad103c1ade8d.pdf 8 2 1984405
+/arquivos/midias/5aa149ad74fc5.pdf 7 1 697993
+/arquivos/publicacoes/5d1b525c4a187.pdf 7 8 3292395
+/arquivos/midias/5aa13d1a545fc.pdf 7 0 695107
+/arquivos/publicacoes/5a8ed2884876c.pdf 6 3 6270090
+/arquivos/publicacoes/5a902ade82975.pdf 6 0 94404
+/arquivos/publicacoes/5a8f02f0bf54c.pdf 6 0 55959330
+/arquivos/publicacoes/5a9009de17a87.pdf 6 0 1426632
+/arquivos/publicacoes/5a9026f38eb4c.pdf 6 0 500172
+/arquivos/publicacoes/5a9000f4c53e2.pdf 6 8 51780621
+/arquivos/publicacoes/5a900f64ada59.pdf 6 1 4817607
+/arquivos/publicacoes/5ad1174b8a51d.pdf 6 0 1580268
+/arquivos/midias/5aa192d2e9ca5.pdf 6 0 560538
+/arquivos/midias/5aa18fac80839.pdf 5 0 475070
+/arquivos/midias/5aa1716a7d8f9.pdf 5 0 197650
+/arquivos/midias/5aa170a6285c3.pdf 5 0 506365
+/arquivos/midias/5aa1496125d9c.pdf 5 0 179855
+/arquivos/publicacoes/5a9016291d19d.pdf 5 0 1352790
+/arquivos/publicacoes/5c0ac6cae2262.pdf 5 0 1338525
+/arquivos/midias/5aa1547cdd9ba.pdf 5 0 509470
+/arquivos/midias/5aa1569b00b40.pdf 5 0 495720
+/arquivos/publicacoes/5a9025b0d586d.pdf 5 0 1496110
+/arquivos/publicacoes/5d445735584ff.pdf 5 8 1582243
+/arquivos/publicacoes/5a8f380b4004c.pdf 5 0 306935
+/arquivos/publicacoes/5d1b52a12804b.pdf 4 8 5784084
+/arquivos/midias/5aa17059ba1cf.pdf 4 0 159184
+/arquivos/midias/5aa1462577f47.pdf 4 0 358604
+/arquivos/midias/5aa1493adbbcd.pdf 4 0 346760
+/arquivos/publicacoes/5a900f23cdfac.pdf 4 1 1480436
+/arquivos/publicacoes/5d1f3a5dd3b25.pdf 4 4 154352
+/arquivos/midias/5aa13c8d82872.pdf 4 1 494749
+/arquivos/midias/5aa193d212b7c.pdf 4 0 460864
+/arquivos/midias/5aa175d7e1b0a.pdf 4 0 151624
+/arquivos/publicacoes/5a8f17ee2a33b.pdf 4 0 2125196
+/arquivos/midias/5aa14899735bf.pdf 4 0 163812
+/arquivos/publicacoes/5ad102cf6d1fd.pdf 4 0 1361232
+/arquivos/publicacoes/5a8f0fe76cc86.pdf 4 0 612060
+/arquivos/midias/5aa14a5239434.pdf 4 0 381072
+/arquivos/midias/5aa146030594d.pdf 4 0 160244
+/arquivos/midias/5aa15688aba4c.pdf 4 0 174800
+/arquivos/midias/5aa148703340e.pdf 4 0 381108
+/arquivos/publicacoes/5c1bc5dd2e894.pdf 4 2 863867
+/arquivos/midias/5aa190d9ae800.pdf 4 0 157444
+/arquivos/midias/5aa194291c61a.pdf 4 0 367320
+/arquivos/publicacoes/5ad1035f103b8.pdf 4 0 669108
+/arquivos/midias/5a8ebb2ea6317.pdf 4 0 1632532
+/arquivos/midias/5aa1410a3f1c6.pdf 4 0 163368
+/arquivos/midias/5aa14d307275c.pdf 3 0 327492
+/arquivos/publicacoes/5a9009ca1ad22.pdf 3 0 528279
+/arquivos/publicacoes/5a9023e5bb9c9.pdf 3 0 765318
+/arquivos/publicacoes/5ca209cdb0c3c.pdf 3 0 13698
+/arquivos/midias/5aa170e101ebf.pdf 3 0 119865
+/arquivos/publicacoes/5c110f4e396ce.pdf 3 0 559221
+/arquivos/publicacoes/5a900b0a05a23.pdf 3 0 226515
+/arquivos/midias/5aa191145a44d.pdf 3 0 115518
+/arquivos/midias/5aa148e526e03.pdf 3 0 120450
+/arquivos/publicacoes/5a900f0c56674.pdf 3 0 410088
+/arquivos/midias/5aa191a36e2d2.pdf 3 0 280455
+/arquivos/midias/5aa14e9c97ed1.pdf 3 0 125055
+/arquivos/midias/5aa193045ea3a.pdf 3 0 126804
+/arquivos/midias/5aa15758d9691.pdf 3 0 676431
+/arquivos/midias/5aa191d83e5be.pdf 3 0 274110
+/arquivos/publicacoes/5d6d27ed264f1.pdf 3 0 294852
+/arquivos/midias/5aa156ce73cf6.pdf 3 0 119088
+/arquivos/publicacoes/5a90148ab9bca.pdf 3 0 144054
+/arquivos/publicacoes/5a9026d3c42a5.pdf 3 0 250659
+/arquivos/midias/5aa19197e472c.pdf 3 0 118596
+/arquivos/publicacoes/5d516d9309988.pdf 3 16 2194177
+/arquivos/midias/5aa1582384e80.pdf 3 0 806772
+/arquivos/midias/5aa17178377ed.pdf 3 0 400047
+/arquivos/midias/5aa1459e5271e.pdf 3 0 306747
+/arquivos/midias/5aa18f9980880.pdf 3 0 114699
+/arquivos/midias/5aa146985780a.pdf 3 0 275562
+/arquivos/midias/5aa13cfcabffe.pdf 3 0 123933
+/arquivos/publicacoes/5a900ae29abcb.pdf 3 0 329184
+/arquivos/midias/5aa192c4cc767.pdf 3 0 126411
+/arquivos/midias/5aa18f566e374.pdf 3 0 277695
+/arquivos/publicacoes/5beac687c8a6f.pdf 3 0 1208559
+/arquivos/midias/5aa1901ee9162.pdf 3 0 278364
+/arquivos/publicacoes/5a9025ea3a796.pdf 3 0 844431
+/arquivos/midias/5aa19372bbd99.pdf 3 0 261618
+/arquivos/publicacoes/5a9026e839130.pdf 3 0 1115034
+/arquivos/publicacoes/5a8f0f1078d38.pdf 3 0 519771
+/arquivos/midias/5aa14af9c359e.pdf 3 0 270054
+/arquivos/midias/5aa151f5ced13.pdf 3 0 122550
+/arquivos/publicacoes/5bec3859c9fe5.pdf 3 0 990933
+/arquivos/publicacoes/5d2f06ab5f1f2.pdf 3 8 909260
+/arquivos/publicacoes/5a900a06069cd.pdf 3 0 326850
+/arquivos/publicacoes/5ad1032bae1c3.pdf 3 0 318321
+/arquivos/publicacoes/5be58eac00f12.pdf 3 3 977668
+/arquivos/midias/5aa13c5ebf380.pdf 3 0 106905
+/arquivos/midias/5aa1900e15771.pdf 2 0 78958
+/arquivos/midias/5aa1490476ac9.pdf 2 0 188148
+/arquivos/publicacoes/5ad1038379f19.pdf 2 0 210696
+/arquivos/midias/5aa149e474a4b.pdf 2 0 75228
+/arquivos/publicacoes/5a8f0c4c759dc.pdf 2 0 163568
+/arquivos/publicacoes/5cf92e3c0f819.pdf 2 0 682582
+/arquivos/midias/5aa14be9a07ab.pdf 2 0 217926
+/arquivos/publicacoes/5ca288ea031b5.pdf 2 0 17538
+/arquivos/midias/5aa14a7cb21e9.pdf 2 0 77402
+/arquivos/publicacoes/5ca24ccd77068.pdf 2 0 27074
+/arquivos/midias/5aa193141bf4e.pdf 2 0 197860
+/arquivos/publicacoes/5a8f0d914d872.pdf 2 0 733032
+/arquivos/publicacoes/5ca24cd5e4ca2.pdf 2 0 36598
+/arquivos/publicacoes/5ca3d73130184.pdf 2 0 9020
+/arquivos/publicacoes/5bf57e9caaec2.pdf 2 0 255936
+/arquivos/midias/5aa14c11c4f68.pdf 2 0 83832
+/arquivos/midias/5aa170ec8f048.pdf 2 0 198716
+/arquivos/midias/5aa1937f1b7a8.pdf 2 0 78586
+/arquivos/publicacoes/5a90161c8bbfb.pdf 2 0 607832
+/arquivos/midias/5aa15218936fd.pdf 2 0 188448
+/arquivos/publicacoes/5ca20c585b187.pdf 2 0 15890
+/arquivos/publicacoes/5a9024f8cd743.pdf 2 0 588514
+/arquivos/publicacoes/5a8ed98cddacd.pdf 2 0 444468
+/arquivos/publicacoes/5a8ecc4890973.pdf 2 0 665708
+/arquivos/midias/5aa15655e0b30.pdf 2 0 203848
+/arquivos/publicacoes/5d419732563d7.pdf 2 0 715106
+/arquivos/midias/5aa190e66baf8.pdf 2 0 177286
+/arquivos/publicacoes/5ca3b91f4312a.pdf 2 0 37860
+/arquivos/publicacoes/5d4197753b5ff.pdf 2 0 701338
+/arquivos/publicacoes/5bf4310b9d7cf.pdf 2 0 129030
+/arquivos/midias/5aa1912c14e10.pdf 2 0 182712
+/arquivos/midias/5aa155d1cb594.pdf 2 0 195202
+/arquivos/publicacoes/5a9014651eb6a.pdf 2 0 885512
+/arquivos/publicacoes/5a9023c9209a1.pdf 2 0 505110
+/arquivos/publicacoes/5ca2892403532.pdf 2 0 1505218
+/arquivos/midias/5aa1941de3235.pdf 2 0 70254
+/arquivos/publicacoes/5a900a934b773.pdf 2 0 79280
+/arquivos/midias/5aa14b9f80e79.pdf 2 0 79866
+/arquivos/publicacoes/5ca3b8f88284d.pdf 2 0 26900
+/arquivos/publicacoes/5a90155303cd3.pdf 2 0 544074
+/arquivos/publicacoes/5beac6a32034d.pdf 2 0 537914
+/arquivos/publicacoes/5d41975d632c7.pdf 2 0 673300
+/arquivos/publicacoes/5d41819a29a68.pdf 2 0 175224
+/arquivos/publicacoes/5a900b27ba32b.pdf 2 0 246018
+/arquivos/midias/5aa191cb63aee.pdf 1 0 41661
+/arquivos/publicacoes/5ca20bff1c2b8.pdf 1 0 12582
+/arquivos/publicacoes/5cf92eb6e2a3d.pdf 1 0 290631
+/arquivos/publicacoes/5cf92ef1ae1fb.pdf 1 0 345851
+/arquivos/publicacoes/5d4181380b5ae.pdf 1 0 117712
+/arquivos/publicacoes/5cf92e5822db2.pdf 1 0 303957
+/arquivos/publicacoes/5ca20b829907d.pdf 1 0 8077
+/arquivos/publicacoes/5d41974a036b5.pdf 1 0 323018
+/arquivos/publicacoes/5be58d3823620.pdf 1 0 198127
+/arquivos/publicacoes/5c0e45517a2dc.pdf 1 0 134890
+/arquivos/publicacoes/5a8edb189912a.pdf 1 0 820361
+/arquivos/publicacoes/5a90167ad6a73.pdf 1 0 281129
+/arquivos/publicacoes/5a9016a4202c3.pdf 1 0 476195
+/arquivos/publicacoes/5ca20748eb3c1.pdf 1 0 17521
+/arquivos/publicacoes/5a90049123277.pdf 1 0 1285331
+/arquivos/publicacoes/5bfbf9341b126.pdf 1 0 277819
+/arquivos/publicacoes/5ca20c46be583.pdf 1 0 4804
+/arquivos/publicacoes/5c0e8e20c54ca.pdf 1 0 94124
+/arquivos/publicacoes/5d4181bc5becd.pdf 1 0 100015
+/arquivos/publicacoes/5ca3b92a7fbdc.pdf 1 0 13643
+/arquivos/publicacoes/5d4196b41dc37.pdf 1 0 357513
+/arquivos/publicacoes/5ca20b344801e.pdf 1 0 17797
+/arquivos/publicacoes/5ca3b934a2082.pdf 1 0 8990
+/arquivos/publicacoes/5af095b095406.pdf 1 0 386431
+/arquivos/publicacoes/5ca20a02c6a8d.pdf 1 0 373579
+/arquivos/publicacoes/5a902b17c664f.pdf 1 0 38593
+/arquivos/publicacoes/5ad102ee432a3.pdf 1 0 119998
+/arquivos/publicacoes/5c1113dd8067e.pdf 1 0 159313
+/arquivos/publicacoes/5a900a2b129d9.pdf 1 0 108151
+/arquivos/publicacoes/5c0e85ca38f58.pdf 1 0 115132
+/arquivos/midias/5aa1524e189f5.pdf 1 0 43953
+/arquivos/publicacoes/5c1bc5304f74f.pdf 1 0 81705
+/arquivos/publicacoes/5ca20b65be363.pdf 1 0 8495
+/arquivos/publicacoes/5bfd2bad7d2eb.pdf 1 0 278585
+/arquivos/publicacoes/5ca20b432cc9f.pdf 1 0 13037
+/arquivos/publicacoes/5a8f03d78613d.pdf 1 0 7532271
+/arquivos/publicacoes/5ca24cff56ade.pdf 1 0 8532
+/arquivos/publicacoes/5a8f399e8a985.pdf 1 0 46580
+/arquivos/publicacoes/5ad10275ce305.pdf 1 0 260618
+/arquivos/publicacoes/5a900aaa31f3e.pdf 1 0 71439
+/arquivos/publicacoes/5a902544eb9f3.pdf 1 0 141337
+/arquivos/publicacoes/5ca209a4d751b.pdf 1 0 8411
+/arquivos/publicacoes/5ca2095e81c53.pdf 1 0 12939
+/arquivos/publicacoes/5ca20799e2568.pdf 1 0 13287
+/arquivos/publicacoes/5cf92f2073047.pdf 1 0 290631
+/arquivos/publicacoes/5ca209d9934e5.pdf 1 0 7980
+/arquivos/publicacoes/5d418104c15c2.pdf 1 0 107957
+/arquivos/publicacoes/5ca20c3a09c45.pdf 1 0 8321
+/arquivos/midias/5aa154ada958e.pdf 1 0 42817
+/arquivos/publicacoes/5cf92e05216c7.pdf 1 0 247073
+/arquivos/publicacoes/5cf92e82666ba.pdf 1 0 314884
+/arquivos/publicacoes/5a9026c8050df.pdf 1 0 92789
+/arquivos/midias/5aa193c450592.pdf 1 0 39261
+/arquivos/publicacoes/5ca20b7498a91.pdf 1 0 4832
+/arquivos/publicacoes/5ca3b940065a4.pdf 1 0 4243
+/arquivos/publicacoes/5ca20c2727d4f.pdf 1 0 12965
+/arquivos/publicacoes/5bfeb57f55ebe.pdf 1 0 163128
+/arquivos/publicacoes/5ca24ce671045.pdf 1 0 4246
+/arquivos/publicacoes/5a902b29a3b60.pdf 1 0 39108
+/arquivos/publicacoes/5a9025cfad100.pdf 1 0 371678
+/arquivos/publicacoes/5d4196dadf4ec.pdf 1 0 349583
+/arquivos/publicacoes/5a902aef8650f.pdf 1 0 48018
+/arquivos/publicacoes/5ca3d6f83e424.pdf 1 0 4781
+/arquivos/publicacoes/5a8f031fc392a.pdf 1 0 246947
+/arquivos/publicacoes/5ca20b25e0171.pdf 1 0 13197
+/arquivos/publicacoes/5cf92e707ad43.pdf 1 0 303779
+/arquivos/midias/5aa156e245ef5.pdf 1 0 94826
+/arquivos/publicacoes/5ca3b958408bc.pdf 1 0 8554
+/arquivos/publicacoes/5bfd2bd870199.pdf 1 0 111131
+/arquivos/midias/5aa15602286a9.pdf 1 0 44012
+/arquivos/publicacoes/5cf92def2cae4.pdf 1 0 346035
+/arquivos/publicacoes/5a9025bfbb7a9.pdf 1 0 326112
+/arquivos/publicacoes/5ca3b9150cf05.pdf 1 0 13837
+/arquivos/publicacoes/5a8ec9f082345.pdf 1 0 295733
+/arquivos/midias/5aa147a6d0f2d.pdf 1 0 37935
+/robots.txt 0 1 24
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 20
+macosx11 424 424
+linuxubuntu 4 3
+win7 16310 1874
+ios_ipad 1 0
+win10 10690 680
+winnt 1 1
+macosx6 9 6
+ios_iphone 586 31
+macosx7 4 3
+winunknown 1 1
+macosx10 131 128
+linux 768 90
+winxp 863 120
+win8.1 895 97
+winlong 6 2
+linuxandroid 5264 584
+Unknown 391 340
+win8 286 62
+macosx8 63 61
+macosx 106 28
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 184
+chrome77.0.3865.92 1 0
+firefox64.0 2 2
+chrome32.0.1700.107 2 0
+chrome63.0.3239.84 12 1
+opera50.0.2762.58 1 0
+opera39.0.2256.43 410 410
+chrome73.0.3683.103 1 0
+chrome68.0.3440.91 31 4
+chrome27.0.1453.93 1 1
+chrome79.0.3945.79 210 10
+chrome58.0.3029.110 8 7
+safari12.1.2 83 5
+chrome71.0.3578.99 209 43
+chrome67.0.3396.87 2 0
+chrome76.0.3809.89 1 0
+chrome79.0.3945.116 1599 142
+safari5.0.2 1 1
+chrome51.0.2704.106 2 1
+chrome73.0.3683.75 2 0
+chrome38.0.2125.101 60 20
+firefox25.0 2 2
+chrome79.0.3945.88 4760 329
+chrome38.0.2125.104 1 0
+chrome78.0.3904.87 5 1
+chrome77.0.3865.90 78 2
+chrome80.0.3987.53 17 1
+chrome41.0.2272.118 9 4
+firefox59.0 60 59
+firefox66.0 8 7
+netscape5.0 168 0
+chrome27.0.1453.94 1 0
+chrome55.0.2883.87 3 3
+opera42.0.2393.94 35 35
+opera65.0.3467.78 19 2
+safari12.1 12 12
+safari5.0.4 1 1
+firefox57.0 3 1
+chrome57.14.2987.98 398 291
+chrome40.0.2214.93 1 1
+chrome49.0.2623.112 612 99
+firefox60.0 2 0
+msie11.0 857 34
+opera66.0.3515.44 1 0
+chrome73.0.3683.86 78 3
+chrome52.0.2743.116 4 4
+chrome39.0.2171.95 1 1
+iphone 96 7
+chrome4.1.249.1036 3 3
+chrome79.0.3945.136 261 23
+chrome66.0.3332.0 1 0
+Unknown 356 333
+chrome59.0.3071.125 37 3
+chrome79.0.3945.93 1159 95
+chrome67.0.3396.79 1 1
+safari13.0.3 2 0
+chrome63.0.3236.0 1 0
+chrome58.5.3029.81 2 0
+chrome81.0.4041.0 14 1
+chrome63.0.3239.108 2294 31
+chrome47.0.2526.106 153 153
+chrome64.0.3282.167 7 7
+chrome77.0.3835.0 6 2
+chrome67.0.3396.99 4 1
+chrome64.0.3282.119 1 0
+firefox55.0 1 0
+safari5.1.8 1 0
+opera9.63 1 1
+chrome49.0.2623.75 20 20
+chrome80.0.3987.66 24 3
+firefox68.0 4 2
+opera50.0.2762.67 1 0
+chrome72.0.3626.109 15 9
+chrome57.0.2987.133 76 2
+chrome46.0.2480.0 1 0
+chrome76.0.3809.111 100 11
+firefox71.0 645 28
+chrome10.0.638.0 3 3
+android 19 2
+chrome10.0.648.134 2 2
+firefox27.0 2 2
+opera11.62 1 1
+firefox63.0 323 21
+safari10.0 14 1
+chrome19.0.1063.0 1 1
+chrome55.0.2883.91 3 0
+safari9.0 5 5
+safari5.0.5 2 2
+chrome57.5.0821.4559 1 1
+chrome70.0.3538.110 10 7
+chrome9.0.597.0 1 1
+safari12.0.1 4 4
+chrome60.0.3112.113 2 2
+firefox73.0 1 0
+safari5.1.9 2 0
+chrome42.0.2311.90 61 59
+chrome10.0.611.0 2 2
+chrome50.0.2661.102 14 14
+chrome78.0.3904.62 1 0
+chrome79.0.3945.117 6894 611
+chrome56.8.2924.87 1 0
+chrome64.0.3282.137 2 0
+edge18 1247 38
+msie7.0 250 56
+opera9.20 1 1
+edge17 179 25
+chrome34.0.1847.131 1 1
+chrome10.0.612.3 1 1
+opera7.52 1 1
+firefox26.0 1 1
+safari13.0.4 175 9
+chrome81.0.4020.0 11 1
+chrome45.0.2454.101 5 5
+chrome63.0.3239.132 84 10
+chrome78.0.3904.108 224 20
+chrome78.0.3904.70 2 1
+msie10.0 4 3
+chrome41.0.2272.96 6 0
+opera56.0.3051.99 5 5
+msie6.0 8 3
+firefox40.1 3 3
+chrome63.0.3235.0 1 0
+safari13.0 12 1
+chrome58.0.2988.0 4 0
+chrome38.0.1025.166 1429 63
+chrome36.0.1985.143 75 2
+safari6.0 1 0
+chrome26.0.1410.65 1 1
+opera36.0.2130.32 4 4
+msie10.6 1 1
+chrome75.0.3770.142 4 2
+opera42.0.5211.9049 1 1
+safari5.1.3 2 1
+safari 25 3
+chrome79.0.3945.130 6556 694
+chrome56.0.2924.87 2 0
+chrome40.0.2214.115 1 1
+chrome78.0.3904.90 2 0
+firefox24.0 60 59
+firefox22.0 3 3
+safari11.0 2 0
+firefox67.0 1 0
+firefox70.0 3 0
+chrome72.0.3626.121 12 1
+msie9.0 15 11
+chrome81.0.4018.0 74 2
+chrome5.0.375.99 2 2
+edge16 1 0
+chrome70.0.3538.102 17 17
+chrome76.0.3809.100 2 1
+firefox23.0 2 2
+firefox41.0 123 121
+chrome76.0.3809.132 194 23
+chrome74.0.3729.157 20 3
+chrome72.0.3617.0 3 1
+msie5.5 1 1
+chrome81.0.4021.0 16 1
+chrome71.0.3578.98 3 2
+opera62.0.3331.99 2 2
+mozilla 45 17
+chrome26.0.1410.63 1 1
+chrome70.0.3538.77 1 0
+chrome68.0.3440.106 2 2
+chrome78.0.3904.97 84 11
+chrome51.0.2704.79 1 0
+firefox56.0 25 25
+firefox69.0 75 2
+firefox28.0 9 9
+safari13.0.1 7 0
+chrome31.0.1623.0 1 1
+edge12 2 2
+chrome53.0.2785.124 1 0
+chrome77.0.3865.116 14 1
+firefox54.0 61 60
+firefox72.0 1725 81
+chrome78.0.3904.96 5 0
+chrome73.0.3683.90 4 0
+firefox52.0 327 13
+chrome62.0.3202.94 1 1
+chrome69.0.3497.100 2 0
+chrome75.0.3770.101 3 0
+chrome71.0.3578.141 1 0
+chrome77.0.3865.120 2 0
+chrome74.0.3729.169 1086 83
+chrome69.0.3458.0 1 0
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 17
+SEMrushBot 20200117183957
+facebookexternalhit/1.1_(_http://www.facebook.com/externalhit_uatext.php) 20200114083923
+Mozilla/5.0_(compatible;_woorankreview/2.0;__https://www.woorank.com/) 20200121063750
+Y!J-BRW/1.0_(https://www.yahoo-help.jp/app/answers/detail/p/595/a_id/42716) 20200118023233
+fasthttp 20200110042730
+Mozilla/5.0_(compatible;_tracemyfile/1.0) 20200130221515
+cortex/1.0 20200118220101
+Mozilla/5.0_(compatible;_NetcraftSurveyAgent/1.0;__info@netcraft.com) 20200130021316
+Mozilla/5.0_(compatible;_SemrushBot/6~bl;__http://www.semrush.com/bot.html) 20200131042126
+AddThis.com_(http://support.addthis.com/) 20200131232459
+python-requests/2.21.0 20200117051634
+Embarcadero_URI_Client/1.0 20200111084202
+python-requests/2.18.1 20200131200402
+Mozilla/5.0_(compatible;_bingbot/2.0;__http://www.bing.com/bingbot.htm) 20200131212729
+Mozilla/5.0_(compatible;_AhrefsBot/6.1;__http://ahrefs.com/robot/) 20200118173821
+Go-http-client/1.1 20200115114010
+adreview/1.0 20200118220100
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 12
+facebookexternalhit/1.1_(_http://www.facebook.com/externalhit_uatext.php) 20200114083923
+SEMrushBot 20200117183957
+fasthttp 20200110042730
+Y!J-BRW/1.0_(https://www.yahoo-help.jp/app/answers/detail/p/595/a_id/42716) 20200118023233
+cortex/1.0 20200118220101
+python-requests/2.21.0 20200117051634
+Embarcadero_URI_Client/1.0 20200111084202
+AddThis.com_(http://support.addthis.com/) 20200131232459
+Microsoft_URL_Control_-_6.01.9782 20200115103554
+adreview/1.0 20200118220100
+Go-http-client/1.1 20200115114010
+python-requests/2.18.1 20200131200402
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 3266 5024
+From1 13 13
+From2 225 2909
+From3 24 24
+From4 1007 28833
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 10
+www_google_de 1 1
+r_search_yahoo_com 2 2
+www_google_com 181 2810
+search_yahoo_com 2 2
+www_google_pt 2 2
+duckduckgo 3 3
+br_search_yahoo_com 9 9
+www_google_com_br 19 65
+yahoo_catchall 1 1
+bing 5 14
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 9
+http://l.facebook.com/l.php 6 6
+http://www.folharegionalms.com.br/2019/12/11/delano-de-ferias/ 5 5
+http://progressive-seo.com 3 3
+https://lm.facebook.com 2 2
+http://googleweblight.com/i 2 2
+https://www.facebook.com 2 2
+https://l.facebook.com 2 2
+https://king.host 1 1
+https://m.facebook.com 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 1
+portal+da+transpaencia+camapua 1
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 4
+da 1
+camapua 1
+portal 1
+transpaencia 1
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 6
+419 1 1518
+206 403 169384665
+301 37 9301
+404 4160 3950721
+500 3349 455156736
+405 5 230897
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 2403
+/noticias/noticia/475 1 -
+/arquivos/galeria/1411755775.JPG 1 -
+/index.php/processo-seletivo-contratacao-de-pessoal-edital-01-novembro-2009-educacao/doc_download/arquivos/predio/arquivos/noticias/restrito/view/transparencia/index.php 1 -
+/noticias/noticia/907 2 -
+/membro/5 6 -
+/noticias/noticia/433 2 -
+/arquivos/noticias/1406643522. 1 -
+/arquivos/noticias/1491591412. 1 -
+/arquivos/noticias/1500485722. 1 -
+/noticias/23 3 -
+/noticias/noticia/463 1 -
+/arquivos/manuais/1383745658.pdf 1 -
+/arquivos/noticias/1452782123. 1 -
+/arquivos/galeria/1425391274.JPG 1 -
+/arquivos/noticias/1500552516. 1 -
+/manageDeveloper/create 2 -
+/noticias/158 2 -
+/noticias/noticia/909 2 -
+/arquivos/noticias/1470860275. 1 -
+/arquivos/noticias/DSC04968.JPG 1 -
+/noticias/noticia/400 2 -
+/noticias/noticia/389 1 -
+/noticias/noticia/898 1 -
+/arquivos/galeria/1411471167.JPG 1 -
+/sobre 14 -
+/old//wp-admin/install.php 1 -
+/main//wp-admin/install.php 1 -
+/arquivos/noticias/1486746525. 3 -
+/arquivos/galeria/1424269171.JPG 1 -
+/noticias/101 1 -
+/noticias/noticia/885 2 -
+/arquivos/noticias/1443036866. 1 -
+/noticias/110 3 -
+/arquivos/noticias/P1180906.JPG 2 -
+/admin/southidceditor/dialog/dialog.js 1 http://www.camapua.ms.gov.br/admin/southidceditor/dialog/dialog.js
+/arquivos/galeria/1407413185.JPG 1 -
+/arquivos/noticias/1490988693. 3 -
+/arquivos/noticias/1500485803. 1 -
+/arquivos/noticias/1445886131. 1 -
+/noticias/noticia/1019 2 -
+/arquivos/noticias/1486124276. 1 -
+/arquivos/noticias/1495224936. 2 -
+/arquivos/galeria/1411472571.JPG 1 -
+/noticias/noticia/387 2 -
+/arquivos/noticias/1490988626. 1 -
+/arquivos/noticias/1500317632. 1 -
+/arquivos/noticias/DSC05129.JPG 1 -
+/noticias/128 2 -
+/arquivos/noticias/1489193680. 1 -
+/arquivos/noticias/1461101480. 2 -
+/arquivos/noticias/1502142782. 1 -
+/noticias/noticia/996 1 -
+/arquivos/noticias/DSC05075.JPG 1 -
+/arquivos/noticias/1500317577. 2 -
+/noticias/noticia/684 2 -
+/noticias/137 1 -
+/pma/print.css 1 -
+/index.php/processo-seletivo-contratacao-de-pessoal-edital-01-novembro-2009-educacao/doc_download/restrito/view/editais/arquivos/noticias/arquivos/galeria/index.php 1 -
+/arquivos/galeria/1424888348.JPG 1 -
+/arquivos/noticias/1489580441. 1 -
+/arquivos/noticias/1505153089.jpg 2 -
+/arquivos/noticias/1495225089. 1 -
+/noticias/172 2 -
+/noticias/noticia/656 2 -
+/arquivos/noticias/1489193391. 1 -
+/arquivos/noticias/1489193586. 3 -
+/arquivos/galeria/1407265860.JPG 1 -
+/index.php/processo-seletivo-contratacao-de-pessoal-edital-01-novembro-2009-educacao/doc_download/arquivos/predio/restrito/view/legislacao/arquivos/predio/restrito/view/editais/index.php 1 -
+/arquivos/noticias/1501537844. 2 -
+/arquivos/galeria/1411471600.JPG 1 -
+/wp-json/wp/v2/users 1 -
+/noticias/noticia/646 1 -
+/arquivos/noticias/1502142726. 1 -
+/arquivos/galeria/1412377038.JPG 1 -
+/arquivos/noticias/1500552588. 1 -
+/arquivos/noticias/1490022539. 1 -
+/arquivos/galeria/1412376215.JPG 1 -
+/arquivos/noticias/1450186916. 2 -
+/arquivos/galeria/1407265291.JPG 1 -
+/arquivos/noticias/DSC05045.JPG 1 -
+/arquivos/noticias/1492211318. 2 -
+/noticias/68 1 -
+/noticias/noticia/566 4 -
+/arquivos/galeria/1412367867.JPG 1 -
+/noticias/85 1 -
+/arquivos/galeria/1411471983.JPG 1 -
+/arquivos/galeria/1424268981.JPG 1 -
+/arquivos/noticias/1500485760. 1 -
+/phpthumb/phpthumbs.php 1 -
+/noticias/noticia/574 1 -
+/arquivos/galeria/1425391285.JPG 1 -
+/noticias/noticia/470 1 -
+/public/router.php 3 -
+/arquivos/noticias/1491591318. 1 -
+/noticias/noticia/920 2 -
+/arquivos/noticias/1489580394. 2 -
+/arquivos/galeria/1424269001.JPG 1 -
+/arquivos/noticias/1490022615. 1 -
+/noticias/13 2 -
+/arquivos/galeria/1412367064.JPG 1 -
+/noticias/noticia/1024 1 -
+/arquivos/manuais/1383745689.pdf 2 -
+/arquivos/noticias/1443036838. 2 -
+/arquivos/noticias/1389959138.JPG 3 -
+/noticias/noticia/880 1 -
+/arquivos/noticias/1489193936. 1 -
+/arquivos/noticias/1487711862. 2 -
+/arquivos/noticias/1497009814. 1 -
+/noticias/noticia/977 3 -
+/arquivos/noticias/1429732395. 1 -
+/galeria/40 2 -
+/noticias/noticia/427 2 -
+/noticias/noticia/813 1 -
+/arquivos/noticias/1502142747. 1 -
+/arquivos/noticias/1495040799. 1 -
+/noticias/noticia/429 1 -
+/arquivos/noticias/1500552563. 1 -
+/noticias/noticia/979 1 -
+/img/top_logo.png 1 -
+/arquivos/noticias/1500488125. 2 -
+/arquivos/manuais/1383746198.pdf 1 -
+/arquivos/noticias/1489196655. 1 -
+/arquivos/noticias/1490022575. 1 -
+/noticias/113 2 -
+/test/wp-includes/wlwmanifest.xml 10 -
+/arquivos/noticias/1489193512. 1 -
+/arquivos/noticias/1486404410. 1 -
+/kindeditor-4.1.10/themes/default/default.css 1 http://www.camapua.ms.gov.br/kindeditor-4.1.10/themes/default/default.css
+/arquivos/noticias/1500317613. 1 -
+/arquivos/noticias/1439995263. 1 -
+/arquivos/galeria/1412366459.JPG 1 -
+/arquivos/noticias/itr.jpg 2 -
+/arquivos/noticias/DSC05038.JPG 2 -
+/manual.php 2 -
+/arquivos/galeria/1411471399.JPG 1 -
+/arquivos/noticias/1484829709.jpg 1 -
+/arquivos/noticias/1487783513. 1 -
+/arquivos/noticias/1470860864. 2 -
+/arquivos/noticias/1489194277. 2 -
+/arquivos/galeria/1411755600.JPG 1 -
+/noticias/109 1 -
+/noticias/noticia/787 1 -
+/arquivos/noticias/1500317708. 7 -
+/noticias/noticia/491 1 -
+/arquivos/noticias/1492432570. 1 -
+/arquivos/noticias/1462981769. 1 -
+/arquivos/galeria/1412372136.JPG 1 -
+/noticias/89 1 -
+/telefones 6 -
+/arquivos/galeria/1417612555.JPG 1 -
+/noticias/noticia/789 1 -
+/arquivos/noticias/1500927682. 1 -
+/noticias/noticia/799 2 -
+/v1//wp-admin/install.php 1 -
+/arquivos/noticias/1511806459.jpg 1 -
+/arquivos/noticias/1470860265. 1 -
+/arquivos/noticias/1436899620. 2 -
+/noticias/noticia/764 1 -
+/arquivos/noticias/1435864493. 1 -
+/arquivos/noticias/1489194343. 3 -
+/arquivos/galeria/1424268232.JPG 1 -
+/arquivos/noticias/1500488145. 1 -
+/api/catalog/v1 2 -
+/ads.txt 1 -
+/historia 1 -
+/arquivos/galeria/1425386484.JPG 1 -
+/arquivos/galeria/1439295079.JPG 1 -
+/legislacao/30 1 -
+/arquivos/galeria/1411471558.JPG 1 -
+/noticias/noticia/481 1 -
+/wp-content/plugins/dzs-videogallery/class_parts/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 2 -
+/noticias/7 1 -
+/noticias/55 1 -
+/noticias/noticia/797 1 -
+/arquivos/noticias/1495040766. 3 -
+/noticias/noticia/734 1 -
+/arquivos/galeria/1404935013.jpg 1 -
+/arquivos/noticias/1437677543. 5 -
+/arquivos/noticias/1489193486. 1 -
+/arquivos/noticias/1427307646. 3 -
+/images/editor/separator.gif 4 -
+/arquivos/galeria/1411128733.JPG 1 -
+/arquivos/noticias/DSC05067.JPG 1 -
+/arquivos/noticias/DSC05050.JPG 1 -
+/arquivos/noticias/1465397322. 1 -
+/arquivos/noticias/1406643532. 2 -
+/noticias/noticia/871 2 -
+/arquivos/galeria/1412365454.JPG 1 -
+/arquivos/galeria/1412368584.JPG 1 -
+/noticias/74 2 -
+/arquivos/noticias/1473107177. 1 -
+/arquivos/noticias/1500497145. 1 -
+/arquivos/noticias/1501537695. 1 -
+/backup//wp-admin/install.php 1 -
+/arquivos/galeria/1424888433.JPG 1 -
+/noticias/52 4 -
+/assets/plugin/kcfinder/upload.php 1 -
+/arquivos/noticias/1436899819. 1 -
+/arquivos/noticias/1485523321.jpg 1 -
+/arquivos/noticias/1487703395. 1 -
+/noticias/noticia/706 2 -
+/img/brasao.png 9 -
+/concurso/16 1 -
+/arquivos/galeria/1412377375.JPG 1 -
+/noticias/39 1 -
+/noticias/noticia/890 2 -
+/noticias/noticia/721 1 -
+/arquivos/galeria/1424269289.JPG 1 -
+/arquivos/galeria/1424269427.JPG 1 -
+/arquivos/noticias/1500488051. 2 -
+/arquivos/noticias/1462981744. 1 -
+/public/js/wind.js 1 http://www.camapua.ms.gov.br/public/js/wind.js
+/arquivos/noticias/1443036734. 2 -
+/concurso/6 1 -
+/noticias/noticia/832 1 -
+/arquivos/noticias/1500552630. 1 -
+/noticias/noticia/862 1 -
+/videos 5 -
+/palavra-vice 4 -
+/noticias/noticia/954 3 -
+//util/phpthumb/will.php 1 -
+/arquivos/noticias/1487711918. 2 -
+/arquivos/galeria/1427309387.JPG 1 -
+/noticias/noticia/321 3 -
+/arquivos/noticias/1517235493.JPG 1 -
+/arquivos/noticias/1459276849.JPG 1 -
+/noticias/noticia/944 3 -
+/arquivos/noticias/1489195256. 1 -
+/arquivos/noticias/DSC05104.JPG 1 -
+/arquivos/noticias/1495111435. 2 -
+/arquivos/noticias/1489195824. 1 -
+/noticias/32 2 -
+/noticias/noticia/801 1 -
+/noticias/noticia/452 1 -
+/noticias/59 2 -
+/arquivos/manuais/1399470918.pdf 1 -
+/noticias/noticia/826 1 -
+/admin/view/javascript/common.js 4 -
+/sito/wp-includes/wlwmanifest.xml 10 -
+//util/phpthumb//phpThumb.php 2 -
+/arquivos/noticias/1490022521. 2 -
+/noticias/noticia/547 1 -
+/arquivos/noticias/1392995833.jpg 10 http://desvsaudepub.blogspot.com/2014/
+/noticias/60 3 -
+/noticias/noticia/694 2 -
+/arquivos/noticias/1490729289. 2 -
+/noticias/noticia/637 2 -
+/noticias/noticia/557 1 -
+/noticias/noticia/669 2 -
+/noticias/noticia/667 2 -
+/noticias/noticia/559 1 -
+/noticias/noticia/986 2 -
+/arquivos/noticias/1465397581. 2 -
+/arquivos/galeria/1424269119.JPG 1 -
+/arquivos/noticias/1489193415. 1 -
+/arquivos/galeria/1411472682.JPG 1 -
+/noticias/noticia/639 1 -
+/.env 8 -
+/arquivos/noticias/1490988906. 3 -
+/noticias/noticia/549 2 -
+/arquivos/galeria/1424268222.JPG 1 -
+/arquivos/noticias/1495040722. 2 -
+/noticias/46 1 -
+/noticias/106 1 -
+/arquivos/noticias/1465397508. 2 -
+/arquivos/noticias/1495040761. 2 -
+/arquivos/noticias/1495225074. 2 -
+/noticias/noticia/397 2 -
+/lib/phpunit/phpunit/Util/PHP/eval-stdin.php 2 -
+/arquivos/noticias/1489197006. 1 -
+/index.php/secretaria/secretaria-de-assistencia-social 1 -
+/arquivos/noticias/1500487887. 1 -
+/noticias/noticia/412 2 -
+/administrator/index.php 2 -
+/arquivos/noticias/1500317765. 1 -
+/noticias/noticia/895 1 -
+/arquivos/noticias/1487204889. 3 -
+/noticias/35 3 -
+/noticias/noticia/399 2 -
+/noticias/noticia/914 1 -
+/arquivos/noticias/1485812666.JPG 2 -
+/arquivos/noticias/1500513762. 1 -
+/arquivos/noticias/1497009807. 1 -
+/arqu%E2%80%A6/publicacoes/5d1f9140b5dc4.pdf 1 http://www.msurgente.com.br/camapua/noticia/2199/cmdca-divulga-resultado-da-prova-especifica-para-conselheiros-tutelares
+/noticias/noticia/888 3 -
+/noticias/noticia/364 3 -
+/arquivos/noticias/1500552536. 1 -
+/arquivos/noticias/1485282998. 4 -
+/index.php/processo-seletivo-contratacao-de-pessoal-edital-01-novembro-2009-educacao/doc_download/restrito/view/editais/arquivos/predio/arquivos/predio/restrito/view/transparencia/index.php 1 -
+/arquivos/manuais/1383820057.pdf 2 -
+/arquivos/noticias/1487703737. 1 -
+/arquivos/noticias/1491591469. 1 -
+/include/calendar/calendar-cn.js 1 http://www.camapua.ms.gov.br/include/calendar/calendar-cn.js
+/arquivos/noticias/1497009811. 1 -
+/noticias/115 2 -
+/arquivos/noticias/1500513771. 1 -
+/noticias/164 2 -
+/noticias/noticia/517 1 -
+/arquivos/noticias/1500552570. 1 -
+/noticias/noticia/776 1 -
+/arquivos/noticias/1486404414. 1 -
+/arquivos/predio/08.JPG 1 -
+/arquivos/noticias/1386091018.jpg 1 -
+/arquivos/noticias/1439995468. 3 -
+/noticias/noticia/959 2 -
+/noticias/noticia/586 1 -
+/arquivos/noticias/1487703450. 1 -
+/noticias/noticia/949 2 -
+/arquivos/galeria/1411473269.JPG 1 -
+/arquivos/galeria/1424269360.JPG 1 -
+/atividades-prefeitura 1 -
+/arquivos/noticias/1495225078. 3 -
+/legislacao/20 3 -
+/arquivos/noticias/1502395087. 1 -
+/arquivos/noticias/1471636337. 4 -
+/arquivos/noticias/1500317486. 3 -
+/noticias/noticia/957 1 -
+/arquivos/noticias/1471636631. 2 -
+/arquivos/noticias/1486987053. 1 -
+/arquivos/noticias/1492432557. 1 -
+/arquivos/galeria/1408644086.JPG 1 -
+/noticias/noticia/723 1 -
+/publicacoes-tipo 1 -
+/index.php/processo-seletivo-contratacao-de-pessoal-edital-01-novembro-2009-educacao/arquivos/noticias/restrito/view/arquivos/noticias/restrito/view/legislacao/index.php 1 -
+/noticias/noticia/664 2 -
+/images/phpThumb/will.php 2 -
+/arquivos/noticias/1500487983. 2 -
+/arquivos/noticias/1495040789. 2 -
+/noticias/noticia/634 1 -
+/noticias/noticia/697 1 -
+/arquivos/noticias/DSC05106.JPG 1 -
+/arquivos/noticias/1495992918. 1 -
+/noticias/noticia/450 1 -
+/index.php/processo-seletivo-contratacao-de-pessoal-edital-01-novembro-2009-educacao/doc_download/arquivos/galeria/arquivos/predio/restrito/view/editais/restrito/view/legislacao/index.php 1 -
+/noticias/18 2 -
+/noticias/noticia/544 1 -
+/noticias/noticia/917 1 -
+/noticias/noticia/339 2 -
+/noticias/noticia/528 1 -
+/arquivos/galeria/1412367910.JPG 1 -
+/arquivos/noticias/1490022474. 1 -
+/noticias/noticia/873 2 -
+/noticias/noticia/367 3 -
+/palavras-do-prefeito 3 -
+/arquivos/galeria/1412372082.JPG 1 -
+/noticias/noticia/835 1 -
+/arquivos/galeria/1411473203.JPG 1 -
+/arquivos/noticias/1387297974.JPG 1 -
+/new//wp-admin/install.php 1 -
+/arquivos/noticias/1489195657. 2 -
+/arquivos/noticias/1381434488.jpg 1 -
+/noticias/noticia/865 1 -
+/arquivos/noticias/1500552539. 1 -
+/arquivos/galeria/1424268800.JPG 1 -
+/noticias/noticia/369 2 -
+/arquivos/noticias/1500488136. 1 -
+/noticias/noticia/337 2 -
+/noticias/noticia/394 1 -
+/arquivos/galeria/1412368379.JPG 1 -
+/manager/ispmgr 1 -
+/arquivos/noticias/1496265366. 3 -
+/arquivos/noticias/1487783621. 1 -
+/noticias/noticia/410 2 -
+/js/upimg/dialog.js 1 http://www.camapua.ms.gov.br/js/upimg/dialog.js
+/arquivos/galeria/1412368949.JPG 1 -
+/arquivos/noticias/1381434578.jpg 2 -
+/arquivos/noticias/1500485743. 1 -
+/arquivos/noticias/1470860305. 1 -
+/noticias/noticia/483 1 -
+/noticias/noticia/514 2 -
+/noticias/noticia/621 2 -
+/arquivos/noticias/1485282963. 2 -
+/arquivos/noticias/1500485751. 1 -
+/arquivos/galeria/1412377932.JPG 1 -
+/arquivos/noticias/1503606059. 1 -
+/core/lib/imgthumb/phpthumbs.php 1 -
+/arquivos/noticias/1437677528. 2 -
+/arquivos/galeria/1427309251.JPG 1 -
+/arquivos/noticias/DSC05140.JPG 2 -
+/arquivos/noticias/1439995709. 3 -
+/noticias/175 1 -
+/arquivos/noticias/1489196588. 1 -
+/arquivos/noticias/1452782058. 2 -
+/arquivos/noticias/1474283069. 1 -
+/arquivos/manuais/1383820425.pdf 2 -
+/arquivos/noticias/DSC05100.JPG 1 -
+/arquivos/galeria/1438114702.JPG 1 -
+/arquivos/noticias/1502142754. 1 -
+/arquivos/galeria/1425386950.JPG 1 -
+/2019//wp-admin/install.php 1 -
+/arquivos/noticias/1379529544.jpg 1 -
+/membro/9 3 -
+/arquivos/noticias/1462981750. 1 -
+/arquivos/noticias/IMG-20140618-WA0007.jpg 2 -
+/arquivos/noticias/1471636639. 2 -
+/arquivos/legislacao/lei%20563%20-%20c%EF%BF%BDdigo%20de%20Obras.doc 1 -
+/arquivos/noticias/1389014031.JPG 2 -
+/noticias/noticia/739 1 -
+/assets/kcfinder/upload.php 1 -
+/keditor/themes/default/default.css 1 http://www.camapua.ms.gov.br/keditor/themes/default/default.css
+/arquivos/galeria/1411472143.JPG 1 -
+/arquivos/noticias/P1150431.JPG 2 -
+/noticias/noticia/767 1 -
+/arquivos/galeria/1412365155.JPG 1 -
+/index.php/processo-seletivo-contratacao-de-pessoal-edital-01-novembro-2009-educacao/arquivos/noticias/arquivos/galeria/restrito/view/editais/restrito/view/legislacao/index.php 1 -
+/arquivos/noticias/1389899401.JPG 1 -
+/arquivos/galeria/1412369001.JPG 1 -
+/arquivos/noticias/1495224993. 2 -
+/arquivos/noticias/1501537714. 2 -
+/wp1//wp-admin/install.php 1 -
+/arquivos/noticias/1500513788. 2 -
+/arquivos/galeria/1412371152.JPG 1 -
+/arquivos/noticias/1489196947. 1 -
+/arquivos/galeria/1411472503.JPG 1 -
+/noticias/noticia/455 2 -
+/arquivos/galeria/1439295282.JPG 1 -
+/noticias/28 3 -
+/arquivos/galeria/1439295311.JPG 1 -
+/noticias/136 2 -
+/arquivos/noticias/1500317701. 3 -
+/arquivos/galeria/1438114487.JPG 1 -
+/arquivos/noticias/DSC05117.JPG 1 -
+/wordpress//wp-admin/install.php 1 -
+/noticias/noticia/830 1 -
+/arquivos/noticias/1500485784. 2 -
+/arquivos/galeria/1417612677.JPG 1 -
+/arquivos/noticias/1427307707. 4 -
+/arquivos/noticias/1436899573. 1 -
+/arquivos/galeria/1412367621.JPG 1 -
+/arquivos/noticias/1500317639. 2 -
+/arquivos/midias/5aa1459e5271e.pdf%20 1 -
+/arquivos/galeria/1427309196.JPG 1 -
+/arquivos/noticias/1490988738. 1 -
+/admin/southidceditor/upload.asp 1 http://www.camapua.ms.gov.br/admin/southidceditor/upload.asp
+/noticias/63 1 -
+/test//wp-admin/install.php 1 -
+/arquivos/noticias/1443473080. 1 -
+/lib/phpunit/Util/PHP/eval-stdin.php 2 -
+/arquivos/noticias/1471636666. 2 -
+/arquivos/noticias/DSC05039.JPG 1 -
+/arquivos/noticias/1443037028. 1 -
+/arquivos/galeria/1455883674.JPG 1 -
+/arquivos/noticias/1489195890. 3 -
+/noticias/noticia/803 2 -
+/arquivos/galeria/1417612666.JPG 1 -
+/local/composer.json 1 -
+/arquivos/noticias/1490729320. 1 -
+/noticias/noticia/892 2 -
+/arquivos/noticias/1516111460.jpg 13 -
+/arquivos/noticias/1495225042. 1 -
+/arquivos/noticias/1489193437. 1 -
+/arquivos/galeria/1417612528.JPG 1 -
+/arquivos/noticias/1439995430. 1 -
+/arquivos/galeria/1424888377.JPG 1 -
+/core/lib/imgthumb/will.php 1 -
+/arquivos/noticias/1503523966.jpe 9 -
+/arquivos/noticias/1490988781. 2 -
+/arquivos/manuais/1383583234.pdf 2 -
+/arquivos/noticias/1506694237.jpg 2 -
+/arquivos/galeria/1407181275.JPG 1 -
+/noticias/noticia/579 1 -
+/arquivos/noticias/DSC05127.JPG 1 -
+/webedit/dialog/dialog.js 1 http://www.camapua.ms.gov.br/webedit/dialog/dialog.js
+/noticias/noticia/882 3 -
+/arquivos/noticias/1486404396. 1 -
+/arquivos/galeria/1438114527.JPG 1 -
+/arquivos/galeria/1414756528.JPG 1 -
+/arquivos/noticias/1462981756. 3 -
+/arquivos/noticias/1461101550. 1 -
+/arquivos/noticias/1491591422. 1 -
+/arquivos/manuais/1383592571.pdf 1 -
+/galeria 1 -
+/js/admin.js 2 -
+/arquivos/noticias/1490729402. 1 -
+/cms//wp-admin/install.php 1 -
+/arquivos/noticias/1500485755. 1 -
+/index.php/processo-seletivo-contratacao-de-pessoal-edital-01-novembro-2009-educacao/arquivos/noticias/restrito/view/editais/arquivos/predio/restrito/view/legislacao/intranet.php 1 -
+/arquivos/noticias/1495225053. 2 -
+/noticias/noticia/577 1 -
+/arquivos/galeria/1412372246.JPG 1 -
+/arquivos/noticias/1450186845. 2 -
+/noticias/noticia/922 2 -
+/arquivos/noticias/1487203409. 2 -
+/noticias/noticia/472 2 -
+/noticias/107 2 -
+/arquivos/manuais/1383820736.pdf 3 -
+/jquery-file-upload/server/php 1 -
+/arquivos/noticias/1490022465. 2 -
+/noticias/noticia/974 3 -
+/noticias/noticia/1004 1 -
+/arquivos/galeria/1407265641.JPG 1 -
+/blog/robots.txt 4 -
+/arquivos/noticias/1490988900. 1 -
+/noticias/99 2 -
+/noticias/noticia/424 2 -
+/noticias/noticia/520 1 -
+/arquivos/galeria/1411473362.JPG 1 -
+/arquivos/galeria/1424269021.JPG 1 -
+/wordpress/wp-includes/wlwmanifest.xml 13 -
+/arquivos/noticias/1500552620. 1 -
+/arquivos/noticias/1500502907. 1 -
+/arquivos/noticias/1465397296. 3 -
+/noticias/noticia/458 2 -
+/arquivos/noticias/1501537755. 2 -
+/noticias/noticia/1039 1 -
+/noticias/noticia/746 2 -
+/arquivos/noticias/1445885994. 1 -
+/legislacao/16 2 -
+/noticias/noticia/448 1 -
+/thumb/will.php 1 -
+/arquivos/noticias/DSC05079.JPG 1 -
+/noticias/noticia/756 1 -
+/arquivos/noticias/1500488151. 1 -
+/arquivos/noticias/1461101608. 1 -
+/arquivos/noticias/1502142777. 2 -
+/arquivos/galeria/1411473371.JPG 1 -
+/arquivos/noticias/1500552608. 2 -
+/arquivos/noticias/1500552613. 1 -
+/noticias/131 1 -
+/noticias/173 2 -
+/arquivos/noticias/1500485716. 1 -
+/noticias/76 1 -
+/noticias/20 3 -
+/arquivos/noticias/1490729345. 1 -
+/arquivos/noticias/DSC05015.JPG 2 -
+/index.php 15 -
+/arquivos/noticias/DSC05093.JPG 1 -
+/arquivos/noticias/1500513796. 1 -
+/arquivos/noticias/1492211351. 1 -
+/noticias/noticia/461 3 -
+/arquivos/noticias/1498487566.jpg 8 -
+/arquivos/noticias/1502142794. 1 -
+/arquivos/galeria/1414758271.JPG 1 -
+/noticias/noticia/431 2 -
+/arquivos/galeria/1412373316.JPG 1 -
+/arquivos/noticias/1439995753. 3 -
+/noticias/noticia/784 1 -
+/arquivos/noticias/1470860273. 3 -
+/arquivos/noticias/1491591291. 1 -
+/arquivos/editais/Edital%20-%20PSS%202013%20(Edital%20de%20Convocacao2).pdf 2 -
+/arquivos/noticias/1500552548. 1 -
+/arquivos/galeria/1424888384.JPG 1 -
+/arquivos/noticias/1500927684. 1 -
+/noticias/noticia/402 2 -
+/arquivos/noticias/1489197267. 1 -
+/arquivos/galeria/1417612261.JPG 1 -
+/noticias/noticia/493 1 -
+/arquivos/noticias/1489197138. 1 -
+/arquivos/noticias/DSC05086.JPG 1 -
+/noticias/139 3 -
+/arquivos/noticias/1406654880. 2 -
+/wp-content/plugins/wp-time-capsule/js/opentip-jquery.js 1 -
+/noticias/noticia/904 2 -
+/arquivos/galeria/1424437786.JPG 1 -
+/arquivos/noticias/DSC05070.JPG 1 -
+/arquivos/noticias/1427462443.JPG 2 -
+/arquivos/noticias/1471636636. 3 -
+/arquivos/galeria/1439295427.JPG 1 -
+/arquivos/noticias/1505757829.JPG 2 -
+/arquivos/noticias/1500317772. 3 -
+/arquivos/noticias/1490022502. 2 -
+/noticias/170 2 -
+/arquivos/galeria/1412376728.JPG 1 -
+/arquivos/noticias/1500317781. 3 -
+/arquivos/editais/Edital001.pdf 1 -
+/noticias/noticia/868 2 -
+/arquivos/noticias/1487703663. 2 -
+/noticias/noticia/509 1 -
+/arquivos/noticias/1496265357. 2 -
+/noticias/144 4 -
+/arquivos/galeria/1424268843.JPG 1 -
+/arquivos/noticias/1377113277.JPG 1 -
+/noticias/noticia/525 1 -
+/arquivos/galeria/1412377900.JPG 1 -
+/arquivos/noticias/1489193905. 1 -
+/lib/phpunit/phpunit/src/Util/PHP/eval-stdin.php 2 -
+/noticias/noticia/507 1 -
+/arquivos/galeria/1412366280.JPG 1 -
+/index.php/processo-seletivo-contratacao-de-pessoal-edital-01-novembro-2009-educacao/doc_download/arquivos/galeria/arquivos/noticias/restrito/view/legislacao/index.php 1 -
+/noticias/noticia/838 2 -
+/noticias/95 1 -
+/arquivos/noticias/1486139715.JPG 4 -
+/noticias/4 6 -
+/noticias/noticia/687 1 -
+/arquivos/noticias/1489194567. 1 -
+/arquivos/galeria/1427309416.JPG 1 -
+/noticias/112 3 -
+/noticias/noticia/316 3 -
+/noticias/noticia/811 2 -
+/arquivos/galeria/1407413549.JPG 1 -
+/arquivos/noticias/1489194926. 1 -
+/arquivos/noticias/1489195598. 2 -
+/phpthumb/will.php 1 -
+/arquivos/manuais/1385051076.pdf 1 -
+/arquivos/noticias/PLANILHA%20ITR.doc 1 -
+/noticias/44 2 -
+/arquivos/galeria/1412366379.JPG 1 -
+/arquivos/noticias/1427307745. 1 -
+/noticias/92 2 -
+/arquivos/noticias/DSC05001.JPG 1 -
+/arquivos/noticias/1410789883.jpg 1 -
+/arquivos/noticias/DSC05152.JPG 1 -
+/noticias/10 1 -
+/arquivos/galeria/1412374798.JPG 1 -
+/arquivos/noticias/1378326034.JPG 1 -
+/arquivos/noticias/1500513774. 1 -
+/arquivos/noticias/1490988709. 3 -
+/arquivos/noticias/1495224961. 1 -
+/membro/8 1 -
+/arquivos/noticias/1500552545. 1 -
+/arquivos/noticias/1487783628. 3 -
+/arquivos/noticias/1503606057. 1 -
+/arquivos/noticias/1446822243. 1 -
+/noticias/noticia/596 1 -
+/arquivos/noticias/DSC05041.JPG 1 -
+/arquivos/galeria/1424437736.JPG 1 -
+/arquivos/galeria/1412367435.JPG 1 -
+/admin/composer.json 1 -
+/arquivos/noticias/1470860270. 1 -
+/arquivos/galeria/1412377133.JPG 1 -
+/arquivos/noticias/DSC05136.JPG 1 -
+/noticias/noticia/961 3 -
+/arquivos/noticias/1489195323. 1 -
+/noticias/noticia/782 2 -
+/arquivos/noticias/1495224980. 2 -
+/arquivos/noticias/DSC05065.JPG 3 -
+/arquivos/noticias/1490729312. 1 -
+/noticias/67 1 -
+/noticias/84 3 -
+/arquivos/galeria/1417612488.JPG 1 -
+/noticias/noticia/685 1 -
+/arquivos/noticias/1495224942. 1 -
+/admin/includes/general.js 4 -
+/arquivos/galeria/1455883653.JPG 1 -
+/noticias/noticia/591 2 -
+/noticias/noticia/1025 2 -
+/arquivos/galeria/1412377201.JPG 1 -
+/arquivos/noticias/1471636669. 2 -
+/arquivos/noticias/1500552628. 1 -
+/noticias/noticia/948 1 -
+/arquivos/noticias/1502142768. 1 -
+/noticias/noticia/958 3 -
+/noticias/8 1 -
+/arquivos/noticias/1489194619. 1 -
+/arquivos/noticias/1470860312. 3 -
+/xmlrpc.php 17 -
+/noticias/noticia/570 1 -
+/arquivos/galeria/1417612401.JPG 1 -
+/noticias/noticia/341 1 -
+/phpunit/src/Util/PHP/eval-stdin.php 2 -
+/arquivos/galeria/1424269413.JPG 1 -
+/arquivos/galeria/1411131128.JPG 1 -
+//util/phpthumb/phpthumbs.php 1 -
+/arquivos/noticias/1495040727. 1 -
+/arquivos/noticias/P1180925.JPG 1 -
+/noticias/noticia/474 1 -
+/arquivos/noticias/1502745298. 2 -
+/noticias/noticia/351 1 -
+/demo//wp-admin/install.php 1 -
+/noticias/noticia/1006 4 -
+/plugins/kcfinder/upload.php 1 -
+/noticias/noticia/856 2 -
+/arquivos/noticias/1492432564. 1 -
+/arquivos/noticias/1490988644. 3 -
+/noticias/noticia/846 2 -
+/arquivos/noticias/1495224956. 1 -
+/arquivos/noticias/1487083666. 1 -
+/arquivos/noticias/1500485789. 2 -
+/noticias/noticia/422 2 -
+/arquivos/manuais/1383583100.pdf 1 -
+/arquivos/noticias/1502142785. 2 -
+/vendor/phpunit/phpunit/build.xml 4 -
+/arquivos/noticias/1500317514. 5 -
+/arquivos/noticias/1500552599. 2 -
+/arquivos/noticias/1489196886. 1 -
+/noticias/noticia/884 2 -
+/noticias/noticia/368 1 -
+/noticias/noticia/527 2 -
+/arquivos/galeria/1412376778.JPG 1 -
+/arquivos/noticias/1495040783. 2 -
+/arquivos/noticias/1502142759. 2 -
+/arquivos/noticias/1485282906.jpg 2 -
+/arquivos/noticias/DSC05064.JPG 1 -
+/arquivos/noticias/1487711865. 1 -
+/noticias/148 2 -
+/noticias/noticia/338 1 -
+/arquivos/galeria/1407412530.JPG 1 -
+/arquivos/noticias/1497009818. 3 -
+/arquivos/noticias/1468250227. 3 -
+/arquivos/galeria/1407265378.JPG 1 -
+/noticias/noticia/1038 1 -
+/arquivos/noticias/1500317757. 4 -
+/arquivos/noticias/1500317645. 3 -
+/arquivos/galeria/1439295398.JPG 1 -
+//wp-admin/install.php 1 -
+/arquivos/noticias/1491591328. 1 -
+/arquivos/noticias/1496265348. 1 -
+/panel/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 2 -
+/noticias/noticia/1031 1 -
+/phpThumb//phpThumb.php 2 -
+/arquivos/manuais/1383744961.pdf 1 -
+/arquivos/galeria/1439295326.JPG 1 -
+/arquivos/noticias/1505919811.jpg 1 -
+/admin/editor/kcfinder/upload.php 1 -
+/arquivos/noticias/1465397357. 2 -
+/arquivos/noticias/1487783641. 2 -
+/arquivos/noticias/DSC05056.JPG 1 -
+/arquivos/manuais/1383674083.pdf 2 -
+/noticias/noticia/680 1 -
+/noticias/noticia/751 2 -
+/arquivos/manuais/1383745913.pdf 1 -
+/arquivos/galeria/1407180882.JPG 1 -
+/arquivos/galeria/1407412694.JPG 1 -
+/arquivos/galeria/1424269190.JPG 1 -
+/noticias/noticia/741 2 -
+/arquivos/noticias/IMG-20140618-WA0001.jpg 1 -
+/noticias/noticia/738 2 -
+/fileupload/server/php 1 -
+/arquivos/noticias/1501537667. 1 -
+/membro/7 5 -
+/arquivos/galeria/1411473511.JPG 1 -
+/arquivos/noticias/1495841478. 1 -
+/arquivos/noticias/1470860259. 1 -
+/arquivos/noticias/1471636620. 1 -
+/noticias/noticia/436 1 -
+/arquivos/noticias/1500513783. 3 -
+/arquivos/noticias/1471636614. 6 -
+/admin/plugins/jquery-file-upload/server/php 1 -
+/arquivos/noticias/masc.jpg 2 -
+/arquivos/noticias/1436899652. 2 -
+/bk//wp-admin/install.php 1 -
+/noticias/noticia/466 2 -
+/noticias/135 1 -
+/arquivos/noticias/1490022643. 4 -
+/noticias/noticia/768 1 -
+/arquivos/noticias/1500502926. 1 -
+/cms/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 2 -
+/arquivos/noticias/1495225069. 2 -
+/arquivos/noticias/1495224931. 2 -
+/noticias/noticia/533 1 -
+/arquivos/noticias/1495224966. 2 -
+/arquivos/noticias/1500552634. 1 -
+/arquivos/noticias/1500485725. 1 -
+/arquivos/noticias/1484929110. 3 -
+/arquivos/galeria/1439295295.JPG 1 -
+/arquivos/noticias/DSC05085.JPG 1 -
+/index.php/noticia/por-intermedio-do-prefeito-delano-huber-almir-sater-fara-show-em-camapua 1 -
+/noticias/noticia/575 2 -
+/noticias/noticia/643 1 -
+/noticias/noticia/711 1 -
+/arquivos/noticias/1497013459. 4 -
+/arquivos/noticias/1450186999. 1 -
+/core/lib/imgthumb//phpThumb.php 2 -
+/noticias/noticia/563 1 -
+/arquivos/galeria/1412365724.JPG 1 -
+/arquivos/noticias/1462981794. 4 -
+//providers/htmleditorproviders/telerik/telerik.web.ui.dialoghandler.aspx 1 -
+/arquivos/galeria/1407186421.JPG 1 -
+/arquivos/noticias/1500513780. 1 -
+/arquivos/galeria/1412366432.JPG 1 -
+/concursos 3 -
+/index.php/noticia/prefeitura-e-energisa-realizam-parceria-em-camapua 1 -
+/assets/global/plugins/JQuery-File-Upload/server/php 1 -
+/noticias/noticia/404 1 -
+/noticias/noticia/500 2 -
+/portal//wp-admin/install.php 1 -
+/arquivos/noticias/DSC00572.JPG 1 -
+/noticias/noticia/993 2 -
+/arquivos/legislacao/Lei%20640%20-%20c%C3%83%C2%B3digo%20de%20policia%20administrativa.doc 1 -
+/arquivos/noticias/1500552566. 1 -
+/js/comm.js 2 -
+/noticias/noticia/902 2 -
+/arquivos/editais/edital03.pdf 6 -
+/arquivos/noticias/1376591856.jpg 3 -
+/2018//wp-admin/install.php 1 -
+/index.php/noticia/prefeito-decreta-luto-oficial-em-razao-do-falecimento-do-dr-angelo 2 -
+/arquivos/noticias/1492432569. 1 -
+/noticias/72 1 -
+/arquivos/galeria/1407181212.JPG 1 -
+/index.php/processo-seletivo-contratacao-de-pessoal-edital-01-novembro-2009-educacao/arquivos/noticias/restrito/view/editais/restrito/view/legislacao/index.php 1 -
+/arquivos/noticias/1490988890. 2 -
+/noticias/117 1 -
+/arquivos/noticias/1489195387. 1 -
+/arquivos/noticias/1500317547. 2 -
+/arquivos/noticias/DSC05122.JPG 2 -
+/noticias/noticia/983 1 -
+/arquivos/noticias/1492211348. 1 -
+/arquivos/noticias/1471636625. 1 -
+/arquivos/galeria/1439295154.JPG 1 -
+/arquivos/noticias/1500552542. 1 -
+/arquivos/galeria/1412367752.JPG 1 -
+/noticias/noticia/360 3 -
+/arquivos/galeria/1411471330.JPG 1 -
+/arquivos/noticias/1385573804.jpg 1 -
+/arquivos/galeria/1425386529.JPG 1 -
+/kcfinder/upload.php 1 -
+/index.php/processo-seletivo-contratacao-de-pessoal-edital-01-novembro-2009-educacao/doc_download/restrito/view/arquivos/arquivos/noticias/restrito/view/editais/index.php 1 -
+/noticia 2 -
+/arquivos/noticias/1489197081. 1 -
+/arquivos/galeria/1411755819.JPG 1 -
+/arquivos/galeria/1408644918.JPG 1 -
+/JQuery-File-Upload/server/php 1 -
+/noticias/noticia/392 1 -
+/arquivos/galeria/1407412602.JPG 1 -
+/arquivos/noticias/1470860254. 3 -
+/noticias/noticia/578 1 -
+/noticias/noticia/823 1 -
+/ckeditor/plugins/kcfinder/upload.php 1 -
+/arquivos/noticias/1502142703. 2 -
+/noticias/noticia/417 1 -
+/arquivos/folhetins/asp.asp 1 -
+/arquivos/galeria/1425386119.JPG 1 -
+/arquivos/manuais/1383821012.pdf 3 -
+/arquivos/galeria/1411065114.JPG 1 -
+/noticias/noticia/662 2 -
+/arquivos/galeria/1411130842.JPG 1 -
+/arquivos/galeria/1408644591.JPG 1 -
+/noticias/21 2 -
+/arquivos/galeria/1408643602.JPG 1 -
+/assets/global/plugins/jquery-file-upload/server/php/index.php 1 -
+/noticias/noticia/765 1 -
+/noticias/noticia/735 1 -
+/noticias/noticia/542 3 -
+/arquivos/galeria/1411472871.JPG 1 -
+/arquivos/noticias/1505309693.jpg 5 -
+/noticias/noticia/773 1 -
+/noticias/noticia/632 1 -
+/.idea/workspace.xml 2 -
+/noticias/75 2 -
+/galeria/39 3 -
+/noticias/5 4 -
+/noticias/noticia/552 2 -
+/arquivos/galeria/1412377834.JPG 1 -
+/arquivos/noticias/1487203412. 1 -
+/galeria/46 3 -
+/noticias/130 2 -
+/arquivos/galeria/1414758328.JPG 1 -
+/arquivos/noticias/1501537807. 2 -
+/noticias/noticia/457 2 -
+/arquivos/noticias/1495040703. 2 -
+/admin/upload/upfile.asp 1 http://www.camapua.ms.gov.br/admin/upload/upfile.asp
+/noticias/noticia/690 1 -
+/arquivos/noticias/1495040750. 2 -
+/noticias/noticia/449 1 -
+/arquivos/noticias/1375197857.pdf 2 -
+/arquivos/noticias/FOTO%20FACHADA%20SAMU.JPG 1 -
+/arquivos/noticias/1500552522. 2 -
+/arquivos/noticias/1490988767. 2 -
+/arquivos/noticias/1489197524. 1 -
+/noticias/noticia/459 2 -
+/arquivos/galeria/1424438055.JPG 1 -
+/arquivos/noticias/1500488060. 2 -
+/noticias/noticia/373 1 -
+/arquivos/galeria/1412365748.JPG 1 -
+/noticias/noticia/867 2 -
+/arquivos/galeria/1438114349.JPG 1 -
+/noticias/noticia/839 2 -
+/noticias/96 2 -
+/noticias/noticia/335 2 -
+/wp-includes/js/jquery/jquery.js 4 -
+/arquivos/noticias/1491591275. 1 -
+/noticias/noticia/508 1 -
+/arquivos/editais/edital04.pdf 4 -
+/arquivos/noticias/1486124056.JPG 2 -
+/noticias/noticia/365 2 -
+/noticias/noticia/915 1 -
+/arquivos/galeria/1438114597.JPG 1 -
+/index.php/processo-seletivo-contratacao-de-pessoal-edital-01-novembro-2009-educacao/doc_download/restrito/view/editais/arquivos/noticias/arquivos/galeria/restrito/view/transparencia/intranet.php 1 -
+/noticias/3 7 -
+/noticias/noticia/837 1 -
+/arquivos/noticias/1462981781. 1 -
+/arquivos/noticias/1495992889. 1 -
+/arquivos/noticias/1471636628. 2 -
+/noticias/noticia/894 2 -
+/noticias/133 4 -
+/noticias/171 2 -
+/arquivos/noticias/1500317562. 2 -
+/noticias/noticia/869 1 -
+/arquivos/galeria/1411131313.JPG 1 -
+/noticias/noticia/601 1 -
+/index.php/processo-seletivo-contratacao-de-pessoal-edital-01-novembro-2009-educacao/doc_download/arquivos/galeria/restrito/view/legislacao/intranet.php 1 -
+/arquivos/galeria/1417612304.JPG 1 -
+/myadmin/print.css 1 -
+/arquivos/galeria/1407413268.JPG 1 -
+/arquivos/galeria/1424888366.JPG 1 -
+/arquivos/noticias/1384884690.pdf 2 -
+/arquivos/noticias/1382988086.png 1 -
+/arquivos/galeria/1425413260.JPG 1 -
+/noticias/34 2 -
+/arquivos/noticias/1500552589. 1 -
+/arquivos/galeria/1412375137.JPG 1 -
+/arquivos/noticias/1495225057. 3 -
+/arquivos/noticias/1516026553.jpg 21 -
+/arquivos/noticias/DSC05094.JPG 1 -
+/noticias/noticia/760 1 -
+/arquivos/galeria/1438114541.JPG 1 -
+/noticias/noticia/945 1 -
+/noticias/noticia/955 1 -
+/arquivos/noticias/DSC05138.JPG 1 -
+/noticias/11 2 -
+/noticias/79 1 -
+/index.php/noticia/prefeitura-decreta-ponto-facultativo 1 -
+/arquivos/noticias/1489196717. 3 -
+/noticias/noticia/581 1 -
+/arquivos/noticias/1501537729. 2 -
+/arquivos/galeria/1439295004.JPG 1 -
+/arquivos/noticias/DSC00619.JPG 1 -
+/arquivos/noticias/1502395085. 1 -
+/arquivos/galeria/1411128925.JPG 1 -
+/noticias/noticia/695 1 -
+/arquivos/noticias/1470860291. 2 -
+/arquivos/noticias/1500488043. 1 -
+/noticias/noticia/688 2 -
+/arquivos/noticias/1389957024.JPG 2 -
+/noticias/noticia/792 3 -
+/noticias/102 2 -
+/arquivos/noticias/DSC05105.JPG 1 -
+/index.php/processo-seletivo-contratacao-de-pessoal-edital-01-novembro-2009-educacao/doc_download/arquivos/galeria/restrito/view/legislacao/arquivos/predio/restrito/view/editais/intranet.php 1 -
+/index.php/processo-seletivo-contratacao-de-pessoal-edital-01-novembro-2009-educacao/doc_download/arquivos/noticias/arquivos/predio/index.php 1 -
+/database/print.css 1 -
+/arquivos/galeria/1408644978.JPG 1 -
+/noticias/noticia/834 2 -
+/arquivos/noticias/P1180910.JPG 1 -
+/arquivos/galeria/1408645009.JPG 1 -
+/arquivos/noticias/1500487997. 1 -
+/index.php/processo-seletivo-contratacao-de-pessoal-edital-01-novembro-2009-educacao/arquivos/noticias/arquivos/predio/restrito/view/transparencia/index.php 1 -
+/noticias/111 1 -
+/noticias/100 1 -
+/noticias/noticia/395 1 -
+/galeria/3 1 -
+/arquivos/noticias/1503606054. 1 -
+/noticias/noticia/864 2 -
+/noticias/noticia/388 1 -
+/img/assine.png 2 -
+/arquivos/legislacao/Lei%20640%20-%20c%EF%BF%BDdigo%20de%20policia%20administrativa.doc 1 -
+/noticias/noticia/899 1 -
+/arquivos/editais/edital08.pdf 1 -
+/equipe 5 -
+/arquivos/galeria/1408022900.JPG 1 -
+/noticias/noticia/515 2 -
+/arquivos/galeria/1424888414.JPG 1 -
+/js/common.js 1 http://www.camapua.ms.gov.br/js/common.js
+/noticias/noticia/1020 1 -
+/noticias/noticia/908 2 -
+/noticias/168 1 -
+/arquivos/noticias/1487203410. 3 -
+/noticias/noticia/771 1 -
+/arquivos/galeria/1409685488.JPG 1 -
+/arquivos/noticias/1489194420. 1 -
+/arquivos/transparencia/Comparativo%20da%20Receita.pdf 1 -
+/arquivos/noticias/1484928908.jpg 2 -
+/arquivos/noticias/1491591369. 1 -
+/images/logo_pqn.jpg 31 -
+/arquivos/galeria/1414758180.JPG 1 -
+/arquivos/noticias/P1150406.JPG 3 -
+/arquivos/noticias/1495225027. 6 -
+/arquivos/noticias/1495224939. 1 -
+/arquivos/noticias/1500552592. 1 -
+/noticias/noticia/790 2 -
+/arquivos/noticias/1495841472. 1 -
+/noticias/86 4 -
+/arquivos/noticias/1501537760. 1 -
+/arquivos/noticias/P1150421.JPG 1 -
+/shop/wp-includes/wlwmanifest.xml 10 -
+/index.php/processo-seletivo-contratacao-de-pessoal-edital-01-novembro-2009-educacao/doc_download/arquivos/galeria/arquivos/galeria/restrito/view/legislacao/restrito/view/legislacao/index.php 1 -
+/arquivos/galeria/1439295050.JPG 1 -
+/arquivos/noticias/1489194763. 1 -
+/arquivos/noticias/P1180900.JPG 1 -
+/arquivos/manuais/1383673956.pdf 1 -
+/arquivos/noticias/atendimentos%20_saude.jpg 1 -
+/arquivos/galeria/1412377336.JPG 1 -
+/noticias/17 2 -
+/arquivos/noticias/1435864522. 1 -
+/arquivos/noticias/1495225018. 1 -
+/blog/wp-includes/wlwmanifest.xml 13 -
+/arquivos/galeria/1408643686.JPG 1 -
+/arquivos/manuais/1383582818.pdf 1 -
+/arquivos/galeria/1412368145.JPG 1 -
+/app/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 2 -
+/arquivos/galeria/1424269233.JPG 1 -
+/noticias/noticia/981 1 -
+/arquivos/noticias/1377893978.JPG 3 -
+/arquivos/editais/edital2012.pdf 2 -
+/arquivos/noticias/1379093506.jpg 2 -
+/arquivos/galeria/1411755634.JPG 1 -
+/arquivos/galeria/1439295013.JPG 1 -
+/arquivos/galeria/1411131388.JPG 1 -
+/noticias/noticia/545 1 -
+/arquivos/noticias/1486404400. 3 -
+/arquivos/editais/edital09.pdf 3 -
+/noticias/noticia/673 1 -
+/arquivos/galeria/1412365870.JPG 1 -
+/arquivos/galeria/1424269225.JPG 1 -
+/noticias/noticia/555 1 -
+/arquivos/noticias/DSC05081.JPG 2 -
+/arquivos/noticias/1466450099. 1 -
+/arquivos/noticias/1490988831. 2 -
+/noticias/noticia/635 1 -
+/legislacao/26 2 -
+/index.php/noticia/banda-municipal-esta-com-inscricoes-abertas-para-novos-integrantes 1 -
+/noticias/noticia/726 3 -
+/arquivos/noticias/IMG-20140618-WA0043.jpg 1 -
+/arquivos/noticias/1500485773. 2 -
+/noticias/noticia/428 2 -
+/arquivos/galeria/1425390170.JPG 1 -
+/sparql.json 2 -
+/arquivos/galeria/1411755873.JPG 1 -
+/arquivos/noticias/1495841486. 1 -
+/noticias/noticia/978 1 -
+/arquivos/galeria/1424268287.JPG 1 -
+/vpn/../vpns/cfg/smb.conf 1 http://camapua.ms.gov.br/vpn/../vpns/cfg/smb.conf
+/arquivos/noticias/DSC04970.JPG 1 -
+/noticias/noticia/390 2 -
+/noticias/132 1 -
+/galeria/38 2 -
+/arquivos/noticias/1489194512. 1 -
+/noticias/noticia/583 1 -
+/noticias/noticia/414 1 -
+/arquivos/noticias/1489194017. 1 -
+/noticias/noticia/510 2 -
+/arquivos/manuais/1383672921.pdf 1 -
+/noticias/noticia/332 2 -
+/arquivos/galeria/1407186339.JPG 1 -
+/noticias/noticia/912 1 -
+/arquivos/galeria/1407186220.JPG 1 -
+/arquivos/noticias/1495225084. 2 -
+/arquivos/galeria/1412367201.JPG 1 -
+/arquivos/galeria/1417612271.JPG 1 -
+/arquivos/noticias/1502142728. 2 -
+/arquivos/editais/edital%200%2003.pdf 2 -
+/arquivos/noticias/1495224997. 1 -
+/arquivos/noticias/1489194843. 1 -
+/arquivos/galeria/1424269027.JPG 1 -
+/arquivos/galeria/1411473424.JPG 1 -
+/2019/wp-includes/wlwmanifest.xml 9 -
+/noticias/noticia/788 1 -
+/arquivos/editais/1386670634.pdf 1 -
+/noticias/119 1 -
+/arquivos/galeria/1411755848.JPG 1 -
+/arquivos/noticias/eQUIPE%20samU1.JPG 1 -
+/vendor/phpunit/phpunit/Util/PHP/eval-stdin.php 2 -
+/arquivos/noticias/1471636609. 2 -
+/arquivos/galeria/1438114673.JPG 1 -
+/arquivos/noticias/1497009810. 1 -
+/arquivos/noticias/1489193842. 1 -
+/arquivos/noticias/1502142751. 1 -
+/arquivos/noticias/1489196311. 1 -
+/noticias/noticia/486 1 -
+/arquivos/noticias/1489580426. 1 -
+/arquivos/noticias/1461101566. 3 -
+/arquivos/noticias/1505334240.JPG 5 -
+/noticias/27 2 -
+/arquivos/manuais/1383820089.pdf 2 -
+/arquivos/noticias/1405113245. 2 -
+/https://www.mpms.mp.br 1 -
+/arquivos/noticias/1471636612. 2 -
+/noticias/noticia/603 2 -
+/mysql/print.css 1 -
+/noticias/noticia/876 2 -
+/arquivos/noticias/1495224974. 1 -
+/arquivos/editais/edital07.pdf 1 -
+/arquivos/noticias/1507408454.jpg 3 -
+/noticias/noticia/952 5 -
+/noticias/103 2 -
+/arquivos/noticias/1442258410. 1 -
+/noticias/noticia/550 2 -
+/noticias/noticia/630 1 -
+/assets/global/plugins/jquery-file-upload/server/php 1 -
+/temp//wp-admin/install.php 1 -
+/noticias/noticia/540 1 -
+/arquivos/noticias/1428608034. 1 -
+/noticias/noticia/371 1 -
+/noticias/noticia/454 2 -
+/arquivos/midias/5aa1459e5271e.pdf%09 2 -
+/noticias/noticia/1018 2 -
+/arquivos/galeria/1407186611.JPG 1 -
+/arquivos/galeria/1424269303.JPG 1 -
+/arquivos/noticias/1450186759. 1 -
+/arquivos/noticias/1491591261. 1 -
+/noticias/49 1 -
+/arquivos/noticias/1502142717. 1 -
+/arquivos/noticias/1394801964.jpg 1 -
+/arquivos/noticias/1503589597.jpg 2 -
+/arquivos/galeria/1414758352.JPG 1 -
+/arquivos/noticias/DSC05103.JPG 1 -
+/arquivos/noticias/1500317690. 1 -
+/arquivos/noticias/1500552611. 1 -
+/arquivos/noticias/1394200249.JPG 1 -
+/cidade 6 -
+/arquivos/noticias/1497009812. 1 -
+/arquivos/noticias/1495224985. 2 -
+/arquivos/noticias/1485870044. 2 -
+/noticias/56 2 -
+/arquivos/noticias/DSC05133.JPG 1 -
+/arquivos/manuais/1391189374.pdf 1 -
+/arquivos/noticias/1489195965. 1 -
+/arquivos/galeria/1411755703.JPG 1 -
+/noticias/noticia/353 4 -
+/noticias/noticia/496 1 -
+/concurso/12 9 -
+/arquivos/noticias/1496265353. 3 -
+/noticias/noticia/798 1 -
+/noticias/noticia/343 1 -
+/arquivos/noticias/1490988579. 2 -
+/noticias/noticia/682 1 -
+/arquivos/noticias/1495040744. 2 -
+/arquivos/noticias/1500552637. 1 -
+/arquivos/noticias/1500317695. 2 -
+/arquivos/noticias/DSC05110.JPG 1 -
+/arquivos/galeria/1412365404.JPG 1 -
+/arquivos/galeria/1412366404.JPG 1 -
+/images/phpThumb/phpthumbs.php 2 -
+/arquivos/noticias/1500487946. 1 -
+/arquivos/noticias/1487703622. 1 -
+/arquivos/noticias/1502142772. 1 -
+/arquivos/noticias/DSC05044.JPG 1 -
+/laravel/composer.json 1 -
+/arquivos/noticias/1437677557. 1 -
+/arquivos/noticias/1500552526. 1 -
+/arquivos/galeria/1424268217.JPG 1 -
+/noticias/noticia/593 2 -
+/arquivos/noticias/1471636683. 3 -
+/noticias/noticia/900 4 -
+/arquivos/noticias/1495225022. 4 -
+/2016/wp-includes/wlwmanifest.xml 1 -
+/arquivos/galeria/1438114639.JPG 1 -
+/arquivos/noticias/1489194083. 1 -
+/arquivos/noticias/1462981799. 2 -
+/noticias/noticia/963 2 -
+/asp/upload_json.asp 1 http://www.camapua.ms.gov.br/asp/upload_json.asp
+/arquivos/noticias/1487783624. 2 -
+/arquivos/noticias/1495224950. 2 -
+/arquivos/galeria/1417612614.JPG 1 -
+/membro/6 2 -
+/arquivos/noticias/1489194487. 1 -
+/arquivos/galeria/1412366693.JPG 1 -
+/noticias/noticia/933 3 -
+/noticias/noticia/425 2 -
+/arquivos/noticias/1501537709. 3 -
+/noticias/noticia/407 2 -
+/noticias/noticia/975 3 -
+/arquivos/noticias/1501537802. 1 -
+/arquivos/galeria/1425390013.JPG 1 -
+/arquivos/noticias/1500487873. 1 -
+/noticias/noticia/548 2 -
+/noticias/45 2 -
+/arquivos/noticias/1393792993.jpg 1 -
+/noticias/noticia/558 1 -
+/noticias/noticia/1005 2 -
+/noticias/61 1 -
+/arquivos/noticias/1487291120. 1 -
+/arquivos/noticias/1511271153.jpg 2 -
+/arquivos/noticias/1490729335. 1 -
+/noticias/124 3 -
+/arquivos/noticias/1501537849. 2 -
+/noticias/noticia/668 1 -
+/arquivos/galeria/1412377964.JPG 1 -
+/arquivos/noticias/DSC05060.JPG 1 -
+/arquivos/noticias/1404481880.jpg 1 -
+/arquivos/noticias/DSC05137.JPG 1 -
+/arquivos/noticias/P1180916.JPG 1 -
+/arquivos/galeria/1486494484.jpg 1 -
+/arquivos/noticias/1500552558. 1 -
+/arquivos/noticias/1501537752. 1 -
+/arquivos/galeria/1427309524.JPG 1 -
+/phpunit/Util/PHP/eval-stdin.php 2 -
+/arquivos/galeria/1412376893.JPG 1 -
+/noticias/noticia/561 1 -
+/arquivos/noticias/1500488101. 2 -
+/arquivos/noticias/1468250223. 1 -
+/arquivos/noticias/DSC05072.JPG 1 -
+/galeria/42 1 -
+/noticias/noticia/713 2 -
+/arquivos/noticias/1393509935.JPG 1 -
+/index.php/pagina/conheca-a-cidade 1 https://www.google.com/
+/arquivos/transparencia/Audiencia%20Publica%201%20Semestre%20-%202014.pdf 1 -
+/noticias/noticia/651 1 -
+/noticias/noticia/780 2 -
+/arquivos/noticias/1489194382. 3 -
+/noticias/noticia/531 1 -
+/arquivos/noticias/1489193610. 1 -
+/arquivos/noticias/1500317671. 2 -
+/plugins/system/debug/debug.xml 4 -
+/arquivos/noticias/1500317657. 2 -
+/arquivos/noticias/1486404403. 1 -
+/arquivos/noticias/1489195150. 1 -
+/noticias/154 2 -
+/arquivos/noticias/1471636633. 3 -
+/arquivos/noticias/P1180921.JPG 1 -
+/noticias/105 4 -
+/noticias/noticia/518 2 -
+/noticias/noticia/927 1 -
+/noticias/noticia/905 1 -
+/arquivos/noticias/1495224970. 2 -
+/noticias/42 1 -
+/arquivos/noticias/1491591344. 2 -
+/noticias/noticia/398 2 -
+/noticias/noticia/743 3 -
+/noticias/116 1 -
+/arquivos/galeria/1417612428.JPG 1 -
+/arquivos/noticias/1502142762. 1 -
+/noticias/noticia/889 3 -
+/arquivos/galeria/1439295288.JPG 1 -
+/noticias/noticia/385 3 -
+/noticias/noticia/753 1 -
+/noticias/noticia/572 2 -
+/arquivos/galeria/1411472487.JPG 1 -
+/arquivos/noticias/1503606067. 1 -
+/noticias/36 2 -
+/arquivos/galeria/1417612500.JPG 1 -
+/arquivos/noticias/DSC00591.JPG 1 -
+/noticias/noticia/420 2 -
+/arquivos/noticias/DSC05130.JPG 1 -
+/file-upload/server/php 1 -
+/noticias/noticia/970 1 -
+/noticias/noticia/887 2 -
+/index.php/processo-seletivo-contratacao-de-pessoal-edital-01-novembro-2009-educacao/doc_download/arquivos/predio/restrito/view/editais/restrito/view/editais/arquivos/galeria/index.php 1 -
+/noticias/noticia/524 1 -
+/galeria/35 1 -
+/noticias/9 2 -
+/noticias/noticia/1026 2 -
+/arquivos/galeria/1438114515.JPG 1 -
+/noticias/129 1 -
+/noticias/noticia/631 1 -
+/arquivos/noticias/DSC00587.JPG 1 -
+/arquivos/noticias/1470860288. 3 -
+/arquivos/noticias/1490022550. 3 -
+/arquivos/noticias/1491591391. 1 -
+/concurso/8 4 -
+/noticias/noticia/1030 2 -
+/public/ui/v1/js/sea.js 2 -
+/noticias/noticia/551 1 -
+/arquivos/editais/Edital%20-%20PSS%202013%20(Edital%20de%20Convocacao4).pdf 1 -
+/noticias/noticia/370 3 -
+/admin/editubb/asp/upload.asp 1 http://www.camapua.ms.gov.br/admin/editubb/asp/upload.asp
+/arquivos/galeria/1411755566.JPG 1 -
+/noticias/noticia/541 1 -
+/arquivos/noticias/DSC05118.JPG 1 -
+/arquivos/galeria/1411755615.JPG 1 -
+/arquivos/noticias/1485895806. 1 -
+/noticias/noticia/985 1 -
+/arquivos/galeria/1412365430.JPG 1 -
+/arquivos/noticias/1495225065. 1 -
+/noticias/noticia/661 2 -
+/arquivos/galeria/1425386123.JPG 1 -
+/arquivos/galeria/1411065221.JPG 1 -
+/noticias/noticia/1023 2 -
+/arquivos/galeria/1424268990.JPG 1 -
+/noticias/noticia/809 1 -
+/arquivos/noticias/1487203407. 1 -
+/arquivos/noticias/1500552619. 1 -
+/arquivos/noticias/1500552638. 1 -
+/arquivos/noticias/1500485732. 1 -
+/arquivos/midias/5aa1459e5271e.pdf& 1 -
+/arquivos/noticias/1500552624. 1 -
+/noticias/noticia/327 1 -
+/arquivos/noticias/1450186961. 1 -
+/arquivos/editais/ensalamento.pdf 1 -
+/arquivos/galeria/1411065140.JPG 1 -
+/arquivos/noticias/DSC05126.JPG 1 -
+/noticias/noticia/1007 1 -
+/phpunit/phpunit/Util/PHP/eval-stdin.php 2 -
+/arquivos/noticias/1446822280. 1 -
+/arquivos/galeria/1439294946.JPG 1 -
+/arquivos/noticias/1495040794. 1 -
+/arquivos/noticias/DSC05036.JPG 1 -
+/noticias/noticia/825 1 -
+/arquivos/noticias/1495040806. 1 -
+//.env 1 -
+/arquivos/galeria/1417527989.JPG 1 -
+/arquivos/noticias/1489194653. 1 -
+/noticias/noticia/624 3 -
+/arquivos/noticias/1505413007.jpg 2 -
+/index.php/processo-seletivo-contratacao-de-pessoal-edital-01-novembro-2009-educacao/doc_download/restrito/view/legislacao/arquivos/galeria/restrito/view/legislacao/arquivos/galeria/index.php 1 -
+/noticias/noticia/763 1 -
+/arquivos/noticias/1497013457. 1 -
+/arquivos/noticias/1500552609. 1 -
+/arquivos/galeria/1407180854.JPG 1 -
+/arquivos/noticias/1500488116. 1 -
+/noticias/noticia/672 2 -
+/noticias/77 1 -
+/arquivos/noticias/1462981775. 1 -
+/arquivos/noticias/1487083663. 1 -
+/noticias/159 2 -
+/noticias/noticia/775 3 -
+/noticias/noticia/511 2 -
+/data/admin/allowurl.txt 1 -
+/phpThumb/phpthumbs.php 1 -
+/arquivos/noticias/1497013456. 1 -
+/arquivos/galeria/1427309223.JPG 1 -
+/arquivos/noticias/1500317569. 3 -
+/arquivos/galeria/1417612749.JPG 1 -
+/arquivos/galeria/1412367569.JPG 1 -
+/arquivos/noticias/1490988570. 1 -
+/index.php/noticia/prefeitura-realiza-manutencao-nas-ruas-da-vila-olidia-pereira-da-rocha 2 -
+/noticias/163 2 -
+/noticias/noticia/618 1 -
+/web/wp-includes/wlwmanifest.xml 10 -
+/arquivos/galeria/1407265314.JPG 1 -
+/noticias/93 2 -
+/arquivos/noticias/DSC05128.JPG 1 -
+/arquivos/noticias/DSC04992.JPG 1 -
+/arquivos/noticias/1492432558. 1 -
+/arquivos/noticias/DSC05120.JPG 1 -
+/noticias/noticia/700 3 -
+/arquivos/noticias/1493919838. 2 -
+/arquivos/noticias/1500317537. 3 -
+/arquivos/noticias/1500552640. 1 -
+/arquivos/galeria/1412368685.JPG 1 -
+/arquivos/galeria/1412377233.JPG 1 -
+/arquivos/galeria/1409685393.JPG 1 -
+/noticias/noticia/375 1 -
+/noticias/noticia/582 2 -
+/index.php/processo-seletivo-contratacao-de-pessoal-edital-01-novembro-2009-educacao/doc_download/restrito/view/legislacao/restrito/view/editais/arquivos/galeria/index.php 1 -
+/arquivos/noticias/1443036947. 1 -
+/arquivos/galeria/1412375809.JPG 1 -
+/arquivos/galeria/1424888395.JPG 1 -
+/sites/all/libraries/mailchimp/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 4 -
+/noticias/noticia/879 1 -
+/noticias/noticia/363 1 -
+/noticias/160 4 -
+/noticias/noticia/877 3 -
+/arquivos/noticias/1470860298. 2 -
+/index.php/processo-seletivo-contratacao-de-pessoal-edital-01-novembro-2009-educacao/doc_download/restrito/view/legislacao/restrito/view/legislacao/arquivos/galeria/arquivos/predio/intranet.php 1 -
+/arquivos/galeria/1424437753.JPG 1 -
+/admin/kcfinder/upload.php 1 -
+/arquivos/galeria/1438114737.JPG 1 -
+/noticias/noticia/913 2 -
+/arquivos/editais/classificaprof.pdf 1 -
+/noticias/noticia/980 4 -
+/noticias/noticia/489 1 -
+/index.php/pagina/bandeira-brasao-e-hino 2 -
+/noticias/108 2 -
+/arquivos/noticias/1500485719. 2 -
+/arquivos/noticias/1443036704. 1 -
+/arquivos/galeria/1412371206.JPG 1 -
+/index.php/processo-seletivo-contratacao-de-pessoal-edital-01-novembro-2009-educacao/doc_download/restrito/view/legislacao/arquivos/noticias/arquivos/predio/index.php 1 -
+/arquivos/noticias/1485282986. 1 -
+/arquivos/noticias/1462981805. 1 -
+/arquivos/galeria/1412375866.JPG 1 -
+/arquivos/galeria/1417612657.JPG 1 -
+/site/wp-includes/wlwmanifest.xml 13 -
+/noticias/noticia/820 2 -
+/noticias/noticia/791 1 -
+/arquivos/noticias/1500487835. 2 -
+/arquivos/galeria/1439295164.JPG 1 -
+/arquivos/noticias/DSC05080.JPG 1 -
+/arquivos/galeria/1455883700.JPG 1 -
+/noticias/noticia/487 2 -
+/noticias/38 2 -
+/arquivos/noticias/1462981763. 3 -
+/arquivos/noticias/1462981810. 1 -
+/arquivos/noticias/1490988723. 1 -
+/noticias/80 1 -
+/arquivos/galeria/1424269010.JPG 1 -
+/arquivos/galeria/1412373484.JPG 1 -
+/arquivos/galeria/1407186388.JPG 1 -
+/arquivos/noticias/1489193772. 1 -
+/arquivos/noticias/1381952007.JPG 2 -
+/noticias/noticia/953 1 -
+/arquivos/noticias/1406643518. 2 -
+/arquivos/noticias/14-05-14.JPG 1 -
+/noticias/noticia/770 3 -
+/arquivos/noticias/DSC05084.JPG 1 -
+/arquivos/noticias/9%20JUL.jpg 3 -
+/arquivos/noticias/1489196380. 1 -
+/arquivos/noticias/1410522500.jpg 2 -
+/arquivos/noticias/1495040771. 2 -
+/arquivos/noticias/DSC05046.JPG 1 -
+/arquivos/noticias/1489194117. 1 -
+/arquivos/noticias/1492432561. 1 -
+/arquivos/noticias/1489193797. 1 -
+/arquivos/noticias/1502142713. 3 -
+/arquivos/noticias/1500552617. 1 -
+/noticias/noticia/693 1 -
+/arquivos/noticias/1501537792. 1 -
+/wp2/wp-includes/wlwmanifest.xml 10 -
+/assets//wp-admin/install.php 1 -
+/noticias/noticia/705 1 -
+/arquivos/noticias/1501537674. 2 -
+/noticias/noticia/727 2 -
+/arquivos/editais/inscritos1.pdf 3 -
+/noticias/noticia/602 1 -
+/arquivos/editais/edital15.pdf 1 -
+/arquivos/noticias/1489195088. 1 -
+/arquivos/galeria/1424438194.JPG 1 -
+/c_feedback/index.asp 1 http://www.camapua.ms.gov.br/c_feedback/index.asp
+/arquivos/noticias/1497009809. 1 -
+/noticias/noticia/708 2 -
+/noticias/noticia/971 1 -
+/arquivos/noticias/1490729364. 1 -
+/index.php/processo-seletivo-contratacao-de-pessoal-edital-01-novembro-2009-educacao/doc_download/restrito/view/editais/arquivos/arquivos/noticias/index.php 2 -
+/arquivos/galeria/1424268805.JPG 1 -
+/noticias/noticia/421 1 -
+/noticias/noticia/1001 1 -
+/arquivos/noticias/1486404393. 1 -
+/noticias/noticia/406 2 -
+/arquivos/galeria/1407265820.JPG 1 -
+/noticias/65 2 -
+/arquivos/noticias/1500485766. 2 -
+/arquivos/manuais/1383744781.pdf 2 -
+/noticias/88 1 -
+/noticias/noticia/352 1 -
+/noticias/noticia/342 1 -
+/noticias/noticia/683 2 -
+/arquivos/noticias/P1150412.JPG 1 -
+/noticias/41 1 -
+/arquivos/galeria/1486494563.jpg 1 -
+/noticias/126 2 -
+/arquivos/galeria/1424268927.JPG 1 -
+/index.php/processo-seletivo-contratacao-de-pessoal-edital-01-novembro-2009-educacao/doc_download/147-edital-pss-001-2010 1 -
+/arquivos/noticias/1465397210. 1 -
+/index.php/processo-seletivo-contratacao-de-pessoal-edital-01-novembro-2009-educacao/doc_download/restrito/view/editais/restrito/view/transparencia/arquivos/predio/arquivos/galeria/index.php 1 -
+/arquivos/galeria/1417528007.JPG 1 -
+/arquivos/noticias/DSC02515.JPG 1 -
+/noticias/142 4 -
+/arquivos/noticias/1495225048. 2 -
+/arquivos/noticias/1392397264.JPG 2 -
+/arquivos/noticias/1486404407. 1 -
+/noticias/noticia/640 1 -
+/noticias/noticia/434 1 -
+/noticias/noticia/497 2 -
+/noticias/noticia/530 1 -
+/arquivos/noticias/1379964715.jpg 1 -
+/noticias/62 2 -
+/arquivos/noticias/1471636647. 2 -
+/noticias/noticia/781 1 -
+/arquivos/noticias/1490988810. 2 -
+/arquivos/noticias/P1150385.JPG 1 -
+/noticias/165 2 -
+/arquivos/galeria/1438114419.JPG 1 -
+/noticias/noticia/650 1 -
+/noticias/114 1 -
+/noticias/noticia/932 2 -
+/noticias/noticia/560 1 -
+/arquivos/noticias/1490022632. 2 -
+/arquivos/noticias/1445886099. 1 -
+/arquivos/noticias/thumbs/1487711842.JPG 1 -
+/diarioOficial 9 https://dom.imap.org.br/sitefora/index.cfm
+/arquivos/noticias/1401225471.jpg 1 -
+/noticias/noticia/499 2 -
+/noticias/noticia/464 1 -
+/concurso/5 2 -
+/arquivos/noticias/DSC05107.JPG 1 -
+/noticias/noticia/990 1 -
+/arquivos/editais/Edital%20%20002.pdf 1 -
+/img/localizacao.png 31 http://camapua.ms.gov.br/pagina/conheca-a-cidade
+/arquivos/noticias/1519070457.jpg 2 -
+/arquivos/noticias/1446822200. 3 -
+/arquivos/galeria/1411131619.JPG 1 -
+/arquivos/noticias/1500552586. 1 -
+/noticias/30 3 -
+/arquivos/noticias/DSC05135.JPG 1 -
+/noticias/noticia/378 2 -
+/noticias/156 2 -
+/arquivos/galeria/1425385935.JPG 1 -
+/arquivos/galeria/1412373032.JPG 1 -
+/arquivos/galeria/1411755630.JPG 1 -
+/arquivos/manuais/1383583451.pdf 1 -
+/noticias/noticia/592 1 -
+/2017/wp-includes/wlwmanifest.xml 1 -
+/include/dialog/select_soft_post.php 1 -
+/arquivos/noticias/DSC05155.JPG 1 -
+/arquivos/manuais/1383583586.pdf 1 -
+/noticias/noticia/886 2 -
+/arquivos/noticias/1500488090. 1 -
+/arquivos/noticias/1489197450. 1 -
+/arquivos/noticias/1500488070. 1 -
+/arquivos/noticias/1497009808. 1 -
+/arquivos/noticias/1436296960.JPG 1 -
+/arquivos/noticias/1500552635. 1 -
+/arquivos/noticias/1452782170. 2 -
+/arquivos/noticias/1500502921. 2 -
+/noticias/noticia/712 1 -
+/noticias/69 2 -
+/noticias/noticia/615 1 -
+/joomla/administrator/index.php 2 -
+/arquivos/galeria/1425386360.JPG 1 -
+/arquivos/noticias/1500485799. 1 -
+/administrator 4 -
+/noticias/50 2 -
+/noticias/noticia/476 2 -
+/arquivos/noticias/1500317506. 3 -
+/arquivos/noticias/P1180915.JPG 1 -
+/arquivos/galeria/1424269064.JPG 1 -
+/noticias/noticia/778 1 -
+/noticias/noticia/901 1 -
+/arquivos/noticias/1495225011. 2 -
+/arquivos/noticias/1487703578. 1 -
+/noticias/noticia/844 1 -
+/arquivos/manuais/1383820905.pdf 2 -
+/noticias/noticia/854 1 -
+/arquivos/noticias/1436899741. 1 -
+/arquivos/galeria/1412371369.JPG 1 -
+/arquivos/noticias/1471636641. 2 -
+/arquivos/noticias/1485895797. 3 -
+/arquivos/noticias/1435864471. 3 -
+/arquivos/noticias/1491591354. 1 -
+/noticias/noticia/742 2 -
+/noticias/noticia/573 1 -
+/ispmgr 1 -
+/noticias/noticia/828 2 -
+/noticias/noticia/645 1 -
+/test/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 2 -
+/arquivos/noticias/1443036901. 1 -
+/noticias/noticia/752 2 -
+/statics/js/admin_common.js 3 -
+/arquivos/noticias/1379445258.jpg 1 -
+/arquivos/noticias/DSC05066.JPG 1 -
+/arquivos/galeria/1408022720.JPG 1 -
+/noticias/noticia/565 3 -
+/noticias/noticia/1036 2 -
+/arquivos/noticias/1380052768.JPG 2 -
+/arquivos/noticias/1490988903. 1 -
+/wp2//wp-admin/install.php 1 -
+/arquivos/noticias/1439995391. 3 -
+/noticias/noticia/814 3 -
+/arquivos/noticias/1501537829. 1 -
+/noticias/noticia/988 1 -
+/arquivos/galeria/1417612571.JPG 1 -
+/noticias/noticia/995 2 -
+/arquivos/noticias/DSC00566.JPG 1 -
+/arquivos/galeria/1411130192.JPG 1 -
+/arquivos/noticias/1471636662. 1 -
+/noticias/noticia/1008 2 -
+/concurso/11 1 -
+/arquivos/manuais/1383582809.pdf 1 -
+/noticias/noticia/1035 1 -
+/arquivos/galeria/1411471923.JPG 1 -
+/arquivos/noticias/1471636652. 1 -
+/arquivos/noticias/1500317529. 2 -
+/web//wp-admin/install.php 1 -
+/arquivos/noticias/1489194592. 1 -
+/index.php/processo-seletivo-contratacao-de-pessoal-edital-01-novembro-2009-educacao/doc_download/restrito/view/legislacao/arquivos/arquivos/noticias/index.php 1 -
+/arquivos/noticias/1474283100. 4 -
+/arquivos/galeria/1407413139.JPG 1 -
+/joomla/robots.txt 2 -
+//vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 2 -
+/noticias/33 3 -
+/arquivos/noticias/1406654876. 1 -
+/arquivos/noticias/1490729383. 3 -
+/arquivos/noticias/1393005641.JPG 3 -
+/arquivos/noticias/1502142789. 2 -
+/noticias/noticia/501 2 -
+/arquivos/noticias/1500552629. 3 -
+/arquivos/legislacao/leicomplementar005.doc 1 -
+/index.php/pagina/ouvidoria-do-sus 1 -
+/arquivos/galeria/1417612346.JPG 1 -
+/arquivos/noticias/1470860251. 6 -
+/tmp//wp-admin/install.php 1 -
+/arquivos/noticias/1491591403. 1 -
+/noticias/noticia/847 3 -
+/arquivos/noticias/IMG-20140618-WA0029.jpg 1 -
+/arquivos/noticias/1495992905. 1 -
+/noticias/noticia/783 1 -
+/noticias/143 3 -
+/arquivos/manuais/1383674065.pdf 1 -
+/arquivos/noticias/1487703536. 1 -
+/noticias/noticia/849 1 -
+/noticias/noticia/710 1 -
+/arquivos/noticias/1471636650. 2 -
+/noticias/noticia/345 1 -
+/arquivos/noticias/1500317732. 2 -
+/manager 1 -
+/arquivos/noticias/1501537743. 2 -
+/galeria/30 1 -
+/arquivos/noticias/1465397466. 3 -
+/arquivos/noticias/1500552626. 2 -
+/arquivos/noticias/1518172300.jpg 4 -
+/.git/HEAD 12 -
+/arquivos/noticias/1500317522. 2 -
+/arquivos/noticias/1500317748. 3 -
+/noticias/noticia/588 2 -
+/arquivos/manuais/1383582971.pdf 1 -
+/noticias/noticia/595 2 -
+/arquivos/noticias/1489193962. 1 -
+/arquivos/galeria/1412374684.JPG 1 -
+/blog/administrator/index.php 2 -
+/noticias/noticia/750 1 -
+/noticias/noticia/681 2 -
+/arquivos/noticias/P1150413.JPG 1 -
+/noticias/noticia/819 1 -
+/arquivos/galeria/1427309139.JPG 1 -
+/noticias/noticia/315 3 -
+/arquivos/manuais/1383672892.pdf 2 -
+/arquivos/noticias/1489194312. 1 -
+/admin/db/noticias/thumb/5d38464f83e315ff1166027aac15bf40.jpg 1 -
+/arquivos/noticias/1408031930. 2 -
+/arquivos/noticias/1442258435. 1 -
+/arquivos/galeria/1417528289.JPG 1 -
+/noticias/noticia/935 2 -
+/vendor/phpunit/src/Util/PHP/eval-stdin.php 2 -
+/arquivos/noticias/1489196095. 2 -
+/noticias/noticia/817 1 -
+/noticias/noticia/423 2 -
+/arquivos/noticias/1500485778. 1 -
+/arquivos/noticias/1489194541. 1 -
+/arquivos/noticias/1517318587.JPG 3 -
+/noticias/noticia/973 4 -
+/arquivos/noticias/1500497143. 1 -
+/arquivos/galeria/1411755605.JPG 1 -
+/arquivos/galeria/1411473109.JPG 1 -
+/arquivos/noticias/1500513792. 1 -
+/arquivos/galeria/1424268816.JPG 1 -
+/arquivos/noticias/1500552520. 2 -
+/wp//wp-admin/install.php 1 -
+/noticias/47 2 -
+/js/header-rollup-554.js 4 -
+/arquivos/noticias/1446821968.JPG 1 -
+/arquivos/noticias/1491591381. 1 -
+/arquivos/noticias/1427307730. 1 -
+/arquivos/noticias/1450186732. 1 -
+/arquivos/noticias/1495225034. 2 -
+/intranet.php 3 -
+/arquivos/galeria/1424437720.JPG 1 -
+/arquivos/categoria_secretaria/1425385622.pdf 1 -
+/arquivos/noticias/1500485712. 2 -
+/arquivos/galeria/1417612537.JPG 1 -
+/arquivos/noticias/1490988558. 1 -
+/arquivos/galeria/1424268854.JPG 1 -
+/arquivos/manuais/1383583247.pdf 1 -
+/images/phpThumb//phpThumb.php 4 -
+/arquivos/noticias/1489196464. 1 -
+/arquivos/galeria/1412365846.JPG 1 -
+/arquivos/galeria/1427309168.JPG 1 -
+/arquivos/noticias/1502142719. 3 -
+/noticias/noticia/1016 1 -
+/arquivos/manuais/1383674486.pdf 1 -
+/arquivos/noticias/1495224952. 2 -
+/index.php/processo-seletivo-contratacao-de-pessoal-edital-01-novembro-2009-educacao/arquivos/noticias/restrito/view/transparencia/restrito/view/transparencia/arquivos/galeria/index.php 1 -
+/arquivos/noticias/1406643551. 1 -
+/index.php/processo-seletivo-contratacao-de-pessoal-edital-01-novembro-2009-educacao/arquivos/noticias/arquivos/galeria/restrito/view/legislacao/restrito/view/transparencia/index.php 1 -
+/arquivos/galeria/1412375695.JPG 1 -
+/noticias/noticia/715 2 -
+/noticias/noticia/340 1 -
+/noticias/noticia/571 2 -
+/arquivos/noticias/1500485807. 3 -
+/noticias/noticia/350 2 -
+/arquivos/noticias/1485034881.jpg 2 -
+/arquivos/noticias/1489193744. 1 -
+/index.php/processo-seletivo-contratacao-de-pessoal-edital-01-novembro-2009-educacao/doc_download/restrito/view/legislacao/arquivos/predio/arquivos/galeria/restrito/view/transparencia/index.php 1 -
+/arquivos/legislacao/decreto2624.pdf 1 -
+/arquivos/galeria/1425390063.JPG 1 -
+/thumb/phpthumbs.php 1 -
+/noticias/174 1 -
+/noticias/noticia/439 1 -
+/phpthumbs.php 1 -
+/noticias/noticia/467 2 -
+/htaccess.txt 1 -
+/noticias/noticia/992 1 -
+/noticias/140 1 -
+/arquivos/galeria/1424269240.JPG 1 -
+/noticias/noticia/590 1 -
+/arquivos/noticias/1429732414. 1 -
+/arquivos/galeria/1411471236.JPG 1 -
+/noticias/53 1 -
+/noticias/98 1 -
+/arquivos/editais/edital14.pdf 3 -
+/arquivos/noticias/1497439611. 1 -
+/arquivos/galeria/1411755741.JPG 1 -
+/noticias/noticia/903 1 -
+/arquivos/noticias/1440510015. 1 -
+/noticias/noticia/469 1 -
+/arquivos/noticias/1439995666. 3 -
+/noticias/noticia/494 2 -
+/arquivos/noticias/1495040714. 1 -
+/arquivos/noticias/1495841476. 4 -
+/noticias/noticia/652 2 -
+/noticias/noticia/745 1 -
+/arquivos/galeria/1425385992.JPG 1 -
+/noticias/noticia/532 1 -
+/arquivos/galeria/1417612477.JPG 1 -
+/arquivos/galeria/1411473358.JPG 1 -
+/noticias/noticia/755 1 -
+/arquivos/galeria/1427309076.JPG 1 -
+/arquivos/galeria/1412369027.JPG 1 -
+/arquivos/noticias/1495224928. 1 -
+/arquivos/noticias/1490988657. 1 -
+//DesktopModules/Admin/RadEditorProvider/DialogHandler.aspx 1 -
+/arquivos/noticias/1444397846. 1 -
+/arquivos/editais/diretores.pdf 1 -
+/arquivos/noticias/1423745906.JPG 1 -
+/misc/ajax.js 4 -
+/arquivos/galeria/1417612723.JPG 1 -
+/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 4 -
+/legislacao/14 2 -
+/noticias/noticia/930 1 -
+/noticias/noticia/562 1 -
+/arquivos/galeria/1411755809.JPG 1 -
+/arquivos/galeria/1439294996.JPG 1 -
+/arquivos/galeria/1417612365.JPG 1 -
+/arquivos/noticias/1500485794. 1 -
+/noticias/90 3 -
+/arquivos/noticias/1492218856. 1 -
+/arquivos/noticias/1406643554. 3 -
+/arquivos/noticias/1470860280. 4 -
+/arquivos/noticias/1500502910. 1 -
+/arquivos/noticias/1450187085. 3 -
+/noticias/12 3 -
+/arquivos/noticias/1489195549. 1 -
+/arquivos/noticias/P1150427.JPG 1 -
+//base/OteTeam.php 1 http://www.camapua.ms.gov.br//base/OteTeam.php
+/arquivos/noticias/1474283089. 2 -
+/arquivos/noticias/1502142765. 4 -
+/noticias/noticia/748 1 -
+/noticias/145 3 -
+/index.php/noticia/secretaria-de-saude-realiza-acao-no-centro-da-cidade 1 -
+/arquivos/galeria/1412366042.JPG 1 -
+/noticias/noticia/456 1 -
+/arquivos/galeria/1411064989.JPG 1 -
+/arquivos/noticias/1502142715. 1 -
+/arquivos/galeria/1424269282.JPG 1 -
+/arquivos/noticias/1500317716. 1 -
+/arquivos/noticias/1386161346.jpg 1 -
+/arquivos/noticias/1497439616. 1 -
+/arquivos/noticias/1501537782. 1 -
+/arquivos/noticias/1468250224. 1 -
+/noticias/noticia/446 2 -
+/arquivos/noticias/1495224946. 1 -
+/noticias/noticia/513 1 -
+/noticias/noticia/484 1 -
+/arquivos/noticias/1502142743. 2 -
+/arquivos/galeria/1412372528.JPG 1 -
+/noticias/noticia/982 1 -
+/SinaEditor/Edit/editor/editor.js 1 http://www.camapua.ms.gov.br/SinaEditor/Edit/editor/editor.js
+/arquivos/noticias/1495225061. 1 -
+/noticias/noticia/761 1 -
+/arquivos/noticias/1465397544. 2 -
+/arquivos/galeria/1407265725.JPG 1 -
+/phpThumb/will.php 1 -
+/legislacao/13 3 -
+/arquivos/noticias/1470860284. 1 -
+/arquivos/noticias/1490988897. 1 -
+/arquivos/noticias/1508015624.jpg 1 -
+/arquivos/noticias/P1150417.JPG 1 -
+/arquivos/noticias/1501537681. 1 -
+/arquivos/noticias/1489195441. 1 -
+/arquivos/noticias/1444398383. 1 -
+/arquivos/galeria/1438114321.JPG 1 -
+/arquivos/noticias/DSC05092.JPG 2 -
+/arquivos/noticias/1500487903. 2 -
+/home//wp-admin/install.php 1 -
+/arquivos/noticias/1500502904. 1 -
+/arquivos/galeria/1408645552.JPG 1 -
+/arquivos/noticias/1489194455. 1 -
+/arquivos/noticias/1490988607. 2 -
+/noticias/noticia/600 2 -
+/arquivos/noticias/1436899595. 1 -
+/noticias/15 4 -
+/noticias/29 1 -
+/arquivos/galeria/1407180905.JPG 1 -
+/arquivos/noticias/1500552579. 1 -
+/arquivos/galeria/1424268891.JPG 1 -
+/noticias/noticia/663 1 -
+/arquivos/noticias/1400609115.JPG 2 -
+/noticias/noticia/724 2 -
+/legislacao/19 2 -
+/arquivos/noticias/1471636686. 1 -
+/noticias/162 2 -
+/arquivos/noticias/1500317586. 4 -
+/index.php/processo-seletivo-contratacao-de-pessoal-edital-01-novembro-2009-educacao/doc_download/restrito/view/editais/arquivos/predio/arquivos/galeria/restrito/view/legislacao/index.php 1 -
+/noticias/noticia/543 2 -
+/arquivos/noticias/1468250228. 1 -
+/noticias/noticia/633 1 -
+/noticias/noticia/772 2 -
+/arquivos/noticias/1439474238. 1 -
+/noticias/noticia/938 1 -
+/noticias/22 1 -
+/arquivos/transparencia/folha%20de%20pagamento%20BF%20032014%20mural.pdf 33 -
+/noticias/noticia/1003 1 -
+/arquivos/noticias/1502395086. 2 -
+/arquivos/galeria/1424437974.JPG 1 -
+/arquivos/noticias/1495225002. 2 -
+/arquivos/noticias/1443473043. 2 -
+/arquivos/noticias/1487783617. 1 -
+/arquivos/noticias/1487783614. 3 -
+/noticias/noticia/318 1 -
+/noticias/noticia/691 1 -
+/wp-login.php 9 -
+/arquivos/noticias/1491591247. 1 -
+/noticias/157 1 -
+/arquivos/noticias/1471636673. 2 -
+/arquivos/noticias/1515766356.jpg 2 -
+/arquivos/noticias/1489193872. 1 -
+/noticias/noticia/804 2 -
+/arquivos/noticias/1500317665. 2 -
+/noticias/noticia/585 1 -
+/arquivos/noticias/1500552596. 1 -
+/noticias/noticia/372 2 -
+/arquivos/manuais/1383820605.pdf 2 -
+/noticias/noticia/598 1 -
+/arquivos/noticias/1502142731. 1 -
+/arquivos/noticias/1446822130. 2 -
+/noticias/83 4 -
+/noticias/noticia/951 1 -
+/noticias/noticia/324 2 -
+/arquivos/noticias/1468250229. 1 -
+/arquivos/noticias/1382987443.jpg 1 -
+/arquivos/noticias/1490022605. 1 -
+/arquivos/galeria/1424269113.JPG 1 -
+/noticias/noticia/358 1 -
+/concurso/9 1 -
+/noticias/noticia/793 1 -
+/arquivos/noticias/P1180924.JPG 1 -
+/arquivos/noticias/1501537786. 1 -
+/noticias/138 1 -
+/arquivos/galeria/1412371097.JPG 1 -
+/sitemap.xml 7 -
+/noticias/noticia/702 1 -
+/arquivos/noticias/1485869865.JPG 2 -
+/noticias/19 3 -
+/noticias/25 2 -
+/arquivos/noticias/1435864384. 1 -
+/noticias/noticia/605 1 -
+/arquivos/galeria/1411064918.JPG 1 -
+/arquivos/noticias/1406643528. 2 -
+/arquivos/galeria/1417528674.JPG 1 -
+/noticias/noticia/836 2 -
+/arquivos/galeria/1411472440.JPG 1 -
+/noticias/noticia/361 1 -
+/noticias/noticia/866 1 -
+/arquivos/noticias/1386978272.jpg 1 -
+/news/wp-includes/wlwmanifest.xml 10 -
+/arquivos/galeria/1412375583.JPG 1 -
+/arquivos/manuais/1384946158.pdf 2 -
+/arquivos/noticias/1439995625. 1 -
+/noticias/134 3 -
+/arquivos/noticias/1490988845. 4 -
+/arquivos/galeria/1408645429.JPG 1 -
+/arquivos/noticias/1474283105. 2 -
+/arquivos/galeria/1411473328.JPG 1 -
+/arquivos/galeria/1427309211.JPG 1 -
+/noticias/noticia/722 2 -
+/arquivos/noticias/1471636623. 2 -
+/arquivos/noticias/1502142735. 1 -
+/arquivos/noticias/1471636644. 1 -
+/noticias/noticia/848 1 -
+/publicacao 1 -
+/noticias/57 1 -
+/arquivos/noticias/1500317740. 4 -
+/noticias/noticia/774 1 -
+//desktopmodules/telerikwebui/radeditorprovider/telerik.web.ui.dialoghandler.aspx 1 -
+/arquivos/noticias/1470860247. 3 -
+/arquivos/galeria/1404937745.jpg 1 -
+/arquivos/galeria/1408643941.JPG 1 -
+/arquivos/noticias/1507305484.jpg 1 -
+/membro/10 1 -
+/arquivos/noticias/1470860309. 2 -
+/arquivos/noticias/DSC05116.JPG 1 -
+/arquivos/noticias/1497009819. 1 -
+/admin/themes/default/default.css 1 http://www.camapua.ms.gov.br/admin/themes/default/default.css
+/arquivos/noticias/1489193461. 1 -
+/thumb//phpThumb.php 2 -
+/noticias/noticia/861 1 -
+/index.php/processo-seletivo-contratacao-de-pessoal-edital-01-novembro-2009-educacao/doc_download/restrito/view/legislacao/arquivos/arquivos/noticias/restrito/view/transparencia/index.php 1 -
+/arquivos/noticias/1404241140.jpg 1 -
+/noticias/noticia/336 1 -
+/arquivos/noticias/1470860262. 1 -
+/noticias/noticia/831 1 -
+/vendor/phpunit/Util/PHP/eval-stdin.php 2 -
+/noticias/78 1 -
+/arquivos/galeria/1412375474.JPG 1 -
+/noticias/149 3 -
+/noticias/noticia/696 3 -
+/arquivos/noticias/1487203411. 3 -
+/arquivos/noticias/1489196226. 1 -
+/arquivos/noticias/1501537748. 1 -
+/noticias/43 3 -
+/arquivos/legislacao/Decreto%20n.%202.083%20-%202009.pdf 1 -
+/arquivos/noticias/1500552591. 2 -
+/noticias/noticia/482 1 -
+/arquivos/noticias/1489194048. 1 -
+/noticias/noticia/984 1 -
+/arquivos/noticias/1435864346. 1 -
+/arquivos/noticias/1383761967.jpg 1 -
+/noticias/noticia/946 2 -
+/noticias/noticia/872 1 -
+/arquivos/noticias/1500552523. 1 -
+/arquivos/noticias/1405108492.JPG 1 -
+/noticias/noticia/589 2 -
+/arquivos/midias/5aa13c5ebf380.pdf%20 1 -
+/arquivos/noticias/1490988878. 1 -
+/arquivos/noticias/1495224933. 3 -
+/arquivos/noticias/1502142722. 2 -
+/noticias/noticia/824 1 -
+/arquivos/noticias/1488294682.jpg 1 -
+/legislacao/31 3 -
+/arquivos/noticias/1500317683. 3 -
+/arquivos/noticias/Recibo-2013-07-17-08-04-25.jpg 1 -
+/noticias/noticia/587 1 -
+/phpthumb//phpThumb.php 2 -
+/arquivos/noticias/DSC05113.JPG 1 -
+/arquivos/noticias/P8141106.jpg 1 -
+/arquivos/noticias/DSC05069.JPG 1 -
+/arquivos/galeria/1425386506.JPG 1 -
+/arquivos/galeria/1424268144.JPG 1 -
+/arquivos/noticias/1500552622. 1 -
+/arquivos/galeria/1411472212.JPG 1 -
+/index.php/processo-seletivo-contratacao-de-pessoal-edital-01-novembro-2009-educacao/doc_download/restrito/view/legislacao/restrito/view/editais/arquivos/predio/index.php 1 -
+/arquivos/galeria/1407412984.JPG 1 -
+/arquivos/noticias/1500502915. 1 -
+/arquivos/noticias/1500513785. 5 -
+/arquivos/noticias/1465397428. 1 -
+/arquivos/noticias/1491679781. 1 -
+/arquivos/manuais/1383820657.pdf 1 -
+/arquivos/noticias/1501537737. 1 -
+/arquivos/galeria/1425387015.JPG 1 -
+/arquivos/noticias/1471636655. 2 -
+/conheca-a-cidade 34 -
+/arquivos/noticias/1444397876. 1 -
+/restrito/view/editais/visualizar.php 5 http://www.camapua.ms.gov.br/restrito/view/editais/visualizar.php
+/arquivos/noticias/1437677513. 1 -
+/wp-includes/wlwmanifest.xml 13 -
+/arquivos/galeria/1411473444.JPG 1 -
+/arquivos/galeria/1438114426.JPG 1 -
+/arquivos/noticias/1490988860. 3 -
+/arquivos/noticias/1502745303. 2 -
+/arquivos/noticias/1443036790. 1 -
+/arquivos/galeria/1424269964.JPG 1 -
+/legislacao/15 1 -
+/arquivos/noticias/1490022483. 1 -
+/concurso/13 4 -
+/public/static/.gitignore 1 -
+/arquivos/noticias/1386682977.JPG 1 -
+/arquivos/noticias/1500502932. 2 -
+/phpunit/phpunit/src/Util/PHP/eval-stdin.php 2 -
+/noticias/noticia/704 1 -
+/arquivos/manuais/1383673184.pdf 1 -
+/arquivos/galeria/1438114633.JPG 1 -
+/noticias/noticia/441 2 -
+/noticias/noticia/802 1 -
+/noticias/noticia/451 2 -
+/arquivos/galeria/1425390054.JPG 1 -
+/arquivos/galeria/1417612383.JPG 1 -
+/noticias/noticia/374 1 -
+/arquivos/noticias/1495224988. 1 -
+/arquivos/noticias/1439995547. 1 -
+/dev//wp-admin/install.php 1 -
+/router.php 1 -
+/noticias/noticia/893 3 -
+/arquivos/noticias/1470860302. 3 -
+/.bitcoin 1 http://camapua.ms.gov.br/.bitcoin/
+/admin/ckfinder/core/connector/asp/connector.asp 1 http://www.camapua.ms.gov.br/admin/ckfinder/core/connector/asp/connector.asp
+/noticias/37 2 -
+/noticias/noticia/468 1 -
+/arquivos/noticias/1501537688. 1 -
+/arquivos/noticias/P1180884.JPG 1 -
+/arquivos/noticias/1486743269.JPG 2 -
+/arquivos/noticias/1500502918. 4 -
+/arquivos/noticias/1387459364.JPG 1 -
+/arquivos/noticias/1495225095. 1 -
+/site//wp-admin/install.php 1 -
+/arquivos/noticias/DSC05144.JPG 1 -
+/arquivos/noticias/1502142723. 2 -
+/noticias/141 2 -
+/index.php/processo-seletivo-contratacao-de-pessoal-edital-01-novembro-2009-educacao/doc_download/arquivos/galeria/arquivos/noticias/restrito/view/transparencia/index.php 1 -
+/arquivos/noticias/1443037048. 2 -
+//plus/erraddsave.php 1 -
+/noticias/noticia/736 1 -
+/arquivos/noticias/1500552525. 1 -
+/plugins/jquery-file-upload/server/php 1 -
+/arquivos/noticias/1495225007. 2 -
+/arquivos/noticias/1489194698. 1 -
+/arquivos/noticias/1505152909.JPG 1 -
+/radio 4 -
+/arquivos/categoria_secretaria/1398431853.pdf 1 -
+/noticias/noticia/473 1 -
+//base/appplus.php 1 http://www.camapua.ms.gov.br//base/appplus.php
+/arquivos/noticias/1471636659. 2 -
+/noticias/noticia/923 2 -
+/noticias/noticia/435 1 -
+/arquivos/noticias/1489194674. 1 -
+/noticias/122 1 -
+/noticias/noticia/465 1 -
+/arquivos/noticias/1500552616. 1 -
+/arquivos/galeria/1424269295.JPG 1 -
+/index.php/processo-seletivo-contratacao-de-pessoal-edital-01-novembro-2009-educacao/arquivos/noticias/restrito/view/editais/arquivos/predio/restrito/view/transparencia/index.php 1 -
+/noticias/146 1 -
+/noticias/noticia/759 1 -
+/arquivos/noticias/1500317620. 4 -
+/api/3/action/site_read 2 -
+/concurso/7 4 -
+/arquivos/galeria/1439295244.JPG 1 -
+/noticias/noticia/810 2 -
+/noticias/91 1 -
+/blog 2 http://camapua.ms.gov.br/
+/phpmyadmin/print.css 1 -
+/noticias/noticia/749 1 -
+/arquivos/noticias/1500552517. 1 -
+/arquivos/noticias/1382640880.jpg 1 -
+/arquivos/noticias/DSC05055.JPG 1 -
+/noticias/noticia/883 1 -
+/arquivos/galeria/1412374461.JPG 1 -
+/arquivos/noticias/1500552551. 1 -
+/arquivos/manuais/1383592933.pdf 1 -
+/arquivos/galeria/1412371650.JPG 1 -
+/noticias/noticia/747 1 -
+/arquivos/noticias/DSC04965.JPG 1 -
+/wp/wp-includes/wlwmanifest.xml 13 -
+/legislacao/32 2 -
+/galeria/32 1 -
+/arquivos/galeria/1408645773.JPG 1 -
+/lib/phpunit/src/Util/PHP/eval-stdin.php 2 -
+/website/wp-includes/wlwmanifest.xml 10 -
+/arquivos/noticias/DSC05040.JPG 1 -
+/palavra-prefeito 1 -
+/wp-content/plugins/cloudflare/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 2 -
+/noticias/6 2 -
+/arquivos/galeria/1438114590.JPG 1 -
+/arquivos/galeria/1424269476.JPG 1 -
+/arquivos/galeria/1412366853.JPG 1 -
+/noticias/152 3 -
+/arquivos/noticias/1493919840. 1 -
+/arquivos/noticias/1489195696. 1 -
+/arquivos/galeria/1411473006.JPG 1 -
+/blog//wp-admin/install.php 1 -
+/arquivos/noticias/1450186676. 1 -
+/arquivos/noticias/1406643538. 1 -
+/noticias/noticia/1029 1 -
+/arquivos/noticias/1505766869.JPG 2 -
+/arquivos/noticias/1487703805. 1 -
+/noticias/noticia/717 1 -
+/arquivos/noticias/1501537824. 1 -
+/arquivos/noticias/1500317494. 1 -
+/arquivos/noticias/1474283082. 3 -
+/noticias/noticia/576 1 -
+/noticias/16 3 -
+/arquivos/galeria/1408022269.JPG 1 -
+/galeria/45 1 -
+/arquivos/noticias/1500488109. 1 -
+/arquivos/noticias/1439474013. 1 -
+/noticias/64 3 -
+/noticias/87 2 -
+/assets/plugins/jquery-file-upload/server/php/index.php 1 -
+/arquivos/galeria/1407413738.JPG 1 -
+/noticias/noticia/850 1 -
+/noticias/noticia/644 1 -
+/noticias/noticia/430 1 -
+/index.php/processo-seletivo-contratacao-de-pessoal-edital-01-novembro-2009-educacao/arquivos/noticias/restrito/view/legislacao/arquivos/predio/restrito/view/transparencia/index.php 1 -
+/arquivos/noticias/1500488132. 1 -
+/arquivos/galeria/1412375753.JPG 1 -
+/arquivos/noticias/1495040755. 3 -
+/noticias/noticia/654 2 -
+/arquivos/noticias/1497009817. 1 -
+/noticias/noticia/597 2 -
+/arquivos/galeria/1438114744.JPG 1 -
+/noticias/noticia/599 1 -
+/arquivos/galeria/1412371542.JPG 1 -
+/noticias/noticia/564 3 -
+/arquivos/noticias/1490988894. 1 -
+/noticias/noticia/460 2 -
+/.env~ 1 -
+/arquivos/galeria/1425390158.JPG 1 -
+/arquivos/noticias/1444398366. 1 -
+/noticias/noticia/937 1 -
+/vendor/kcfinder/upload.php 1 -
+/noticias/noticia/319 2 -
+/arquivos/noticias/1470860294. 2 -
+/noticias/167 3 -
+/legislacao/27 4 -
+/arquivos/noticias/1501537724. 1 -
+/noticias/noticia/403 1 -
+/.env-local 1 -
+/arquivos/noticias/1429732351. 1 -
+/arquivos/noticias/1500317651. 1 -
+/arquivos/galeria/1407413703.JPG 1 -
+/arquivos/noticias/DSC04983.JPG 1 -
+/noticias/noticia/492 2 -
+/arquivos/noticias/1500488029. 1 -
+/noticias/noticia/686 2 -
+/arquivos/noticias/Slide4.JPG 2 -
+/noticias/noticia/317 2 -
+/noticias/noticia/939 2 -
+/arquivos/galeria/1424269073.JPG 1 -
+/arquivos/noticias/1501537797. 1 -
+/arquivos/noticias/1486124289. 1 -
+//desktopmodules/dnnwerk.radeditorprovider/dialoghandler.aspx 1 -
+/cms/wp-includes/wlwmanifest.xml 13 -
+/noticias/noticia/1041 1 -
+/arquivos/galeria/1438114730.JPG 1 -
+/arquivos/galeria/1417612338.JPG 1 -
+/arquivos/galeria/1411755578.JPG 1 -
+/arquivos/galeria/1424438074.JPG 1 -
+/arquivos/noticias/1501184393. 1 -
+/noticias/noticia/521 1 -
+/noticias/noticia/614 1 -
+/arquivos/noticias/1406643544. 3 -
+/admin/webeditor/dialog/dialog.js 1 http://www.camapua.ms.gov.br/admin/webeditor/dialog/dialog.js
+/arquivos/galeria/1424268986.JPG 1 -
+/noticias/noticia/1022 3 -
+/admin/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 4 -
+/arquivos/editais/Homologacao_dos_Inscritos_para_PSS%202013.pdf 3 -
+/arquivos/noticias/1490729329. 1 -
+/arquivos/galeria/1417612712.JPG 1 -
+/noticias/70 1 -
+/noticias/noticia/357 2 -
+/arquivos/noticias/femi.jpg 1 -
+/noticias/26 3 -
+/arquivos/noticias/1489197205. 1 -
+/BOCA%20UNIFORME%202020 1 -
+/arquivos/noticias/1489194250. 1 -
+/arquivos/noticias/1489193988. 1 -
+/arquivos/noticias/1406643547. 1 -
+/arquivos/galeria/1411131678.JPG 1 -
+/arquivos/noticias/1485895804. 1 -
+/folhetins 4 -
+/arquivos/noticias/DSC05089.JPG 1 -
+/arquivos/noticias/1489544463. 3 -
+/noticias/noticia/349 2 -
+/will.php 1 -
+/arquivos/noticias/1497009813. 2 -
+/noticias/noticia/359 2 -
+/administrator/help/en-GB/toc.json 4 -
+/arquivos/noticias/1501537834. 1 -
+/noticias/noticia/845 2 -
+/arquivos/noticias/DSC05125.JPG 1 -
+/noticias/noticia/649 1 -
+/webeditor/dialog/dialog.js 1 http://www.camapua.ms.gov.br/webeditor/dialog/dialog.js
+/arquivos/noticias/1500488016. 1 -
+/noticias/noticia/567 1 -
+/index.php/processo-seletivo-contratacao-de-pessoal-edital-01-novembro-2009-educacao/doc_download/restrito/view/arquivos/noticias/arquivos/predio/restrito/view/editais/index.php 1 -
+/arquivos/noticias/1492218867. 2 -
+/arquivos/noticias/1500552518. 1 -
+/noticias/noticia/657 2 -
+/noticias/noticia/537 2 -
+/arquivos/noticias/1471636679. 2 -
+/arquivos/noticias/DSC05142.JPG 1 -
+/arquivos/noticias/1500488078. 1 -
+/noticias/noticia/647 1 -
+/noticias/noticia/490 1 -
+/arquivos/noticias/Slide8%20(2).JPG 1 -
+/noticias/noticia/808 2 -
+/app/etc/local.xml 1 -
+/noticias/noticia/964 2 -
+/arquivos/noticias/1487290624. 1 -
+/arquivos/galeria/1424437825.JPG 1 -
+/apple-touch-icon-precomposed.png 3 -
+/arquivos/noticias/1490988796. 3 -
+/noticias/noticia/432 1 -
+/index.php/processo-seletivo-contratacao-de-pessoal-edital-01-novembro-2009-educacao/doc_download/arquivos/galeria/restrito/view/legislacao/restrito/view/arquivos/noticias/index.php 1 -
+/arquivos/galeria/1408645691.JPG 1 -
+/arquivos/editais/seletivoedital.pdf 1 -
+/arquivos/galeria/1412376389.JPG 1 -
+/arquivos/galeria/1411473241.JPG 1 -
+/noticias/noticia/462 1 -
+/noticias/noticia/997 1 -
+/noticias/noticia/934 2 -
+/legislacao/22 1 -
+/api/v2 4 -
+/arquivos/noticias/DSC04969.JPG 1 -
+/arquivos/galeria/1412366743.JPG 1 -
+/arquivos/noticias/1443036976. 1 -
+/arquivos/membros/IMG_2453.jpg 2 -
+/arquivos/galeria/1411473165.JPG 1 -
+/noticias/noticia/617 1 -
+/arquivos/noticias/1502142706. 1 -
+/noticias/noticia/881 2 -
+/noticias/153 2 -
+/noticias/noticia/619 3 -
+/arquivos/noticias/1492211334. 1 -
+/admin/server/php 1 -
+/legislacao/28 1 -
+/arquivos/noticias/DSC05073.JPG 1 -
+/arquivos/noticias/1490729392. 2 -
+/arquivos/categoria_secretaria/1397500626.pdf 1 -
+/arquivos/galeria/1424438028.JPG 1 -
+/arquivos/galeria/1424268870.JPG 1 -
+/arquivos/galeria/1412373891.JPG 1 -
+/arquivos/noticias/1495841482. 5 -
+/arquivos/noticias/1495040779. 2 -
+/arquivos/noticias/1500487862. 1 -
+/noticias/noticia/906 2 -
+/apple-touch-icon.png 4 -
+/noticias/noticia/344 1 -
+/arquivos/noticias/1404940098. 1 -
+/arquivos/noticias/1443036812. 1 -
+/edit/dialogs/internal.js 1 http://www.camapua.ms.gov.br/edit/dialogs/internal.js
+/arquivos/noticias/DSC05011.JPG 1 -
+/noticias/noticia/354 1 -
+/noticias/noticia/471 4 -
+/arquivos/noticias/P1150387.JPG 1 -
+/arquivos/galeria/1455883690.JPG 1 -
+/arquivos/noticias/1500317626. 1 -
+/arquivos/noticias/1490022622. 2 -
+/arquivos/galeria/1408022466.JPG 1 -
+/noticias/118 2 -
+/arquivos/galeria/1408643710.JPG 1 -
+/arquivos/noticias/Samu%20mr%20(2).JPG 1 -
+/noticias/noticia/812 1 -
+/arquivos/galeria/1411755649.JPG 1 -
+/arquivos/galeria/1412373948.JPG 1 -
+/arquivos/noticias/1500552602. 1 -
+/noticias/noticia/495 1 -
+/arquivos/noticias/DSC04998.JPG 1 -
+/2015/wp-includes/wlwmanifest.xml 1 -
+/noticias/73 2 -
+/noticias/noticia/786 1 -
+/arquivos/noticias/1490022595. 1 -
+/arquivos/noticias/1491591305. 3 -
+/arquivos/galeria/1412377769.JPG 1 -
+/noticias/noticia/488 2 -
+/arquivos/noticias/1493394838.png 17 http://blogmarcosmontinely.com.br/blog/category/noticia/page/77/
+/arquivos/noticias/1500317677. 4 -
+/.git/config 2 -
+/arquivos/noticias/1436899775. 1 -
+/arquivos/noticias/1489195206. 3 -
+/assets/jquery-file-upload/server/php/index.php 1 -
+/arquivos/noticias/1421257966.JPG 2 -
+/arquivos/noticias/1502395089. 1 -
+/noticias/150 2 -
+/arquivos/noticias/1445886024. 2 -
+/noticias/161 1 -
+/legislacao/29 3 -
+/arquivos/noticias/1489193656. 1 -
+/noticias/noticia/744 2 -
+/arquivos/galeria/1425385973.JPG 1 -
+/index.php/processo-seletivo-contratacao-de-pessoal-edital-01-novembro-2009-educacao/doc_download/arquivos/predio/restrito/view/legislacao/restrito/view/transparencia/arquivos/predio/index.php 1 -
+/arquivos/noticias/1461101596. 1 -
+/arquivos/noticias/1490729415. 1 -
+/noticias/97 3 -
+/arquivos/noticias/1471636617. 1 -
+/noticias/noticia/878 2 -
+/arquivos/noticias/1390481314.jpg 4 http://ead.colegiopolivalente.com.br/mod/forum/search.php
+/noticias/noticia/1034 1 -
+/arquivos/noticias/1503606063. 3 -
+/como-chegar 7 -
+/arquivos/galeria/1411065052.JPG 1 -
+/arquivos/noticias/1452782081. 5 -
+/arquivos/noticias/1411078482.JPG 1 -
+/arquivos/noticias/1501537702. 2 -
+/noticias/noticia/1009 1 -
+/noticias/noticia/852 1 -
+/noticias/noticia/401 2 -
+/arquivos/editais/EDITAL%201%20-%20Processo%20Seletivo%202014.pdf 1 -
+/arquivos/noticias/1489194994. 1 -
+/arquivos/noticias/1497439613. 2 -
+/noticias/noticia/976 1 -
+/arquivos/noticias/DSC05042.JPG 1 -
+/arquivos/noticias/1500485710. 2 -
+/arquivos/noticias/1489580382. 1 -
+/noticias/noticia/426 1 -
+/arquivos/galeria/1412367380.JPG 1 -
+/arquivos/galeria/1411473303.JPG 1 -
+/arquivos/noticias/1489196773. 1 -
+/v2//wp-admin/install.php 1 -
+/noticias/81 2 -
+/arquivos/noticias/1487703442. 1 -
+/arquivos/noticias/1490988670. 1 -
+/arquivos/noticias/1505966546.jpg 25 -
+/noticias/48 2 -
+/arquivos/noticias/1450186795. 1 -
+//base/post.php 1 http://www.camapua.ms.gov.br//base/post.php
+/arquivos/noticias/DSC05071.JPG 1 -
+/arquivos/noticias/1492432563. 1 -
+/arquivos/noticias/1487783636. 1 -
+/noticias/120 3 -
+/arquivos/noticias/1474283076. 3 -
+/administrator/language/en-GB/install.xml 4 -
+/arquivos/galeria/1417528431.JPG 1 -
+/arquivos/noticias/1496265355. 3 -
+/arquivos/noticias/1500552632. 1 -
+/arquivos/editais/Homologacao%20dos%20Inscritos%20para%20o%20PSS%202015.pdf 1 -
+/arquivos/noticias/1487783631. 2 -
+/membro/14 1 -
+/index.php/noticia/informacao-importante 2 -
+/media/wp-includes/wlwmanifest.xml 10 -
+/legislacao/23 2 -
+/arquivos/noticias/1392399286.jpg 2 -
+/noticias/noticia/714 1 -
+/arquivos/noticias/1490729373. 2 -
+/arquivos/noticias/P1180926.JPG 1 -
+/laravel/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 4 -
+/arquivos/galeria/1486494552.jpg 1 -
+/arquivos/galeria/1411131550.JPG 1 -
+/arquivos/noticias/1445886045. 3 -
+/arquivos/noticias/1490022530. 3 -
+/arquivos/noticias/1470860257. 1 -
+/noticias/1 6 -
+/arquivos/galeria/1424888441.JPG 1 -
+/inicio 8 -
+/arquivos/noticias/1500317555. 3 -
+/arquivos/noticias/1489580452. 3 -
+/arquivos/noticias/DSC04980.JPG 2 -
+/index.php/processo-seletivo-contratacao-de-pessoal-edital-01-novembro-2009-educacao/doc_download/arquivos/predio/restrito/view/arquivos/noticias/restrito/view/legislacao/index.php 1 -
+/noticias/noticia/725 2 -
+/arquivos/galeria/1412366149.JPG 1 -
+/noticias/noticia/707 3 -
+/arquivos/galeria/1412366175.JPG 1 -
+/noticias/66 2 -
+/arquivos/galeria/1424268886.JPG 1 -
+/noticias/125 1 -
+/noticias/14 3 -
+/arquivos/noticias/1489196031. 1 -
+/noticias/noticia/709 3 -
+/noticias/noticia/674 1 -
+/bandeira 1 -
+/arquivos/galeria/1412365969.JPG 1 -
+/noticias/40 1 -
+/noticias/166 2 -
+/arquivos/noticias/1487203408. 1 -
+/noticias/noticia/875 2 -
+/2018/wp-includes/wlwmanifest.xml 10 -
+/arquivos/editais/Edital%20-%20PSS%202014%20(Edital%20de%20Convocacao4).pdf 1 -
+/noticias/31 1 -
+/legislacao-municipal 3 -
+/arquivos/manuais/1384046700.pdf 2 -
+/noticias/noticia/833 2 -
+/arquivos/galeria/1424268783.JPG 1 -
+/arquivos/noticias/P1150390.JPG 1 -
+/noticias/noticia/863 2 -
+/noticias/noticia/377 3 -
+/arquivos/galeria/1412365650.JPG 1 -
+/arquivos/noticias/1487703712. 2 -
+/arquivos/noticias/1500930034. 2 -
+/arquivos/noticias/1501537818. 2 -
+/arquivos/noticias/1501537719. 2 -
+/arquivos/noticias/1489194182. 1 -
+/noticias/noticia/498 2 -
+/arquivos/galeria/1411473050.JPG 1 -
+/arquivos/galeria/1414758250.JPG 1 -
+/arquivos/galeria/1411473309.JPG 1 -
+/noticias/noticia/800 2 -
+/humans.txt 1 -
+/noticias/noticia/485 1 -
+/arquivos/noticias/1450187045. 4 -
+/arquivos/noticias/1462981787. 2 -
+/noticias/104 2 -
+/arquivos/predio/56095254.jpg 1 -
+/arquivos/galeria/1418215162.JPG 1 -
+/arquivos/noticias/1485349259.JPG 2 -
+/arquivos/noticias/1490022586. 2 -
+/noticias/155 2 -
+/arquivos/noticias/1493919836. 1 -
+/api/1/datasets 2 -
+/arquivos/galeria/1411755824.JPG 1 -
+/noticias/noticia/516 4 -
+/arquivos/noticias/1489193368. 1 -
+/phpMyAdmin/print.css 1 -
+/arquivos/galeria/1424438197.JPG 1 -
+/arquivos/noticias/1491591456. 1 -
+/arquivos/noticias/1406643510. 2 -
+/noticias/noticia/777 2 -
+/arquivos/noticias/1501537659. 1 -
+/config/AspCms_config.asp 1 -
+/noticias/noticia/604 1 -
+/noticias/noticia/779 3 -
+/arquivos/galeria/1411472761.JPG 1 -
+/arquivos/noticias/1501537733. 1 -
+/arquivos/noticias/DSC05083.JPG 1 -
+/arquivos/noticias/1497013460. 1 -
+/arquivos/noticias/1485895802. 2 -
+/composer.json 2 -
+/noticias/2 7 -
+/arquivos/noticias/1500485737. 1 -
+/arquivos/galeria/1439295088.JPG 1 -
+/arquivos/noticias/1489197387. 1 -
+/index.php/processo-seletivo-contratacao-de-pessoal-edital-01-novembro-2009-educacao/doc_download/arquivos/galeria/arquivos/predio/restrito/view/editais/index.php 1 -
+/arquivos/noticias/1429372214.JPG 2 -
+/arquivos/noticias/1486124282. 1 -
+/noticias/noticia/720 2 -
+/noticias/noticia/891 2 -
+/arquivos/galeria/1424438007.JPG 1 -
+/arquivos/noticias/1403695660.jpg 1 -
+/noticias/noticia/453 2 -
+/agenda-prefeito 5 -
+/arquivos/manuais/1383674339.pdf 1 -
+/noticias/24 3 -
+/arquivos/noticias/P1180909.JPG 1 -
+/admin/db/noticias/thumb/cdfd8a86961a2f05c546dc07d6acff19.jpg 2 -
+/arquivos/galeria/1407265441.JPG 1 -
+/noticias/noticia/987 3 -
+/arquivos/noticias/1491591433. 2 -
+/noticias/noticia/666 2 -
+/arquivos/noticias/1500317724. 4 -
+/arquivos/noticias/DSC05035.JPG 1 -
+/arquivos/noticias/1452782233. 2 -
+/noticias/noticia/870 1 -
+//phpThumb.php 2 -
+/wp-content/plugins/jekyll-exporter/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 2 -
+/arquivos/galeria/1411131192.JPG 1 -
+/concurso/10 1 -
+/mail 2 http://camapua.ms.gov.br/mail/
+/noticias/noticia/556 3 -
+/arquivos/galeria/1412365618.JPG 1 -
+/arquivos/noticias/DSC05121.JPG 1 -
+/noticias/noticia/827 3 -
+/arquivos/galeria/1425386440.JPG 1 -
+/arquivos/manuais/1399470905.pdf 2 -
+/noticias/noticia/805 2 -
+/fckeditor/editor/filemanager/connectors/php/upload.php 4 -
+/noticias/noticia/584 2 -
+/arquivos/galeria/1424437941.JPG 1 -
+/index.php/noticia/prefeitura-recolhe-pneus-usados-em-borracharias 3 -
+/arquivos/noticias/1489195501. 2 -
+/arquivos/noticias/1500552605. 1 -
+/arquivos/manuais/1383593046.pdf 1 -
+/wp1/wp-includes/wlwmanifest.xml 10 -
+/noticias/noticia/829 2 -
+/noticias/noticia/325 1 -
+/galeria/conheca-a-cidade 1 -
+/arquivos/galeria/1425390045.JPG 1 -
+/noticias/147 2 -
+/arquivos/galeria/1411130910.JPG 1 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 1517
+187.7.231.170 1366 8156 430683401 20200131223739
+129.146.158.17 305 305 7785823 20200131232459
+3.135.132.97 302 302 2870258 20200131234814
+177.69.126.33 237 241 47757390 20200131205724
+170.80.33.250 147 1790 295147959 20200131143728
+170.80.32.210 114 2095 290497564 20200131234400
+167.71.80.179 62 63 12448760 20200114100120
+133.18.205.120 59 61 12232969 20200111172930
+179.222.150.34 49 49 465677 20200122093036
+66.249.85.19 42 321 27266200 20200131001123
+5.196.64.109 36 37 11498061 20200130054511
+45.227.253.90 35 35 1010652 20200120030611
+109.74.154.72 31 2294 6334810 20200131020053
+66.249.85.18 28 283 13296217 20200131001123
+66.249.85.17 27 295 12238314 20200131214501
+37.218.247.47 26 26 247095 20200127234938
+187.54.65.84 26 775 50453975 20200114111548
+189.31.185.4 24 469 29212246 20200131104557
+201.7.1.64 22 52 5330221 20200131181810
+189.46.0.32 21 135 16770573 20200108180404
+207.102.138.158 20 60 2895835 20200130184432
+37.218.241.78 20 20 190085 20200122093039
+189.10.97.114 18 435 33502525 20200131155518
+191.223.177.218 17 17 78018 20200103194849
+132.255.240.188 15 85 9511915 20200122112358
+66.102.6.237 0 1 2560554 
+66.102.6.205 8 57 1894141 20200128151334
+189.120.75.226 0 1 2560554 
+201.17.85.179 0 1 105737 
+189.123.82.147 0 1 2560554 
+177.136.153.18 0 2 2838058 
+179.95.250.85 1 1 9495 20200119110724
+177.79.30.47 0 1 2560554 
+177.85.177.191 0 1 2560554 
+40.94.102.29 0 12 243487 
+78.46.156.169 0 1 9326555 
+187.114.48.24 0 1 105737 
+179.222.107.234 0 1 105737 
+179.214.220.88 0 5 622824 
+189.50.142.214 3 77 4625368 20200128111359
+179.183.209.254 0 1 2560554 
+187.6.233.150 3 14 3226988 20200123173430
+179.214.192.215 0 1 2560554 
+177.5.79.197 0 1 2560554 
+177.34.9.108 0 1 2560554 
+187.23.216.198 2 75 4468222 20200108203410
+170.80.32.224 2 6 9505 20200127094109
+138.94.76.250 0 1 105737 
+177.205.149.50 0 1 105737 
+177.79.30.53 0 1 2560554 
+189.115.106.145 0 1 2560554 
+201.77.94.41 0 1 235053 
+34.83.105.203 4 4 321506 20200118100623
+187.123.166.252 2 2 37779 20200109180728
+200.207.174.17 0 1 105737 
+201.11.183.52 0 1 105737 
+177.74.238.198 0 1 2560554 
+35.184.68.0 1 16 929295 20200107172606
+187.4.64.130 0 1 2560554 
+189.40.79.224 0 1 2560554 
+200.140.48.250 0 2 1792182 
+177.202.13.180 5 151 8940258 20200120155350
+177.2.85.224 0 1 2560554 
+177.6.101.2 3 14 3225110 20200106085422
+189.127.218.162 0 1 105737 
+200.181.32.170 2 31 921578 20200106190201
+201.48.231.65 0 1 105737 
+177.87.222.251 0 1 2560554 
+40.94.102.71 0 1 2560554 
+45.236.226.218 0 1 2560554 
+143.137.95.25 0 1 105737 
+200.183.149.130 3 76 5007685 20200117092528
+187.53.142.229 0 1 2560554 
+179.66.234.165 0 1 105737 
+186.208.227.212 0 1 105737 
+173.252.95.35 0 3 44128 
+125.209.235.178 0 9 171707 
+177.157.253.128 0 1 2560554 
+189.101.246.222 0 1 44272 
+200.160.124.65 0 3 7681662 
+189.40.75.21 2 75 4468222 20200126221244
+186.226.199.30 0 1 2560554 
+177.35.122.5 1 21 3655029 20200116161210
+170.66.1.233 0 3 5211459 
+177.5.121.98 0 1 2560554 
+187.23.212.49 3 76 4473723 20200129104635
+69.171.251.24 0 2 198143 
+177.132.230.152 0 1 105737 
+186.214.234.16 0 1 105737 
+179.180.63.100 0 2 2860217 
+189.49.131.152 0 1 299663 
+201.34.194.98 2 75 4468221 20200107095210
+177.156.204.225 0 1 105737 
+177.4.171.38 2 75 9509 20200128183831
+191.223.77.203 2 75 1907669 20200110173649
+131.0.218.92 0 1 2560554 
+69.171.251.16 0 3 323073 
+177.79.52.58 0 1 2560554 
+179.183.66.252 0 1 2560554 
+201.40.16.152 0 1 2560554 
+52.36.122.211 1 1 80849 20200114193334
+154.51.131.142 1 1 9495 20200103171529
+201.88.41.240 0 1 2560554 
+189.125.228.48 0 1 2560554 
+35.223.67.85 9 9 723393 20200129180547
+187.25.53.7 1 12 3214510 20200120145206
+88.99.137.13 1 1 9497 20200111141723
+138.117.36.82 0 1 299663 
+125.209.235.183 1 12 135178 20200124093204
+177.194.244.222 0 1 109728 
+179.177.11.65 0 1 2560554 
+201.79.147.232 0 1 105737 
+201.56.135.2 1 21 18703097 20200121092318
+5.9.17.118 1 2 96583 20200123141745
+152.250.99.30 1 28 3772009 20200119123741
+187.55.189.216 1 5 2925832 20200117171116
+187.55.140.231 0 1 2560554 
+132.255.240.168 5 17 3275154 20200127091538
+31.13.127.9 0 2 237194 
+74.82.60.87 0 2 98526 
+173.252.95.17 1 1 18028 20200118220035
+77.247.127.50 1 1 9497 20200128042913
+186.220.222.202 0 1 310399 
+45.163.94.196 5 87 5045281 20200128105134
+201.55.192.81 1 1 80849 20200126025339
+177.79.33.99 0 1 2560554 
+189.59.123.91 0 1 95268 
+45.6.122.221 0 1 2560554 
+179.255.221.124 0 2 180702 
+177.4.199.139 0 1 2560554 
+189.41.172.227 0 1 105737 
+170.245.46.116 0 1 2560554 
+181.44.60.33 0 1 2560554 
+191.223.132.231 2 2 19001 20200130225234
+179.99.217.74 0 1 2560554 
+177.83.4.151 0 1 2560554 
+177.6.80.163 0 1 2560554 
+173.252.95.30 0 12 568523 
+179.99.167.212 0 1 2560554 
+179.214.217.123 6 101 5954575 20200116110608
+177.194.237.107 0 1 2560554 
+179.230.19.218 1 1 9502 20200122151917
+200.158.168.231 0 1 105737 
+189.97.235.215 0 1 2560554 
+191.33.92.128 0 1 105737 
+179.230.29.205 1 4 9504 20200127105448
+66.249.88.24 1 36 38807704 20200106112853
+177.79.36.36 1 1 11364 20200109104102
+179.95.235.58 0 3 5420771 
+35.247.11.16 3 3 241131 20200131205708
+179.183.208.124 0 1 2560554 
+45.166.202.208 6 225 13404655 20200122103058
+189.27.66.115 0 2 5121108 
+191.33.241.48 0 1 2560554 
+189.73.199.187 0 1 2560554 
+179.180.49.232 3 76 4472058 20200121094754
+35.239.97.191 2 6 294439 20200109044936
+191.217.249.71 0 1 105737 
+189.103.72.55 4 16 5790612 20200127183004
+170.245.70.29 0 1 2560554 
+189.121.176.198 0 1 105737 
+177.79.33.76 1 42 979884 20200113101948
+66.102.6.16 0 11 28166094 
+177.107.75.22 0 1 167277 
+88.200.219.122 1 1 80377 20200115160204
+131.255.54.129 0 1 2560554 
+45.165.136.178 0 1 105737 
+189.40.76.10 0 1 105737 
+153.92.40.13 4 150 8936439 20200129060535
+144.76.162.206 0 2 413865 
+187.55.189.154 2 75 4468217 20200120172628
+177.103.216.179 4 11 691252 20200131111941
+177.68.47.64 0 1 105737 
+201.80.219.172 0 1 105737 
+177.43.79.174 0 1 2560554 
+5.9.94.207 0 3 762465 
+179.182.175.103 0 1 105737 
+191.8.227.126 0 1 2560554 
+189.69.63.82 0 1 105737 
+200.96.141.58 0 1 2560554 
+187.33.234.210 0 1 105737 
+189.59.120.187 0 2 413865 
+177.96.67.222 0 1 2560554 
+200.181.1.118 3 3 28483 20200111123144
+179.191.16.68 2 75 4468220 20200116110847
+177.207.181.10 0 1 105737 
+132.255.240.141 6 91 5178372 20200102175010
+200.209.106.130 0 1 105737 
+179.185.88.162 0 1 2560554 
+45.6.121.25 2 76 7028758 20200109144339
+179.253.3.179 0 1 105737 
+177.79.30.238 0 42 1068154 
+177.132.249.10 0 1 105737 
+201.3.15.109 0 1 2560554 
+189.115.109.21 0 1 2560554 
+179.95.235.98 0 2 5121108 
+77.74.177.4 0 1 105737 
+143.137.43.188 1 13 4040096 20200112222553
+177.7.124.149 0 1 2560554 
+189.74.153.71 0 2 5121108 
+177.5.127.183 2 16 5909460 20200129203248
+190.10.129.188 2 75 4495591 20200121165005
+65.49.126.74 1 4 9497 20200107104608
+187.53.59.223 2 75 4468223 20200107084311
+45.6.123.215 0 1 2560554 
+189.27.89.111 2 75 4468219 20200110104846
+177.78.167.208 1 1 9508 20200123150518
+177.3.237.50 0 1 2560554 
+189.83.167.72 0 1 299663 
+66.249.83.14 5 39 82857522 20200131104829
+179.124.11.100 3 14 3226885 20200103160519
+54.210.73.94 2 3 2579551 20200121063746
+200.1.216.112 0 1 2560554 
+179.255.240.219 0 1 2560554 
+189.2.182.179 0 1 2560554 
+177.92.63.56 4 4 38015 20200117010700
+177.92.37.36 1 1 9505 20200113203542
+191.176.204.204 0 1 105737 
+192.99.39.172 1 1 9495 20200122035956
+23.226.211.205 1 1 80376 20200108204152
+179.10.68.55 0 1 2560554 
+177.35.124.86 0 1 299663 
+189.31.43.122 0 1 2560554 
+177.79.35.10 0 1 2560554 
+45.172.182.75 0 1 299663 
+177.98.131.187 2 75 4468220 20200130094038
+201.34.194.204 2 77 9589328 20200131160632
+69.171.251.17 0 1 20920 
+200.181.1.178 0 1 2560554 
+3.228.23.3 3 3 28476 20200103120600
+185.253.96.10 2 2 161697 20200110135607
+201.42.62.185 0 2 211474 
+177.184.199.243 0 2 211474 
+189.27.89.11 1 11 3127635 20200108170556
+200.198.3.94 0 1 2560554 
+34.82.192.151 3 3 241130 20200119100724
+189.103.73.4 1 12 3214744 20200129115230
+179.180.53.205 0 1 2560554 
+177.212.80.203 0 1 2560554 
+200.203.66.194 0 1 105737 
+191.186.221.184 2 30 7677938 20200110152548
+191.223.132.177 0 1 61387 
+40.94.102.65 0 10 154589 
+191.191.10.138 0 1 105737 
+170.79.53.176 0 1 105737 
+177.79.54.89 1 7 442387 20200111231531
+179.254.206.151 0 1 2560554 
+18.210.220.63 0 2 386770 
+177.19.41.199 0 1 105737 
+177.6.250.37 0 1 2560554 
+167.250.216.80 2 75 4468223 20200128120258
+177.35.124.237 4 153 16622300 20200128085640
+52.34.76.65 2 75 4468223 20200114190335
+138.94.37.2 0 1 299663 
+187.55.188.106 0 1 75505 
+191.198.188.249 0 1 2560554 
+200.142.0.10 0 1 2560554 
+173.252.95.7 0 1 115483 
+179.255.144.69 0 1 2560554 
+189.31.185.219 0 1 2560554 
+177.201.88.198 0 1 2560554 
+181.213.112.206 2 6 294435 20200114205716
+200.178.15.174 2 77 4576819 20200120121154
+177.126.226.194 0 1 105737 
+170.231.90.32 0 1 105737 
+189.103.82.9 0 2 5121108 
+131.100.43.44 0 1 2560554 
+179.182.67.7 0 1 2560554 
+189.9.32.130 0 1 105737 
+177.79.34.85 0 1 2560554 
+200.19.36.16 0 1 105737 
+170.66.1.62 0 1 2560554 
+18.144.24.182 1 1 80377 20200118124933
+177.134.110.234 0 1 105737 
+179.254.137.159 4 77 192388 20200108162730
+177.5.118.231 0 1 2560554 
+177.194.224.35 1 12 3215858 20200127101916
+187.113.9.31 0 1 2560554 
+177.17.151.6 0 1 2560554 
+179.108.66.118 0 1 105737 
+69.171.251.33 0 2 501301 
+177.152.177.31 1 3 166629 20200107170449
+131.255.231.148 0 1 299663 
+173.252.95.32 1 3 350197 20200118220031
+187.112.197.179 0 1 2560554 
+66.102.8.202 0 1 2560554 
+187.75.255.243 0 1 105737 
+130.245.42.6 4 150 8936423 20200124174159
+177.1.86.129 0 1 2560554 
+66.249.88.149 0 3 7681662 
+177.43.78.199 1 14 8336967 20200116144346
+186.209.74.159 0 1 105737 
+31.13.127.8 0 1 115483 
+187.38.61.167 1 1 80849 20200123180215
+66.102.8.109 4 25 1338918 20200122181456
+177.149.148.104 0 1 105737 
+74.82.60.187 1 32 609419 20200131120556
+187.54.65.191 9 156 11544512 20200122141925
+138.97.187.169 0 1 105737 
+5.62.51.15 2 2 161697 20200131235310
+35.223.171.244 1 14 819876 20200128002649
+69.171.251.1 0 2 103580 
+186.251.22.194 2 75 4468222 20200108105947
+187.65.165.88 0 3 211474 
+185.246.208.43 1 1 80849 20200112151840
+179.255.145.167 0 1 2560554 
+177.5.251.9 5 151 8945910 20200114092927
+186.219.216.215 0 1 2560554 
+191.189.23.94 0 1 340308 
+107.23.12.248 3 3 28476 20200110201038
+187.23.209.173 0 6 15363324 
+177.159.210.34 0 1 105737 
+191.34.109.191 0 1 2560554 
+200.11.10.61 1 12 3214511 20200125233350
+35.233.194.70 2 2 18983 20200107050041
+54.202.7.213 1 1 80848 20200106103003
+177.79.31.98 0 1 2560554 
+187.95.105.191 2 2 19003 20200128233518
+191.34.100.71 0 1 2560554 
+125.209.235.173 0 6 110440 
+187.6.254.122 2 14 5782095 20200106114853
+45.181.228.249 0 1 299663 
+191.13.209.78 0 1 105737 
+186.231.152.14 0 1 105737 
+201.15.75.242 0 1 2560554 
+45.163.95.80 0 5 12802770 
+177.194.245.70 0 1 2560554 
+89.187.177.130 1 1 80849 20200117095055
+189.2.174.162 0 1 299663 
+177.92.60.48 3 3 28510 20200109164405
+201.41.121.46 0 1 2560554 
+189.59.86.57 0 1 2560554 
+200.103.9.77 0 1 2560554 
+52.34.31.242 0 1 105737 
+179.185.88.140 0 1 2560554 
+179.253.190.246 0 1 0 
+116.233.112.210 4 4 37983 20200117084829
+179.236.168.78 0 1 105737 
+51.15.109.255 2 2 18994 20200123232727
+132.255.240.171 4 16 835130 20200107150640
+191.32.227.10 0 1 105737 
+44.232.176.90 1 1 9495 20200129222636
+187.19.27.240 0 2 211474 
+186.230.4.158 0 1 105737 
+189.103.71.216 0 2 5121108 
+198.49.164.179 3 17 3348212 20200124114538
+177.6.81.187 0 1 2560554 
+189.31.44.234 0 1 2560554 
+104.254.92.20 1 1 9498 20200119000045
+177.83.13.121 0 1 2560554 
+177.72.178.132 2 75 4468213 20200129072735
+191.249.116.101 0 1 2560554 
+201.82.208.115 0 1 105737 
+177.4.187.136 0 2 5121108 
+191.33.244.175 0 1 2560554 
+191.223.133.153 0 1 2560554 
+177.35.120.208 0 2 5121108 
+191.189.22.156 0 1 105737 
+201.17.103.219 2 5 257393 20200120130525
+189.90.39.169 2 6 294436 20200103210705
+200.193.215.14 0 1 2560554 
+187.86.225.14 4 20 9292223 20200130170247
+191.218.218.172 3 14 3231810 20200107114459
+177.189.149.80 0 1 2560554 
+190.12.185.129 0 1 105737 
+131.0.218.113 0 1 2560554 
+35.232.160.85 1 11 642769 20200106164233
+66.249.80.79 1 7 1283845 20200103131143
+179.103.202.221 1 4 9507 20200121092422
+177.79.50.156 1 1 9501 20200112121831
+187.53.142.31 0 1 2560554 
+179.96.171.23 0 1 2560554 
+201.88.254.66 0 1 2560554 
+66.249.83.16 8 33 59092739 20200131230702
+179.254.137.84 0 1 2560554 
+177.3.203.40 0 1 2560554 
+177.6.250.146 0 8 20484432 
+200.96.140.96 2 75 1907661 20200102173102
+179.255.145.207 0 1 2560554 
+177.5.203.118 0 1 2560554 
+191.33.207.207 0 1 2560554 
+177.79.50.188 1 16 390683 20200112105716
+170.79.220.111 0 1 2560554 
+173.252.95.24 0 1 482007 
+177.195.95.144 0 1 105737 
+66.249.88.152 0 1 2560554 
+189.111.25.101 2 5 291669 20200110040112
+177.201.65.20 0 1 2560554 
+138.97.13.233 0 1 105737 
+186.220.198.191 4 9 462134 20200122105545
+187.111.253.71 0 1 299663 
+201.78.135.141 0 1 105737 
+191.215.147.231 0 1 105737 
+201.91.136.74 3 14 3226880 20200130092456
+200.140.151.227 0 1 2560554 
+177.220.173.14 0 1 105737 
+168.194.160.75 0 1 105737 
+136.27.62.24 1 1 80376 20200102052956
+173.252.127.18 0 1 59358 
+177.34.6.132 0 1 2560554 
+179.189.45.30 0 1 299663 
+177.79.33.164 0 1 2560554 
+201.40.60.127 0 1 2560554 
+186.247.200.86 0 1 299663 
+172.111.199.198 3 3 242547 20200122021819
+177.79.35.18 0 32 778567 
+200.201.175.23 2 75 4468220 20200113135500
+177.1.82.210 3 76 4472570 20200114152650
+191.250.238.208 0 1 105737 
+88.198.90.9 0 1 237772 
+177.147.250.174 0 1 2560554 
+187.180.89.100 0 1 105737 
+66.249.85.48 12 258 226486603 20200124145145
+179.222.34.161 0 1 105737 
+207.180.246.61 1 1 9491 20200120062907
+201.48.198.189 0 1 2560554 
+187.17.201.51 0 1 105737 
+74.82.60.92 1 1 9501 20200114111212
+177.79.34.103 0 1 75505 
+177.97.196.250 0 1 105737 
+200.140.142.3 3 15 5786095 20200129212211
+177.97.205.230 0 4 2754767 
+200.96.131.79 3 76 4477722 20200129160336
+167.249.168.5 0 1 299663 
+201.148.125.202 0 1 105737 
+187.21.172.219 4 12 641456 20200125093537
+200.96.241.79 0 1 2560554 
+179.102.189.191 2 75 4468221 20200107165640
+192.140.82.139 0 1 299663 
+216.19.195.100 1 1 80377 20200127113635
+186.225.110.218 0 1 105737 
+74.82.60.183 1 6 303921 20200110110400
+177.97.37.55 0 1 2560554 
+189.40.78.18 0 1 2560554 
+18.221.172.214 2 2 19000 20200111064449
+179.214.163.169 0 1 2560554 
+187.23.204.253 1 12 3214509 20200127143812
+187.17.165.164 0 1 105737 
+201.7.1.92 0 1 2560554 
+177.59.11.166 1 13 4039392 20200113165743
+132.255.240.142 3 16 3713244 20200109085819
+187.113.14.249 0 1 2560554 
+200.152.118.66 0 1 105737 
+189.27.90.166 0 1 2560554 
+179.95.255.217 0 3 2694523 
+177.212.169.51 0 1 2560554 
+179.253.191.234 4 77 4481460 20200120144237
+187.112.68.115 0 1 2560554 
+191.184.200.192 3 77 4527079 20200126220222
+200.198.204.86 0 6 525057 
+177.79.29.214 0 1 277504 
+189.29.146.214 0 3 210266 
+167.172.174.13 1 1 9500 20200113201426
+131.193.40.123 0 1 2560554 
+177.53.207.242 0 1 2560554 
+138.204.143.101 0 1 105737 
+179.177.9.94 0 1 2560554 
+123.245.26.123 1 1 9494 20200105185435
+177.92.43.147 3 3 28510 20200112192559
+189.59.118.229 0 1 2560554 
+52.11.64.146 0 1 105737 
+177.78.163.113 1 3 9504 20200109173323
+201.42.0.43 0 7 740159 
+189.78.210.159 0 1 299663 
+200.163.115.79 1 1 9498 20200129210744
+189.38.114.70 0 1 2560554 
+200.103.46.210 2 75 4468221 20200123100336
+179.101.163.35 0 1 2560554 
+179.253.26.132 3 25 6436822 20200127142431
+131.0.218.42 0 1 2560554 
+89.187.168.148 1 1 80377 20200131161929
+189.74.58.153 0 1 105737 
+191.24.100.185 0 1 2560554 
+186.251.22.195 0 1 2560554 
+138.94.188.124 0 1 105737 
+187.59.110.195 0 1 105737 
+189.122.157.208 6 6 57010 20200107035228
+179.253.190.75 0 1 2560554 
+74.82.60.75 1 5 154508 20200128105745
+170.80.32.4 0 2 3385620 
+189.90.160.96 0 1 105737 
+187.36.115.154 0 1 123009 
+187.61.145.201 0 1 105737 
+131.0.218.9 2 14 5781978 20200113100228
+66.102.8.206 3 281 51678256 20200130171227
+189.78.249.51 0 1 105737 
+191.223.77.110 2 14 3535203 20200124091734
+45.171.146.187 0 1 2560554 
+201.15.70.130 0 1 2560554 
+66.249.85.50 11 213 171566702 20200122104930
+187.9.54.254 4 86 5077852 20200116094912
+201.87.232.158 0 3 893544 
+173.252.95.3 0 2 230966 
+125.209.235.176 0 14 462692 
+177.74.226.102 0 1 263378 
+131.221.130.97 0 1 105737 
+104.140.80.171 2 2 13336 20200126185350
+200.163.115.234 0 1 2560554 
+189.16.228.70 0 1 105737 
+45.166.84.233 0 1 105737 
+177.128.121.192 0 1 2560554 
+179.162.99.4 0 1 2560554 
+45.135.186.76 2 2 19002 20200114120730
+189.16.87.98 0 2 5121108 
+69.171.251.12 0 1 24 
+200.129.210.220 0 1 2560554 
+179.254.206.150 0 1 2560554 
+66.249.88.33 1 26 2583086 20200109210334
+177.201.67.178 0 2 5121108 
+189.31.44.145 0 1 2560554 
+177.212.76.84 0 1 2560554 
+45.174.156.253 0 5 10897546 
+177.198.147.226 0 1 2560554 
+201.0.238.202 2 75 4468212 20200129013202
+52.52.46.158 13 13 123556 20200131235952
+45.236.227.174 0 1 2560554 
+189.10.127.73 1 20 5989115 20200125132113
+200.181.1.143 1 1 9499 20200112213020
+187.54.65.204 4 151 11496996 20200124135234
+191.55.239.103 0 1 105737 
+179.253.191.236 0 1 2560554 
+189.62.44.109 0 3 211474 
+185.93.3.114 1 1 80376 20200109015803
+177.79.53.205 1 4 191192 20200111231511
+201.40.17.29 0 1 2560554 
+69.171.251.8 0 2 103580 
+177.0.91.77 0 1 2560554 
+5.62.51.43 1 1 80849 20200131070200
+5.62.51.132 1 1 80848 20200109071108
+177.185.196.88 1 1 80849 20200114201436
+201.75.64.55 4 26 6442435 20200122094734
+189.40.69.34 0 1 277504 
+45.236.180.240 0 1 2560554 
+189.82.4.169 2 6 294437 20200106124307
+179.185.91.237 0 1 2560554 
+65.49.126.96 2 4 151688 20200114143552
+189.40.79.236 0 2 5121108 
+138.122.234.241 1 1 80848 20200106153549
+177.1.195.155 0 1 2560554 
+186.232.245.242 5 43 9408529 20200122150336
+191.189.10.59 0 1 105737 
+179.162.59.146 0 1 2560554 
+187.8.213.218 13 252 21506577 20200131161754
+45.236.224.250 0 1 2560554 
+189.10.127.202 2 21 884258 20200106153144
+177.11.145.79 0 1 105737 
+189.103.92.165 0 1 2560554 
+34.68.209.147 4 12 588885 20200123173244
+34.69.211.70 2 74 1907653 20200105002017
+200.163.86.21 0 1 2560554 
+187.122.124.125 0 1 105737 
+45.236.182.245 0 1 2560554 
+66.249.88.22 0 43 49408121 
+187.75.214.208 0 1 105737 
+179.219.77.171 0 2 211474 
+177.53.205.242 0 1 2560554 
+187.119.228.190 0 1 2560554 
+172.111.199.200 1 1 80849 20200116022552
+186.237.38.233 0 1 2560554 
+177.34.8.234 2 75 4468220 20200103210121
+179.11.79.91 0 1 2560554 
+200.96.141.149 0 1 2560554 
+54.224.230.57 1 1 80376 20200105051725
+138.122.233.240 1 1 80849 20200115022807
+187.109.255.132 0 1 105737 
+177.79.33.61 0 1 225477 
+66.249.83.15 4 39 3086715 20200131131504
+191.189.54.75 0 1 105737 
+189.5.58.227 0 1 105737 
+5.121.17.68 1 2 130696 20200131200803
+200.96.140.47 0 1 2560554 
+179.184.64.22 0 1 105737 
+179.70.103.93 0 1 105737 
+34.205.157.165 0 1 105737 
+187.65.163.246 7 18 3242494 20200130095506
+177.3.36.52 0 1 2560554 
+189.73.199.214 0 1 2560554 
+189.82.214.250 4 11 586105 20200130153637
+45.191.214.250 1 12 3215398 20200130021420
+5.62.51.143 2 2 161697 20200131120304
+191.187.220.180 0 1 105737 
+177.79.78.94 0 1 825066 
+177.159.98.90 0 3 5946174 
+177.175.221.91 0 1 2560554 
+13.81.54.208 1 1 9495 20200112030520
+104.198.56.188 2 4 170467 20200113002615
+177.73.23.7 2 6 347016 20200118132333
+173.252.95.15 0 2 341204 
+66.102.6.241 0 1 2560554 
+132.255.240.139 0 1 2560554 
+177.206.217.236 0 1 105737 
+179.254.137.129 0 1 2560554 
+187.36.65.236 0 1 105737 
+5.62.51.33 1 5 260495 20200124170107
+200.187.170.120 0 1 105737 
+189.107.121.39 0 1 105737 
+189.103.85.188 0 1 2560554 
+187.36.232.21 0 1 105737 
+23.94.206.83 2 2 13330 20200119193337
+40.94.102.73 1 16 367324 20200110190256
+23.226.211.209 1 1 80377 20200110050033
+189.4.100.122 0 1 105737 
+191.184.207.167 0 1 2560554 
+91.132.138.61 1 1 9496 20200122191112
+200.219.75.251 2 75 4468220 20200121115601
+125.209.235.174 0 8 183440 
+200.103.46.60 0 1 2560554 
+177.202.14.176 3 76 4477709 20200116093853
+132.255.240.137 5 42 4729143 20200113140418
+23.239.180.89 1 1 80377 20200128193345
+177.170.30.132 0 1 105737 
+189.10.127.37 2 5 19002 20200116172703
+187.36.109.225 0 1 2560554 
+201.67.80.111 0 4 607355 
+177.79.32.120 0 1 2560554 
+5.62.51.53 1 1 80849 20200131183248
+200.140.151.122 0 17 2910685 
+189.27.90.16 2 75 4468216 20200106122045
+125.209.235.184 1 8 344571 20200110093536
+177.209.192.28 4 10 592918 20200109090051
+187.25.45.6 0 1 2560554 
+173.252.95.8 0 16 270277 
+177.1.86.12 0 1 2560554 
+40.94.102.6 0 10 185233 
+177.179.245.120 0 1 105737 
+179.252.86.105 0 1 2560554 
+66.249.88.80 0 1 2560554 
+132.255.240.180 2 14 3395889 20200111184921
+189.59.125.189 0 1 2560554 
+66.249.85.29 0 2 470106 
+177.3.36.210 0 1 2560554 
+177.3.203.98 2 2 8715 20200120150248
+177.5.240.62 0 2 5121108 
+177.50.213.111 0 1 105737 
+179.255.54.245 0 1 2560554 
+187.113.10.191 0 1 2560554 
+177.205.0.131 0 1 2560554 
+177.9.66.14 4 11 586113 20200121102431
+45.234.68.227 4 124 8475781 20200129144455
+191.223.132.240 0 1 2560554 
+177.69.159.65 1 1 9503 20200104152533
+189.40.78.85 0 1 2560554 
+168.181.81.117 0 1 105737 
+189.1.132.75 2 75 4468218 20200129162439
+45.190.160.6 0 3 5121108 
+179.95.252.177 0 1 2560554 
+187.105.29.152 0 1 105737 
+138.97.216.134 0 1 2560554 
+177.97.36.13 0 1 2560554 
+191.222.231.116 0 1 2560554 
+172.111.199.194 2 2 161698 20200128052742
+131.0.218.79 5 28 9006215 20200129095550
+191.253.14.76 0 1 2560554 
+189.6.34.100 0 1 105737 
+173.252.95.36 0 7 296431 
+5.62.51.82 1 5 260498 20200124034627
+132.255.240.130 10 42 5029073 20200115171709
+200.178.186.73 0 1 105737 
+187.183.142.155 0 1 105737 
+187.36.124.179 0 5 12802770 
+201.82.231.69 3 14 3237468 20200120095931
+179.254.136.13 0 1 2560554 
+189.31.42.173 0 1 2560554 
+179.255.220.124 0 1 2560554 
+179.255.147.114 0 1 2560554 
+179.182.71.47 0 1 2560554 
+179.220.92.123 2 76 7028767 20200120114956
+179.252.249.131 0 1 2560554 
+3.134.237.150 14 14 133061 20200131235958
+177.79.29.15 0 1 2560554 
+34.90.216.175 0 8 372660 
+54.183.246.118 14 14 574519 20200118124958
+187.86.225.152 0 4 10242216 
+189.120.4.119 0 1 105737 
+189.59.102.123 0 1 2560554 
+170.244.164.211 0 1 105737 
+189.16.7.180 2 75 4468208 20200108094817
+201.67.54.25 0 5 12802770 
+179.214.135.91 5 79 4758175 20200129225153
+189.110.12.250 3 76 4477727 20200116205548
+177.92.37.244 1 1 9501 20200102233001
+189.5.4.175 0 1 105737 
+189.9.19.216 0 1 105737 
+187.53.59.226 1 16 13457191 20200121103536
+173.252.127.29 0 1 20920 
+177.79.31.125 0 1 2560554 
+177.1.252.8 0 1 2560554 
+189.59.110.77 0 1 2560554 
+201.42.59.73 2 75 4468227 20200120093627
+189.59.98.58 9 31 4731663 20200123152320
+186.226.151.231 0 1 105737 
+45.6.123.209 0 1 2560554 
+187.36.115.66 0 1 2560554 
+201.57.198.204 0 2 3385620 
+3.88.36.201 1 1 48212 20200128111720
+179.183.214.179 0 1 2560554 
+200.140.151.147 1 1 9497 20200121003944
+177.52.114.47 0 1 2560554 
+187.45.101.9 0 2 211474 
+125.209.235.169 1 3 2623203 20200124093219
+69.171.251.10 0 2 238787 
+187.55.166.158 0 2 5121108 
+179.180.242.117 0 1 105737 
+54.70.53.60 2 75 4468222 20200114190345
+187.66.128.68 0 2 5343049 
+177.70.172.226 0 1 91854 
+177.136.14.190 4 4 38025 20200117140925
+177.84.63.11 2 6 294441 20200128113928
+177.79.54.217 1 16 2961629 20200112105714
+177.43.76.226 0 1 2560554 
+125.209.235.167 0 9 166536 
+177.79.72.2 1 13 5782264 20200110223209
+72.52.87.175 1 3 20558 20200114140403
+45.237.254.2 0 2 3385620 
+177.129.78.3 0 1 299663 
+165.22.47.112 1 1 80849 20200130021316
+177.223.30.43 0 1 105737 
+177.16.49.212 0 1 2560554 
+177.65.173.62 4 12 673034 20200115012243
+125.209.235.186 1 7 47326 20200117075523
+189.40.77.111 0 1 2560554 
+192.243.53.51 2 2 18988 20200117183957
+177.79.31.118 5 42 3726320 20200113102056
+186.215.155.8 2 75 4468211 20200129013357
+187.41.244.233 0 1 299663 
+5.189.187.244 3 9 392036 20200110142611
+189.9.62.212 0 2 2666291 
+200.96.139.120 2 75 4470318 20200122135649
+187.72.104.178 0 1 105737 
+189.40.77.232 0 1 2560554 
+200.201.163.83 0 2 2560554 
+187.7.221.38 0 1 2560554 
+201.56.135.52 0 3 7681662 
+45.190.161.24 0 1 2560554 
+187.73.73.11 0 1 105737 
+69.171.251.28 0 1 19294 
+201.1.128.189 0 1 105737 
+177.79.33.54 1 1 9495 20200115231233
+5.62.58.15 2 2 160754 20200129021205
+200.153.229.196 0 1 2560554 
+189.0.129.208 2 2 9977 20200131150107
+187.40.221.132 0 1 105737 
+179.93.176.81 2 75 4468221 20200122133354
+179.254.240.199 1 12 3215907 20200115182507
+173.252.95.31 0 2 103580 
+199.127.56.236 2 75 4468214 20200116165228
+189.40.90.88 0 1 105737 
+187.86.225.151 13 44 14426849 20200128131758
+189.31.43.151 0 1 2560554 
+177.6.80.184 0 2 5121108 
+191.17.113.55 1 6 324171 20200105092338
+177.74.128.77 0 1 2560554 
+177.79.78.102 0 1 2560554 
+65.49.126.194 1 11 262028 20200110144712
+191.55.191.43 0 1 105737 
+186.221.70.70 0 1 105737 
+189.59.86.80 1 1 9496 20200104190512
+187.123.1.170 0 1 105737 
+45.234.69.19 3 14 3225898 20200115163557
+151.18.163.157 0 1 2560554 
+66.249.88.62 4 35 20296800 20200131205921
+168.227.211.73 1 12 3214508 20200109111911
+200.181.123.142 0 26 577739 
+191.180.166.95 0 1 105737 
+177.15.130.114 3 18 3391218 20200128105026
+179.253.191.178 0 1 0 
+177.202.41.10 0 1 2560554 
+173.252.95.39 0 1 115483 
+178.175.144.126 2 2 213556 20200104134212
+187.55.164.166 0 1 2560554 
+91.132.138.41 1 1 9495 20200129215627
+187.9.125.90 0 1 2560554 
+177.128.121.10 0 1 0 
+187.25.43.66 0 1 2560554 
+177.79.33.79 0 1 2560554 
+179.211.196.22 2 6 378596 20200123001141
+179.180.49.218 1 12 3215858 20200128111637
+177.1.195.70 1 12 3215857 20200122172303
+189.112.210.26 0 3 208217 
+138.122.233.229 1 1 80848 20200102122342
+132.255.240.175 4 4 24595 20200103165522
+44.228.210.231 13 13 123547 20200131235953
+45.174.159.215 0 1 2560554 
+189.72.240.40 2 75 4468211 20200122103355
+172.111.199.196 4 4 323394 20200130022324
+191.12.61.179 0 1 299663 
+191.55.210.112 0 1 167277 
+177.62.223.115 0 1 105737 
+170.238.248.157 0 1 2560554 
+189.59.120.77 0 1 0 
+54.174.128.16 3 3 28485 20200131174520
+201.3.10.150 3 14 3226506 20200130150745
+179.255.146.181 0 1 0 
+200.207.67.164 0 2 3385620 
+177.35.124.141 0 2 5121108 
+45.6.123.4 0 1 2560554 
+189.120.79.170 0 1 2560554 
+177.18.16.181 0 1 106107 
+69.171.251.13 0 1 482007 
+177.124.60.186 0 1 105737 
+189.74.153.196 0 1 2560554 
+66.249.80.46 0 2 5121108 
+169.45.76.172 2 2 18991 20200106041337
+179.102.181.113 2 13 3220452 20200112130003
+200.223.90.51 2 75 4468216 20200108132150
+143.54.224.144 0 1 105737 
+222.182.58.19 2 2 19007 20200119213638
+187.38.129.156 2 6 378599 20200127161642
+186.208.21.221 0 1 409716 
+177.128.61.3 0 1 105737 
+177.73.105.62 0 1 2560554 
+177.41.142.216 2 6 378597 20200115020846
+189.27.75.129 0 4 10242216 
+131.0.245.2 0 1 299663 
+66.102.6.18 0 9 23044986 
+200.140.151.143 0 1 2560554 
+189.73.233.157 0 1 2560554 
+191.249.115.29 0 1 2560554 
+173.252.95.34 0 1 482007 
+189.103.90.45 0 1 2560554 
+150.163.68.1 2 75 4468216 20200131092848
+179.183.66.194 0 3 5946174 
+201.92.168.122 0 3 317211 
+179.95.240.78 0 1 2560554 
+179.124.10.203 0 1 2560554 
+187.56.106.62 0 1 105737 
+3.80.251.220 2 2 18995 20200121063745
+168.194.160.189 5 79 5142309 20200129083115
+200.199.218.188 0 1 2560554 
+209.197.24.76 1 1 80849 20200121165623
+179.217.113.223 2 27 14113374 20200102125221
+138.36.0.158 0 1 105737 
+52.53.146.106 13 13 123550 20200131235954
+177.194.232.57 0 1 2560554 
+74.82.60.194 2 2 19008 20200115174506
+179.97.143.66 0 1 105737 
+179.255.144.212 0 1 2560554 
+179.182.68.109 4 16 4052494 20200124150418
+177.220.190.60 0 1 2560554 
+82.202.226.49 1 1 80377 20200116044440
+178.128.23.108 1 1 9506 20200119200329
+187.23.209.31 0 1 2560554 
+187.53.59.224 0 3 7681662 
+191.31.201.143 0 1 105737 
+177.107.186.228 0 1 105737 
+200.201.163.15 1 11 653965 20200129180418
+191.249.115.23 0 1 2560554 
+189.38.241.165 0 1 2560554 
+138.255.75.209 1 3 5126159 20200123003732
+201.2.120.94 1 14 8335621 20200114145915
+131.0.218.25 0 1 2560554 
+45.236.227.76 5 80 10889787 20200104115420
+200.181.118.98 8 40 25753671 20200128145039
+40.94.102.4 0 10 279041 
+191.45.117.22 0 1 105737 
+187.6.86.203 0 1 2560554 
+34.222.117.168 1 1 80848 20200106102617
+66.249.83.17 7 46 2606896 20200131001124
+179.191.68.178 0 1 105737 
+131.0.218.71 1 11 655355 20200122095607
+177.40.165.193 0 1 105737 
+177.67.139.50 0 1 299663 
+132.255.240.148 2 13 3221200 20200107123732
+66.249.80.48 0 3 7681662 
+177.92.75.50 0 1 105737 
+66.249.80.81 1 9 585161 20200115122128
+136.244.113.167 1 1 80376 20200105022123
+189.40.78.150 0 1 2560554 
+189.96.24.143 0 1 2560554 
+189.27.95.160 0 1 2560554 
+200.128.84.18 0 1 299663 
+177.149.221.198 0 1 105737 
+170.80.32.2 1 20 21964855 20200128230232
+185.219.168.116 2 2 19007 20200101204612
+189.115.92.63 0 1 105737 
+191.187.50.60 0 1 105737 
+191.33.245.36 0 1 2560554 
+189.85.88.137 0 1 105737 
+179.191.66.10 0 1 2560554 
+52.23.218.249 1 1 51328 20200109075804
+177.157.90.8 0 1 6439 
+86.241.184.50 1 1 80848 20200101065729
+177.72.157.145 0 1 2560554 
+45.225.6.162 2 75 1741241 20200130182521
+171.22.76.30 4 4 321508 20200114015704
+179.96.250.249 0 1 105737 
+191.250.57.234 0 1 105737 
+45.6.108.214 8 100 5359390 20200129194030
+189.7.73.198 0 1 2560554 
+200.172.3.10 1 12 3215906 20200101130625
+201.87.232.150 0 1 896091 
+95.142.124.26 2 2 160754 20200119162631
+177.79.55.156 0 8 3003080 
+189.112.143.59 0 1 105737 
+170.80.32.225 8 227 13423661 20200116153721
+200.181.123.91 0 1 2560554 
+191.248.118.146 0 1 2560554 
+187.62.38.222 0 1 299663 
+187.4.64.82 0 3 7681662 
+179.182.70.199 1 1 9498 20200117162032
+201.37.161.110 0 1 2560554 
+179.255.54.201 2 17 3450094 20200113161752
+201.15.75.139 4 77 4481961 20200124093720
+131.161.36.136 6 14 745088 20200127214838
+177.104.82.148 0 1 299663 
+66.186.19.6 2 2 160754 20200125183049
+177.27.188.27 0 1 2560554 
+191.217.52.137 6 16 676119 20200115155943
+45.225.6.59 0 1 2560554 
+201.13.154.134 0 2 629514 
+173.252.95.22 0 16 2845163 
+191.13.24.138 0 1 105737 
+177.5.250.247 0 1 2560554 
+52.2.112.222 14 14 133054 20200131235958
+131.0.31.161 0 1 299663 
+200.181.1.111 6 6 56982 20200125143014
+201.21.35.22 0 1 2560554 
+200.150.102.172 0 1 2560554 
+187.7.221.27 1 15 3299360 20200116120259
+187.6.10.94 0 1 2560554 
+177.5.255.8 5 150 6381390 20200130154000
+65.49.126.196 1 7 93543 20200114143129
+191.3.201.28 1 1 9506 20200129110616
+173.252.95.6 0 22 1043726 
+104.227.246.106 1 1 80377 20200129195345
+201.48.142.229 0 1 105737 
+200.193.215.150 0 1 2560554 
+179.162.62.209 0 1 2560554 
+66.249.88.61 0 12 14820063 
+200.170.185.89 0 1 105737 
+177.43.78.76 2 13 3220013 20200123103423
+189.96.9.161 0 1 2560554 
+189.27.65.73 4 77 4475892 20200117102826
+189.103.76.187 0 1 2560554 
+64.233.172.110 0 1 2560554 
+177.79.32.32 0 1 2560554 
+64.215.22.102 0 1 105737 
+201.67.71.166 1 15 4377880 20200119084604
+5.62.51.134 1 5 260499 20200130184202
+201.1.94.32 0 1 2560554 
+34.216.73.204 1 1 80849 20200128184707
+179.182.147.52 0 1 105737 
+186.200.160.154 5 152 8514832 20200115102050
+187.34.49.81 0 1 2560554 
+119.243.24.160 0 2 5121108 
+179.255.54.252 0 1 2560554 
+186.222.221.27 0 2 5121108 
+187.4.151.30 1 15 3299358 20200122094557
+189.11.227.204 13 318 21041719 20200108155547
+189.27.72.13 0 1 2560554 
+189.31.44.86 0 1 2560554 
+69.171.251.18 0 1 19294 
+177.13.249.73 0 1 2560554 
+187.7.221.86 0 1 2560554 
+72.52.87.73 1 8 154506 20200127110953
+66.249.88.205 0 4 259881 
+187.52.117.123 0 1 2560554 
+181.220.168.26 0 1 105737 
+186.193.183.207 2 5 257393 20200129002518
+179.254.204.240 0 1 2560554 
+177.84.63.145 2 5 291668 20200130004051
+72.52.87.88 1 1 9500 20200114141536
+177.79.33.25 0 1 2560554 
+45.190.161.26 7 13 2633524 20200130174024
+191.181.91.73 0 1 896091 
+18.212.248.145 3 3 28500 20200131200402
+179.220.9.35 0 2 13104246 
+191.223.76.183 9 36 4617876 20200122110223
+191.24.109.126 1 1 5048 20200122102951
+179.124.9.231 0 2 5121108 
+177.79.29.176 0 1 2560554 
+131.161.6.232 0 1 105737 
+45.225.246.149 0 1 2560554 
+31.13.127.1 0 2 237194 
+187.6.254.42 1 15 6073659 20200113084530
+125.209.235.171 0 8 152414 
+186.232.232.46 0 1 2560554 
+189.59.103.166 0 1 1655808 
+191.186.92.26 0 1 105737 
+125.209.235.181 0 12 157743 
+177.41.98.39 0 1 408133 
+187.36.174.56 0 1 105737 
+40.94.102.39 1 16 677992 20200110190255
+189.112.126.80 0 1 105737 
+72.52.87.193 2 2 19008 20200115115955
+177.79.29.61 0 1 2560554 
+138.117.132.1 0 3 211474 
+179.104.173.6 0 1 2560554 
+192.12.114.157 0 1 2560554 
+172.94.23.11 1 1 3840 20200118005345
+177.202.4.122 0 2 5121108 
+209.197.24.85 1 1 80848 20200106182826
+189.54.144.155 0 1 105737 
+187.54.234.203 0 1 2560554 
+138.185.63.2 0 1 2560554 
+189.73.199.206 0 3 7681662 
+187.65.163.109 0 1 2560554 
+179.192.83.233 0 1 105737 
+74.82.60.179 1 1 9502 20200114163953
+191.184.215.126 0 1 2560554 
+131.0.218.65 1 12 3214490 20200116132404
+177.139.166.200 0 2 211474 
+191.3.144.106 1 1 9502 20200123112305
+107.174.151.73 2 2 13332 20200108144448
+168.205.149.251 3 87 7684077 20200130183936
+31.162.227.109 1 1 80377 20200110175551
+170.80.33.36 8 91 5145634 20200127103339
+143.137.43.197 0 1 2560554 
+177.33.112.99 1 1 80849 20200115103554
+179.114.88.109 0 1 2560554 
+177.205.109.72 0 1 2560554 
+201.40.54.252 0 1 2560554 
+189.10.127.49 1 3 9510 20200127154031
+186.206.153.169 0 1 105737 
+200.220.186.161 0 1 2560554 
+200.169.135.134 0 1 2560554 
+177.79.29.36 0 1 2560554 
+201.77.94.244 0 1 2560554 
+177.89.235.11 0 1 105737 
+200.167.184.155 0 2 211474 
+200.170.149.49 0 1 105737 
+171.22.76.12 1 1 80377 20200114082528
+191.249.125.186 0 1 2560554 
+168.181.49.37 1 1 0 20200124130104
+187.17.201.85 2 75 4468221 20200127181712
+179.55.66.255 0 1 105737 
+168.194.179.111 1 1 80848 20200101204358
+177.0.90.187 0 1 2560554 
+191.249.61.128 0 1 105737 
+177.92.49.128 4 4 38003 20200106194310
+201.131.177.53 0 1 299663 
+138.97.60.91 0 1 2560554 
+201.77.127.56 0 1 105737 
+201.150.54.45 0 1 105737 
+187.6.233.235 2 75 4468218 20200127140704
+187.34.245.205 0 1 105737 
+177.191.253.191 0 1 105737 
+179.66.60.1 0 1 105737 
+189.27.93.114 0 4 16320130 
+170.83.96.2 0 1 2560554 
+200.195.155.198 2 75 4468221 20200129142147
+189.115.100.55 1 16 8551855 20200114101747
+189.103.83.207 0 3 7681662 
+191.14.246.121 3 3 28513 20200126230116
+64.233.172.205 1 3 89846 20200114112029
+186.215.208.10 2 75 4468217 20200117175144
+179.255.145.42 0 1 2560554 
+74.82.60.175 0 3 12885 
+191.33.248.28 0 1 2560554 
+187.115.179.161 0 1 2560554 
+189.59.83.74 0 1 2560554 
+189.92.239.75 0 1 2560554 
+200.187.118.11 1 12 918185 20200129163717
+200.140.139.186 0 1 263378 
+173.252.95.20 0 2 41840 
+191.30.250.236 0 1 299663 
+200.96.141.244 0 1 2560554 
+177.4.169.24 13 335 16077403 20200130152226
+187.24.130.126 0 2 5121108 
+170.80.32.222 0 1 2560554 
+3.135.57.246 14 14 133053 20200131235959
+191.6.4.124 0 3 7681662 
+45.230.40.6 0 1 105737 
+201.45.98.242 0 1 105737 
+186.208.254.130 0 1 38233 
+177.5.225.30 6 225 13404658 20200129095833
+138.185.86.206 1 1 80849 20200112212326
+45.171.146.129 2 13 3218680 20200111083801
+5.9.145.132 0 1 237772 
+179.182.69.143 0 1 2560554 
+177.53.190.226 0 2 5121108 
+52.53.253.104 2 6 284187 20200118124948
+191.182.200.141 0 1 2560554 
+200.97.254.93 0 1 105737 
+173.252.95.4 0 1 46594 
+37.228.245.154 0 1 2560554 
+177.202.15.99 5 151 8945911 20200128155941
+189.115.111.151 0 1 2560554 
+177.52.250.174 0 1 105737 
+191.6.8.93 1 1 80848 20200109234005
+187.54.237.136 0 9 5948976 
+177.6.81.211 14 457 37129899 20200131135335
+131.0.218.58 0 1 2560554 
+200.163.115.103 1 1 9495 20200127152255
+177.76.84.38 0 1 105737 
+187.58.206.173 0 1 105737 
+179.153.109.5 0 2 145938 
+187.55.166.72 1 11 653999 20200106164411
+152.250.244.155 0 1 105737 
+179.214.128.41 0 2 5121108 
+23.239.180.157 1 1 80377 20200130124236
+189.6.24.117 0 1 2560554 
+189.115.97.218 1 1 9497 20200131095739
+189.10.115.22 0 1 2560554 
+52.90.228.235 0 1 2560554 
+187.25.43.112 0 1 2560554 
+179.104.58.166 0 1 105737 
+177.221.222.28 0 1 105737 
+177.79.36.26 1 4 265380 20200111231353
+177.26.245.110 0 1 2560554 
+179.255.147.191 4 82 9722494 20200130125413
+138.122.233.228 1 1 80849 20200110232158
+177.3.237.99 2 75 4468220 20200130164319
+187.55.140.21 0 1 2560554 
+177.104.251.199 0 1 105737 
+170.83.88.51 0 1 2560554 
+179.185.89.241 0 1 2560554 
+106.75.25.223 5 5 321504 20200101030640
+187.123.36.116 0 1 105737 
+35.185.242.234 2 2 160752 20200107090650
+187.55.139.54 0 1 2560554 
+179.110.180.127 3 76 4473767 20200109075630
+66.102.8.111 9 36 2196400 20200122181455
+201.93.154.129 0 1 105737 
+191.33.253.90 0 1 2560554 
+200.96.141.43 0 1 0 
+45.230.27.67 9 46 7073297 20200123105449
+200.196.224.2 2 75 4539564 20200120103503
+177.94.215.130 0 1 105737 
+3.81.61.202 0 1 105737 
+173.252.127.45 0 1 20920 
+40.84.229.82 4 4 179760 20200122230853
+186.213.227.54 0 1 105737 
+200.96.139.93 0 1 237772 
+186.204.117.147 0 1 105737 
+187.87.218.122 0 1 2560554 
+191.34.111.219 0 1 2560554 
+177.79.29.111 0 1 2560554 
+187.95.11.169 0 1 105737 
+177.158.57.37 0 1 105737 
+201.21.60.79 0 1 105737 
+45.76.22.249 1 1 9496 20200120162712
+35.225.174.227 2 2 160752 20200104211352
+177.79.30.189 2 43 3689649 20200128104655
+187.28.202.178 0 1 2560554 
+201.7.1.251 0 5 12802770 
+31.13.127.6 0 1 115483 
+177.79.33.50 0 1 2560554 
+125.209.235.168 0 5 109257 
+45.183.68.2 0 1 105737 
+200.169.135.144 0 1 2560554 
+200.159.73.42 0 1 105737 
+66.102.6.203 6 66 3503635 20200128151334
+170.238.250.135 0 1 2560554 
+201.22.173.196 0 1 105737 
+189.103.92.189 4 152 8964202 20200117162758
+35.184.241.248 2 6 294442 20200116023540
+191.30.248.154 0 1 105737 
+13.91.201.3 4 4 323396 20200127115031
+177.5.224.227 0 2 5121108 
+179.162.245.99 0 1 105737 
+179.230.3.198 1 1 9503 20200128144654
+177.25.166.230 0 1 2560554 
+5.62.51.64 1 5 260501 20200131003200
+179.220.3.136 0 1 655330 
+189.40.66.73 5 12 182002 20200123000709
+66.102.8.208 7 248 21301442 20200125104826
+34.228.196.205 3 3 28473 20200124122715
+179.214.207.35 0 1 2560554 
+35.247.80.163 5 5 401883 20200130053640
+189.11.227.24 6 152 8955420 20200102145608
+45.234.68.55 0 1 2560554 
+187.55.189.207 1 13 5776412 20200121121851
+125.209.235.172 0 6 182559 
+125.209.235.177 1 11 2782776 20200131091228
+189.54.145.192 0 1 105737 
+132.255.240.134 1 1 9507 20200131125521
+187.106.245.197 1 1 80376 20200104174516
+177.2.76.218 0 2 3385620 
+201.34.248.9 1 15 3299357 20200115203056
+88.99.173.227 1 1 9498 20200115114010
+181.222.162.247 0 3 2716441 
+187.7.221.112 2 75 4468222 20200113081204
+54.80.150.43 0 2 81684 
+125.209.235.179 0 10 404549 
+66.249.88.63 1 16 1535629 20200131001127
+200.220.132.5 3 14 3223562 20200108093519
+187.32.112.185 0 1 105737 
+54.174.212.246 3 3 28482 20200117152037
+49.206.200.51 0 1 2560554 
+177.126.107.41 0 2 5121108 
+187.59.147.248 0 1 2560554 
+201.17.68.163 0 1 105737 
+201.15.75.27 0 1 2560554 
+186.255.156.192 0 1 299663 
+179.105.76.140 0 1 105737 
+177.22.36.138 0 1 105737 
+187.54.235.0 0 1 2560554 
+186.236.55.202 0 1 105737 
+148.251.50.77 1 1 80849 20200123141802
+177.193.149.169 0 1 2560554 
+69.171.251.5 0 1 219493 
+201.17.103.135 0 1 105737 
+191.195.26.106 0 1 2560554 
+138.122.234.218 1 1 80848 20200101065140
+179.254.137.194 0 1 2560554 
+45.174.156.242 14 239 103658574 20200125154549
+52.87.248.13 0 1 2560554 
+200.137.253.160 0 1 105737 
+179.109.193.103 0 1 105737 
+209.208.110.98 1 1 9497 20200107174346
+177.79.72.8 1 1 9501 20200101183151
+177.79.31.75 0 1 2560554 
+189.59.113.235 0 1 2560554 
+125.209.235.180 1 10 259780 20200131091216
+5.62.51.54 1 1 80848 20200107082629
+177.79.35.152 0 1 2560554 
+46.166.143.110 3 3 242547 20200127002053
+189.59.82.222 0 1 2560554 
+187.95.104.196 0 1 105737 
+89.187.161.116 8 8 646792 20200131095448
+179.254.137.228 0 1 0 
+177.175.204.231 2 75 4468216 20200117162236
+66.249.85.46 15 222 189108001 20200124145143
+189.40.77.26 0 1 2560554 
+187.55.189.10 0 1 2560554 
+179.112.198.126 1 1 9504 20200120094139
+187.36.104.10 0 2 5121108 
+144.76.102.243 1 2 9407404 20200123141738
+45.235.154.40 5 58 4419691 20200108131848
+177.79.33.161 1 1 9491 20200106094306
+187.183.166.192 0 2 3385620 
+189.103.72.166 0 1 2560554 
+177.76.247.135 0 1 105737 
+177.79.29.39 0 1 2560554 
+186.220.196.103 0 1 105737 
+177.79.78.150 0 1 2560554 
+201.92.142.15 0 1 105737 
+179.254.206.224 1 4 9505 20200108172636
+179.214.209.18 0 2 598016 
+200.242.183.146 0 1 2560554 
+189.19.182.243 0 1 105737 
+189.10.127.169 0 2 5121108 
+45.174.156.248 5 33 15355512 20200110195135
+191.184.213.14 2 24 6431719 20200122193454
+187.113.10.13 4 15 3229737 20200130122443
+173.252.95.21 0 2 230966 
+177.79.35.91 0 1 2560554 
+177.2.103.45 0 6 7681662 
+177.103.228.251 0 1 105737 
+179.215.124.48 0 1 105737 
+186.251.127.31 0 1 105737 
+69.171.251.38 0 4 840912 
+66.249.83.18 9 40 74482808 20200130223407
+177.156.166.160 1 15 3339772 20200131155821
+177.92.27.154 0 1 105737 
+189.103.74.45 4 25 6217212 20200106231545
+179.95.141.233 0 3 211474 
+173.252.95.26 0 3 450459 
+45.181.229.66 0 1 299663 
+201.34.201.46 0 1 2560554 
+192.140.42.205 0 1 105737 
+189.28.225.177 0 1 105737 
+54.186.178.251 1 1 80849 20200128184822
+179.185.89.109 0 2 5121108 
+179.145.24.32 2 6 328717 20200123181315
+179.99.231.227 0 1 105737 
+177.79.72.96 1 1 4361 20200123102732
+187.54.115.167 0 1 2560554 
+64.90.163.66 0 5 12802770 
+179.112.35.15 0 1 2560554 
+64.233.172.209 0 4 335990 
+189.72.49.16 0 1 105737 
+179.190.44.68 0 2 2560554 
+187.23.216.7 0 1 2560554 
+200.186.241.170 0 1 105737 
+66.249.88.207 1 6 345273 20200113183127
+177.126.238.40 0 1 105737 
+23.100.232.233 1 5 266163 20200120044353
+177.85.180.1 0 1 2560554 
+152.249.244.210 0 1 105737 
+177.84.63.2 1 5 260498 20200130100624
+191.223.177.93 0 1 2560554 
+78.46.94.83 0 1 9326555 
+191.223.177.12 2 75 4468217 20200109210815
+177.79.78.40 2 2 10488 20200120140006
+177.37.164.199 0 1 2560554 
+201.66.67.161 0 1 299663 
+91.106.199.104 3 3 545701 20200129203315
+187.65.59.28 0 1 105737 
+168.197.207.58 0 1 105737 
+125.209.235.175 0 7 176161 
+200.186.180.70 2 14 5780941 20200131093432
+200.163.29.56 1 13 3530150 20200118183328
+201.88.3.236 7 35 2136739 20200122145658
+173.252.95.14 0 1 115483 
+177.79.51.248 1 4 211951 20200111110838
+200.225.228.61 0 1 105737 
+177.79.30.36 0 1 2560554 
+200.163.36.222 0 1 2560554 
+131.221.134.113 0 1 299663 
+187.54.235.204 0 1 2560554 
+200.133.6.14 0 1 105737 
+179.186.20.162 0 1 105737 
+191.33.250.37 0 1 2560554 
+66.102.6.239 0 1 2560554 
+181.222.138.233 0 3 898989 
+177.193.210.62 0 1 105737 
+170.233.46.243 3 76 4471975 20200122144222
+66.249.88.20 0 48 51943724 
+177.84.63.166 1 5 260498 20200124100306
+5.62.58.37 4 4 321508 20200115210440
+186.215.21.147 0 1 105737 
+52.4.30.255 14 14 133070 20200131235956
+191.217.117.193 0 1 2560554 
+189.72.143.29 1 11 654421 20200110150150
+189.31.42.159 0 1 2560554 
+34.82.228.187 5 5 401884 20200116100451
+34.70.180.35 2 4 170467 20200130233706
+37.218.245.114 5 5 47520 20200112212330
+177.5.204.68 5 78 4481507 20200127161637
+187.113.54.62 0 1 2560554 
+187.16.232.16 0 1 105737 
+66.102.8.210 3 244 39110452 20200118091916
+191.189.26.46 0 1 105737 
+177.194.230.228 0 2 5121108 
+179.177.14.46 0 1 2560554 
+34.218.81.75 1 1 80849 20200114193203
+177.45.29.68 0 1 105737 
+179.231.177.152 0 1 2560554 
+179.177.9.153 0 1 2560554 
+177.16.63.17 0 1 105737 
+179.156.195.54 0 1 105737 
+179.189.114.42 0 1 105737 
+191.54.220.226 0 1 105737 
+177.158.150.160 2 13 3220454 20200109172508
+201.9.46.153 0 1 105737 
+131.0.218.97 0 1 2560554 
+191.34.100.62 3 17 14427678 20200117151158
+159.89.84.203 1 1 80849 20200117095100
+165.22.117.158 1 1 9494 20200128035453
+138.122.234.238 1 1 80848 20200102174920
+179.113.187.59 0 1 2560554 
+186.231.94.200 0 1 2560554 
+200.241.176.182 0 1 2560554 
+179.108.134.90 0 1 105737 
+177.175.242.234 0 1 2560554 
+172.111.199.195 2 2 161697 20200110023936
+189.103.64.43 0 1 2560554 
+131.0.218.6 1 12 3215905 20200109223838
+186.222.205.100 0 1 2560554 
+5.62.51.94 1 5 260498 20200127125757
+65.49.126.193 2 17 466942 20200114100054
+187.74.4.156 0 1 2560554 
+173.252.95.43 0 1 82660 
+201.88.254.234 1 13 5775951 20200114164544
+170.81.70.86 0 2 105737 
+177.6.98.158 2 13 3221489 20200118233905
+66.249.80.77 0 7 263816 
+191.177.183.5 0 1 2560554 
+177.203.175.233 0 1 186407 
+201.2.23.167 0 1 2560554 
+66.102.8.113 1 32 1973937 20200102062141
+170.233.227.165 0 1 2560554 
+34.219.36.191 0 1 105737 
+189.74.169.243 0 1 105737 
+64.233.172.207 0 4 229007 
+170.81.83.22 0 1 105737 
+189.15.184.224 0 1 2560554 
+182.22.27.16 1 1 9502 20200118023233
+179.112.178.127 0 1 2560554 
+51.68.152.26 2 2 18989 20200131065459
+66.249.83.13 5 45 2424883 20200122181826
+200.140.90.17 2 2 18993 20200126145417
+152.252.239.215 0 1 2560554 
+200.150.107.174 6 6 57037 20200127004301
+177.73.104.236 0 1 2560554 
+179.181.243.57 1 13 4870553 20200109153121
+186.233.212.10 0 1 2560554 
+179.255.138.133 0 1 2560554 
+177.203.211.98 3 76 4473472 20200121174213
+177.73.105.22 0 1 2560554 
+86.185.206.44 3 3 170252 20200128063534
+187.21.29.114 0 2 599326 
+191.33.202.0 0 1 2560554 
+187.126.60.42 0 2 211474 
+66.249.88.209 0 1 49691 
+170.150.240.96 1 14 8335671 20200103145459
+177.206.183.72 0 1 105737 
+177.11.139.17 0 1 105737 
+167.249.56.200 5 16 3234190 20200130100528
+5.76.214.162 1 5 266154 20200131055608
+177.6.196.192 3 76 1917173 20200103012756
+66.102.6.201 8 69 4563367 20200116132706
+191.33.246.41 0 1 2560554 
+125.209.235.185 1 6 238398 20200103091156
+78.46.90.120 0 1 314757 
+179.234.174.216 0 1 105737 
+200.163.116.69 2 75 4468217 20200117113828
+177.194.249.18 0 1 2560554 
+179.185.88.106 0 2 5121108 
+191.248.119.118 0 1 2560554 
+179.254.239.97 1 52 4172755 20200129095707
+200.155.87.118 0 1 2560554 
+179.255.40.214 2 75 4468219 20200120095459
+189.115.99.114 0 1 2560554 
+179.133.244.86 2 74 173370 20200109110155
+179.230.139.66 0 1 2560554 
+191.223.177.79 1 13 4870556 20200127184839
+23.101.122.225 2 4 170468 20200128110820
+173.252.127.26 0 1 59358 
+189.4.100.168 2 6 378596 20200121164443
+179.183.214.174 2 75 4468209 20200106152142
+201.28.193.69 0 1 2560554 
+179.191.87.118 0 1 105737 
+189.7.44.90 0 1 105737 
+177.134.226.225 0 1 105737 
+189.27.94.26 0 1 2560554 
+189.4.82.46 0 1 2560554 
+132.255.240.160 6 90 7702848 20200131084553
+200.232.251.115 2 5 257392 20200125134643
+177.3.207.117 2 75 4468221 20200117110343
+3.16.150.4 1 1 9493 20200119101007
+201.7.0.243 0 1 2560554 
+138.204.78.98 0 1 299663 
+179.214.188.24 0 2 5121108 
+45.190.161.23 1 14 6039293 20200131152439
+179.190.44.71 4 151 4479826 20200128095947
+179.216.242.217 0 1 2560554 
+177.19.162.195 0 1 105737 
+189.10.127.14 3 67 7641301 20200107100227
+170.66.1.234 0 2 5121108 
+179.181.187.165 0 1 299663 
+187.58.27.8 0 1 2560554 
+131.0.218.43 0 1 2560554 
+177.116.214.101 1 4 9499 20200109130135
+170.238.251.175 1 12 3215908 20200113234750
+191.222.146.38 2 75 4468222 20200127151810
+177.198.145.9 2 75 4468217 20200102153814
+177.79.29.28 0 1 277504 
+179.253.26.77 0 2 5121108 
+177.79.35.48 0 1 2560554 
+189.22.42.2 0 2 5121108 
+138.122.234.254 1 1 80848 20200107074005
+191.222.162.121 0 1 2560554 
+5.62.51.133 1 1 80849 20200131030523
+173.252.95.2 0 2 169009 
+189.59.106.3 0 1 2560554 
+200.96.129.207 0 1 2560554 
+191.223.133.249 0 1 99301 
+128.119.245.66 13 13 1051035 20200130122123
+177.1.195.233 0 1 2560554 
+200.193.215.140 3 76 4477724 20200129161007
+131.108.187.58 0 1 105737 
+52.87.171.209 1 11 426791 20200128195615
+37.218.245.117 9 9 85548 20200129110619
+189.36.193.226 0 1 105737 
+66.249.88.60 0 11 8069653 
+170.0.40.52 0 1 2560554 
+201.10.155.237 2 75 1907667 20200124100956
+201.40.16.63 2 2 19010 20200103143838
+179.181.119.231 0 1 2560554 
+201.34.194.121 0 1 2560554 
+177.128.198.87 0 1 105737 
+177.138.246.179 2 7 415640 20200130100708
+54.245.65.131 1 1 9493 20200125135905
+172.111.199.199 1 1 80848 20200108023436
+177.155.219.84 3 3 101826 20200111084202
+201.25.84.187 0 1 2560554 
+187.4.151.2 9 29 5357471 20200128140232
+125.209.235.170 2 18 385825 20200110093550
+131.0.218.78 2 13 3220440 20200102230723
+173.252.95.5 0 1 121711 
+177.208.26.64 0 1 105737 
+187.58.29.175 0 1 105737 
+189.36.159.103 0 1 105737 
+200.181.1.128 2 2 18988 20200108160654
+137.117.107.185 2 6 303154 20200124005551
+138.122.233.236 1 1 80849 20200113110740
+177.139.20.232 0 1 105737 
+189.115.66.138 1 12 3215860 20200113143332
+177.76.171.10 0 2 211474 
+34.83.246.133 3 3 241131 20200128120739
+177.189.133.99 0 1 105737 
+35.229.65.139 8 20 929813 20200112123841
+189.22.42.66 0 1 2560554 
+179.186.157.170 0 1 105737 
+74.82.60.82 1 49 4107200 20200130110805
+189.103.153.80 0 1 2560554 
+177.85.177.1 0 4 557288 
+187.183.36.65 0 1 2560554 
+189.73.232.119 0 1 0 
+177.6.250.7 0 2 5121108 
+45.225.239.81 2 6 378594 20200106225809
+45.7.26.3 0 3 257381 
+5.62.51.44 1 1 80848 20200109002626
+189.9.32.2 0 1 2560554 
+189.90.34.44 0 1 299663 
+177.134.229.55 0 1 105737 
+45.160.181.17 0 1 105737 
+45.71.167.158 0 1 2560554 
+179.133.245.95 0 1 2560554 
+177.35.114.41 0 1 2560554 
+93.76.153.122 0 1 2560554 
+77.247.127.176 4 4 323396 20200112210550
+191.217.123.39 0 1 105737 
+191.216.47.4 1 12 3214510 20200114223057
+201.4.71.86 0 1 105737 
+5.62.51.135 1 5 260498 20200123073444
+173.252.95.27 0 2 202410 
+66.102.6.14 0 4 10242216 
+177.79.77.53 0 1 2560554 
+179.255.146.67 2 35 856117 20200103173402
+191.217.82.118 0 1 2560554 
+177.175.177.215 0 1 2560554 
+66.249.80.50 0 1 2560554 
+74.208.242.96 2 2 161697 20200110042730
+144.76.168.111 1 3 492089 20200120231550
+69.171.251.21 0 2 701500 
+201.44.231.194 0 2 3385620 
+125.209.235.182 0 8 2820164 
+44.227.151.24 13 13 123569 20200131235958
+173.252.95.38 0 2 603718 
+179.253.191.82 1 15 6801736 20200117153221
+189.26.114.18 2 2 161226 20200123151120
+179.103.234.95 1 1 9503 20200130162512
+69.28.91.110 1 1 9494 20200104142728
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 31
+20200101 27 128 37908675 18
+20200102 71 954 161115858 41
+20200103 81 797 142796659 36
+20200104 50 339 124225866 30
+20200105 43 404 85556280 23
+20200106 153 2063 236478823 51
+20200107 139 1803 239032995 52
+20200108 199 1759 254275380 63
+20200109 130 1215 209569242 47
+20200110 144 1216 233903869 46
+20200111 102 489 73860551 34
+20200112 34 287 93073695 27
+20200113 131 1545 286056631 48
+20200114 265 1355 251200610 62
+20200115 189 1827 239262131 66
+20200116 162 1743 248649714 49
+20200117 146 1339 198489905 48
+20200118 106 428 75145053 27
+20200119 18 147 39947947 14
+20200120 249 2282 275627074 54
+20200121 160 1397 227528964 43
+20200122 163 1557 245045544 51
+20200123 149 1099 199400499 47
+20200124 102 899 145172115 32
+20200125 28 260 32462878 21
+20200126 85 400 47977095 20
+20200127 177 1543 241502838 48
+20200128 212 2289 321159515 66
+20200129 184 1760 241551539 60
+20200130 205 1573 220530620 56
+20200131 631 1789 219841806 67
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 7
+0s-30s 1056
+15mn-30mn 24
+2mn-5mn 46
+5mn-15mn 33
+30mn-1h 51
+30s-2mn 86
+1h+ 51
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 120
+/ 2702 40143872 910 683
+/libs/bootstrap/dist/fonts/glyphicons-halflings-regular.woff2 320 5264176 17 168
+/contato 142 1929817 58 69
+/publicacoes-tipo/edital 115 676673 64 50
+/publicacoes-pesquisar 106 598211 17 39
+/publicacoes-tipo/concursos-publicos 87 434348 45 44
+/publicacoes-tipo/processo-seletivo 68 423975 35 31
+/noticias 50 308068 2 7
+/secretaria/secretaria-de-educacao-cultura-esporte-e-lazer 41 1769268 6 8
+/publicacoes-tipo/clube-de-laco-rio-verde-camapua 31 129100 15 20
+/pagina/equipe-de-governo 26 111760 0 5
+/pagina/Manual-de-Procedimentos-Administrativos 26 147471 2 1
+/pesquisar 26 321020 4 12
+/pagina/telefones-uteis 25 106058 3 5
+/secretaria/secretaria-de-administracao-financas-e-planejamento 25 118166 6 5
+/publicacoes-tipo/decretos 24 111075 7 7
+/pagina/palavras-do-prefeito 24 11160807 1 6
+/pagina/conheca-a-cidade 24 112448 12 12
+/pagina/conheca-a-prefeitura 22 83614 3 4
+/secretaria/secretaria-de-saude 21 127179 4 4
+/noticia/prefeito-e-autoridades-entregam-86-novas-unidades-habitacionais-no-cristo-redentor-2 21 117654 4 5
+/secretaria/secretaria-de-assistencia-social 19 99165 5 2
+/pagina/palavras-do-vice-prefeito 19 68150 1 2
+/secretaria/secretaria-de-infraestrutura-e-servicos-publicos 19 96666 5 6
+/noticia/camapua-esta-no-mapa-estrategico-do-sebrae-para-desenvolvimento-do-turismo-na-regiao-norte 18 3556294 5 7
+/noticia/salario-dos-servidores-municipais-ja-esta-na-conta 16 69797 8 8
+/pagina/endereco-das-unidades-de-saude 5 20599 3 2
+/publicacoes-tipo/secretaria-de-infraestrutura-e-servicos-publicos 3 12793 2 1
+/publicacoes-tipo/associacao-de-apoio-aos-pacientes-com-cancer-aapc-amigos-do-chitao 8 33677 1 2
+/publicacoes-tipo/associacao-dos-produtores-de-leite 6 25007 0 0
+/noticia/escola-municipal-ernesto-solon-borges-realiza-iii-feira-cientifica-e-cultural-na-modalidade-ambulante 2 11087 0 1
+/publicacoes-tipo/comunidade-kolping 5 20784 0 0
+/libs/bootstrap/dist/fonts/glyphicons-halflings-regular.ttf 2 90808 0 1
+/secretaria/secretaria-de-governo 15 67452 2 4
+/noticia/saude-da-inicio-a-segunda-fase-da-vacinacao-contra-o-sarampo-em-camapua 3 14797 0 2
+/noticia/audiencia-publica 6 25242 0 0
+/noticia/prefeito-concede-aumento-aos-profissionais-da-educacao 3 15506 3 2
+/publicacoes-tipo/sociedade-de-protecao-aos-idosos-de-camapua-asilo 17 70926 7 10
+/pagina/sobre-a-secretaria-saude 4 16797 3 2
+/noticia/resultado-oficial-do-processo-seletivo-simplificado-para-contratacao-de-professores 16 2566041 4 7
+/noticia/prefeito-visita-a-construcao-da-estacao-meteorologica 1 4767 0 0
+/publicacao/decreto-2624-processo-eleitoral-de-dirigente-escolarl 9 38646 2 1
+/noticia/prefeitura-garante-transporte-escolar-para-os-alunos-de-camapua 2 10232 0 1
+/noticia/primeiro-encontro-nacional-de-violeiros-em-ms-foi-um-sucesso 1 5249 0 0
+/publicacoes-tipo/parcerias-marco-regulatorio-editais 5 23046 0 0
+/pagina/sobre-a-secretaria-saj 6 32990 2 2
+/noticia/vacina-contra-o-sarampo-ja-esta-disponivel-para-menores-de-5-anos-em-camapua 1 4882 0 0
+/publicacoes-tipo/portarias 9 37313 2 0
+/publicacoes-tipo/lei-complementar 12 52812 7 6
+/noticia/uems-abre-vagas-para-portadores-de-diploma-no-polo-da-uab-de-camapua 2 9834 1 0
+/publicacoes-tipo/2019 2 9814 0 1
+/noticia/escolas-municipais-recebem-os-alunos-neste-inicio-de-ano-letivo 4 968014 0 1
+/noticia/prefeitura-investe-em-programacao-diversificada-na-semana-da-crianca 2 8946 0 0
+/pagina/sobre-a-secretaria 8 33724 1 3
+/noticia/prefeito-vereador-e-deputado-se-reunem-na-agesul-cobrando-inicio-de-obras-em-camapua 1 4495 1 1
+/noticia/centro-de-educacao-de-camapua-e-destaque-nacional-em-projeto-do-ministerio-da-educacao 3 573578 0 0
+/publicacoes-tipo/associacao-beneficente-de-camapua-casa-do-amparo-as-criancas-carentes-creche-menino-jesus 10 42183 4 3
+/noticia/secretaria-de-saude-realiza-acao-no-centro-da-cidade 3 13097 0 0
+/publicacoes-tipo/associacao-dos-produtores-de-mandioca-pro-mandioca 6 25161 1 1
+/noticia/prefeitura-de-camapua-libera-pagamento-integral-do-130-salario-dos-servidores 1 5379 0 0
+/noticia/prefeitura-fara-o-lancamento-do-projeto-de-atendimento-oncologico-em-camapua 3 14577 1 1
+/noticia/campanha-de-vacinacao-contra-a-gripe-comeca-nesta-quarta-feira-dia-10-de-abril 1 5358 0 0
+/publicacoes-tipo/projetos 6 24900 2 1
+/noticia/prefeito-e-vice-discutem-lancamento-entregas-e-conclusao-de-obras-do-governo-do-estado-em-camapua 2 10620 1 1
+/noticia/prefeito-protocola-na-camara-projeto-de-atualizacao-do-plano-de-cargos-e-carreiras-dos-servidores 2 10537 1 0
+/noticia/secretaria-municipal-de-saude-intensifica-acoes-de-combate-a-dengue 10 47211 1 3
+/libs/bootstrap/dist/css/bootstrap.min.css.map 1 542194 0 0
+/noticia/camapua-nao-tem-caso-de-dengue-notificado-em-2018 2 9752 0 0
+/pagina/sobre-a-secretaria-smas 10 87458 3 2
+/noticia/escolas-da-rede-municipal-de-ensino-se-destacam-com-os-resultados-alcancados-no-ideb 1 5730 1 0
+/noticia/populacao-define-novos-membros-do-conselho-tutelar-de-camapua 6 34291 1 2
+/noticia/equipe-da-prefeitura-participa-de-curso-de-qualificacao-sobre-assistencia-social-na-assomasul 2 10690 0 0
+/noticia/pela-primeira-vez-prefeitura-realiza-pagamento-do-13o-salario-as-familias-acolhedoras-de-camapua 16 83474 3 3
+/noticia/secretaria-de-saude-participa-de-reuniao-do-hiperdia-na-ubs-pontinha-do-cocho 1 5310 0 0
+/pagina/como-chegar 12 46868 2 2
+/noticia/prefeitura-vacina-mais-de-3-mil-animais-entre-caninos-e-felinos-durante-campanha-antirrabica-em-camapua 2 10409 0 0
+/publicacoes-tipo/2018 5 25342 1 1
+/noticia/secretaria-de-assistencia-social-realiza-almoco-em-homenagem-as-mulheres 3 14265 0 0
+/pagina/historia-do-municipio 18 124608 5 3
+/noticia/prefeitura-tem-dois-novos-nomes-a-frente-desporto-local 8 39843 1 1
+/publicacoes-tipo/balancos 8 34584 1 1
+/noticia/prefeito-decreta-luto-oficial 1 4336 1 1
+/noticia/na-cantina-municipal-prefeito-ve-de-perto-o-preparo-e-a-qualidade-da-merenda-escolar 3 14909 0 0
+/publicacao/decreto-2332-processo-seletivo-simplificado-para-contratacao-de-pessoal 10 43035 2 1
+/pagina/sobre-a-secretaria-educacao 16 84726 2 6
+/libs/bootstrap/dist/fonts/glyphicons-halflings-regular.eot 11 201270 0 10
+/noticia/prefeito-envia-diversos-projetos-de-lei-para-camara-de-vareadores 6 30621 1 0
+/noticia/fomentando-a-agricultura-familiar-prefeitura-realiza-preparacao-de-solo-para-pequenos-produtores 3 15694 1 1
+/noticia/secretaria-de-saude-convida-populacao-para-audiencia-publica 2 8461 0 0
+/noticia/prefeito-e-equipe-participam-de-debate-sobre-acoes-culturais-para-2020-na-regiao-norte 2 11502 0 1
+/secretaria/secretaria-de-assuntos-juridicos 18 85083 2 2
+/noticia/prefeitura-repassara-r-25-milhoes-de-reais-para-o-hospital 8 37848 2 1
+/pagina/ouvidoria-do-sus 1 5582 0 0
+/noticia/com-apoio-de-beto-pereira-e-mandetta-prefeito-viabiliza-mais-de-600-mil-para-saude-de-camapua 1 5654 1 1
+/publicacoes-tipo/associacao-dos-estudantes-e-academicos-universitarios-de-camapua-ms-auca 5 21023 0 0
+/noticia/prefeitura-retoma-o-atendimento-de-ultrassonografia-no-municipio 9 42177 1 1
+/noticia/prefeito-decreta-luto-oficial-em-razao-do-falecimento-do-dr-angelo 2 9007 0 1
+/noticia/visando-economia-e-contencao-de-gastos-prefeitura-estara-com-atendimento-em-novo-horario 1 4902 0 0
+/noticia/palestra-sobre-cooperativismo-e-realizada-em-camapua 1 63152 0 0
+/publicacoes-tipo/habitacao 6 24899 3 0
+/galerias 7 25939 0 0
+/publicacoes-tipo/associacao-dos-criadores-de-camapua-acricam 5 20920 0 0
+/publicacoes-tipo/secretaria 7 29046 1 4
+/publicacao/decreto-2307-processo-eleitoral-do-dirigente-escolar 7 30072 0 0
+/noticia/prefeitura-realiza-manutencao-nas-ruas-da-vila-olidia-pereira-da-rocha 1 4928 1 0
+/pagina/bandeira-brasao-e-hino 15 753809 2 2
+/pagina/sobre-a-secretaria-samae 1 4093 1 0
+/libs/bootstrap/dist/fonts/glyphicons-halflings-regular.woff 13 304512 0 12
+/publicacoes-tipo/associacao-de-pais-e-amigos-dos-excepcionais-apae 8 33528 2 2
+/noticia/conferencia-municipal-de-saude-sera-dia-09 1 4417 0 0
+/publicacoes-tipo/relatorio-anual-de-gestao 2 8724 1 1
+/secretaria/secretaria-de-agronegocio-meio-ambiente-e-empreendedorismo 16 78009 1 5
+/noticia/secretaria-de-saude-realiza-audiencia-publica-nesta-quinta-feira 2 9048 0 0
+/publicacoes-tipo/lei-ordinaria 12 52175 9 7
+/noticia/prefeito-reduz-o-proprio-salario-da-vice-e-de-secretarios 1 4841 1 1
+/noticia/projeto-da-secretaria-de-saude-atende-mais-de-200-pessoas-em-seu-lancamento 3 14399 1 0
+/noticia/profissionais-de-camapua-participam-de-seminario-internacional-sobre-acolhimento-familiar-em-campinas-sp 4 23840 1 1
+/noticia/cmdca-divulga-resultado-da-prova-especifica-para-conselheiros-tutelares 1 5202 0 0
+/noticia/com-apoio-da-prefeitura-alunos-do-ceep-participam-de-feira-em-universidade-na-capital 3 17754 0 0
+/noticia/prefeitura-repassara-auxilio-financeiro-para-o-hospital 1 5057 1 1
+END_SIDER

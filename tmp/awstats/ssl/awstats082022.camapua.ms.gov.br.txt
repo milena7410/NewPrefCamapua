@@ -1,0 +1,1496 @@
+AWSTATS DATA FILE 7.7 (build 20180105)
+# If you remove this file, all statistics for date 202208 will be lost/reset.
+# Last config file used to build this data file was /home/prefcamapua/tmp/awstats/ssl/awstats.camapua.ms.gov.br.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2021                
+POS_TIME 2709                
+POS_VISITOR 26563               
+POS_DAY 33866               
+POS_DOMAIN 3685                
+POS_LOGIN 4175                
+POS_ROBOT 4330                
+POS_WORMS 5218                
+POS_EMAILSENDER 5349                
+POS_EMAILRECEIVER 5492                
+POS_SESSION 34678               
+POS_SIDER 34889               
+POS_FILETYPES 5627                
+POS_DOWNLOADS 6350                
+POS_OS 6807                
+POS_BROWSER 7181                
+POS_SCREENSIZE 9732                
+POS_UNKNOWNREFERER 9806                
+POS_UNKNOWNREFERERBROWSER 10534               
+POS_ORIGIN 11145               
+POS_SEREFERRALS 11289               
+POS_PAGEREFS 11511               
+POS_SEARCHWORDS 12332               
+POS_KEYWORDS 12484               
+POS_MISC 2371                
+POS_ERRORS 12543               
+POS_CLUSTER 4031                
+POS_SIDER_404 12696               
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20220827085526 1265 299530 21336276507900
+FirstTime 20220801020603
+LastTime 20220827062414
+LastUpdate 20220827090127 1265 0 1265 0 0
+TotalVisits 391                 
+TotalUnique 166                 
+MonthHostsKnown 0                   
+MonthHostsUnknown 188                 
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+FlashSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 373 0
+PDFSupport 0 0 0
+TotalMisc 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+DirectorSupport 0 0 0
+RealPlayerSupport 0 0 0
+QuickTimeSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 24 33 1498734 178 237 21996129
+1 24 24 3633252 141 216 19225769
+2 83 85 2348529 202 380 23813950
+3 11 11 337381 175 344 26895310
+4 14 92 4245163 151 201 26967871
+5 25 26 1632312 179 284 26818805
+6 31 31 1047500 190 386 23566629
+7 35 273 15327080 147 189 21075195
+8 211 7446 397102180 166 331 29161153
+9 96 2963 159070340 200 287 33602870
+10 107 2388 128525540 178 274 43816073
+11 183 3316 179708233 238 460 33092035
+12 34 117 5957162 221 276 27612035
+13 44 57 2490318 202 335 28250025
+14 101 2717 148717211 230 411 26322651
+15 80 2178 112641511 161 277 28009951
+16 67 2011 111978236 185 339 29215550
+17 128 3140 171951563 254 367 31611471
+18 93 427 25792320 162 284 23483794
+19 55 70 2365923 218 276 23687110
+20 37 68 3829206 209 377 32625839
+21 35 121 9630424 187 430 30663961
+22 67 147 6617326 226 461 33895266
+23 25 51 3190383 249 326 27498794
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 18
+us 1212 24554 1319265772
+jp 267 279 5203186
+br 75 2768 158623516
+ca 22 22 1438112
+in 5 134 9110836
+nl 5 5 351469
+es 4 4 338334
+gb 4 4 219175
+eu 3 3 254811
+it 3 3 134236
+pt 2 2 96689
+be 2 2 169384
+cz 2 2 120354
+ro 1 1 84999
+fr 1 1 3820628
+ru 1 1 37482
+de 1 1 12101
+cn 0 6 356743
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 19
+AhrefsBot/ 2155 128544103 20220827074431 88
+bingbot/ 1172 109398126 20220827083025 166
+Googlebot/ 623 38635032 20220827085526 49
+SemrushBot/ 585 27205126 20220827084850 226
+bot[\s_+:,\.\;\/\\-] 105 10461019 20220827070212 48
+unknown 72 1734 20220827062414 72
+Applebot/ 44 2230281 20220826192130 11
+Googlebot\-Image/ 34 1305704 20220827003343 0
+Konqueror/ 33 2548070 20220811114438 2
+no_user_agent 28 2369819 20220825224707 0
+YandexBot/ 23 977430 20220825201409 12
+link 21 1705884 20220826163854 3
+crawl 18 924941 20220824125724 3
+CCBot/ 10 450054 20220808173728 1
+bingpreview 7 326015 20220820232859 0
+MJ12bot/ 4 170046 20220823152219 2
+(firefox/)([0-9]\.|[0-1][0]\.) 2 169874 20220805191508 0
+feed 2 170966 20220820195407 0
+seek 1 78612 20220803075939 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 37
+aspx 2 24359 0 0
+do 2 24487 0 0
+conf 1 12107 0 0
+woff2 332 5985296 0 0
+yml 9 108978 0 0
+jspa 2 24423 0 0
+ns 1 12185 0 0
+vm 1 12160 0 0
+jsp 5 60837 0 0
+shtml 3 36443 0 0
+bak 15 181573 0 0
+png 5171 751058208 0 0
+key 1 12100 0 0
+jpg 19282 460555581 0 0
+html 568 43806879 0 0
+ini 1 12108 0 0
+php 131 1596585 0 0
+Unknown 503 31360006 0 0
+xp 1 12164 0 0
+jpeg 331 114584762 0 0
+sh 3 36359 0 0
+cgi 5 61056 0 0
+mwsl 1 12174 0 0
+js 698 42945058 0 0
+pdf 4 1105958 0 0
+htm 4 48430 0 0
+json 9 109096 0 0
+xml 2 24410 0 0
+map 1 12104 0 0
+css 690 45643560 0 0
+iwc 1 12133 0 0
+xls 1 12217 0 0
+view 1 12127 0 0
+txt 5 61039 0 0
+asp 2 24228 0 0
+fcc 2 24394 0 0
+ashx 1 12243 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 9
+/fileserver/test.txt 4 0 48833
+/arquivos/publicacoes/60eddc9bb5a3a.pdf 1 0 196687
+/arquivos/publicacoes/62b05bdee1e1b.pdf 1 0 148204
+/include/nuclei.txt 1 0 12206
+/arquivos/publicacoes/5a8f399e8a985.pdf 1 0 46580
+/arquivos/publicacoes/5bf57e9caaec2.pdf 1 0 127968
+/arquivos/midias/5d432a40cf635.pdf 1 0 655330
+/arquivos/publicacoes/5ad1030cf36b7.pdf 1 0 105737
+/xmlpserver/ReportTemplateService.xls 1 0 12217
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 22
+macosx8 18 17
+Unknown 41 36
+win8.1 3514 197
+ios_ipad 3 3
+macosx 4 3
+linux 707 384
+win8 14 14
+macosx12 3 3
+bsdopenbsd 8 7
+winnt 10 10
+winvista 18 17
+macosx9 26 24
+symbian 1 1
+win10 16432 518
+macosx6 1 0
+win7 6683 243
+bsdfreebsd 1 1
+macosx10 28 27
+macosx11 16 16
+winxp 82 78
+linuxandroid 41 6
+ios_iphone 141 5
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 119
+chrome43.0.2357.125 8 8
+mozilla 5 5
+firefox92.0 254 16
+chrome35.0.1916.47 8 6
+firefox79.0 3 3
+chrome70.0.3538.102 2 2
+chrome34.0.1847.137 11 11
+chrome41.0.2227.0 22 20
+chrome42.0.2311.90 1 1
+chrome68.0.3440.106 1 1
+chrome83.0.4103.97 16 16
+chrome44.0.2403.157 2 2
+safari 1 0
+firefox40.0 1 1
+chrome90.0.4430.93 1 1
+firefox103.0 1198 38
+chrome44.0.2403.155 13 13
+chrome40.0.2214.93 11 11
+chrome90.0.4430.72 1 1
+safari6.0 1 0
+Unknown 35 31
+firefox43.0 75 75
+chrome104.0.5112.97 13 0
+chrome104.0.0.0 12628 329
+chrome60.0.3112.90 2 2
+safari12.2.0.0.1 2 2
+chrome90.0.4430.85 1 1
+firefox57.0 4 4
+chrome76.0.3809.100 2 1
+chrome98.0.4758.102 1 1
+chrome89.0.4389.114 40 39
+chrome69.0.3497.92 1 1
+firefox60.0 2 2
+firefox52.0 3 3
+opera11.50 3 3
+chrome35.0.2117.157 13 12
+chrome52.0.2762.73 8 8
+chrome66.0.3359.181 1 1
+netscape 56 56
+firefox19.0 2 2
+chrome101.0.4951.41 1 1
+safari15.6 81 2
+firefox58.0 1 1
+msie10.0 2 2
+chrome41.0.2225.0 28 26
+safari9.0.2 10 10
+chrome93.0.4577.82 160 4
+chrome38.0.1025.166 9 0
+chrome36.0.1985.67 26 25
+chrome103.0.0.0 4991 133
+chrome89.0.4389.82 1 1
+netscape5.0 2 1
+firefox63.0 1 1
+chrome41.0.2227.1 9 9
+firefox44.0 1 1
+chrome70.0.3538.77 8 8
+chrome103.0.5060.134 245 7
+chrome55.0.2919.83 6 6
+chrome96.0.4664.110 2 2
+opera10.00 3 3
+edge13 5 5
+chrome66.0.3359.117 1 1
+firefox54.0 1 1
+chrome59.0.3071.115 1 1
+chrome61.0.3163.128 1 0
+chrome77.0.3835.0 1 1
+chrome57.0.2987.133 6 6
+msie11.0 4 4
+chrome63.0.3239.132 2 2
+msie9.0 2 2
+chrome69.0.3497.100 1 1
+chrome104.0.5112.102 81 2
+chrome49.0.2656.18 9 8
+chrome34.0.1866.237 14 14
+chrome6.0.464.0 1 0
+opera11.11 1 1
+chrome66.0.3359.139 4 4
+chrome84.0.4112.0 2 2
+opera11.00 5 5
+chrome101.0.4951.67 1 0
+firefox48.0 3 3
+chrome79.0.3945.93 1 1
+safari14.1.2 2 1
+chrome86.0.4240.198 83 3
+chrome90.0.4430.212 5 0
+chrome41.0.2228.0 17 17
+safari11.0 1 1
+firefox81.0 16 2
+firefox86.0 1 1
+chrome36.0.1944.0 10 10
+chrome100.0.4896.127 82 3
+chrome35.0.2309.372 15 14
+chrome54.0.2866.71 9 9
+chrome83.0.4103.116 2 2
+opera10.10 3 3
+chrome37.0.2049.0 17 17
+chrome102.0.5005.115 1 0
+firefox35.0 1 1
+safari2.0.1 1 1
+firefox104.0 11 1
+chrome41.0.2226.0 9 9
+chrome37.0.2062.124 9 8
+chrome80.0.3987.132 1 1
+opera10.54 3 3
+chrome53.0.2820.59 12 11
+chrome55.0.2883.87 3 3
+chrome75.0.3770.67 1 1
+chrome39.0.2171.95 1 1
+chrome81.0.4044.129 12 12
+chrome36.0.1985.125 8 7
+firefox45.0 2 2
+chrome35.0.3319.102 10 10
+chrome41.0.2224.3 14 13
+firefox68.0 1 1
+safari10.1.2 2 2
+safari15.6.1 57 2
+chrome61.0.3163.79 309 227
+chrome102.0.0.0 6874 174
+chrome71.0.3542.0 1 1
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 8
+Expanse,_a_Palo_Alto_Networks_company,_searches_across_the_global_IPv4_space_multiple_times_per_day_to_identify_customers&#39;_presences_on_the_Internet._If_you_would_like_to_be_excluded_from_our_scans,_please_send_IP_addresses/domains_to:_scaninfo@paloaltonetworks.com 20220819230206
+colly_-_https://github.com/gocolly/colly/v2 20220815181953
+Mozilla/5.0 20220805182036
+python-requests/2.28.1 20220826042411
+Iframely/1.3.1_(_https://iframely.com/docs/about)_Atlassian 20220819182649
+Go-http-client/1.1 20220802015947
+Mozilla/5.0_(compatible;_NetcraftSurveyAgent/1.0;__info@netcraft.com) 20220810201523
+python-requests/2.27.1 20220812232629
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 6
+Expanse,_a_Palo_Alto_Networks_company,_searches_across_the_global_IPv4_space_multiple_times_per_day_to_identify_customers&#39;_presences_on_the_Internet._If_you_would_like_to_be_excluded_from_our_scans,_please_send_IP_addresses/domains_to:_scaninfo@paloaltonetworks.com 20220819230206
+colly_-_https://github.com/gocolly/colly/v2 20220815181953
+python-requests/2.28.1 20220826042411
+Iframely/1.3.1_(_https://iframely.com/docs/about)_Atlassian 20220819182649
+Go-http-client/1.1 20220802015947
+python-requests/2.27.1 20220812232629
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 1172 1287
+From1 5 5
+From2 6 7
+From3 22 22
+From4 405 26471
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 4
+www_google_com 3 4
+duckduckgo 1 1
+www_google_com_hk 1 1
+www_google_com_br 1 1
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 14
+https://camaracamapua.ms.gov.br 5 5
+http://camaracamapua.ms.gov.br 3 3
+http://174.142.220.86:80 2 2
+http://cpanel.camapua.ms.gov.br 2 2
+https://cpanel.camapua.ms.gov.br/wp-admin/admin.php 1 1
+http://cpanel.camapua.ms.gov.br/cgi-bin/webmail 1 1
+https://cpanel.camapua.ms.gov.br/secure/Signup.jspa 1 1
+https://cpanel.camapua.ms.gov.br 1 1
+http://cpanel.camapua.ms.gov.br/wp-json/wp/v2/posts 1 1
+http://interact.sh/127.0.0.1.html 1 1
+https://cpanel.camapua.ms.gov.br/servicedesk/customer/user/signup 1 1
+https://cpanel.camapua.ms.gov.br/zms/admin/index.php 1 1
+http://cpanel.camapua.ms.gov.br/cgi-bin/sqwebmail 1 1
+https://cpanel.camapua.ms.gov.br/diag_ping_admin_en.asp 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 5
+301 30 8321
+500 487 318000119
+405 70 25325566
+401 626 55434
+404 1223 1845960
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 377
+/index.php 27 -
+/users/sign_in 2 -
+/x 1 -
+/adm_program/system/redirect.php 2 -
+/includes/dompdf/dompdf.php 1 -
+/test/config/secrets.yml 2 -
+/wp-content/plugins/cherry-plugin/admin/import-export/download-content.php 2 -
+/sitecore/admin/login.aspx 2 -
+/editor_tools/module 2 -
+/assets/_core/php/profile.php 2 -
+/telefones-uteis 40 -
+/idp/profile/oidc/authorize 2 -
+/wp-login.php 2 -
+/printenv.shtml 1 -
+/iam/login 2 -
+/secure/Signup!default.jspa 2 -
+/paginas/conheca-a-prefeitura 38 -
+/pagina/sobre-a-secretaria 3 -
+/settings.php.bak 1 -
+/proxy 2 -
+/actuator/jolokia/read/JMImplementation:type=MBeanServerDelegate/MBeanServerId 2 -
+/wp-content/plugins/wpify-woo/deps/dragonbe/vies/examples/async_processing/queue.php/%22%3E%3Cscript%3Ealert%28document.domain%29%3C/script%3E 2 -
+/explorer.html 3 -
+/paginas/plano-de-trabalho 22 -
+/GponForm/diag_Form 4 -
+/conheca-a-cidade 3 -
+/equipe-de-governo 3 -
+/controller/origemdb.php 2 -
+/include/exportUser.php 2 -
+/pcidss/report 1 -
+/paginas/pontos-turisticos 16 -
+/console/login/LoginForm.jsp 1 -
+/historia-do-municipio 1 -
+/home/.env 2 -
+/login.cgi 1 -
+/staging/.env 2 -
+/.env.save 2 -
+/iwc/idcStateError.iwc 1 -
+/paginas/bandeira-brasao-e-hino 12 -
+/.git/config 9 -
+/env.development.js 2 -
+/noticia/img/slider/banner_bg_top.jpeg 3 https://www.camapua.ms.gov.br/noticia/laudo-tecnico-agronomico-vtn-2021
+/application/.env 1 -
+/jolokia/read/JMImplementation:type=MBeanServerDelegate/SpecificationVendor 2 -
+/manager/html 13 -
+/Chitoge.php 14 -
+/xmlpserver/ReportTemplateService.xls 2 -
+/sitemap.xml 1 -
+/service-account-credentials.json 1 -
+/conheca-a-prefeitura 2 -
+/NCFindWeb 3 -
+/public/.env 2 -
+/umbraco/BackOffice/Api/Help/GetContextHelpForPage 2 -
+/cs/Satellite 2 -
+/pagina/locais 1 -
+/include/thumb.php 1 -
+/wp-admin/admin.php 5 https://www.camapua.ms.gov.br/wp-admin/admin.php
+/appsettings.json 2 -
+/vendor/qcubed/qcubed/assets/php/profile.php 2 -
+/pagina/bandeira-brasao-e-hino 10 -
+/css../.git/config 2 -
+/msa/../../../../../../../../etc/passwd 2 -
+/Manual-de-Procedimentos-Administrativos 10 -
+/actuator/jolokia/list 2 -
+/scripts/logdownload.php 2 -
+/blast/nph-viewgif.cgi 1 -
+/actuator/jolokia/read/java.lang:type=Memory 2 -
+/menu/stc 1 -
+/pagina/endereco-das-unidades-de-saude 14 -
+/login/.env 2 -
+/actuator/jolokia/read/JMImplementation:type=MBeanServerDelegate/SpecificationName 2 -
+/cgi-bin/logo_extra_upload.cgi 1 -
+/sysinit.shtml 2 -
+/.env.bak 2 -
+/umbraco/backoffice/UmbracoApi/Dashboard/GetRemoteDashboardContent 1 -
+/wp-content/plugins/canto/includes/lib/detail.php 1 -
+/wp-json/wp/v2/posts 1 -
+/password_change.cgi 1 https://camapua.ms.gov.br
+/core/app/.env 2 -
+/paginas/img/slider/banner_bg_top.jpeg 6 https://www.camapua.ms.gov.br/paginas/conheca-a-cidade
+/pagina/palavras-do-prefeito 21 -
+/apisix/admin/user/login 2 -
+/boaform/admin/formTracert 2 https://camapua.ms.gov.br/diag_ping_admin_en.asp
+/js../.git/config 1 -
+/actuator/jolokia/read/JMImplementation:type=MBeanServerDelegate/ImplementationVersion 2 -
+/logs/downloadMainLog 4 -
+/Electron/download/windows/%5Cwindows%5Cwin.ini 1 -
+/sobre-a-secretaria 1 -
+/help/index.jsp 2 -
+/secrets.yml 2 -
+/stag/.env 2 -
+/header.php.bak 1 -
+/webadmin/policy/group_table_ajax.php/%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E 2 -
+/env.dev.js 2 -
+/phpMyAdmin/index.php 2 -
+/CMSPages/Staging/SyncServer.asmx/ProcessSynchronizationTaskData 2 -
+/ioncube/loader-wizard.php 1 -
+/action/usermanager.htm 2 -
+/dochelper 2 -
+/member/.env 2 -
+/auth/requestreset 2 -
+/events../.git/config 1 -
+/api/experimental/patternfile 3 -
+/paginas/conheca-a-cidade 8 -
+/kylin/api/admin/config 2 -
+/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 2 -
+/Images/Remote 1 -
+/prometheus 1 -
+/backend/admin/users 2 -
+/wp-content/plugins/adaptive-images/adaptive-images-script.php 1 -
+/tests/support/stores/test_grid_filter.php 2 -
+/wp-content/plugins/db-backup/download.php 2 -
+/public/login.htm 4 -
+/v1/backend1 1 -
+/server/node_upgrade_srv.js 2 -
+/.env.local 2 -
+/opac_css/getgif.php 2 -
+/_ignition/execute-solution 1 -
+/pagina/telefones-uteis 7 -
+/local/.env 2 -
+/aj.html 2 -
+/api/v1/user/login 2 -
+/goform/goform_get_cmd_process 2 http://interact.sh/127.0.0.1.html
+/paginas/ouvidoria-do-sus 2 -
+/db.php.bak 1 -
+/phpmyadmin 1 -
+/pagina/como-chegar 7 -
+/main.php.bak 1 -
+/druid/index.html 2 -
+/jolokia/list 2 -
+/data/.env 2 -
+/.env.backup 2 -
+/wp-content/plugins/localize-my-post/ajax/include.php 2 -
+/wp-content/plugins/constant-contact-api-old/vendor/constantcontact/constantcontact/test/Json/Auth/get_access_token.json 2 -
+/paginas/palavras-do-vice-prefeito 19 -
+/web/cgi-bin/hi3510/param.cgi 2 -
+/names.nsf/People 1 -
+/jobmanager/logs/..%252f..%252f..%252f..%252f..%252f..%252f..%252f..%252f..%252f..%252f..%252f..%252fetc%252fpasswd 1 -
+/Items/RemoteSearch/Image 1 -
+/assets/php/filebrowser/filebrowser.main.php 1 -
+/login.php.bak 1 -
+/conf/nginx.conf 2 -
+/.env 28 -
+/ws_ftp.ini 2 -
+/pontos-turisticos 8 -
+/account 1 -
+/pagina/conheca-a-cidade 5 -
+/msa/main.xp 2 -
+/wp-content/plugins/navis-documentcloud/js/window.php 2 -
+/free_time_failed.cgi 1 -
+/.git-credentials 2 -
+/loader-wizard.php 2 -
+/dup-installer/main.installer.php 1 -
+/railsapp/config/storage.yml 2 -
+/pagina/palavras-do-vice-prefeito 10 -
+/administrator/components/com_joomla-visites/core/include/myMailer.class.php 2 -
+/search 4 -
+/wp-json/buddypress/v1/signup 1 -
+/production/.env 2 -
+/zabbix/index_sso.php 2 -
+/xprober.php 2 -
+/wifi_base.shtml 2 -
+/footer.php.bak 1 -
+/include/downmix.inc.php 2 -
+/enginemanager/ftu/welcome.htm 2 -
+/appliance/login.ns 2 -
+/SDK/webLanguage 2 -
+/images../.git/config 1 -
+/%04%D7%7F%BF%18%D8%7F%BF%18%D8%7F%BF%08%B7%06%08 1 -
+//vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 2 -
+/wp-content/plugins/issuu-panel/menu/documento/requests/ajax-docs.php 1 -
+/config/storage.yml 2 -
+/wp-content/plugins/ait-csv-import-export/admin/upload-handler.php 2 -
+/paginas/telefones-uteis 22 -
+/.well-known/apple-app-site-association 5 -
+/../../../..//etc/passwd 2 -
+/wp-content/plugins/gracemedia-media-player/templates/files/ajax_controller.php 2 -
+/2Cvko3S3zLVmK9vtBxs4To7fjrr.jsp 2 -
+/mod/jitsi/sessionpriv.php 2 -
+/ssi/printenv.shtml 1 -
+/endereco-das-unidades-de-saude 5 -
+/.tugboat 2 -
+/wp-content/plugins/podcast-channels/getid3/demos/demo.write.php 2 -
+/core/.env 3 -
+/EemAdminService/EemAdmin 2 -
+/actuator/jolokia/read/JMImplementation:type=MBeanServerDelegate/ImplementationVendor 2 -
+/404.php.bak 1 -
+/webui/file_guest 2 -
+/downloadfile.php 2 -
+/Solar_AiConf.php/%22%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E 2 -
+/controller/login.php 3 -
+/.composer-auth.json 1 -
+/ruby/config/storage.yml 1 -
+/config/.env 2 -
+/pagina/ouvidoria-do-sus 15 -
+/jolokia/read/JMImplementation:type=MBeanServerDelegate/ImplementationVersion 2 -
+/env.js 2 -
+/.env.prod 2 -
+/phpMyAdmin 1 -
+/wp-content/plugins/canto/includes/lib/get.php 1 -
+/assets/other/service-account-credentials.json 1 -
+/pages/includes/status-list-mo%3Ciframe%20src%3D%22javascript%3Aalert%28document.domain%29%22%3E.vm 2 -
+/apps/.env 2 -
+/api/.env 2 -
+/jolokia/read/JMImplementation:type=MBeanServerDelegate/SpecificationName 2 -
+/wps/PA_WCM_Authoring_UI/proxy/http/interact.sh 1 -
+/STATE_ID/123/agentLogUploader 2 -
+/fileserver/test.txt 7 -
+/hue/accounts/login 2 -
+/error 1 -
+/media../.git/config 2 -
+/webshell4/login.php 2 -
+/Cocote.php 1 -
+/fuel/login 2 -
+/component/music/album.html 1 -
+/index.php.bak 1 -
+/gotoURL.asp 2 -
+/pagina/dica-de-turismo 1 -
+/confluence/plugins/servlet/oauth/view-consumer-info 2 -
+/umbraco/backoffice/UmbracoApi/Dashboard/GetRemoteDashboardCss 2 -
+/sobre-a-secretaria-saude 2 -
+camapua.ms.gov.br 1 -
+/jsapi_ticket.json 2 -
+/Admin 2 -
+/cgi-bin/system_mgr.cgi 2 -
+/pagina/sobre-a-secretaria-educacao 26 -
+/WidgetHandler.ashx 1 -
+/pmb/opac_css/getgif.php 2 -
+/pandora_console/index.php 4 -
+/analytics/telemetry/ph/api/hyper/send 2 -
+/content../.git/config 2 -
+/rails/actions 2 -
+/secure/Signup.jspa 2 https://www.camapua.ms.gov.br/secure/Signup.jspa
+/v2/auth/roles 2 -
+/actuator/jolokia/exec/ch.qos.logback.classic:Name=default,Type=ch.qos.logback.classic.jmx.JMXConfigurator/reloadByURL/http:!/!/random:915!/logback.xml 1 -
+/overview.asp 2 -
+/wp-content/plugins/constant-contact-forms/vendor/constantcontact/constantcontact/test/Json/Auth/get_access_token.json 1 -
+/wp-admin/options-general.php 1 -
+/go/add-on/business-continuity/api/plugin 4 -
+/c42api/v3/LoginConfiguration 2 -
+/paginas/palavras-do-prefeito 8 -
+/labkey/__r1/login-login.view 2 -
+/vpn/../vpns/cfg/smb.conf 2 -
+/cgi-bin/readycloud_control.cgi 2 -
+/user/login 2 -
+/paginas/Manual-de-Procedimentos-Administrativos 15 -
+/Portal/Portal.mwsl 2 -
+/web/database/manager 1 -
+/paginas/sobre-a-secretaria-saj 2 -
+/admin/index.php 2 -
+/app/.env 2 -
+/brasao_camapua.jpg 3 -
+/pme/database/pme/phinx.yml 2 -
+/img../.git/config 1 -
+/XMII/Catalog 2 -
+/pagina/sobre-a-secretaria-saude 3 -
+/xmldata 1 -
+/jolokia/read/JMImplementation:type=MBeanServerDelegate/MBeanServerId 2 -
+/wp-content/plugins/all-in-one-event-calendar/app/view/agenda-widget.php 1 -
+/jolokia/read/JMImplementation:type=MBeanServerDelegate/SpecificationVersion 2 -
+/redmine/config/secrets.yml 2 -
+/paginas/sobre-a-secretaria-samae 2 -
+/.env.php 2 -
+/pagina/sobre-a-secretaria-samae 2 -
+/plus/flink.php 2 <
+/actuator/prometheus 1 -
+/actuator/jolokia/read/JMImplementation:type=MBeanServerDelegate/SpecificationVersion 1 -
+/zimbraAdmin/0MVzAe6pgwe5go1D.jsp 2 -
+/env.production.js 2 -
+/jolokia/read/java.lang:type=Memory 2 -
+/elfinder/php/connector.minimal.php 2 -
+/uddiexplorer/SearchPublicRegistries.jsp 2 -
+/(download)/etc/passwd 1 -
+/cgi-bin/GetSrvInfo.exe 1 -
+/systemController/showOrDownByurl.do 2 -
+/zms/admin/index.php 2 https://www.camapua.ms.gov.br/zms/admin/index.php
+/plugins/servlet/oauth/view-consumer-info 2 -
+/pagina/historia-do-municipio 13 -
+/actuator/jolokia/read/JMImplementation:type=MBeanServerDelegate/ImplementationName 2 -
+/service/extension/backup/mboximport 2 -
+/wp-admin/admin-ajax.php 6 -
+/servlet/com.adventnet.me.opmanager.servlet.FailOverHelperServlet 2 -
+/paginas/equipe-de-governo 4 -
+/Electron/download/windows/..%5C..%5C..%5CHttp%5Cwebroot%5Cconfig.json 1 -
+/account/register 2 -
+/mainfile.php 2 -
+/upload/mobile/index.php 2 -
+/como-chegar 2 -
+/jolokia/read/JMImplementation:type=MBeanServerDelegate/ImplementationVendor 2 -
+/_next/static/../server/pages-manifest.json 2 -
+/actuator/jolokia/read/JMImplementation:type=MBeanServerDelegate/SpecificationVendor 1 -
+/dev/.env 2 -
+/pagina/img/slider/banner_bg_top.jpeg 2 https://www.camapua.ms.gov.br/pagina/Manual-de-Procedimentos-Administrativos
+/env.prod.js 2 -
+/ACSServer/WebServlet 4 -
+/plus/ajax_street.php 2 -
+/contrib/acog/print_form.php 2 -
+/secretaria/img/slider/banner_bg_top.jpeg 10 https://www.camapua.ms.gov.br/secretaria/secretaria-de-governo
+/securityRealm/user/admin/descriptorByName/org.jenkinsci.plugins.github.config.GitHubTokenCredentialsCreator/createTokenByPassword 1 -
+/bandeira_camapua.jpg 2 -
+/default.php.bak 1 -
+/paginas/historia-do-municipio 17 -
+/pagina/endereco-das-unidades-de-s 1 -
+/wp-content/plugins/tidio-form/popup-insert-help.php 1 -
+/sync/dropbox/download 2 -
+/include/nuclei.txt 2 -
+/siteminderagent/forms/smaceauth.fcc 1 -
+/wp-config.php.bak 1 -
+/admin.html 2 -
+/QH.aspx 2 -
+/docpicker/internal_proxy/http/interact.sh 2 -
+/wan.htm 1 -
+/login.php 2 -
+/index_sso.php 2 -
+/metrics 2 -
+/user.action 2 -
+/vendor/webmozart/assert/.composer-auth.json 1 -
+/solr/admin/cores 2 -
+/plus/ajax_officebuilding.php 1 -
+/env.test.js 2 -
+/tweb/ft.php 2 -
+/logo/2Cvko2OA7wrtuAQji8ayv5iuB8U.txt 1 -
+/pagina/Manual-de-Procedimentos-Administrativos 56 -
+/ui/api/v1/global-search/builds 2 -
+/dokuwiki/doku.php 2 -
+/config/secrets.yml 2 -
+/jolokia/exec/ch.qos.logback.classic:Name=default,Type=ch.qos.logback.classic.jmx.JMXConfigurator/reloadByURL/http:!/!/nonexistent:31337!/logback.xml 1 -
+/fhem/FileLog_logWrapper 2 -
+/wp-content/uploads/2Cvknvv8ww9FwCbWb65aq64YSvp.php 2 -
+/.//WEB-INF/classes/META-INF/microprofile-config.properties 2 -
+/apple-app-site-association 4 -
+/rest/api/latest/groupuserpicker 2 -
+/pagina/conheca-a-prefeitura 14 -
+/wp-content/plugins/simpel-reserveren/edit.php 2 -
+/wp-login.php.bak 1 -
+/remote/fgt_lang 2 -
+/pagina/equipe-de-governo 9 -
+/artifactory/ui/repodata 2 -
+/find_v2/_click 2 -
+/wp-content/themes/oxygen-theme/download.php 2 -
+/siteminderagent/forms/smpwservices.fcc 2 -
+/wp-json/visualizer/v1/upload-data 2 -
+/AvalancheWeb/image 2 -
+/ui/api/v1/ui/auth/login 1 -
+/paginas/como-chegar 7 -
+/settings.php 2 -
+/storage.yml 2 -
+/login 3 -
+/ui/h5-vsan/rest/proxy/service/com.vmware.vsan.client.services.capability.VsanCapabilityProvider/getClusterCapabilityData 4 -
+/assets../.git/config 1 -
+/.env.stage 2 -
+/palavras-do-vice-prefeito 2 https://www.google.com/
+/pagina/pontos-turisticos 23 -
+/user/scripts/login_par.js 1 -
+/paginas/sobre-a-secretaria 4 -
+/cfcache.map 2 -
+/pagina/sobre-a-secretaria-saj 7 -
+/db_config.php.bak 1 -
+/database.php.bak 1 -
+/conf/.env 2 -
+/ouvidoria-do-sus 1 -
+/jolokia/read/JMImplementation:type=MBeanServerDelegate/ImplementationName 2 -
+/wp-content/plugins/wp-swimteam/include/user/download.php 2 -
+/phpmyadmin/index.php 2 -
+/static../.git/config 2 -
+/carbon/admin/login.jsp 2 -
+/goforms/rlminfo 2 -
+/wp-content/plugins/canto/includes/lib/tree.php 1 -
+/lib../.git/config 1 -
+/self.key 2 -
+/assets/php/profile.php 1 -
+/servicedesk/customer/user/signup 4 https://www.camapua.ms.gov.br/servicedesk/customer/user/signup
+/sobre-a-secretaria-samae 1 -
+/actions/seomatic/meta-container/all-meta-containers 2 -
+/config.php.bak 1 -
+/conn.php.bak 1 -
+/pagina/sobre-a-secretaria-smas 3 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 188
+170.80.33.180 402 15527 841979988 20220826170644
+164.163.11.153 267 279 5203186 20220806174721
+170.80.35.68 76 3051 154186002 20220812115006
+104.222.162.63 74 74 4326498 20220811114521
+143.198.149.215 66 69 1853787 20220809013448
+201.7.1.64 59 2271 128912608 20220826103834
+18.206.176.184 51 60 6280527 20220815182005
+170.80.34.98 39 1404 75773215 20220822174107
+170.80.34.72 36 1372 74141149 20220812165049
+64.124.8.42 24 24 1597331 20220810231307
+64.124.8.56 23 23 876871 20220827025357
+159.242.234.6 22 22 268728 20220820191629
+64.124.8.49 20 20 766381 20220811025529
+159.242.234.92 20 20 244425 20220818210830
+64.124.8.45 20 20 3443606 20220827015559
+64.124.8.26 15 15 596970 20220826221639
+64.124.8.27 15 15 845108 20220810183343
+64.124.8.36 13 18 1296220 20220827060531
+170.80.35.88 13 500 29045162 20220826165704
+64.124.8.28 12 12 493259 20220825173025
+64.124.8.38 12 12 897593 20220811005905
+64.124.8.58 11 11 675407 20220811231953
+64.124.8.35 11 11 405952 20220810130220
+170.80.35.77 11 401 19241607 20220808172428
+159.242.234.10 10 10 122079 20220820020958
+64.124.8.24 2 2 159316 20220810192412
+34.168.107.128 2 2 169498 20220816023532
+34.216.155.18 1 1 84840 20220811182511
+208.100.26.247 4 4 338496 20220821145759
+104.200.28.107 2 2 169498 20220823152305
+170.233.227.73 2 81 4686922 20220813153955
+170.80.34.77 2 78 2371772 20220801151832
+54.184.43.87 1 1 85467 20220813170411
+66.115.149.14 2 2 120080 20220823234448
+172.121.220.81 6 6 338662 20220802101426
+205.210.31.29 1 1 84927 20220802072416
+64.124.8.54 5 5 182507 20220810134507
+209.141.41.193 1 1 84840 20220811221002
+208.100.26.244 2 2 168880 20220808030705
+89.187.164.140 2 2 120354 20220809141317
+74.125.213.10 0 1 78612 
+52.11.129.83 1 1 84499 20220817172659
+64.124.8.55 4 13 718180 20220824193449
+131.255.23.169 0 1 655330 
+64.124.8.220 0 2 119618 
+35.90.14.53 1 1 84499 20220825175443
+64.124.8.50 9 9 511800 20220810074235
+177.79.31.39 2 57 2654544 20220826153811
+92.205.56.212 1 1 12101 20220814205536
+209.141.51.222 1 1 84499 20220818230656
+64.124.8.41 3 3 106852 20220827062414
+94.23.18.222 1 1 3820628 20220821212215
+104.164.161.101 1 1 84499 20220821184323
+208.100.26.237 1 1 84499 20220823154415
+64.124.8.52 0 9 332852 
+45.5.66.45 2 2 84999 20220824140445
+35.90.174.165 1 1 84445 20220809172340
+198.235.24.2 1 1 37482 20220806170505
+186.250.215.134 0 1 78612 
+91.240.118.167 3 3 181692 20220824173100
+64.124.8.44 5 5 206026 20220809213113
+52.8.178.73 2 2 169339 20220817123307
+104.165.105.199 2 2 84937 20220808224739
+144.91.106.14 1 1 85336 20220811221855
+54.189.0.95 1 1 84499 20220819170928
+144.91.87.121 1 1 38109 20220805182036
+201.24.172.144 4 162 9372245 20220819170729
+64.124.8.22 9 9 363507 20220826201721
+34.140.248.32 1 1 84499 20220826042411
+52.24.173.197 2 81 4685954 20220824140509
+198.235.24.134 1 1 84937 20220806201733
+172.104.19.130 1 1 84499 20220823055046
+44.201.179.72 1 1 84999 20220818154500
+81.161.229.59 1 1 37482 20220801213018
+205.210.31.24 1 1 37482 20220814202354
+170.80.34.19 2 80 3831340 20220808143654
+104.164.161.242 2 2 84499 20220824140439
+64.124.8.31 0 22 1633887 
+117.148.130.28 0 5 278131 
+107.23.219.165 1 1 84999 20220819182649
+18.236.231.76 1 1 84499 20220824173355
+172.104.19.232 1 1 84999 20220823072727
+205.210.31.140 1 1 37482 20220810040156
+35.195.93.98 1 1 84446 20220810090532
+34.219.75.75 1 1 84499 20220819172227
+170.80.34.12 0 1 78612 
+205.210.31.34 1 1 37482 20220807232013
+64.124.8.47 9 9 597035 20220810210856
+159.242.234.16 3 3 36649 20220819204849
+54.177.163.239 1 1 84499 20220823105103
+177.35.116.252 2 81 4685954 20220819152515
+82.223.13.85 4 4 338334 20220825085519
+162.253.129.222 2 2 120354 20220804124627
+64.124.8.221 0 1 73860 
+198.235.24.147 1 1 84499 20220816050522
+104.232.39.90 2 2 84999 20220824140448
+54.185.51.93 1 1 84499 20220819171329
+64.124.8.57 0 24 1771872 
+205.210.31.130 1 1 85467 20220813151137
+64.225.20.207 1 1 37345 20220802183832
+205.210.31.25 1 1 84445 20220807145236
+94.61.25.201 2 2 96689 20220821104905
+170.80.35.3 8 324 18744153 20220826144023
+167.172.23.161 1 1 37482 20220810192603
+170.80.32.225 4 160 7662660 20220802114200
+74.125.213.6 0 4 314448 
+54.188.202.36 1 1 84840 20220810175113
+172.121.219.9 4 4 240333 20220802101425
+205.210.31.23 1 1 84937 20220806094531
+170.80.32.243 2 81 3909952 20220803185717
+64.124.8.32 5 5 192100 20220810033344
+34.78.6.216 1 1 84445 20220805122401
+104.233.61.195 2 2 84499 20220824140437
+170.80.35.13 3 39 1399229 20220823112947
+34.211.145.206 2 2 85336 20220811113946
+205.210.31.11 1 1 84445 20220803214647
+177.79.29.2 0 1 78612 
+159.203.84.99 1 1 85336 20220810201523
+50.116.54.227 2 2 24237 20220823133716
+54.202.250.68 10 89 4449468 20220808225259
+170.80.33.210 3 17 1609785 20220825164059
+52.226.210.206 0 1 78612 
+213.227.129.34 1 1 84840 20220812120452
+54.244.59.132 1 1 84499 20220819171610
+216.218.191.199 0 1 78612 
+34.221.86.254 1 1 84499 20220817170452
+45.160.59.112 3 54 5279496 20220816165404
+188.226.141.27 3 3 254811 20220809101909
+170.80.34.107 2 81 4685954 20220817125745
+180.163.220.3 0 1 78612 
+74.125.213.8 0 2 157224 
+172.121.219.29 5 5 276079 20220821184356
+18.237.6.234 1 1 84499 20220816171445
+212.102.40.153 2 2 122016 20220813225644
+198.235.24.49 1 1 37482 20220819230206
+198.235.24.30 1 1 84937 20220806151948
+103.200.113.153 2 80 3831340 20220805043720
+172.121.222.15 1 1 55212 20220811114501
+172.104.65.52 1 1 84937 20220805043414
+57.128.16.193 2 2 169384 20220810063813
+35.91.99.151 1 1 84445 20220806172525
+34.220.238.13 4 84 4173592 20220809113253
+52.44.117.208 1 1 84937 20220805115558
+186.250.101.2 3 84 4859988 20220823184731
+170.80.34.95 5 161 7747597 20220802152647
+84.17.52.247 1 1 12220 20220826071304
+64.124.8.222 0 1 5837 
+170.80.35.22 2 81 4685954 20220819143908
+104.227.77.235 1 1 35417 20220804214212
+104.232.199.191 1 1 84999 20220821184323
+34.77.127.183 1 1 84445 20220809095517
+191.216.89.150 1 12 935491 20220808132852
+205.210.31.144 1 1 84445 20220803234241
+64.124.8.48 0 9 568177 
+172.104.19.137 2 2 24236 20220823053618
+205.210.31.32 1 1 84927 20220801072417
+91.250.240.198 1 1 84999 20220821185257
+170.80.32.210 0 13 1021956 
+66.249.88.34 0 1 78612 
+38.128.156.254 1 1 84435 20220802101349
+3.10.211.188 3 3 254319 20220805142714
+200.201.175.67 2 16 1598441 20220825173654
+66.249.88.32 0 1 78612 
+204.12.255.58 1 1 85967 20220814055557
+198.235.24.130 1 1 37482 20220814053754
+205.210.31.5 1 1 84937 20220806141459
+104.224.66.65 5 5 289082 20220821184358
+62.204.41.233 3 3 181693 20220824173100
+80.82.67.117 1 1 84937 20220809171458
+198.235.24.33 1 1 37482 20220816044629
+54.184.147.76 2 2 84840 20220811113944
+205.210.31.16 1 1 84999 20220816094551
+3.99.186.156 2 2 24395 20220812232629
+198.235.24.21 1 1 37482 20220805054336
+170.80.34.20 2 82 3995251 20220801210843
+52.41.175.176 1 1 84445 20220805171228
+189.68.165.14 0 1 105737 
+167.99.54.106 1 1 84840 20220810185004
+34.145.122.69 1 1 37345 20220827011757
+45.5.67.138 1 1 84999 20220824140519
+104.222.46.80 1 1 38207 20220811114351
+70.36.114.241 1 1 84435 20220802061855
+52.250.30.131 2 81 4685454 20220825093209
+200.199.218.188 2 81 4685954 20220818115646
+38.128.156.30 2 2 84445 20220809113151
+208.100.26.236 2 2 169926 20220826074544
+23.254.8.247 1 1 35418 20220811200147
+52.13.126.223 1 1 85467 20220814174418
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 27
+20220801 43 1374 64774685 18
+20220802 48 1223 59479907 15
+20220803 35 1292 62117318 12
+20220804 49 907 42736828 13
+20220805 214 1476 66009156 19
+20220806 107 111 2819538 9
+20220807 22 22 727362 11
+20220808 71 1802 86799710 29
+20220809 58 1542 74141427 19
+20220810 153 2121 115616503 32
+20220811 161 1739 99080298 23
+20220812 46 1705 98681354 16
+20220813 6 85 4979872 4
+20220814 5 6 337111 5
+20220815 83 1316 78319859 10
+20220816 45 1419 82860654 16
+20220817 46 1654 95198293 13
+20220818 39 674 38197854 10
+20220819 30 820 47441165 17
+20220820 34 113 5076761 3
+20220821 17 18 4900586 9
+20220822 36 1437 81072244 11
+20220823 53 1219 70827277 20
+20220824 57 1476 85050866 22
+20220825 46 1038 61432333 13
+20220826 57 1154 65885769 17
+20220827 49 49 5073097 5
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 7
+5mn-15mn 16
+30s-2mn 9
+30mn-1h 42
+0s-30s 278
+1h+ 23
+15mn-30mn 19
+2mn-5mn 4
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 419
+/ 554 43637019 333 132
+/libs/bootstrap/dist/fonts/glyphicons-halflings-regular.woff2 332 5985296 0 187
+/noticias 13 703394 1 1
+/contato 12 423917 2 9
+/index.php 12 146140 0 2
+/noticia/conheca-camapua-capital-do-bezerro-de-qualidade 8 277438 0 0
+/noticia/saude-continua-atuando-no-controle-do-mosquito-aedes-aegypti 8 315909 1 1
+/noticia/prefeitura-continua-recuperando-estradas-rurais 7 251323 0 1
+/noticia/estudo-mostra-que-cultura-do-amendoim-pode-se-tornar-viavel-em-camapua 7 262433 0 0
+/secretaria/secretaria-de-administracao-financas-e-planejamento 7 427451 0 0
+/paginas/telefones-uteis 7 266007 1 2
+/publicacao/decretos-suspensao-dos-cultos-presenciais 6 218918 2 0
+/secretaria/secretaria-de-infraestrutura-e-servicos-publicos 6 367946 0 0
+/noticia/camapua-realiza-atendimentos-de-saude-em-parceria-com-sindicato-rural-e-famasul 6 2492049 2 1
+/noticia/prefeitura-promove-final-de-semana-com-varios-eventos-esportivos-em-camapua 6 227108 3 2
+/noticia/secretaria-de-educacao-se-reune-com-transportadores-escolares 6 217053 0 1
+/noticia/campanha-maio-amarelo 6 232531 0 3
+/secretaria/secretaria-de-saude 6 388994 0 2
+/paginas/Manual-de-Procedimentos-Administrativos 6 377183 0 0
+/noticia/primeiras-lives-solidarias-sao-sucesso-de-audiencia 6 222951 2 0
+/paginas/palavras-do-vice-prefeito 6 728204 5 0
+/noticia/prefeitura-trabalha-na-recuperacao-da-estrada-que-da-acesso-a-regiao-do-bentos 6 215894 0 0
+/secretaria/secretaria-de-governo 5 247443 0 1
+/paginas/como-chegar 5 168346 0 0
+/noticia/uso-de-mascara-diminui-a-transmissao-da-covid-19 5 180393 0 0
+/dokuwiki/doku.php 1 12154 0 0
+/config/secrets.yml 1 12105 0 0
+/wp/wp-includes/class-wordpress-license.php 2 24434 0 0
+/jolokia/exec/ch.qos.logback.classic:Name=default,Type=ch.qos.logback.classic.jmx.JMXConfigurator/reloadByURL/http:!/!/nonexistent:31337!/logback.xml 1 12207 0 0
+/wp-content/uploads/2Cvknvv8ww9FwCbWb65aq64YSvp.php 1 12235 0 0
+/blog/wp-includes/customize/class-wp-customize-nav-menu.php 1 12235 0 0
+/wp-includes/wp-system-cloud.php 1 12204 0 0
+/noticia/prefeito-assegura-pavimentacao-de-ruas-da-pontinha-do-cocho-e-da-ms-338 4 152916 2 0
+/fhem/FileLog_logWrapper 1 12136 0 0
+/wp-class.php 1 12203 0 0
+/noticia/prefeito-manoel-nery-define-criterios-para-garantir-o-pagamento-do-piso-nacional-do-magisterio-aos-professores-de-camapua 3 118525 0 0
+/rest/api/latest/groupuserpicker 1 12143 0 0
+/noticia/a-banda-municipal-30-de-setembro-de-camapua-esta-com-inscricoes-abertas-para-novos-integrantes 1 38528 0 1
+/wp-login.php.bak 1 12106 0 0
+/wp-content/plugins/simpel-reserveren/edit.php 1 12170 0 0
+/remote/fgt_lang 1 12129 0 0
+/artifactory/ui/repodata 1 12123 0 0
+/tour-list/ 1 12183 1 0
+/wp-content/themes/oxygen-theme/download.php 1 12139 0 0
+/find_v2/_click 1 12141 0 0
+/wp-json/visualizer/v1/upload-data 1 12123 0 0
+/AvalancheWeb/image 1 12123 0 0
+/siteminderagent/forms/smpwservices.fcc 1 12197 0 0
+/settings.php 1 12106 0 0
+/noticia/atualizacao-do-boletim-da-covid-19-1705 1 36248 0 0
+/assets../.git/config 1 12111 0 0
+/storage.yml 1 12104 0 0
+/ui/h5-vsan/rest/proxy/service/com.vmware.vsan.client.services.capability.VsanCapabilityProvider/getClusterCapabilityData 2 24537 1 1
+/palavras-do-vice-prefeito 2 242014 0 0
+/noticia/neste-domingo-06-acontece-mais-uma-edicao-da-live-solidaria 3 108440 0 0
+/wordpress/wp-includes/class-wp-post-link.php 1 12216 0 0
+/paginas/sobre-a-secretaria 2 70016 0 0
+/db_config.php.bak 1 12111 0 0
+/database.php.bak 1 12102 0 0
+/wp-includes/cwp-cleaner.php 1 12212 0 0
+/cfcache.map 1 12104 0 0
+/noticia/equipe-da-sala-do-empreendedor-visita-o-comercio 4 155804 1 0
+/noticia/boletim-covid-1207 3 103625 0 0
+/wp-content/plugins/wp-swimteam/include/user/download.php 1 12187 0 0
+/ouvidoria-do-sus 2 78764 0 0
+/goforms/rlminfo 1 12106 0 0
+/carbon/admin/login.jsp 1 12133 0 0
+/static../.git/config 1 12104 0 0
+/cgi-bin/webmail 1 12106 0 0
+/phpmyadmin/index.php 1 12119 0 0
+/wp-includes/pluggable.php 1 12215 0 0
+/lib../.git/config 1 12104 0 0
+/self.key 1 12100 0 0
+/secretaria/secretaria-de-agronegocio-meio-ambiente-e-empreendedorismo 4 230742 0 1
+/v1/query 1 12202 0 0
+/servicedesk/customer/user/signup 2 24437 1 0
+/conn.php.bak 1 12107 0 0
+/wp/wp-includes/customize/class-wp-customize-nav-menu.php 1 12231 0 0
+/config.php.bak 1 12101 0 0
+/actions/seomatic/meta-container/all-meta-containers 1 12139 0 1
+/../../../../etc/passwd 1 12202 1 0
+/blog/wp-content/plugins/dos2unix/dos2unix.php 1 12219 0 1
+/_next/static/../server/pages-manifest.json 1 12114 0 0
+/api/content/ 1 12198 0 0
+/site/wp-content/themes/sketch/404.php 1 12219 0 1
+/plus/ajax_street.php 1 12172 0 0
+/publicacao/decreto-46072020 4 146159 0 2
+/ACSServer/WebServlet 2 24290 0 0
+/wp/wp-content/themes/sketch/404.php 1 12217 0 0
+/noticia/administracao-municipal-dispoe-de-r-306-mil-reais-a-disposicao-para-formalizar-convenio-com-o-asilo 3 120881 0 0
+/wp-content/plugins/press/wp-class.php 1 12211 0 0
+/noticia/obras-de-recapeamento-continuam-sendo-realizadas-em-camapua 4 173146 0 0
+/paginas/sobre-a-secretaria-smas 1 58821 1 0
+/noticia/caminhada-com-servidoras-municipais-marca-evento-do-dia-internacional-da-mulher 3 113594 0 1
+/noticia/vacinacao-da-gripe-e-aberta-a-toda-populacao 3 116276 0 0
+/jquery-file-upload/server/php/ 1 12119 0 0
+/resin-doc/viewfile/ 1 12120 1 0
+/default.php.bak 1 12102 0 0
+/blog/wp-includes/class-wordpress-license.php 2 24432 0 0
+/site/wp-content/plugins/wpyii2/wpyii2.php 1 12214 0 0
+/paginas/historia-do-municipio 3 109565 0 0
+/noticia/junho-e-um-mes-inteiro-dedicado-a-protecao-da-pessoa-idosa 2 77215 0 0
+/sync/dropbox/download 1 12149 0 0
+/wp-content/plugins/tidio-form/popup-insert-help.php 1 12167 0 0
+/wp-config.php.bak 1 12104 0 0
+/siteminderagent/forms/smaceauth.fcc 1 12197 0 0
+/_profiler/empty/search/results 1 12207 0 1
+/QH.aspx 1 12249 0 0
+/admin.html 1 12162 0 0
+/noticia/nesta-quinta-feira-10-acontece-mais-uma-edicao-da-live-solidaria 3 106090 2 1
+/noticia/camapua-realiza-etapa-municipal-do-1o-desafio-de-merendeiras 4 164426 0 1
+/wp-content/themes/twenty/twenty.php 1 12215 1 0
+/docpicker/internal_proxy/http/interact.sh 1 12119 0 0
+/metrics 1 12096 0 0
+/noticia/desrespeitar-o-isolamento-pode-acarretar-em-problemas-na-esfera-judicial 1 39105 0 0
+/index_sso.php 1 12101 0 0
+/noticia/sala-do-empreendedor-em-camapua-recebe-novo-layout 1 36838 0 0
+/login.php 1 12197 0 0
+/tweb/ft.php 1 12141 0 0
+/plus/ajax_officebuilding.php 1 12197 0 0
+/vendor/webmozart/assert/.composer-auth.json 1 12124 0 0
+/solr/admin/cores 1 12209 0 0
+/noticia/numeros-de-casos-confirmados-com-covid-19-em-camapua-voltam-a-subir 1 38802 0 0
+/paginas/sobre-a-secretaria-saude 2 69312 0 0
+/noticia/equipe-do-creas-realiza-reuniao-do-servico-familia-acolhedora 3 109474 0 0
+/pagina/Manual-de-Procedimentos-Administrativos 2 125784 0 1
+/wordpress/wp-content/themes/sketch/404.php 1 12217 0 0
+/ui/api/v1/global-search/builds 1 12226 0 0
+/noticia/prefeitura-recebe-doacao-de-mudas 1 38612 0 0
+/labkey/__r1/login-login.view 1 12127 0 0
+/Portal/Portal.mwsl 1 12174 0 0
+/cgi-bin/readycloud_control.cgi 1 12230 0 0
+/user/login 1 12096 0 1
+/noticia/prefeito-manoel-nery-e-eleito-entre-os-15-melhores-prefeitos-de-ms 4 150406 0 2
+/secretaria/secretaria-de-assuntos-juridicos 5 216029 0 0
+/paginas/sobre-a-secretaria-saj 1 41317 0 1
+/admin/index.php 1 12134 0 0
+/XMII/Catalog 1 12145 0 1
+/img../.git/config 1 12110 0 0
+/wp-content/themes/twentyfive/404.php 1 12213 1 0
+/pme/database/pme/phinx.yml 1 12108 0 0
+/noticia/live-solidaria-sera-realizada-na-quinta-feira 4 154102 0 0
+/wp-content/plugins/all-in-one-event-calendar/app/view/agenda-widget.php 1 12186 0 0
+/jolokia/read/JMImplementation:type=MBeanServerDelegate/MBeanServerId 1 12140 0 0
+/index.php/System/MailConnect/host/cbmdsunu8o1fhi800010fjddhxymndxox.oast.live/port/80/secure/ 1 12167 0 0
+/noticia/nesta-sexta-feira-28-acontece-a-primeira-live-solidaria 1 40389 0 1
+/redmine/config/secrets.yml 1 12114 0 0
+/paginas/sobre-a-secretaria-samae 1 34237 0 0
+/forums/search/z--%3E%22%3E%3C/script%3E%3Cscript%3Ealert%28document.domain%29%3C/script%3E/ 1 12145 0 0
+/plus/flink.php 1 12239 0 0
+/actuator/prometheus 1 12109 0 0
+/wp-includes/wp-class.php 1 12208 0 0
+/actuator/jolokia/read/JMImplementation:type=MBeanServerDelegate/SpecificationVersion 1 12153 0 0
+/noticia/vacina-contra-a-influenza-ja-esta-disponivel-nas-unidades-de-saude 4 156062 0 0
+/elfinder/php/connector.minimal.php 1 12281 0 0
+/blog/wp-class.php 1 12207 0 1
+/galerias 1 33122 0 0
+/uddiexplorer/SearchPublicRegistries.jsp 1 12239 0 0
+/site/wp-content/plugins/dos2unix/dos2unix.php 1 12227 0 0
+/noticia/boletim-covid-1307 3 108599 0 0
+/noticia/prefeito-entrega-veiculo-para-secretaria-de-assistencia-social 3 110267 0 0
+/noticia/o-cristo-redentor-e-iluminado-com-a-cor-amarela 2 70640 0 1
+/zms/admin/index.php 1 12207 0 0
+/systemController/showOrDownByurl.do 2 24487 0 0
+/plugins/servlet/oauth/view-consumer-info 1 12128 1 0
+/actuator/jolokia/read/JMImplementation:type=MBeanServerDelegate/ImplementationName 1 12147 0 0
+/new/newhttp://interact.sh 1 12108 0 1
+/wp-admin/admin-ajax.php 3 36489 1 0
+/wordpress/wp-includes/wp-class.php 1 12214 0 0
+/Electron/download/windows/..%5C..%5C..%5CHttp%5Cwebroot%5Cconfig.json 1 12129 0 0
+/paginas/equipe-de-governo 2 83250 0 1
+/wp-content/plugins/ultimate-member/ 1 12117 0 0
+/servlet/com.adventnet.me.opmanager.servlet.FailOverHelperServlet 1 12184 0 0
+/mainfile.php 1 12153 0 0
+/account/register 1 12201 1 1
+/como-chegar 2 66610 0 0
+/upload/mobile/index.php 1 12255 0 0
+/jolokia/read/JMImplementation:type=MBeanServerDelegate/ImplementationVendor 1 12141 0 0
+/webui/file_guest 1 12152 0 0
+/wp-content/plugins/wpyii2/wpyii2.php 1 12220 0 0
+/Solar_AiConf.php/%22%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E 1 12098 0 0
+/.composer-auth.json 1 12100 0 0
+/ruby/config/storage.yml 1 12115 0 0
+/controller/login.php 2 24414 0 0
+/elocker_old/storage/ 1 12105 0 0
+/jolokia/read/JMImplementation:type=MBeanServerDelegate/ImplementationVersion 1 12142 0 0
+/noticia/boletim-covid-3105 1 37829 0 0
+/noticia/vacinacao-contra-a-covid-19-continua-nesta-quinta-feira 1 35577 0 0
+/pages/includes/status-list-mo%3Ciframe%20src%3D%22javascript%3Aalert%28document.domain%29%22%3E.vm 1 12160 0 0
+/wp-content/plugins/canto/includes/lib/get.php 1 12171 0 0
+/wps/PA_WCM_Authoring_UI/proxy/http/interact.sh 1 12132 0 0
+/STATE_ID/123/agentLogUploader 1 12207 0 0
+/jolokia/read/JMImplementation:type=MBeanServerDelegate/SpecificationName 1 12146 0 0
+/webshell4/login.php 1 12103 0 0
+/media../.git/config 1 12105 0 0
+/error 1 12136 0 0
+/hue/accounts/login 1 12213 0 0
+/noticia/prefeito-vai-na-semagro-em-busca-de-novos-investimentos 1 38847 1 0
+/noticia/a-prefeitura-realiza-nesta-sexta-28-e-sabado-29-a-live-solidaria-com-os-artistas-de-camapua 2 80089 0 0
+/fuel/login 1 12202 0 0
+/noticia/por-intermedio-do-prefeito-delano-huber-almir-sater-fara-show-em-camapua 1 3820628 1 1
+/site/wp-includes/class-wordpress-license.php 2 24445 0 0
+/site/wp-class.php 1 12211 0 0
+/index.php.bak 1 12101 0 0
+/wp-includes/cwp-jespos.php 1 12216 0 0
+/gotoURL.asp 1 12127 0 0
+/site/wp-includes/customize/class-wp-customize-nav-menu.php 1 12226 0 0
+/sobre-a-secretaria-saude 2 68514 1 1
+/umbraco/backoffice/UmbracoApi/Dashboard/GetRemoteDashboardCss 1 12207 0 0
+/confluence/plugins/servlet/oauth/view-consumer-info 1 12135 0 0
+/jsapi_ticket.json 1 12103 0 0
+/cgi-bin/system_mgr.cgi 2 24465 0 0
+/WidgetHandler.ashx 1 12243 0 0
+/cgi-bin/sqwebmail 1 12105 0 0
+/noticia/trabalhos-de-limpeza-urbana-continuam-sendo-executados 1 38929 0 0
+/noticia/sala-do-empreendedor-auxilia-meis-na-hora-de-fazer-declaracao-anual 3 114022 2 0
+/noticia/prefeitura-realiza-primeira-edicao-do-cine-camapua 3 110053 0 0
+/pmb/opac_css/getgif.php 1 12140 0 0
+/v1/2CvknwiWxHbfMdbC5F8D6Gq9gxz.php 1 12222 0 0
+/content../.git/config 1 12110 0 0
+/plano-de-trabalho 1 81777 0 0
+/analytics/telemetry/ph/api/hyper/send 1 12226 0 0
+/pandora_console/index.php 1 12219 0 0
+/secure/Signup.jspa 1 12210 0 0
+/rails/actions 1 12177 0 0
+/v2/auth/roles 1 12107 0 0
+/overview.asp 1 12101 0 0
+/actuator/jolokia/exec/ch.qos.logback.classic:Name=default,Type=ch.qos.logback.classic.jmx.JMXConfigurator/reloadByURL/http:!/!/random:915!/logback.xml 1 12203 0 1
+/wp-content/plugins/constant-contact-forms/vendor/constantcontact/constantcontact/test/Json/Auth/get_access_token.json 1 12154 0 0
+/my-account/ 1 12143 0 0
+/paginas/palavras-do-prefeito 2 817930 0 0
+/c42api/v3/LoginConfiguration 1 12200 0 0
+/wp-admin/options-general.php 1 12125 0 0
+/site/wp-includes/class-wp-post-link.php 1 12220 0 1
+/go/add-on/business-continuity/api/plugin 2 24291 2 0
+/noticia/assistencia-social-homenageia-servidoras 3 104833 0 1
+/.git-credentials 1 12107 1 1
+/wp-content/plugins/church-admin/display/download.php 1 12140 0 0
+/railsapp/config/storage.yml 1 12110 0 0
+/search 2 24222 0 0
+/noticia/boletim-covid-19-2305 1 36045 0 0
+/administrator/components/com_joomla-visites/core/include/myMailer.class.php 1 12168 1 0
+/zabbix/index_sso.php 1 12112 0 0
+/wp-json/buddypress/v1/signup 1 12211 0 0
+/palavras-do-prefeito 2 817132 1 0
+/xprober.php 1 12106 0 0
+/wifi_base.shtml 1 12098 0 0
+/enginemanager/ftu/welcome.htm 1 12118 0 0
+/noticia/segundo-dia-d-de-vacinacao-em-criancas-acontece-hoje-21 1 36612 0 0
+/noticia/prefeito-apresenta-camapua-para-diretores-de-cooperativa 2 73649 0 0
+/footer.php.bak 1 12102 0 0
+/include/downmix.inc.php 1 12110 0 0
+/images../.git/config 1 12104 0 0
+/SDK/webLanguage 1 12212 0 0
+/appliance/login.ns 1 12185 0 0
+/%04%D7%7F%BF%18%D8%7F%BF%18%D8%7F%BF%08%B7%06%08 1 12309 0 0
+/noticia/1a-dose-da-vacina-contra-covid-19-e-aplicada-hoje-no-salao-conviver 1 38987 0 0
+/wp-content/plugins/issuu-panel/menu/documento/requests/ajax-docs.php 1 12150 0 0
+/config/storage.yml 1 12112 0 0
+/wp-content/plugins/ait-csv-import-export/admin/upload-handler.php 1 12238 0 0
+/wp-content/index.php 1 12198 0 0
+/noticia/prefeitura-leva-atendimento-de-saude-a-comunidade-rural 3 109094 0 1
+/wordpress/wp-class.php 1 12200 0 0
+/mod/jitsi/sessionpriv.php 1 12215 0 0
+/2Cvko3S3zLVmK9vtBxs4To7fjrr.jsp 1 12221 0 0
+/endereco-das-unidades-de-saude 2 69586 0 1
+/wp-content/plugins/podcast-channels/getid3/demos/demo.write.php 1 12188 0 0
+/.tugboat 1 12103 0 0
+/EemAdminService/EemAdmin 1 12199 0 0
+/paginas/endereco-das-unidades-de-saude 2 70384 0 0
+/404.php.bak 1 12108 0 0
+/wp/wp-includes/wp-class.php 1 12212 0 0
+/actuator/jolokia/read/JMImplementation:type=MBeanServerDelegate/ImplementationVendor 1 12147 0 0
+/noticia/vacinacao-com-segunda-dose-da-coronavac-continua-em-camapua 1 38735 0 0
+/api/experimental/patternfile 2 24293 0 0
+/events../.git/config 1 12106 0 0
+/auth/requestreset 1 12107 0 0
+/paginas/conheca-a-cidade 5 780286 0 0
+/kylin/api/admin/config 1 12112 0 0
+/Images/Remote 1 12143 1 0
+/tests/support/stores/test_grid_filter.php 1 12139 0 0
+/wp-content/plugins/adaptive-images/adaptive-images-script.php 1 12149 0 1
+/wp-content/plugins/db-backup/download.php 1 12131 0 0
+/public/login.htm 2 24212 0 0
+/noticia/dia-da-oportunidade-e-realizado-em-camapua 4 152223 1 1
+/opac_css/getgif.php 1 12142 0 0
+/wp-content/themes/sketch/404.php 2 24424 0 1
+/aj.html 1 12100 0 0
+/noticia/em-parceria-com-o-governo-de-ms-camapua-recebe-mais-de-r-112-milhoes-em-investimentos 5 189055 0 0
+/api/v1/user/login 1 12207 0 0
+/goform/goform_get_cmd_process 1 12230 0 0
+/wp-admin/css/ 1 12101 1 1
+/db.php.bak 1 12107 0 0
+/paginas/ouvidoria-do-sus 1 39723 0 0
+/main.php.bak 1 12102 0 0
+/noticia/em-camapua-alunos-de-escola-agricola-se-destacam-ao-criar-produto-apos-oficina-de-empreendedorismo 2 77791 0 0
+/publicacao/decreto-no-4787-de-02-de-fevereiro-de-2022 3 110173 0 0
+/wp-content/plugins/localize-my-post/ajax/include.php 1 12143 0 0
+/jolokia/list 1 12107 0 0
+/wp-content/plugins/constant-contact-api-old/vendor/constantcontact/constantcontact/test/Json/Auth/get_access_token.json 1 12157 0 0
+/secretaria/secretaria-de-educacao-cultura-esporte-e-lazer 5 305135 0 0
+/noticia/atualizacao-do-boletim-da-covid-19-1405 1 36187 0 0
+/names.nsf/People 1 12110 0 0
+/noticia/prefeito-participa-de-encontro-com-governador 1 39855 0 0
+/web/cgi-bin/hi3510/param.cgi 1 12155 0 0
+/Items/RemoteSearch/Image 1 12178 0 1
+/noticia/campanha-do-agasalho-2021 3 117715 0 0
+/signup 1 12125 0 0
+/jobmanager/logs/..%252f..%252f..%252f..%252f..%252f..%252f..%252f..%252f..%252f..%252f..%252f..%252fetc%252fpasswd 1 12120 0 0
+/secretaria/secretaria-de-assistencia-social 5 303145 0 0
+/assets/php/filebrowser/filebrowser.main.php 1 12144 0 0
+/login.php.bak 1 12105 0 0
+/conf/nginx.conf 1 12107 0 0
+/blog/wp-content/themes/sketch/404.php 1 12212 0 0
+/pontos-turisticos 2 4473960 0 0
+/ws_ftp.ini 1 12108 0 0
+/msa/main.xp 1 12164 0 0
+/account 2 24384 0 0
+/noticia/em-parceria-com-campo-grande-camapua-vai-implantar-sistema-de-cadastro-para-vacinacao 1 40091 0 0
+/wordpress/wp-content/plugins/dos2unix/dos2unix.php 1 12229 0 0
+/wp-content/plugins/navis-documentcloud/js/window.php 1 12170 0 0
+/wordpress/wp-includes/class-wordpress-license.php 2 24432 0 0
+/wp/wp-includes/class-wp-post-link.php 1 12213 0 0
+/service-account-credentials.json 1 12107 0 0
+/NCFindWeb 1 12151 0 0
+/conheca-a-prefeitura 2 71012 0 0
+/umbraco/BackOffice/Api/Help/GetContextHelpForPage 1 12193 0 0
+/include/thumb.php 3 36387 0 0
+/appsettings.json 1 12108 0 0
+/wp-admin/admin.php 2 24384 0 0
+/vendor/qcubed/qcubed/assets/php/profile.php 1 12118 0 0
+/blog/wp-content/plugins/wpyii2/wpyii2.php 1 12214 0 0
+/css../.git/config 1 12110 0 0
+/noticia/aulas-na-rede-municipal-de-ensino-retornaram-nesta-segunda-feira 4 150495 0 1
+/Manual-de-Procedimentos-Administrativos 3 187458 0 0
+/msa/../../../../../../../../etc/passwd 1 12098 0 0
+/scripts/logdownload.php 1 12144 0 0
+/actuator/jolokia/list 1 12109 0 0
+/sysinit.shtml 1 12212 0 0
+/actuator/jolokia/read/JMImplementation:type=MBeanServerDelegate/SpecificationName 1 12153 0 0
+/umbraco/backoffice/UmbracoApi/Dashboard/GetRemoteDashboardContent 1 12211 0 0
+/wp-includes/wp-class-404-icon.php 1 12207 0 0
+/wp-json/wp/v2/posts 2 24216 1 1
+/wp-content/plugins/canto/includes/lib/detail.php 1 12164 0 0
+/wp-includes/class-wordpress-license.php 2 24433 0 0
+/noticia/homenagem-ao-dia-do-assistente-social 3 110056 1 0
+/password_change.cgi 1 12206 0 0
+/wp-includes/customize/class-wp-customize-nav-menu.php 1 12232 1 0
+/apisix/admin/user/login 1 12205 0 0
+/js../.git/config 1 12102 0 0
+/boaform/admin/formTracert 1 12204 0 0
+/blog/wp-includes/class-wp-post-link.php 1 12215 0 0
+/wp-includes/cwp-class-searcher.php 1 12204 0 0
+/wp-includes/class-wp-post-link.php 1 12216 0 0
+/logs/downloadMainLog 2 24264 0 0
+/actuator/jolokia/read/JMImplementation:type=MBeanServerDelegate/ImplementationVersion 1 12147 0 0
+/help/index.jsp 1 12137 0 0
+/./WEB-INF/classes/META-INF/microprofile-config.properties 1 12127 0 0
+/sobre-a-secretaria 3 104067 0 0
+/secrets.yml 1 12100 0 0
+/header.php.bak 1 12107 0 0
+/wp-content/plugins/dos2unix/dos2unix.php 1 12212 0 0
+/webadmin/policy/group_table_ajax.php/%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E 1 12099 0 0
+/noticia/o-polo-da-uab-em-camapua-esta-com-vagas-remanescentes-em-cursos-a-distancia 3 107213 0 0
+/sobre-a-secretaria-smas 2 116960 0 0
+/noticia/a-prefeitura-ira-adquirir-um-novo-caminhao-coletor-de-lixo 2 72008 0 0
+/phpMyAdmin/index.php 1 12116 0 0
+/noticia/pacote-com-obras-avaliadas-em-mais-de-27-milhoes-de-reais-e-entregue-em-camapua 2 74263 0 0
+/noticia/segunda-dose-da-pfizer-sera-aplica-na-quarta 3 116561 0 0
+/ioncube/loader-wizard.php 1 12115 0 0
+/dochelper 1 12152 0 0
+/wordpress/wp-content/plugins/wpyii2/wpyii2.php 1 12221 0 0
+/action/usermanager.htm 1 12100 0 0
+/admin/ 1 12102 0 0
+/users/sign_in 1 12105 0 0
+/test/config/secrets.yml 1 12110 0 0
+/wp-content/plugins/cherry-plugin/admin/import-export/download-content.php 1 12147 0 0
+/wp-content/themes/seotheme/mar.php 1 12220 1 1
+/adm_program/system/redirect.php 1 12142 0 0
+/wp-content/themes/twentyfive/include.php 2 24438 1 0
+/x 1 12193 0 0
+/idp/profile/oidc/authorize 1 12174 0 0
+/telefones-uteis 2 108116 0 0
+/assets/_core/php/profile.php 1 12116 0 0
+/editor_tools/module 1 12160 0 0
+/sitecore/admin/login.aspx 1 12110 0 0
+/secure/Signup!default.jspa 1 12213 0 0
+/iam/login 1 12103 0 0
+/printenv.shtml 1 12133 0 0
+/wp-login.php 1 12152 0 0
+/paginas/conheca-a-prefeitura 4 143504 0 1
+/proxy 1 12214 0 0
+/settings.php.bak 1 12108 0 0
+/actuator/jolokia/read/JMImplementation:type=MBeanServerDelegate/MBeanServerId 1 12147 0 0
+/wp-content/plugins/wpify-woo/deps/dragonbe/vies/examples/async_processing/queue.php/%22%3E%3Cscript%3Ealert%28document.domain%29%3C/script%3E 1 12196 0 0
+/noticia/programa-lote-urbanizado-sera-executado-no-distrito-da-pontinha-do-cocho 3 111592 0 0
+/GponForm/diag_Form 1 12212 0 1
+/explorer.html 1 12098 0 0
+/conheca-a-cidade 1 155693 0 0
+/include/exportUser.php 1 12266 0 0
+/controller/origemdb.php 1 12225 0 0
+/equipe-de-governo 2 82572 0 1
+/historia-do-municipio 3 108546 0 1
+/console/login/LoginForm.jsp 1 12107 1 1
+/wp-system-cloud.php 1 12210 1 0
+/paginas/pontos-turisticos 1 78042 0 0
+/publicacao/decreto-prorrogacao-das-aulas 3 109204 0 0
+/wp-includes/wp-shield-icon-managed.php 1 12219 0 0
+/noticia/secretaria-de-assistencia-social-participa-de-reuniao-do-cidade-empreendedora 2 75017 0 0
+/noticia/laudo-tecnico-agronomico-vtn-2021 1 34985 1 1
+/wordpress/wp-includes/customize/class-wp-customize-nav-menu.php 1 12239 0 0
+/iwc/idcStateError.iwc 1 12133 0 0
+/noticia/a-prefeitura-ira-realizar-projeto-live-solidaria-de-camapua 4 144002 0 0
+/noticia/prefeitura-segue-com-obras-de-recapeamento-em-camapua 3 126967 0 0
+/paginas/bandeira-brasao-e-hino 5 481071 0 0
+/jolokia/read/JMImplementation:type=MBeanServerDelegate/SpecificationVendor 1 12145 0 0
+/noticia/o-pagamento-dos-servidores-municipais-esta-na-conta 1 36126 0 0
+/paginas/sobre-a-secretaria-educacao 2 79776 1 0
+/bandeira-brasao-e-hino 3 287790 1 0
+END_SIDER

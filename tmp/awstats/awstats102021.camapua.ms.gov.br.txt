@@ -1,0 +1,4223 @@
+AWSTATS DATA FILE 7.7 (build 20180105)
+# If you remove this file, all statistics for date 202110 will be lost/reset.
+# Last config file used to build this data file was /home/prefcamapua/tmp/awstats/awstats.camapua.ms.gov.br.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2017                
+POS_TIME 2703                
+POS_VISITOR 102931              
+POS_DAY 158490              
+POS_DOMAIN 3744                
+POS_LOGIN 4688                
+POS_ROBOT 4843                
+POS_WORMS 6567                
+POS_EMAILSENDER 6698                
+POS_EMAILRECEIVER 6841                
+POS_SESSION 159449              
+POS_SIDER 159663              
+POS_FILETYPES 6976                
+POS_DOWNLOADS 7297                
+POS_OS 18027               
+POS_BROWSER 18387               
+POS_SCREENSIZE 22629               
+POS_UNKNOWNREFERER 22703               
+POS_UNKNOWNREFERERBROWSER 24217               
+POS_ORIGIN 25168               
+POS_SEREFERRALS 25319               
+POS_PAGEREFS 25605               
+POS_SEARCHWORDS 26278               
+POS_KEYWORDS 26430               
+POS_MISC 2364                
+POS_ERRORS 26489               
+POS_CLUSTER 4544                
+POS_SIDER_404 26661               
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20211101000521 562 117378 13956039392700
+FirstTime 20211001003427
+LastTime 20211031220446
+LastUpdate 20211101101122 562 0 561 0 0
+TotalVisits 1780                
+TotalUnique 877                 
+MonthHostsKnown 0                   
+MonthHostsUnknown 1629                
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+JavaEnabled 0 0 0
+DirectorSupport 0 0 0
+TotalMisc 0 0 0
+RealPlayerSupport 0 0 0
+FlashSupport 0 0 0
+JavascriptDisabled 0 0 0
+AddToFavourites 0 1407 0
+QuickTimeSupport 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 63 123 52496496 415 570 135172789
+1 127 1541 65866456 461 923 165254507
+2 86 873 21464797 499 672 99233888
+3 72 743 112860315 484 662 160953771
+4 61 311 19337277 662 835 233446721
+5 31 44 5997943 438 668 127142614
+6 43 460 31476142 693 875 194162875
+7 72 424 25085609 670 834 136140029
+8 126 1191 63368888 681 973 180646078
+9 236 2973 125177426 582 909 220816694
+10 220 2650 122224414 631 1042 115328476
+11 215 2530 128274732 1014 1324 90982595
+12 191 1968 100348665 483 930 90719776
+13 189 1790 108495004 497 740 134165428
+14 182 1603 118107631 539 870 107703186
+15 206 2382 108986172 371 645 78632718
+16 237 2527 163859187 456 799 106055557
+17 252 1909 129846270 552 853 138915125
+18 163 1239 74113546 481 733 139834193
+19 73 734 40621192 432 703 79096211
+20 140 1749 119642044 481 754 114929355
+21 112 1910 79286220 536 847 128116290
+22 119 1504 64232885 444 648 97251378
+23 66 580 28661824 601 788 122441769
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 47
+br 1432 18337 973654623
+us 1241 10686 609737615
+nl 249 249 20166556
+in 125 981 71042063
+sk 31 2365 6381014
+ua 19 19 1555775
+ma 18 290 19324347
+ru 17 17 1392609
+it 16 17 1059432
+rs 13 92 5580336
+gb 11 87 3492923
+jp 10 27 8140872
+id 9 9 742251
+ca 9 163 5693825
+gr 7 7 409398
+se 7 7 572424
+cr 7 85 3052270
+cn 6 14 1183445
+hr 5 5 408425
+pl 4 4 329292
+nz 4 89 3447507
+be 4 46 3462403
+cl 4 10 6248499
+sc 4 4 1572548
+ro 4 6 1784241
+il 1 4 333118
+ee 1 1 38866
+dk 3 3 67931
+mx 0 2 211474
+fr 1 2 187422
+pe 3 3 245058
+co 0 1 299663
+cw 0 1 167277
+au 0 1 145938
+za 3 8 870775
+pt 0 1 378268
+ao 0 3 511137
+th 2 4 262753
+pa 0 1 105737
+hu 3 3 245058
+ar 2 17 1991322
+sa 1 1 81686
+ec 0 1 105737
+cz 1 1 81685
+de 2 3 373288
+es 1 1 81685
+ch 2 80 3246232
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 39
+Googlebot/ 1863 236488515 20211031235318 56
+AhrefsBot/ 1265 83644952 20211031235534 78
+bingbot/ 1164 113408101 20211031230653 68
+SemrushBot/ 791 46032033 20211031235416 299
+BLEXBot/ 664 91914137 20211029070055 22
+DotBot/ 602 28875503 20211031223646 337
+facebookexternalhit/ 491 18956397 20211031140631 0
+oBot/ 461 99624789 20211023183104 2
+baidu 458 14853230 20211019101424 0
+nutch 328 17048120 20211017223441 43
+bot[\s_+:,\.\;\/\\-] 322 132552568 20211031132034 102
+crawl 214 26032783 20211030222839 4
+Mail\.RU_Bot/ 206 4262973 20211021194240 80
+MegaIndex\.ru/ 193 15693424 20211009235809 1
+Dalvik/ 84 18743458 20211030170127 0
+Applebot/ 73 10931967 20211031212807 36
+spider 65 2208384 20211022110914 1
+Googlebot\-Image/ 62 1731993 20211031231520 0
+YandexBot/ 48 2002170 20211030202220 22
+no_user_agent 33 34006401 20211031033818 0
+Googlebot\-Video/ 32 337398144 20211031123654 0
+unknown 32 768 20211031114942 32
+CCBot/ 24 1036308 20211022152401 1
+Apache\-HttpClient/ 20 1643320 20211015024101 0
+DuckDuckGo\-Favicons\-Bot/ 19 1563142 20211028144105 0
+link 15 727835 20211030145507 4
+curl 13 832761 20211019131036 0
+discover 2 163852 20211012023644 0
+Python\-urllib/ 1 24 20211031113421 1
+2345Explorer/ 1 82311 20211027115532 0
+Firefox/1\.5 1 262144 20211031020239 0
+DomainStatsBot/ 4 81733 20211009013254 2
+Sogou[\x20]web[\x20]spider/ 1 24 20211024143119 1
+feed 1 82795 20211023194805 0
+MJ12bot/ 8 328278 20211022010000 4
+bingpreview 2 29516 20211016073142 0
+(firefox/)([0-9]\.|[0-1][0]\.) 5 656385 20211031223638 0
+YandexImages/ 1 102950 20211025192644 0
+Baiduspider/ 1 0 20211002095409 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 12
+wmv 7 126524304 0 0
+html 1863 152186882 0 0
+Unknown 1095 57179265 0 0
+eot 1 20127 0 0
+ttf 2 90808 0 0
+woff2 321 5786988 0 0
+jpg 19527 429564888 0 0
+doc 22 36834403 0 0
+css 1546 97369432 0 0
+png 6865 482826484 0 0
+js 1575 93918252 0 0
+pdf 934 282211477 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 216
+/arquivos/publicacoes/5ad1030cf36b7.pdf 596 94 66870745
+/arquivos/publicacoes/611a79bf6bb60.pdf 139 75 24016134
+/arquivos/midias/5d432b065324d.wmv 56 5 643165212
+/arquivos/midias/5d432a40cf635.pdf 49 0 32111170
+/arquivos/publicacoes/5a900595acf46.pdf 26 4 10865724
+/arquivos/midias/5aa146985780a.pdf 24 33 3386793
+/arquivos/publicacoes/5a8fff7ed55bc.doc 22 15 44576949
+/arquivos/publicacoes/5d1b525c4a187.pdf 21 0 4609353
+/arquivos/publicacoes/60a553ae13f8f.pdf 21 6 8312657
+/arquivos/publicacoes/5a9000f4c53e2.pdf 18 25 155466132
+/arquivos/publicacoes/5a9010bf7082b.pdf 18 3 5849311
+/arquivos/publicacoes/5a9026f38eb4c.pdf 18 0 1500516
+/arquivos/midias/5aa149ad74fc5.pdf 18 2 1716669
+/arquivos/publicacoes/5ad1035f103b8.pdf 17 3 2962438
+/arquivos/publicacoes/5a90028c96d59.doc 17 4 5244846
+/arquivos/publicacoes/5c0ac6cae2262.pdf 16 0 4283280
+/arquivos/midias/5aa18f566e374.pdf 15 0 1388475
+/arquivos/publicacoes/5cadf315bb646.pdf 15 0 4655985
+/arquivos/publicacoes/5a8ed2884876c.pdf 15 0 13441365
+/arquivos/publicacoes/5f871347ef3a4.pdf 15 4 4085552
+/arquivos/publicacoes/5a9009ca1ad22.pdf 15 0 2641395
+/arquivos/publicacoes/5a900f64ada59.pdf 14 5 10272204
+/arquivos/midias/5aa155d1cb594.pdf 14 0 1366414
+/arquivos/publicacoes/5ad1032bae1c3.pdf 14 0 1485498
+/arquivos/midias/5aa18fac80839.pdf 14 0 1330196
+/arquivos/midias/5aa156e245ef5.pdf 14 0 1327564
+/arquivos/midias/5aa175d7e1b0a.pdf 14 0 530684
+/arquivos/midias/5aa148703340e.pdf 13 0 1238601
+/arquivos/publicacoes/5a9009aa0729e.pdf 13 0 4917484
+/arquivos/midias/5aa1901ee9162.pdf 13 0 1206244
+/arquivos/midias/5aa13c8d82872.pdf 13 0 1456741
+/arquivos/midias/5aa1716a7d8f9.pdf 13 0 513890
+/arquivos/publicacoes/5ffeee73b93ed.pdf 12 5 3804121
+/arquivos/midias/5aa1459e5271e.pdf 12 0 1226988
+/arquivos/midias/5aa1900e15771.pdf 12 0 473748
+/arquivos/midias/5aa14d307275c.pdf 12 0 1309968
+/arquivos/publicacoes/5d445735584ff.pdf 12 0 1460532
+/arquivos/midias/5aa1582384e80.pdf 12 0 3227088
+/arquivos/midias/5aa14a5239434.pdf 12 0 1143216
+/arquivos/publicacoes/5a9026c8050df.pdf 12 0 1113468
+/arquivos/publicacoes/5d419732563d7.pdf 11 0 3933083
+/arquivos/publicacoes/5a8f17ee2a33b.pdf 11 0 5844289
+/arquivos/publicacoes/60be8c52b6668.pdf 11 4 4286114
+/arquivos/publicacoes/60abe3005df9b.pdf 10 0 1767790
+/arquivos/publicacoes/5be58eac00f12.pdf 10 0 2444170
+/arquivos/publicacoes/5edf960bb9f13.pdf 8 0 4899272
+/arquivos/midias/5aa15218936fd.pdf 8 0 753792
+/arquivos/publicacoes/5a900b27ba32b.pdf 8 0 984072
+/arquivos/midias/5a8ebb2ea6317.pdf 8 3 4489463
+/arquivos/publicacoes/601021cab40d6.pdf 8 0 1743917
+/arquivos/publicacoes/5ad1038379f19.pdf 7 0 737436
+/arquivos/publicacoes/5ad102cf6d1fd.pdf 7 0 2382156
+/arquivos/publicacoes/60eddc9bb5a3a.pdf 7 8 2106965
+/arquivos/midias/5aa1912c14e10.pdf 6 0 548136
+/arquivos/midias/5aa14be9a07ab.pdf 6 0 653778
+/arquivos/publicacoes/5a8f0f1078d38.pdf 6 0 1039542
+/arquivos/publicacoes/5a9026e839130.pdf 6 0 2230068
+/arquivos/publicacoes/6022ff8d001c4.pdf 6 0 423474
+/arquivos/publicacoes/5ca2892403532.pdf 6 0 4515654
+/arquivos/midias/5aa149e474a4b.pdf 6 0 225684
+/arquivos/publicacoes/5a8f06d812db2.pdf 5 0 44674420
+/arquivos/publicacoes/6014154422b9f.pdf 5 2 1147342
+/arquivos/publicacoes/5ad103c1ade8d.pdf 5 0 1175265
+/arquivos/publicacoes/5be58d3823620.pdf 5 0 990635
+/arquivos/publicacoes/5ca3d6f83e424.pdf 5 0 23905
+/arquivos/publicacoes/5ec3e3e8194b9.pdf 5 0 2100885
+/arquivos/midias/5aa193141bf4e.pdf 5 0 494650
+/arquivos/publicacoes/601a8ba6c6906.pdf 5 2 1659259
+/arquivos/midias/5aa15758d9691.pdf 4 0 901908
+/arquivos/publicacoes/5d5acecec0ca7.pdf 4 0 1051520
+/arquivos/publicacoes/5a90155303cd3.pdf 4 0 1088148
+/arquivos/publicacoes/5f3557213e957.pdf 4 0 2526492
+/arquivos/publicacoes/5a900a7d601da.pdf 4 0 839668
+/arquivos/midias/5aa147a6d0f2d.pdf 4 0 151740
+/arquivos/publicacoes/5ad1174b8a51d.pdf 4 0 1053512
+/arquivos/publicacoes/5a900f23cdfac.pdf 4 0 1259028
+/arquivos/publicacoes/5ca20a02c6a8d.pdf 4 0 1494316
+/arquivos/publicacoes/5a902ade82975.pdf 4 0 62936
+/arquivos/midias/5aa154ada958e.pdf 3 0 128451
+/arquivos/publicacoes/5d42fb85d0abf.pdf 3 0 576606
+/arquivos/midias/5aa146030594d.pdf 3 0 120183
+/arquivos/midias/5aa1490476ac9.pdf 3 0 282222
+/arquivos/publicacoes/5a90149dd5a03.pdf 3 0 1173180
+/arquivos/publicacoes/5af095b095406.pdf 3 14 3766114
+/arquivos/publicacoes/5a8f0fe76cc86.pdf 3 0 459045
+/arquivos/midias/5aa156ce73cf6.pdf 3 0 119088
+/arquivos/midias/5aa15602286a9.pdf 3 0 132036
+/arquivos/publicacoes/5ec3e3c764224.pdf 3 0 1671510
+/arquivos/publicacoes/5bf57b1fa51bf.pdf 3 0 786432
+/arquivos/midias/5aa1410a3f1c6.pdf 3 0 122526
+/arquivos/publicacoes/5a8ed8dab4ee7.pdf 3 0 3003672
+/arquivos/midias/5aa192d2e9ca5.pdf 3 0 280269
+/arquivos/publicacoes/5d6d27ed264f1.pdf 3 0 294852
+/arquivos/publicacoes/5a900ae29abcb.pdf 3 0 329184
+/arquivos/midias/5aa13c5ebf380.pdf 2 0 71270
+/arquivos/publicacoes/5ca209a4d751b.pdf 2 0 16822
+/arquivos/midias/5aa191cb63aee.pdf 2 0 83322
+/arquivos/publicacoes/5ca20b432cc9f.pdf 2 0 26074
+/arquivos/midias/5aa170a6285c3.pdf 2 0 202546
+/arquivos/publicacoes/5ec3e3a4a1ead.pdf 2 0 1028010
+/arquivos/midias/5aa192c4cc767.pdf 2 0 84274
+/arquivos/publicacoes/5a8eda166e2ad.pdf 2 0 438510
+/arquivos/publicacoes/5ca20c1a53ec9.pdf 2 0 35012
+/arquivos/publicacoes/5a9025bfbb7a9.pdf 2 0 652224
+/arquivos/midias/5aa1941de3235.pdf 2 0 70254
+/arquivos/publicacoes/5d4196b41dc37.pdf 2 0 715026
+/arquivos/publicacoes/5d41975d632c7.pdf 2 0 673300
+/arquivos/midias/5aa190d9ae800.pdf 2 0 78722
+/arquivos/publicacoes/5a90148ab9bca.pdf 2 0 96036
+/arquivos/midias/5aa1569b00b40.pdf 2 0 198288
+/arquivos/publicacoes/5d418104c15c2.pdf 2 0 215914
+/arquivos/midias/5aa17059ba1cf.pdf 2 0 79592
+/arquivos/publicacoes/5e81f436361e4.pdf 2 0 8912
+/arquivos/midias/5aa14a7cb21e9.pdf 2 0 77402
+/arquivos/midias/5aa190e66baf8.pdf 2 0 177286
+/arquivos/publicacoes/5a9023c9209a1.pdf 2 0 505110
+/arquivos/midias/5aa1547cdd9ba.pdf 2 0 203788
+/arquivos/publicacoes/5beac687c8a6f.pdf 2 0 805706
+/arquivos/publicacoes/5ca3b958408bc.pdf 2 0 17108
+/arquivos/midias/5aa1493adbbcd.pdf 2 0 173380
+/arquivos/publicacoes/5a8edb189912a.pdf 2 0 1640722
+/arquivos/midias/5aa14899735bf.pdf 2 0 81906
+/arquivos/midias/5aa151f5ced13.pdf 2 0 81700
+/arquivos/publicacoes/5beac6a32034d.pdf 2 0 537914
+/arquivos/midias/5aa13cfcabffe.pdf 2 0 82622
+/arquivos/publicacoes/5ca209d9934e5.pdf 2 0 15960
+/arquivos/midias/5aa191d83e5be.pdf 2 0 182740
+/arquivos/midias/5aa191145a44d.pdf 2 0 77012
+/arquivos/publicacoes/5cf92e3c0f819.pdf 2 0 682582
+/arquivos/midias/5aa14b9f80e79.pdf 2 0 79866
+/arquivos/midias/5aa170e101ebf.pdf 2 0 79910
+/arquivos/publicacoes/5d41974a036b5.pdf 2 0 646036
+/arquivos/midias/5aa14e9c97ed1.pdf 2 0 83370
+/arquivos/midias/5aa15688aba4c.pdf 2 0 87400
+/arquivos/publicacoes/5a90165a74096.pdf 2 0 512922
+/arquivos/midias/5aa1462577f47.pdf 2 0 179302
+/arquivos/midias/5aa1496125d9c.pdf 2 0 71942
+/arquivos/midias/5aa193d212b7c.pdf 2 0 230432
+/arquivos/publicacoes/6017f4c1bccc6.pdf 1 0 90548
+/arquivos/publicacoes/5ca3b940065a4.pdf 1 0 4243
+/arquivos/publicacoes/5a90161c8bbfb.pdf 1 0 303916
+/arquivos/midias/5aa193c450592.pdf 1 0 39261
+/arquivos/publicacoes/5ca3b91f4312a.pdf 1 0 18930
+/arquivos/publicacoes/5bf4310b9d7cf.pdf 1 0 64515
+/arquivos/publicacoes/5a8f34dc73300.pdf 1 0 44318
+/arquivos/publicacoes/5bec3859c9fe5.pdf 1 0 330311
+/arquivos/publicacoes/5a8ecc4890973.pdf 1 0 332854
+/arquivos/publicacoes/5e81f41127708.pdf 1 0 14480
+/arquivos/publicacoes/5ca20b344801e.pdf 1 0 17797
+/arquivos/midias/5aa193045ea3a.pdf 1 0 42268
+/arquivos/publicacoes/5bdb37f2bb8ca.pdf 1 2 986952
+/arquivos/publicacoes/5a8ec9f082345.pdf 1 0 295733
+/arquivos/publicacoes/5a8f0d914d872.pdf 1 0 366516
+/arquivos/publicacoes/5a9014651eb6a.pdf 1 0 442756
+/arquivos/publicacoes/5e81f42acf4b4.pdf 1 0 4093
+/arquivos/publicacoes/5a8edb34ad3a4.pdf 1 0 305339
+/arquivos/publicacoes/5a8ed98cddacd.pdf 1 0 222234
+/arquivos/publicacoes/5d2f06ab5f1f2.pdf 1 0 82660
+/arquivos/publicacoes/5a8f02f0bf54c.pdf 1 0 9326555
+/arquivos/publicacoes/5a902aef8650f.pdf 1 0 48018
+/arquivos/midias/5aa170ec8f048.pdf 1 0 99358
+/arquivos/publicacoes/5e81f44696ecf.pdf 1 0 8331
+/arquivos/publicacoes/5a9024f8cd743.pdf 1 0 294257
+/arquivos/publicacoes/5a8f380b4004c.pdf 1 0 61387
+/arquivos/publicacoes/5a900a06069cd.pdf 1 0 108950
+/arquivos/publicacoes/5d4181380b5ae.pdf 1 0 117712
+/arquivos/publicacoes/5ca20b7498a91.pdf 1 0 4832
+/arquivos/publicacoes/5a900d24ed836.pdf 1 0 136696
+/arquivos/publicacoes/5a902b17c664f.pdf 1 0 38593
+/arquivos/publicacoes/5a900f0c56674.pdf 1 0 136696
+/arquivos/publicacoes/5ca20c46be583.pdf 1 0 4804
+/arquivos/publicacoes/5a8f0548a4237.pdf 1 0 313526
+/arquivos/publicacoes/5d1f9140b5dc4.pdf 1 1 41840
+/arquivos/publicacoes/5a8f06ef867b0.pdf 1 0 224306
+/arquivos/midias/5aa15655e0b30.pdf 1 0 101924
+/arquivos/midias/5aa1937f1b7a8.pdf 1 0 39293
+/arquivos/publicacoes/5d41819a29a68.pdf 1 0 87612
+/arquivos/publicacoes/5a8f03d78613d.pdf 1 0 7532271
+/arquivos/publicacoes/5a8f04dbc4f00.pdf 1 0 7070319
+/arquivos/midias/5aa19197e472c.pdf 1 0 39532
+/arquivos/publicacoes/5a9023e5bb9c9.pdf 1 0 255106
+/arquivos/publicacoes/5a90049123277.pdf 1 0 1285331
+/arquivos/midias/5aa191a36e2d2.pdf 1 0 93485
+/arquivos/midias/5aa1524e189f5.pdf 1 0 43953
+/arquivos/publicacoes/5ec3e37a8be0f.pdf 1 0 542750
+/arquivos/publicacoes/5ca20748eb3c1.pdf 1 0 17521
+/arquivos/publicacoes/5a8f17fecf217.pdf 1 0 210785
+/arquivos/publicacoes/5a90167ad6a73.pdf 1 2 548110
+/arquivos/publicacoes/5a9016291d19d.pdf 1 0 270558
+/arquivos/publicacoes/5c0e45517a2dc.pdf 1 0 134890
+/arquivos/publicacoes/5ca2095e81c53.pdf 1 0 12939
+/arquivos/publicacoes/5d1f3a5dd3b25.pdf 1 0 19294
+/arquivos/publicacoes/5a902972e6c14.pdf 1 0 148955
+/arquivos/midias/5aa17178377ed.pdf 1 0 133349
+/arquivos/midias/5aa14af9c359e.pdf 1 0 90018
+/arquivos/midias/5aa194291c61a.pdf 1 0 91830
+/arquivos/publicacoes/5ca20799e2568.pdf 1 0 13287
+/arquivos/publicacoes/5a8ffe3c00770.pdf 1 0 308477
+/arquivos/publicacoes/5a8f399e8a985.pdf 1 0 46580
+/arquivos/midias/5aa148e526e03.pdf 1 0 40150
+/arquivos/publicacoes/5ca3d73130184.pdf 1 0 4510
+/arquivos/publicacoes/5c0e46b5ddb8e.pdf 1 0 115021
+/arquivos/publicacoes/5bfd2bd870199.pdf 1 0 111131
+/arquivos/publicacoes/5ca209cdb0c3c.pdf 1 0 4566
+/arquivos/publicacoes/5a8f031fc392a.pdf 1 0 246947
+/arquivos/midias/5aa19372bbd99.pdf 1 0 87206
+/arquivos/publicacoes/5a8ed901e77e9.pdf 1 0 218680
+/arquivos/midias/5aa18f9980880.pdf 1 0 38233
+/arquivos/publicacoes/5d4181bc5becd.pdf 1 0 100015
+/arquivos/publicacoes/5a8f0c4c759dc.pdf 1 0 81784
+/arquivos/publicacoes/5ad102ee432a3.pdf 1 0 119998
+/arquivos/publicacoes/5ca20b829907d.pdf 1 0 8077
+/arquivos/midias/5aa13d1a545fc.pdf 1 0 99301
+/arquivos/publicacoes/5a900a934b773.pdf 1 0 39640
+/arquivos/midias/5aa14c11c4f68.pdf 1 0 41916
+/robots.txt 0 3 72
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 21
+macosx11 21 21
+macosx9 7 7
+linuxandroid 8523 554
+ios_iphone 1668 128
+winunknown 1 1
+macosx10 10 9
+macosx5 1 0
+linux 591 179
+winxp 12 5
+macosx 67 54
+winlong 23 2
+unix 1 0
+macosx12 2 1
+linuxubuntu 1 0
+macosx6 1 0
+Unknown 83 50
+win7 7830 692
+macosx8 3 2
+win10 14416 1476
+win8.1 615 62
+win8 206 39
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 195
+chrome80.0.3987.132 54 6
+chrome88.0.4324.150 2 2
+chrome55.0.2883.87 1 1
+safari3.1 1 0
+chrome93.0.4577.82 436 33
+chrome63.0.3239.108 2365 31
+safari13.0.5 1 1
+chrome49.0.2640.22 1 1
+firefox63.0 76 2
+chrome41.0.2227.1 3 2
+chrome71.0.2402.34 1 1
+opera18.0.1284.49 1 1
+msie8.0 3 1
+chrome92.0.4515.159 180 13
+chrome87.0.4280.88 187 110
+chrome91.0.4472.164 11 1
+chrome84.0.4147.89 2 1
+chrome97.0.4684.0 13 1
+chrome49.0.2623.75 70 70
+firefox77.0 1 0
+chrome50.0.2661.102 22 22
+firefox73.0 16 15
+chrome85.0.4183.121 4 4
+chrome95.0.4638.54 3259 200
+firefox28.0 8 8
+firefox65.0 1 1
+msie11.0 270 40
+chrome46.0.2490.76 2 0
+chrome93.0.4577.62 112 4
+firefox43.0 1 1
+netscape 1 1
+safari9.0.2 2 2
+chrome81.0.4044.138 2 0
+chrome94.0.4606.85 2208 146
+firefox32.0 1 1
+chrome85.0.4183.101 24 4
+opera53.0.2907.99 2 2
+safari2.0 1 1
+firefox75.0 1 1
+chrome90.0.4430.72 3 3
+chrome47.0.2526.106 106 106
+chrome73.0.3683.90 3 3
+chrome26.0.1410.65 2 1
+chrome91.0.4472.77 78 2
+chrome90.0.4430.93 250 250
+safari12.1.2 3 1
+chrome36.0.1944.0 2 2
+firefox68.0 1 1
+chrome87.0.4280.101 14 1
+edge17 2 2
+firefox92.0 690 43
+chrome38.0.1025.166 74 8
+chrome39.0.2171.95 6 6
+chrome90.0.4430.91 1 0
+safari14.0.2 9 7
+safari14.1.2 366 31
+opera12.17 1 1
+chrome61.0.3087.15 1 0
+chrome89.0.4389.105 37 2
+chrome58.0.3029.110 1 1
+msie10.0 1 1
+firefox78.0 2 0
+iphone 758 33
+chrome90.0.4430.85 7 2
+Unknown 59 46
+chrome62.0.3202.94 6 6
+chrome79.0.3945.79 76 2
+chrome14.0.825.0 1 0
+chrome89.0.4389.114 55 55
+chrome95.0.4638.69 261 11
+chrome94.0.4606.81 5664 427
+chrome88.0.4240.193 18 18
+chrome78.0.3904.108 26 16
+chrome68.0.3427.1 7 0
+chrome35.0.1916.47 4 4
+firefox84.0 35 35
+chrome76.0.3809.71 76 2
+chrome81.0.4044.129 3 3
+firefox61.0 1 0
+chrome90.0.4430.212 50 13
+chrome92.0.4515.131 51 18
+chrome97.0.4683.0 47 3
+chrome91.0.4472.124 10 8
+firefox50.0 1 1
+chrome67.0.3396.87 14 3
+opera79.0.4143.73 107 7
+safari15.0 217 17
+safari15.1 25 25
+chrome74.0.3729.169 231 28
+firefox79.0 2 2
+chrome94.0.4606.61 4993 298
+chrome88.0.4324.192 1 1
+chrome40.0.2214.93 2 2
+firefox66.0 1 1
+chrome76.0.3809.111 1 1
+chrome77.0.3835.0 6 2
+opera9.63 1 0
+opera8.02 1 0
+firefox93.0 1122 69
+chrome0. 2 2
+firefox88.0 11 0
+safari13.1.2 1 1
+opera79.0.4143.72 77 2
+chrome83.0.4103.97 29 27
+safari11.1 4 3
+chrome96.0.4663.0 10 1
+chrome72.0.3626.109 40 33
+safari14.1.1 29 3
+chrome71.0.3578.98 1 1
+chrome86.0.4240.198 3 0
+chrome77.0.3865.120 1 1
+firefox40.0 1 1
+chrome94.0.4590.2 3 1
+chrome49.0.2623.112 4 0
+safari14.0 1 0
+chrome74.0.3608.64 1 1
+opera9.20 1 0
+chrome54.0.2866.71 1 1
+chrome86.0.4216.0 1 1
+chrome70.0.3538.77 1 1
+chrome68.0.3440.84 1 1
+netscape5.0 2 1
+chrome10.0.648.204 1 0
+chrome79.0.3945.136 1 1
+chrome36.0.1985.67 3 3
+chrome91.0.4472.120 3 0
+chrome63.0.3239.84 7 7
+chrome80.0.3987.99 13 3
+firefox56.0 87 3
+chrome70.0.3282.52 1 1
+chrome90.0.4430.210 216 12
+chrome91.0.4472.101 6 1
+firefox81.0 2 2
+chrome65.0.3325.146 1 1
+chrome83.0.4103.106 1 1
+mozilla 25 5
+chrome74.0.3729.180 1 1
+chrome92.0.4515.166 77 2
+chrome87.0.4280.141 265 21
+chrome75.0.3770.143 108 6
+chrome90.0.4427.0 1 1
+chrome41.0.2227.0 1 1
+firefox51.0 1 1
+chrome88.0.4324.190 1 1
+chrome97.0.4668.0 106 3
+chrome89.0.4389.82 1 0
+firefox86.0 1 0
+chrome80.0.3987.149 48 11
+chrome64.0.3282.167 26 26
+chrome84.0.4147.105 1 0
+safari 269 18
+chrome68.0.3440.91 76 2
+chrome66.0.3359.181 33 33
+chrome93.0.4577.63 527 17
+chrome90.0.4430.86 1 1
+chrome91.0.4472.109 76 2
+firefox83.0 1 1
+chrome80.0.3987.116 1 1
+firefox62.0 2 2
+edge13 1 1
+opera54.0.2952.51 1 1
+chrome96.0.4661.0 13 1
+chrome94.0.4606.71 6004 359
+chrome76.0.3809.87 1 1
+firefox57.0 3 3
+firefox53.0 2 2
+firefox72.0 1 1
+chrome79.0.3945.116 91 4
+chrome80.0.3987.0 76 2
+chrome66.0.3359.139 4 0
+opera6.11 1 0
+chrome41.0.2225.0 1 1
+chrome79.0.3945.130 3 3
+chrome41.0.2228.0 2 2
+chrome85.0.4183.102 1 1
+chrome70.0.3538.102 1 1
+chrome34.0.1847.137 17 8
+chrome76.0.3809.132 2 2
+chrome95.0.4638.50 352 42
+opera54.0.2952.64 3 3
+chrome59.0.3071.125 10 4
+chrome94.0.4606.80 103 14
+chrome76.0.3809.100 1 1
+chrome89.0.4389.90 102 102
+msie9.0 30 3
+chrome86.0.4240.75 67 67
+msie6.0 1 1
+opera56.0.3051.99 1 1
+chrome67.0.3396.99 1 1
+chrome91.0.4472.114 18 10
+chrome91.0.4472.106 3 3
+chrome91.0.4472.88 1 0
+android 5 0
+chrome83.0.4103.61 3 1
+chrome35.2.4596.48 1 1
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 23
+AddThis.com_(http://support.addthis.com/) 20211031114942
+python-requests/2.25.1 20211006121757
+node-fetch/1.0_(_https://github.com/bitinn/node-fetch) 20211005180245
+python-requests/2.26.0 20211025143028
+Y!J-DLC/1.0_(https://support.yahoo-net.jp/PccSearch/s/article/H000007955) 20211027060031
+facebookexternalhit/1.1_(_http://www.facebook.com/externalhit_uatext.php) 20211031024723
+SEMrushBot 20211012095840
+okhttp/3.14.9 20211005213734
+CCBot/2.0_(https://commoncrawl.org/faq/) 20211022143121
+lua-resty-http/0.10_(Lua)_ngx_lua/10019 20211005174502
+Mozilla/5.0_(compatible;_DotBot/1.2;__https://opensiteexplorer.org/dotbot;_help@moz.com) 20211031040155
+Mozilla/5.0_(compatible;_bingbot/2.0;__http://www.bing.com/bingbot.htm) 20211029235701
+Mozilla/5.0_(compatible;_NetcraftSurveyAgent/1.0;__info@netcraft.com) 20211031103326
+Mozilla/4.0_(compatible;_ms-office;_MSOffice_16) 20211014132720
+clark-crawler2/Nutch-1.19-SNAPSHOT 20211007204830
+Mozilla/5.0_(compatible;_AhrefsBot/7.0;__http://ahrefs.com/robot/) 20211028200108
+WhatsApp/2.21.22.6_A 20211025130423
+WhatsApp/2.21.19.21_A 20211007112405
+Mozilla/5.0_(compatible;_SemrushBot/7~bl;__http://www.semrush.com/bot.html) 20211010120858
+Y!J-DLC/1.0_(https://www.yahoo-help.jp/app/answers/detail/p/595/a_id/42716) 20211009022037
+Photon/1.0 20211031093914
+Mozilla/5.0_(compatible;_Qwantify-official/1.0;__https://www.qwant.com/) 20211027061957
+python-requests/2.18.4 20211029132425
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 17
+python-requests/2.26.0 20211025143028
+WhatsApp/2.21.19.21_A 20211007112405
+Y!J-DLC/1.0_(https://www.yahoo-help.jp/app/answers/detail/p/595/a_id/42716) 20211009022037
+python-requests/2.25.1 20211006121757
+AddThis.com_(http://support.addthis.com/) 20211031114942
+WhatsApp/2.21.22.6_A 20211025130423
+node-fetch/1.0_(_https://github.com/bitinn/node-fetch) 20211005180245
+Photon/1.0 20211031093914
+clark-crawler2/Nutch-1.19-SNAPSHOT 20211007204830
+python-requests/2.18.4 20211029132425
+Y!J-DLC/1.0_(https://support.yahoo-net.jp/PccSearch/s/article/H000007955) 20211027060031
+facebookexternalhit/1.1_(_http://www.facebook.com/externalhit_uatext.php) 20211031024723
+SEMrushBot 20211012095840
+Microsoft_Office_Excel_2014 20211022092402
+CCBot/2.0_(https://commoncrawl.org/faq/) 20211022143121
+okhttp/3.14.9 20211005213734
+lua-resty-http/0.10_(Lua)_ngx_lua/10019 20211005174502
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 2138 2588
+From1 2 2
+From2 353 3612
+From3 135 151
+From4 654 27729
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 8
+www_google_com 324 3482
+google_com 0 1
+ecosia 0 1
+www_google_com_br 23 109
+duckduckgo 3 3
+www_google_it 0 1
+br_search_yahoo_com 3 11
+bing 0 4
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 17
+https://m.facebook.com 41 41
+https://l.facebook.com 37 37
+https://l.instagram.com 23 23
+http://lab.onsec.ru 7 7
+https://lm.facebook.com 6 9
+https://potolki-komfort.kr.ua 5 5
+http://m.facebook.com 3 3
+https://matras.pp.ua 2 2
+https://obogrevateli.kr.ua 2 2
+https://zhidkie-oboi.kr.ua 2 2
+https://led.kr.ua 2 2
+http://www.camapuaprev.ms.gov.br 1 1
+https://webtechsurvey.com/website/camapua.ms.gov.br 1 1
+https://naves.kr.ua 1 1
+https://matras-emm.kr.ua 1 1
+https://comfort.kr.ua 1 1
+http://webcache.googleusercontent.com 0 13
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 6
+419 31 47058
+405 95 34483442
+500 2859 1802265553
+404 5173 7641978
+206 280 8654843
+301 182 44961
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 1655
+/arquivos/manuais/1383820057.pdf 1 -
+/arquivos/noticias/1435864522. 1 -
+/site 3 http://camapua.ms.gov.br./site/
+/index.php/secretaria/secretaria-de-agronegocio-meio-ambiente-e-empreendedorismo 1 -
+/galeria/21 2 -
+/install/lib/ajaxHandlers/ajaxServerSettingsChk.php 2 -
+/sitio/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/arquivos/editais/edital03.pdf 1 -
+/wp-content/plugins/api-bearer-auth/swagger/swagger-config.yaml.php 2 -
+/noticias/noticia/633 1 -
+/wp-config.php.dist 1 -
+/bots/globals/e_detector/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 2 -
+/noticias/noticia/604 1 -
+/spreadsheet/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/arquivos/noticias/1462981817. 1 -
+/p/laravelcrud/svn/2/tree/app/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/base/.env 6 -
+/noticias/noticia/449 1 -
+/arquivos/noticias/1500317494. 1 -
+/restrito/view/editais/visualizar.php 2 -
+/wp-content 6 -
+/advanced/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 2 -
+/telefones 1 -
+/wp-admin/admin.php 4 -
+/gst/gst_system/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/Chit0ge.php 1 -
+/arquivos/noticias/1502142715. 1 -
+/arquivos/noticias/1502142743. 1 -
+/client_billing/authorizenet/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 2 -
+/noticias/noticia/638 1 -
+/arquivos/noticias/1504101280.jpg 1 -
+/webservice/firebase/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/autoupgrade/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 2 -
+/arquivos/noticias/1406654884. 1 -
+/arquivos/noticias/1436903865.jpg 1 -
+/sobre 1 -
+/arquivos/noticias/1502142708. 1 -
+/arquivos/noticias/1504195610.jpg 1 -
+/old/wp-content/plugins/dzs-videogallery/class_parts/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 2 -
+/arquivos/noticias/1489580441. 1 -
+/wp-admin/css 7 binance.com
+/arquivos/manuais/1383307967.pdf 1 -
+/objectif-750/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/www.camapua.ms.gov.br/.env 1 -
+/DesktopModules/News/Telerik.Web.UI.DialogHandler.aspx 1 -
+/2019 3 http://camapua.ms.gov.br/2019/
+/noticias/noticia/757 1 -
+/apple-touch-icon-57x57-precomposed.png 5 -
+/arquivos/noticias/1470860312. 1 -
+/api_source/firebase/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 2 -
+/arquivos/noticias/1503523966.jpe 7 -
+/arquivos/noticias/1468250224. 1 -
+/arquivos/noticias/1377031023.docx 1 -
+/web/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/drupal/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/DesktopModules/Rad%20EditorProvider/DialogHandler.aspx 1 -
+/epillTemporaryHolder/authenticate/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/arquivos/noticias/1500487983. 1 -
+/arquivos/noticias/1461101596. 1 -
+/common/admin/PhotoGallery2/Telerik.Web.UI.DialogHandler.aspx 2 -
+/noticias/noticia/422 1 -
+/arquivos/noticias/1495040771. 1 -
+/arquivos/noticias/1496265361. 1 -
+/noticias/171 2 -
+/dolibarr/adherents/cartes/carte.php 2 -
+/wp-includes/js/jquery/jquery.js 3 -
+/wp-content/wp-1ogin_bak.php 5 anonymousfox.co
+/casadosvidros/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 2 -
+/newsite/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/cms/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 2 -
+/noticias/noticia/525 1 -
+/krisda/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/simplesamlphp/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/numwattana.com/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/Telerik.Web.UI.DialogHandler.aspx 1 -
+/config/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 2 -
+/noticias/noticia/574 1 -
+/noticias/noticia/623 1 -
+/spd/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/include/exportUser.php 2 -
+/www/.env 6 -
+/arquivos/noticias/1487203411. 1 -
+/arquivos/noticias/1500317765. 2 -
+/arquivos/noticias/1501537674. 1 -
+/noticias/noticia/432 1 -
+/arquivos/noticias/1497009816. 1 -
+/index.php/legislacao-municipal/cat_view/60-legislacao-municipal/50-decretos-municipais 1 -
+/modules/ps_checkout/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 2 -
+/index.php/pagina/equipe-de-governo 1 -
+/arquivos/noticias/1517435649.jpg 1 -
+/noticias/noticia/319 1 -
+/folhetins 3 -
+/WidgetHandler.ashx 2 -
+/espanadigital/sitio/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/phpexcel/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/arquivos/noticias/1470860254. 1 -
+/haders.php 5 anonymousfox.co
+/arquivos/noticias/1490729289. 1 -
+/noticias/noticia/772 1 -
+/tps/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/Khvorost/blog/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/noticias/noticia/616 1 -
+/2020/wp-includes/wlwmanifest.xml 25 -
+/galeria/34 1 -
+/crm/.env 6 -
+/noticias/noticia/631 1 -
+/noticias/164 1 -
+/noticias/noticia/566 1 -
+/joshadmincom/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/noticias/124 2 -
+/wp-content/plugins/sagepay-server-gateway-for-woocommerce/includes/pages/redirect.php 2 -
+/noticias/noticia/469 1 -
+/noticias/66 1 -
+/noticias/62 1 -
+/wp-admin/.env 6 -
+/galeria 1 -
+/legislacao/30 1 -
+/arquivos/editais/edital06.pdf 1 -
+/download/seletivoedital.pdf 1 -
+/lib/phpunit/phpunit/src/Util/PHP/eval-stdin.php 3 -
+/institucional/camapua 1 -
+/wp-content/plugins/mail-masta/inc/lists/csvexport.php 2 -
+/noticias/noticia/507 1 -
+/test/pathtraversal/master/..%252f..%252f..%252f..%252f../etc/passwd 2 -
+/2018/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 2 -
+/log_download.cgi 4 -
+/include/makecvs.php 2 -
+/index.php/noticia/prefeito-faz-entrega-dos-kits-e-uniformes-nas-escolas-municipais 1 -
+/2019/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 2 -
+/api_source/webservice/firebase/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 2 -
+/log_visitor/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/wp-content/plugins/canto/includes/lib/detail.php 2 -
+/arquivos/noticias/1406643551. 1 -
+/noticias/noticia/561 1 -
+/teste/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/atasem/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 2 -
+/backend/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 2 -
+/arquivos/noticias/1497009818. 1 -
+/olesistemas/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/s/1zdm1q8HqogmlF5C4BxNXtRue7U/_/META-INF/maven/com.atlassian.jira/atlassian-jira-webapp/pom.xml 2 -
+/arquivos/noticias/1515766356.jpg 1 -
+/noticias/noticia/339 1 -
+/arquivos/noticias/1386089191.pdf 1 -
+/wp-content/plugins/advanced-dewplayer/admin-panel/download-file.php 2 -
+/noticias/105 1 -
+/arquivos/noticias/1486987053. 1 -
+/vendor/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/noticias/noticia/548 1 -
+/arquivos/editais/Edital001.pdf 1 -
+/noticias/noticia/677 1 -
+/noticias/noticia/342 1 -
+/noticias/noticia/618 1 -
+/tmp 3 http://camapua.ms.gov.br./tmp/
+/administrator 3 -
+/arquivos/cartaz_encceja.pdf 1 -
+/arquivos/noticias/1379356560.pdf 1 -
+/wp-admin/index.php 1 -
+/arquivos/noticias/1500485789. 1 -
+/index.php/processo-seletivo-contratacao-de-pessoal-edital-01-novembro-2009-educacao/doc_download/147-edital-pss-001-2010 2 -
+/home 3 http://camapua.ms.gov.br./home/
+/wp-booking.php 5 anonymousfox.co
+/xmlpserver/ReportTemplateService.xls 2 -
+/arquivos/noticias/1489544463. 1 -
+/noticias/155 2 -
+/new/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/api3/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 2 -
+/careers/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 2 -
+/afasio/backend_Julia/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 2 -
+/arquivos/noticias/1484929110. 1 -
+/verify/laravel/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/sirim/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/blog/.env 6 -
+/noticias/noticia/355 1 -
+/noticias/noticia/458 1 -
+/lab/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/id/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/transparencia/arquivos/transparencia/arquivos/transparencia/Comparativo%20da%20Receita.pdf 1 -
+/bmwstory/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 2 -
+/vendor/phpunit/phpunit/src/Util/PHP/xrz2.php 1 -
+/admin/controller/extension/extension 7 binance.com
+/sacv/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/byroernne/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 2 -
+/arquivos/manuais/1383592933.pdf 1 -
+/index.php/noticia/prefeito-decreta-luto-oficial-em-razao-do-falecimento-do-dr-angelo 2 -
+/arquivos/manuais/1383583443.pdf 1 -
+/yii/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/palavra-vice 1 -
+/noticias/noticia/464 1 -
+/uploads/ 7 binance.com
+/arquivos/noticias/1501537802. 1 -
+/arquivos/noticias/1435864346. 1 -
+/arquivos/noticias/1439995547. 1 -
+/wp-content/plugins/wpconfig.bak.php 5 anonymousfox.co
+/arquivos/noticias/1495040744. 1 -
+/wp-config.txt 1 -
+/arquivos/noticias/1444398366. 1 -
+/noticias/noticia/1025 1 -
+/begrand/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 2 -
+/index.php/pagina/conheca-a-cidade 1 -
+/wszool/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/arquivos/legislacao/decreto2624.pdf 1 -
+/arquivos/noticias/1470860298. 1 -
+/arquivos/noticias/1502142747. 1 -
+/api/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 2 -
+/arquivos/noticias/1495040722. 1 -
+/elso1000nap-foto/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/wp-content/plugins/flash-album-gallery/facebook.php 2 -
+/newsite/.env 6 -
+/Matrimony/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/campuslag/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 2 -
+/arquivos/noticias/1384882662.pdf 1 -
+/old-wp 3 http://camapua.ms.gov.br./old-wp/
+/all/spotbills/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 2 -
+/noticias/noticia/334 1 -
+/arquivos/noticias/1487203412. 1 -
+/wp-content/wp-plugins/jekyll-exporter/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/fundacaodorim.oefb.com.br/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/doae-production/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/login.html 2 -
+/607d79dd2fd8a.jpg 2 -
+/sites/all/libraries/mailchimp/.env 6 -
+/noticias/noticia/405 1 -
+/micampo.perlo/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/bank/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 2 -
+/arquivos/noticias/1497009807. 1 -
+/noticias/45 1 -
+/new/.env 6 -
+/arquivos/noticias/1442258391. 1 -
+/imuva/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/raphaelfonseca/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/humans.txt 6 -
+/arquivos/noticias/1485282963. 1 -
+/noticias/32 1 -
+/noticias/36 1 -
+/aliceapi/client_billing/authorizenet/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 2 -
+/index.php/noticia/prefeitura-realiza-manutencao-nas-ruas-da-vila-olidia-pereira-da-rocha 1 -
+/descriptorByName/AuditTrailPlugin/regexCheck 2 -
+/transparencia/arquivos/transparencia/arquivos/transparencia/Audiencia%20Publica%201%20Semestre%20-%202014.pdf 1 -
+/media/wp-includes/wlwmanifest.xml 7 -
+/xmlpserver/convert 2 -
+/.%00/WEB-INF/web.xml 2 -
+/teacher/yiicarwx/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/pgd/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/scratchwin-backend/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/arquivos/noticias/1502142731. 1 -
+/arquivos/noticias/1468250225. 1 -
+/arquivos/noticias/1495040789. 1 -
+/platform/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/arquivos/noticias/1500488101. 1 -
+/vensdor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/noticias/noticia/985 1 -
+/el/Providers/HtmlEditorProviders/Telerik/Telerik.Web.UI.DialogHandler.aspx 1 -
+/wp-content/wp-plugins/affinipay-payment-gateway/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/wp-content/plugins/dzs-videogallery/deploy/designer/preview.php 2 -
+/wp-content/plugins/backup_index.php 5 anonymousfox.co
+/arquivos/noticias/1495040698. 1 -
+/mantis/verify.php 2 -
+/arquivos/noticias/1501537834. 1 -
+/noticias/noticia/976 1 -
+/pesquisa/api/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/noticias/noticia/417 1 -
+/all/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 2 -
+/mahara/auth/saml/extlib/simplesamlphp/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/noticias/49 1 -
+/blog/wp-admin/includes/class-wp-media-list-data.php 1 -
+/wordpress 23 -
+/legislacao/23 1 -
+/.../publicacoes/5f871347ef3a4.pdf 6 -
+/img/localizacao.png 27 -
+/noticias/22 1 -
+/vendor/phpunit/phpunit/build.xml 3 -
+/noticias/noticia/733 1 -
+/professionaltuning/laravel/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/arquivos/noticias/1462981805. 1 -
+/apple-touch-icon.png 55 -
+/tmui/login.jsp/.. 6 -
+/noticias/noticia/596 1 -
+/new 3 http://camapua.ms.gov.br./new/
+/gst_system/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/noticias/noticia/473 1 -
+/arquivos/noticias/1502142751. 1 -
+/wp-1ogin_bak.php 5 anonymousfox.co
+/galeria/25 1 -
+/noticias/noticia/450 1 -
+/see/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/noticias/noticia/738 1 -
+/60a66722d4f01.jpg 1 -
+/dev/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/arquivos/noticias/1462981248. 1 -
+/index.php/index.php 1 -
+/ibfv1/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/noticias/noticia/609 1 -
+//adminer/js/jquery-1.8.2.min.js 1 http://www.camapua.ms.gov.br//adminer/js/jquery-1.8.2.min.js
+/arquivos/noticias/1439995468. 1 -
+/sub_hannah_back/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/arquivos/noticias/1405113245. 3 -
+/modules/shop/manage/telerik.web.ui.dialoghandler.aspx 1 -
+/arquivos/noticias/1500317620. 1 -
+/advDesenvolvimento-1003/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 2 -
+/noticias/noticia/784 1 -
+/arquivos/noticias/1502142772. 1 -
+/noticias/noticia/630 1 -
+/git/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/old/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/index.php/pagina/conheca-a-prefeitura 1 -
+/demo 3 http://camapua.ms.gov.br./demo/
+/legislacao/13 1 -
+/empresasbrasil/production/api/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/arquivos/noticias/1496265353. 1 -
+/RoomBookingR1D/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/wp/wp-content/plugins/mm-plugin/inc/vendors/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 2 -
+/noticias/77 1 -
+/bk 3 http://camapua.ms.gov.br/bk/
+/noticias/noticia/1023 1 -
+/arquivos/noticias/1487203407. 1 -
+/noticias/91 1 -
+/moodalmahdi/nbdsye/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/alfindex.php 5 anonymousfox.co
+/dev_zarrel/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/arquivos/noticias/1439995709. 1 -
+/arquivos/noticias/1500488145. 1 -
+/arquivos/transparencia/index.html 1 -
+/noticias/noticia/718 1 -
+/library/.env 6 -
+/arquivos/manuais/1383821012.pdf 1 -
+/arquivos/noticias/1495225089. 1 -
+/tbg/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/vendor/phpunit/phpunit/src/Util/PHP/xrz.php 1 -
+/api/.env 6 -
+/noticias/4 2 -
+/mtosapp/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/odata/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/test/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 3 -
+/noticias/97 1 -
+/arquivos/noticias/1500485716. 1 -
+/arquivos/manuais/1383820492.pdf 1 -
+/arquivos/legislacao/lei_1676.pdf 1 -
+/noticias/noticia/560 1 -
+/arquivos/noticias/1495225022. 1 -
+/noticias/noticia/582 1 -
+/onefolder/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/mbdlms/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/arquivos/noticias/1495841482. 1 -
+/wp/wp-content/plugins/dzs-videogallery/class_parts/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 2 -
+/cgi-bin/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/bin/sh 4 -
+/noticias/noticia/392 1 -
+/alpha/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 2 -
+/arquivos/noticias/1500485725. 1 -
+/noticias/noticia/437 1 -
+/arquivos/categoria_secretaria/1398431586.pdf 1 -
+/arquivos/noticias/1500927686. 1 -
+/testing/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/image/.%2E/%2E%2E/%2E%2E/%2E%2E/etc/passwd 1 -
+/Selfit/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/wp-content/wp-plugins/message-business/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/cron/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 2 -
+/gerenciador_dev/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/vendor/phpunit/phpunit/Util/PHP/eval-stdin.php 3 -
+/moduless.php 5 anonymousfox.co
+/streetview/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/adv2/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 2 -
+/arquivos/noticias/1382639907.pdf 1 -
+/getcfg.php 2 -
+/plataformaead-dev/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/arquivos/categoria_secretaria/1412168041.pdf 1 -
+/noticias/noticia/598 1 -
+/wp-content/plugins/dzs-videogallery/class_parts/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 3 -
+/arquivos/noticias/1474283069. 2 -
+/noticias/noticia/695 1 -
+/videos 1 -
+/desktopmodules/dnnwerk.radeditorprovider/dialoghandler.aspx 1 -
+/mpbackoffice/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/noticias/noticia/388 1 -
+/wp-content/wp-plugins/shortcode-tumblr-gallery/includes/lib/Guzzle/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/revisao/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/market_place/mpbackoffice/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/adserver/www/delivery/lg.php 2 -
+/saml/extlib/simplesamlphp/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/arquivos/noticias/1497013457. 1 -
+/api2/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 2 -
+/noticias/noticia/485 1 -
+/jenkins/jobs/htaccess/workspace/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/tag_test_action.php 2 -
+/game/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/arquivos/noticias/1501537714. 1 -
+/noticias/noticia/476 1 -
+/arquivos/legislacao/lei_1290.pdf 1 -
+/DesktopModules/dnnWerk.RadEditorProvider/DialogHandler.aspx 1 -
+/arquivos/noticias/1496265348. 1 -
+/metano-api/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/assets/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 2 -
+/wp-content/plugins/canto/includes/lib/get.php 2 -
+/ecc/fashion_club/laravel/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/arquivos/noticias/1500487925. 1 -
+/uniteddatabasedevelopment/unitedisposal/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/%u002e/WEB-INF/web.xml 2 -
+/graph-sdk/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/old/wp-content/plugins/cloudflare/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 2 -
+/bandeira 3 -
+/modules/ps_facetedsearch/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 2 -
+/mailchimp/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/ecc/laravel/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/arquivos/noticias/1495992905. 1 -
+/compareip/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 2 -
+/wp-content/plugins/mypixs/mypixs/downloadpage.php 2 -
+/darm/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 2 -
+/V2/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/arquivos/noticias/1516965690.jpg 1 -
+/noticias/noticia/471 1 -
+/arquivos/folhetins/Info%20Prefeitura%20-%2009%20(3).pdf 1 -
+/noticias/110 1 -
+/arquivos/noticias/1428608034. 1 -
+/globals/e_detector/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/v2 3 http://camapua.ms.gov.br./v2/
+/arquivos/noticias/1486124276. 1 -
+/noticias/159 1 -
+/news/wp-includes/wlwmanifest.xml 32 -
+/wp1 3 http://camapua.ms.gov.br./wp1/
+/noticias/noticia/776 1 -
+/install 3 http://camapua.ms.gov.br/install/
+/siswas/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/arquivos/noticias/1500317708. 1 -
+/Providers/HtmlEditorProviders/Telerik/Telerik.Web.UI.DialogHandler.aspx 1 -
+/arquivos/categoria_secretaria/1397501599.pdf 1 -
+/ifrc-laravel/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/noticias/noticia/612 1 -
+/phpmyadmin 6 -
+/payments/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/noticias/noticia/436 1 -
+/cgi-bin/status/status.cgi 1 ()%20{%20ignored
+/arquivos/manuais/1383583451.pdf 1 -
+/noticias/1 4 -
+/pos/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/noticias/38 1 -
+/streamhub/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/plugins/system/debug/debug.xml 3 -
+/arquivos/categoria_secretaria/1412168251.pdf 2 -
+/tmui/locallb/workspace/fileSave.jsp 2 -
+/dev_grupo_total/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/old-index.php 5 anonymousfox.co
+/conheca-a-cidade 31 -
+/arquivos/noticias/1495040737. 1 -
+/begrand/downtown_reforma/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 2 -
+/arquivos/noticias/1500317757. 1 -
+/futbol_sys/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/wp-content/plugins/js_composer_theme/vendor/phpunit/src/Util/PHP/eval-stdin.php 2 -
+/noticias/168 1 -
+/noticias/28 1 -
+/assets/.env 1 -
+/noticias/noticia/431 1 -
+/sitemap.xml 14 -
+/wp-content/wp-plugins/turtle-ad-network/base58php/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/adv/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 2 -
+/live/compareip/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/arquivos/categoria_secretaria/1397498501.pdf 2 -
+/noticias/noticia/669 1 -
+/arquivos/editais/Edital%20001.pdf 1 -
+/arquivos/noticias/1487783617. 1 -
+/noticias/noticia/727 1 -
+/old 3 http://camapua.ms.gov.br./old/
+/arquivos/noticias/1491999060.jpg 1 -
+/arquivos/noticias/1406643532. 1 -
+/compliancepolicies.inc.php 2 -
+/old/wp-content/plugins/mm-plugin/inc/vendors/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 2 -
+/auth/saml/extlib/simplesamlphp/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 2 -
+/DesktopModules/YA.Controls/AngularMain/Telerik.Web.UI.DialogHandler.aspx 1 -
+/arquivos/manuais/1383820425.pdf 1 -
+/cgi-bin/.env 6 -
+/payment/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/saas/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/proyecto_alerta/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/cgi-bin/config.exp 2 -
+/test/med-decision/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/uRTime-Support/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/cgi/networkDiag.cgi 2 -
+/site/wp-admin/setup-config.php 1 -
+/Telerik.Web.UI.DialogHandler.axd 1 -
+/noticias/noticia/1005 1 -
+/noticias/24 1 -
+/arquivos/noticias/1406643538. 1 -
+/objects/getSpiritsFromVideo.php 2 -
+/studybreak/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/wp/wp-content/plugins/cloudflare/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 2 -
+/production/api/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/wp-content/wp-plugins/badgeup/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/my/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/apimotor/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 2 -
+/wp-config.old 1 -
+/jobs/workspace/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/noticias/93 1 -
+/noticias/noticia/484 1 -
+/housingbook/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/noticias/7 1 -
+/cgi-bin/test 1 ()%20{%20ignored
+/noticias/noticia/1040 1 -
+/lib/phpunit/src/Util/PHP/eval-stdin.php 3 -
+/arquivos/noticias/1504043164.jpg 1 -
+/noticias/noticia/421 1 -
+/arquivos/noticias/1495040727. 1 -
+/noticias/109 2 -
+/noticias/41 1 -
+/arquivos/noticias/1437677528. 1 -
+/konkurs/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/web.public/admin/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/_s_/dyn/Log_highlight 1 -
+/xipada/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/old/.env 6 -
+/noticias/noticia/477 1 -
+/arquivos/noticias/1502142723. 1 -
+/arquivos/noticias/1502142719. 1 -
+/wp-config.php.inc 1 -
+/datagen/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/tests/avastar/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/arquivos/noticias/1501537743. 1 -
+/skck_sidoarjo_code/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/straighttalk/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/arquivos/noticias/1471636636. 1 -
+/Cloudflare-CPanel-7.0.1/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 2 -
+/Admin/ServerSide/Telerik.Web.UI.DialogHandler.aspx 1 -
+/noticias/34 1 -
+/_profiler/phpinfo 3 -
+/5c782194437d2.jpg 2 -
+/galeria/conheca-a-cidade 1 -
+/noticias/noticia/622 1 -
+/60a6745ba4d2b.jpg 1 -
+/arquivos/folhetins/Info%20Prefeitura%20-%2016.pdf 1 -
+/npteOld/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/verify.php 2 -
+/arquivos/noticias/1495841476. 1 -
+/noticias/noticia/465 1 -
+/arquivos/noticias/1470860270. 1 -
+/wordpress/wp-content/plugins/mm-plugin/inc/vendors/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 2 -
+/noticias/15 1 -
+/noticias/noticia/368 1 -
+/arquivos/noticias/1501537786. 1 -
+/arquivos/editais/edital%20001.pdf 1 -
+/5c6c1167af176.jpg 1 -
+/arquivos/noticias/1501537755. 1 -
+/noticias/noticia/341 1 -
+/boom.php 5 anonymousfox.co
+/noticias/noticia/363 1 -
+/wp-content/wp-plugins/waves-ad-network/base58php/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/summatest/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/noticias/99 1 -
+/noticias/139 1 -
+/concurso/6 1 -
+/Berg/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 2 -
+/vrscop/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/arquivos/noticias/1408031930. 1 -
+/arquivos/noticias/1500488029. 1 -
+/apde.edu.gt/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 2 -
+/atoms/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 2 -
+/jobs/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/style.php 5 anonymousfox.co
+/ws/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/arquivos/noticias/1489580382. 1 -
+/noticias/150 1 -
+/arquivos/noticias/1446822200. 1 -
+/__ 2 -
+/alpha.u2start.com/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 2 -
+/noticias/noticia/438 1 -
+/wp-config.php.bak 1 -
+/go2growApi/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/noticias/noticia/1061 1 -
+/noticias/noticia/346 1 -
+/ads_qu_merge/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 2 -
+/sistema/sistema/dompdf-master/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/6p6/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 2 -
+/noticias/noticia/717 1 -
+/blog/wp-admin/setup-config.php 1 -
+/arquivos/noticias/1501537839. 1 -
+/wp-config.php.old 1 -
+/noticias/noticia/404 1 -
+/batin24/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 2 -
+/&data=04%7C01%7Cvanessa.salvador@teletex.com.br%7Cfa444d662ae54fa17aad08d995abd7f1%7C9c36f529164f47cdbca0ba7c0d710407%7C0%7C1%7C637705387571698889%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0=%7C2000&sdata=nTGiMv 1 -
+/fcma/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/stripe/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/~champiot/tuto_laravel/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 2 -
+/index.php/pagina/palavras-do-prefeito 1 -
+/noticias/noticia/651 1 -
+/wp-content/wp-plugins/wptimetoread/vendor/kdaviesnz/timetoread/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/noticias/noticia/519 1 -
+/arquivos/noticias/1490729354. 1 -
+/reports/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/noticias/noticia/802 1 -
+/libweb/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/wp-admin 1 -
+/wp-config.inc 1 -
+/vendor/phpunit/phpunit/LICENSE/eval-stdin.php 1 -
+/simasanjesh.ir/public_html/runtime/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/60aeda8c2ca9b.jpg 1 -
+/2021/wp-includes/wlwmanifest.xml 1 -
+/phpmailer/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/phpunit/src/Util/PHP/eval-stdin.php 3 -
+/arquivos/noticias/1486124289. 1 -
+/portal/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/arquivos/noticias/1487711918. 1 -
+/noticias/noticia/597 1 -
+/b2c/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 2 -
+/wp-content/plugins/wpdiscuz/themes/default/style-rtl.css 5 anonymousfox.co
+/index.php/noticias 1 -
+/pos/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/betanew/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 2 -
+/arquivos/noticias/1500485712. 1 -
+/wp-content/plugins/site-editor/editor/extensions/pagebuilder/includes/ajax_shortcode_pattern.php 4 -
+/apps/.env 6 -
+/main 3 http://camapua.ms.gov.br./main/
+/noticias/noticia/390 1 -
+/_fragment 2 -
+/api4/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 2 -
+/noticias/noticia/411 1 -
+/noticias/noticia/359 1 -
+/arquivos/noticias/1468250223. 1 -
+/ncufresh15/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/arquivos/noticias/1485895806. 1 -
+/arquivos/noticias/1501537752. 1 -
+/noticias/noticia/977 1 -
+/2020/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 2 -
+/noticias/noticia/325 1 -
+/membro/6 1 -
+/vendor/laravel/.env 6 -
+/transparencia 1485 http://www.camapua.ms.gov.br/transparencia
+/arquivos/noticias/1500487873. 1 -
+/ads/www/delivery/lg.php 2 -
+/vestibular/vestibulares/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/arquivos/noticias/1517318587.JPG 1 -
+/arquivos/noticias/1497009814. 1 -
+/database/.env 6 -
+/cag/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 2 -
+/c2c/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 2 -
+/arquivos/noticias/1465397210. 1 -
+/blog/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 2 -
+/arquivos/transparencia/folha%20de%20pagamento%20BF%20032014%20mural.pdf 3 -
+/hammad/laravel/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/ws/geral/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/japanese_school_website/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/live/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/oauth/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/blog/xmlrpc.php 1 -
+/noticias/noticia/807 1 -
+/noticias/noticia/382 1 -
+/noticias/noticia/501 1 -
+/upload.php 5 anonymousfox.co
+/arquivos/noticias/1462981626. 1 -
+/registration/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/entmain/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/argotractorsrmi.net/publichtml/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 2 -
+/wp-content/wp-old-index.php 5 anonymousfox.co
+/noticias/noticia/794 1 -
+/wp-content/plugins/event-espresso-core-reg/admin_pages/messages/templates/ee_msg_admin_overview.template.php 2 -
+/api_muvin/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 2 -
+/modules/pscartabandonmentpro/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 2 -
+/src/.env 6 -
+/arquivos/noticias/1490988709. 1 -
+/noticias/noticia/770 1 -
+/experts-api/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/fw/syslogViewer.do 2 -
+/afasio/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 2 -
+/noticia 1 -
+/arquivos/noticias/1500488090. 2 -
+/wp-content/plugins/mail-masta/inc/campaign/count_of_send.php 2 -
+/arquivos/noticias/1502142794. 1 -
+/downtown_reforma/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/arquivos/noticias/1486124282. 1 -
+/blog/www/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 2 -
+/wp-content/wp-plugins/mir-ad-network/base58php/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/noticias/noticia/430 1 -
+/supermind/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/arquivos/noticias/1502142722. 1 -
+/pvra/web/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/concurso/14 1 -
+/noticias/noticia/758 1 -
+/ads.txt 8 -
+/meta 2 -
+/wp-includes/lfx.php 5 anonymousfox.co
+/openam/ui/PWResetUserValidation 2 -
+/iscent/releases/20170811125232/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/public/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/web-files/phpexcel/spreadsheet/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/messages/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/crm/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 2 -
+/noticias/noticia/514 1 -
+/arquivos/manuais/1383744961.pdf 1 -
+/tos/index.php 2 -
+/arquivos/noticias/1500485803. 1 -
+/nour/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/wp-includes 2 www.google.com
+/contact/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 2 -
+/arquivos/noticias/1497009819. 1 -
+/arquivos/noticias/1501537709. 1 -
+/arquivos/noticias/1406643518. 1 -
+/arquivos/noticias/1406643514. 1 -
+/_staff/cron/php/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 2 -
+/test/wp-content/plugins/cloudflare/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 2 -
+/cms/wp-includes/wlwmanifest.xml 32 -
+/beta/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 2 -
+/wp-content/themes/config.bak.php 5 anonymousfox.co
+/c2b/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 2 -
+/noticias/noticia/1042 1 -
+/arquivos/noticias/1519070457.jpg 3 -
+/sai/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/arquivos/noticias/1470860275. 1 -
+/arquivos/noticias/1502142765. 1 -
+/arquivos/noticias/1490988264.JPG 1 -
+/App_Master/Telerik.Web.UI.DialogHandler.aspx 1 -
+/noticias/noticia/588 1 -
+/noticias/noticia/354 1 -
+/atividades-prefeitura 1 -
+/b2b/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 2 -
+/beatricce/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 2 -
+/noticias/53 1 -
+/noticias/noticia/676 1 -
+/uniteddatabasedevelopment/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/noticias/5 2 -
+/services/user/values.xml 2 -
+/epayco/epayco-php/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/wp-content/plugins/contact-form-7-to-database-extension/phpunit/src/Util/PHP/eval-stdin.php 2 -
+/larabus/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/arquivos/categoria_secretaria/1427133461.pdf 1 -
+/noticias/noticia/583 1 -
+/wp2/wp-includes/wlwmanifest.xml 32 -
+/web.config.i18n.ashx 2 -
+/secure/ViewUserHover.jspa 2 -
+/wp-content/wp-plugins/aspose-pdf-importer/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/bowenpayments/bowenpay/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 2 -
+/wp/wp-includes/wlwmanifest.xml 32 -
+/1board/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 2 -
+/noticias/80 1 -
+/ign-project-backend/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/noticias/noticia/756 1 -
+/arquivos/noticias/1487711865. 1 -
+/noticias/noticia/605 1 -
+/logistics/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/noticias/8 2 -
+/tmui/locallb/workspace/tmshCmd.jsp 6 -
+/b2bapi/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 2 -
+/trash-DELETE-IT/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/sito/wp-includes/wlwmanifest.xml 32 -
+/arquivos/manuais/1383745658.pdf 1 -
+/arquivos/noticias/1465397357. 1 -
+/legislacao/16 1 -
+/wp-admin/setup-config.php 1 -
+/arquivos/noticias/1490988592. 1 -
+/arquivos/editais/1386089191.pdf 1 -
+/arquivos/noticias/1442258410. 1 -
+/uwp/fakultas/fh/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/elections/app/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/ktkszsz/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/tests/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/wp-admin/config.bak.php 5 anonymousfox.co
+/Components/General/Admin/UserControl/Telerik.Web.UI.DialogHandler.aspx 1 -
+/arquivos/legislacao/lei1291.pdf 1 -
+/fckeditor/editor/filemanager/connectors/php/upload.php 3 -
+/pid/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/arquivos/noticias/1495040794. 1 -
+/sitemaps/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/api3/vendor/phpunit/phpunit/src/Util/PHP/Template/eval-stdin.php 2 -
+/fblearn.com/usuario/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/api5/vendor/phpunit/phpunit/src/Util/PHP/Template/eval-stdin.php 2 -
+/arquivos/noticias/1501537792. 1 -
+/index.php/secretaria/secretaria-de-saude 1 -
+/oldsite/wp-admin/install.php 1 -
+/ferramentas/redemaisbrasil/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/download/classificaprof.pdf 1 -
+/arquivos/noticias/1487083666. 1 -
+/core/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 2 -
+/arquivos/noticias/1487783513. 1 -
+/noticias/noticia/472 1 -
+/Modules/CMS/Telerik.Web.UI.DialogHandler.aspx 1 -
+/galeria/11 1 -
+/wordpress/wp-includes/wlwmanifest.xml 32 -
+/larva.php 5 anonymousfox.co
+/DesktopModules/TNComments/Telerik.Web.UI.DialogHandler.aspx 2 -
+/arquivos/manuais/1385051076.pdf 1 -
+/noticias/175 2 -
+/arquivos/manuais/1383745689.pdf 1 -
+/arquivos/noticias/1500317586. 1 -
+/arquivos/noticias/1500317613. 1 -
+/cgi-bin/stats 1 ()%20{%20ignored
+/noticias/144 1 -
+/scratchwin-backend/api/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/html2pdf-master/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/index.php/secretaria/secretaria-de-governo 1 -
+/host.blitserver1.com.br/.env 5 -
+/soporte_18/api/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/noticias/noticia/1013 1 -
+/sites/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/wp-admin/includes/class-wp-media-list-data.php 1 -
+/noticias/noticia/650 1 -
+/Chitoge.php 2 -
+/20170811125232/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 2 -
+/common/admin/Jobs2/Telerik.Web.UI.DialogHandler.aspx 2 -
+/diarioOficial 19 https://dom.imap.org.br/sitefora/index.cfm
+/arquivos/noticias/1489580426. 1 -
+/noticias/noticia/489 1 -
+/iscent/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/api.goover.city/release/composer/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 2 -
+/noticias/167 1 -
+/phpMyAdmin 6 -
+/App_Master/Telerik.Web.UI.DialogHandler.aspx/DesktopModules/TelerikWebUI/RadEditorProvider/Telerik.Web.UI.DialogHandler.aspx 1 -
+/noticias/noticia/586 1 -
+/blog/wp-content/plugins/mm-plugin/inc/vendors/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 2 -
+/arquivos/noticias/1435864471. 1 -
+/arquivos/noticias/1471636679. 1 -
+/noticias/noticia/391 1 -
+/modules/gamification/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 2 -
+/pref._marcelo_visita_pontinha_e_pontos_crrego_fundo_015 2 -
+/mantisBT/verify.php 2 -
+/arquivos/noticias/1462981597. 1 -
+/arquivos/editais/edital07.pdf 1 -
+/equipe 1 -
+/agc/vicidial_mysqli_errors.txt 2 -
+/document.php 2 -
+/yiiold/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/temp 3 http://camapua.ms.gov.br/temp/
+/arquivos/manuais/1383744781.pdf 1 -
+/arquivos/editais/Edital__%20PROE-AEAD-UAB-UEMS%20011-2014%20-%20Abertura%20de%20Vagas%20Administracao__%20Publica%20(1).pdf 2 -
+/arquivos/transparencia/Comparativo%20da%20Despesa.pdf 1 -
+/core/misc/drupal.js 1 -
+/noticias/noticia/581 1 -
+/system/deviceInfo 2 -
+/emediamarket-be/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/wordpress/wp-content/plugins/cloudflare/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 2 -
+/ec/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/arquivos/noticias/1500317562. 1 -
+/emrDataGenerator/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/audio/.env 6 -
+/storage/.env 8 -
+/arquivos/noticias/1500927684. 1 -
+/noticias/noticia/967 1 -
+/noticias/noticia/572 1 -
+/index.php/publicacoes 1 -
+/arquivos/editais/GABARITOS11.pdf 1 -
+/panel/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 3 -
+/site/wp-includes/wlwmanifest.xml 32 -
+/_async/AsyncResponseService 2 -
+/wp-includes/wlwmanifest.xml 31 -
+/apps/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 2 -
+/arquivos/noticias/1471636633. 1 -
+/arquivos/noticias/1387361550.pdf 1 -
+/arquivos/noticias/1500487835. 1 -
+/api2/vendor/phpunit/phpunit/src/Util/PHP/Template/eval-stdin.php 2 -
+/web 3 http://camapua.ms.gov.br./web/
+/wp-content/plugins/mm-plugin/inc/vendors/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 3 -
+/misc/drupal.js 1 -
+/_inc/vendor/stripe/stripe-php/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 2 -
+/ssoAdapter/logoutAction.do 2 -
+/arquivos/noticias/1491598440.jpg 1 -
+//.env 1 -
+/consulation/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 2 -
+/noticias/noticia/408 1 -
+/arquivos/noticias/1465397544. 2 -
+/arquivos/noticias/1497009817. 1 -
+/arquivos/noticias/1392995833.jpg 7 -
+/6086ae64c286c.jpg 1 -
+/cafe50/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 2 -
+/sonvuhong/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/arquivos/noticias/1500317732. 1 -
+/index.php/pagina/telefones-uteis 1 -
+/noticias/noticia/790 1 -
+/arquivos/categoria_secretaria/1398431853.pdf 1 -
+/noticias/noticia/759 1 -
+/OpenAM-11.0.0/ui/PWResetUserValidation 2 -
+/releases/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/noticias/noticia/774 1 -
+/igtny.com/igt/app/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/lib/phpunit/Util/PHP/eval-stdin.php 3 -
+/arquivos/manuais/1383583586.pdf 1 -
+/noticias/103 1 -
+/noticias/noticia/1018 1 -
+/digitalscience/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/wp-content/plugins/wp-mailster/view/subscription/unsubscribe2.php 2 -
+/noticias/107 1 -
+/noticias/noticia/403 1 -
+/blog/wp-content/plugins/cloudflare/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 2 -
+/semcoal/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/arquivos/noticias/1487783631. 1 -
+/arquivos/noticias/1500317639. 1 -
+/arquivos/noticias/1487083663. 1 -
+/noticias/162 1 -
+/s/1zdm1q8HqogmlF5C4BxNXtRue7U/_/WEB-INF/classes/META-INF/maven/com.atlassian.jira/jira-core/pom.xml 2 -
+/stripe-php/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/noticias/noticia/725 1 -
+/royalerumble/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/arquivos/noticias/1500485755. 1 -
+/noticias/noticia/691 2 -
+/dashboard/UserControl/CMS/Page/Telerik.Web.UI.DialogHandler.aspx 1 -
+/api1/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 2 -
+/revisao/cms/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/arquivos/noticias/1503669160.jpg 1 -
+/DesktopModule/UIYKienCuTri/Telerik.Web.UI.DialogHandler.aspx 1 -
+/denuncias/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/go2growApi/payment/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/noticias/noticia/768 1 -
+/arquivos/noticias/1501537729. 1 -
+/wp-content/mu-plugins/db-safe-mode.php 5 anonymousfox.co
+/noticias/166 1 -
+/arquivos/noticias/1474283089. 1 -
+/arquivos/manuais/1383744873.pdf 1 -
+/cgi-bin/.%2E/%2E%2E/%2E%2E/%2E%2E/etc/passwd 1 -
+/back/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 2 -
+/wp 3 http://camapua.ms.gov.br/wp/
+/bugs/verify.php 2 -
+/noticias/61 1 -
+/arquivos/noticias/1502142735. 1 -
+/administrator/help/en-GB/toc.json 3 -
+/api4/vendor/phpunit/phpunit/src/Util/PHP/Template/eval-stdin.php 2 -
+/noticias/157 2 -
+/arquivos/legislacao/Decreto%20n.%202.082%20-%202009.pdf 1 -
+/wp-content/plugins/ubh/up.php 5 anonymousfox.co
+/spotbills/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/arquivos/noticias/1471636641. 1 -
+/yiicarwx/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/noticias/noticia/763 1 -
+/noticias/114 1 -
+/laravel-sites/dev_grupo_total/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/noticias/noticia/373 1 -
+/noticias/noticia/424 1 -
+/wsviamatica/wszool/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/noticias/noticia/1010 2 -
+/arquivos/noticias/1495992889. 1 -
+/noticias/145 2 -
+/noticias/67 1 -
+/arquivos/noticias/1470860265. 1 -
+/ecc/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/wp-content/wp-plugins/user-export-with-their-meta-data/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/noticias/noticia/735 1 -
+/noticias/noticia/475 1 -
+/noticias/noticia/589 1 -
+/noticias/noticia/317 1 -
+/arquivos/noticias/1461101566. 1 -
+/backend/.env 6 -
+/wp-content/wp-plugins/wp-heyloyalty/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/noticias/noticia/378 1 -
+/tools.cgi 4 http://www.camapua.ms.gov.br/tools.cgi
+/ets/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/api/snapshots 2 -
+/noticias/noticia/486 1 -
+/config.js 1 -
+/arquivos/noticias/1500317486. 1 -
+/.//WEB-INF/classes/META-INF/microprofile-config.properties 2 -
+/arquivos/noticias/1500317772. 1 -
+/cgi-bin/status 1 ()%20{%20ignored
+/arquivos/noticias/1470860262. 1 -
+/wp/wp-admin/setup-config.php 1 -
+/new/wp-admin/install.php 1 -
+/5eb408634b9e7.jpg 4 -
+/arquivos/manuais/1383746133.pdf 1 -
+/dev/test1/project/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/arquivos/manuais/1383592487.pdf 1 -
+/arquivos/noticias/1497439616. 1 -
+/sendgrid.env 1 -
+/arquivos/noticias/1501537782. 1 -
+/arquivos/categoria_secretaria/1427133061.pdf 1 -
+/index.php/publicacao/decreto-2307-processo-eleitoral-do-dirigente-escolar 1 -
+/laetv-laravel-respaldo/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/noticias/noticia/406 1 -
+/develop/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/files 7 binance.com
+/arquivos/noticias/1501537818. 1 -
+/arquivos/manuais/1385115018.pdf 1 -
+/relvadossinteticos.com/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/bolaescola 1 -
+/teacher/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/arquivos/noticias/1500487997. 1 -
+/images/ 7 binance.com
+/albraj/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 2 -
+/admin/includes/general.js 3 -
+/arquivos/noticias/1461101480. 1 -
+/clinicasoftware/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 2 -
+/car1/estimateresult/result 2 -
+/arquivos/noticias/1501537659. 1 -
+/wp-content/themes/Divi-child/inc/meta/tests/phpunit/src/Util/PHP/eval-stdin.php 2 -
+/noticias/noticia/337 1 -
+/hsqldb%0a 2 -
+/wp-content/plugins/ioptimization/IOptimize.php 5 anonymousfox.co
+/jistadx/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/orion/greensignal/sistemas/demandador/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/2018/scholarship/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 2 -
+/sic-laravel/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/DesktopModules/Base/EditControls/Telerik.Web.UI.DialogHandler.aspx 1 -
+/noticias/noticia/682 1 -
+/arquivos/noticias/1500485710. 1 -
+/revive/www/delivery/lg.php 2 -
+/arquivos/categoria_secretaria/1401453066.pdf 1 -
+/wp-content/wp-plugins/rollbar/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/index.php/pagina/historia-do-municipio 1 -
+/noticias/133 1 -
+/arquivos/noticias/1490988570. 1 -
+/index.php/secretaria/secretaria-de-administracao-financas-e-planejamento 1 -
+/172410101040/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 2 -
+/servico/2 1 -
+/www/delivery/lg.php 2 -
+/noticias/noticia/520 1 -
+/wp-content/plugins/duplicator/files/installer.cleanup.php 2 -
+/noticias/noticia/693 1 -
+/klaster-topik/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/noticias/noticia/894 1 -
+/ctevt/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 2 -
+/noticias/noticia/761 1 -
+/2018 3 http://camapua.ms.gov.br/2018/
+/noticias/noticia/483 1 -
+/arquivos/noticias/1471636631. 1 -
+/arquivos/noticias/1462981810. 1 -
+/openx/www/delivery/lg.php 2 -
+/secure.dibzat/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/publichtml/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/noticias/161 1 -
+/portfolio/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/arquivos/noticias/1470860309. 2 -
+/2020 3 http://camapua.ms.gov.br/2020/
+/concurso/11 1 -
+/uploads/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/html/laravel/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/authenticate/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 2 -
+/index.php/publicacao/decreto-2624-processo-eleitoral-de-dirigente-escolarl 1 -
+/arquivos/noticias/1502142713. 1 -
+/membro/14 1 -
+/pkm/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/debug.cgi 1 ()%20{%20ignored
+/greenshaded/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/cindex.php 5 anonymousfox.co
+/bak 3 http://camapua.ms.gov.br./bak/
+/noticias/noticia/766 1 -
+/wp-includes/config.bak.php 5 anonymousfox.co
+/arquivos/noticias/1500488078. 1 -
+/noticias/noticia/986 1 -
+/e_detector/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/contact-us 4 https://www.muscleplayers.com
+/deportes/api/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/arquivos/noticias/1471636683. 1 -
+/jendelaku.new/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/.aws/credentials 1 -
+/arquivos/manuais/1383820806.pdf 1 -
+/public/.env 10 -
+/noticias/16 1 -
+/arquivos/noticias/1495040703. 1 -
+/filemanager/upload.php 2 -
+/arquivos/manuais/1383673507.pdf 1 -
+/wp-admin/install.php 2 -
+/arquivos/editais/classificaprof.pdf 1 -
+/deportes/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/arquivos/noticias/1462981750. 1 -
+/img/.%2E/%2E%2E/%2E%2E/%2E%2E/etc/passwd 1 -
+/.env 109 -
+/arquivos/noticias/1504621739.jpe 1 -
+/wp-content/plugins/podcast%E2%80%93channels/getid3/demos/demo.write.php 2 -
+/apple-touch-icon-precomposed.png 55 -
+/arquivos/noticias/1446822243. 1 -
+/database/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/scholarship/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/arquivos/noticias/1446821968.JPG 1 -
+/arquivos/noticias/1495040761. 1 -
+/wp-content/wp-plugins/jannes-mannes-social-media-auto-publisher/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/subdomains/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/api5/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 2 -
+/phpunit/phpunit/src/Util/PHP/eval-stdin.php 3 -
+/clinicasoftware/app/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 2 -
+/,GOVT,Government,2017-08-30,Artigo 6 -
+/jobs/htaccess/workspace/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/wp/wp-admin/install.php 1 -
+/noticias/noticia/349 1 -
+/index.php/pagina/bandeira-brasao-e-hino 1 -
+/website/wp-includes/wlwmanifest.xml 32 -
+/socios/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/concursos 1 -
+/local/.env 6 -
+/www/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/jistadx-x/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/arquivos/noticias/1471636644. 1 -
+/th3_err0r.php 5 anonymousfox.co
+/tuto_laravel/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/noticias/138 1 -
+/wp-content/themes/howto_wp/metabox/tests/phpunit/src/Util/PHP/eval-stdin.php 2 -
+/noticias/160 1 -
+/noticias/noticia/565 1 -
+/ui/h5-vsan/rest/proxy/service/com.vmware.vsan.client.services.capability.VsanCapabilityProvider/getClusterCapabilityData 2 -
+/arquivos/noticias/1462981787. 1 -
+/espanadigital/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/p4/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/arquivos/noticias/1497009812. 1 -
+/index.php/legislacao-municipal/cat_view/60-legislacao-municipal/47-leis-municipais 1 -
+/noticias/noticia/668 1 -
+/cidade 2 -
+/.../.../.../.../.../.../.../.../.../etc/passwd 2 -
+/arquivos/manuais/1383744859.pdf 1 -
+/muh1/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/5ff741d09912f.jpg 1 -
+/wp-content/plugins/se-html5-album-audio-player/download_audio.php 2 -
+/conf/.env 6 -
+/releases/20170811125232/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/unail-server/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/vestibulares/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/release/composer/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/htaccess/workspace/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/arquivos/noticias/1501537829. 1 -
+/passtastic/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/5edf974a4472d.jpg 3 -
+/noticias/noticia/702 1 -
+/5baa8f23e59b6.jpg 1 -
+/5ff7428e21a36.jpg 2 -
+/MyCityVision_Backend/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/wp-content/plugins/fancy-product-designer/inc/custom-image-handler.php 5 anonymousfox.co
+/khabir/app/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/admin/ckeditor/plugins/ajaxplorer/phpunit/src/Util/PHP/eval-stdin.php 2 -
+/lordhand.ru/www/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/batin24/back/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 2 -
+/noticias/noticia/523 1 -
+/membro/2 1 -
+/admin/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 4 -
+/noticias/noticia/690 1 -
+/query/%3Cimg%20src=x%20onerror=alert(document.domain)%3E/all 2 -
+/noticias/noticia/511 1 -
+/noticias/96 1 -
+/arquivos/editais/Edital%20-%20PSS%202014%20(Edital%20de%20Convocacao1).pdf 1 -
+/facturacion/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/arquivos/noticias/1500488136. 1 -
+/6086af3035445.jpg 1 -
+/img/brasao.png 3 -
+/restrito/view/legislacao/visualizar.php 1 -
+/sbp/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/noticias/noticia/480 1 -
+/old-site 3 http://camapua.ms.gov.br/old-site/
+/transejecutivos/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/ih2/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/arquivos/noticias/1495040799. 1 -
+/wp-content/config.bak.php 5 anonymousfox.co
+/arquivos/noticias/1462981794. 1 -
+/orgao/7 1 -
+/local/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/test/wp-content/plugins/mm-plugin/inc/vendors/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 2 -
+/arquivos/noticias/1502142754. 1 -
+/aptapi/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 2 -
+/dev/intranet-broken/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/cron/php/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 2 -
+/test/wp-content/plugins/dzs-videogallery/class_parts/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 2 -
+/gdm/blog/www/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/noticias/noticia/1017 1 -
+/legion.php 5 anonymousfox.co
+/wp-content/plugins/jekyll-exporter/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 3 -
+/wp-includes/css/css.php 5 anonymousfox.co
+/arquivos/noticias/1492032606.jpg 1 -
+/wp-config.php~ 1 -
+/v1 3 http://camapua.ms.gov.br/v1/
+/noticias/noticia/1062 1 -
+/avastar/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 2 -
+/arquivos/noticias/1490729373. 1 -
+/arquivos/noticias/1439995753. 1 -
+/vendor/phpunit/src/Util/PHP/eval-stdin.php 3 -
+/arquivos/noticias/1500485743. 1 -
+/releases/ef1eac65f8c91c27435f01d32076f7c450a2a0ec/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/.well-known/ 7 binance.com
+/arquivos/noticias/1422966886. 1 -
+/arquivos/midias/5aa1459e5271e.pdf& 1 -
+/zend/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php/sites/all/libraries/mailchimp/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/Admin/Telerik.Web.UI.DialogHandler.aspx 1 -
+/index.php/galerias 1 -
+/bots/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 2 -
+/galeria/26 1 -
+/arquivos/noticias/1491679781. 1 -
+/ppid/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/arquivos/noticias/1462981775. 1 -
+/test_laravel/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/web/wp-admin/install.php 1 -
+/arquivos/noticias/1500487903. 1 -
+/arquivos/noticias/1502142726. 1 -
+/wf/api/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/bdi.talenta/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 2 -
+/uddiexplorer/SearchPublicRegistries.jsp 2 -
+/noticias/noticia/666 1 -
+/AsiCommon/Controls/ContentManagement/ContentDesigner/Telerik.Web.UI.DialogHandler.aspx 2 -
+/noticias/noticia/1019 1 -
+/backup/wp-admin/install.php 1 -
+/arquivos/noticias/1446822280. 1 -
+/jenkins/descriptorByName/AuditTrailPlugin/regexCheck 2 -
+/woodfieldestates/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/arquivos/noticias/1502142777. 1 -
+/php-u2flib-server-1.0.1/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/arquivos/noticias/1500317537. 1 -
+/nvagencies/gst/gst_system/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/pcc/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/arquivos/noticias/1502142717. 1 -
+/4walls/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 2 -
+/composer-master/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 2 -
+/concrete/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 2 -
+/arquivos/noticias/1496265366. 1 -
+/providers/htmleditorproviders/telerik/telerik.web.ui.dialoghandler.aspx 1 -
+/cms/wp-admin/install.php 1 -
+/subdomains/spartacus/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/spartacus/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/app/.env 9 -
+/arquivos/noticias/1500317569. 1 -
+/arquivos/noticias/1452782081. 1 -
+/noticias/21 1 -
+/arquivos/noticias/1500317740. 1 -
+/arquivos/manuais/1383582941.pdf 1 -
+/XmlPeek.aspx 2 -
+/noticias/noticia/439 1 -
+/arquivos/noticias/1491945006.png 1 -
+/newsop/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/noticias/158 2 -
+/imadguennouni/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/wp-content/plugins/canto/includes/lib/tree.php 2 -
+/noticias/noticia/513 1 -
+/wp-content/langar.php 5 anonymousfox.co
+/epayco/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/noticias/noticia/1043 1 -
+/arquivos/noticias/1501537807. 1 -
+/arquivos/noticias/1376934889.gif 1 http://go.mail.ru/search_images
+/files.md5 2 -
+/arquivos/noticias/1495841478. 1 -
+/arquivos/noticias/1502142768. 1 -
+/arquivos/noticias/1490988657. 1 -
+/noticias/noticia/521 1 -
+/up.php 5 anonymousfox.co
+/nuxeo/login.jsp/pwn$%7B31333333330+7%7D.xhtml 2 -
+/curso-styde/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 2 -
+/wp-content/plugins/phastpress/phast.php 2 -
+/arquivos/noticias/1468250228. 1 -
+/index.php/secretaria/secretaria-de-educacao-cultura-esporte-e-lazer 1 -
+/noticias/108 1 -
+/noticias/noticia/577 1 -
+/workspace/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/sistema/dompdf-master/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/2018/wp-includes/wlwmanifest.xml 7 -
+/core/.env 8 -
+/arquivos/noticias/1497013458. 1 -
+/AlkatreszProject/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 2 -
+/2019/wp-includes/wlwmanifest.xml 31 -
+/test1/project/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/wp-includes/fonts/css.php 5 anonymousfox.co
+/noticias/noticia/782 1 -
+/noticias/noticia/370 1 -
+/assets/.%2E/%2E%2E/%2E%2E/%2E%2E/etc/passwd 1 -
+/arquivos/noticias/1406643510. 1 -
+/buddha/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 2 -
+/noticias/noticia/394 1 -
+/index.php 59 -
+/dev/iscent/releases/20170811125232/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/apple-touch-icon-120x120-precomposed.png 50 -
+/jsp/help-sb-download.jsp 2 -
+/wp-content/uploads/2018/01/abc/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/old/wp-admin/install.php 1 -
+/noticias/noticia/353 1 -
+/dev 3 http://camapua.ms.gov.br./dev/
+/arquivos/manuais/1383308217.pdf 1 -
+/market_place/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/arquivos/noticias/1500488109. 1 -
+/arquivos/noticias/1497009815. 1 -
+/arquivos/noticias/1497009808. 1 -
+/shop/wp-includes/wlwmanifest.xml 32 -
+/lrp-backend/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/arquivos/categoria_secretaria/1398431902.pdf 1 -
+/arquivos/noticias/1501537737. 1 -
+/arquivos/noticias/1500488151. 1 -
+/wp-content/plugins/t_file_wp/t_file_wp.php 5 anonymousfox.co
+/laravel_web/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/admin/db/noticias/thumb/72a193f75ba8dae8f70fc6d6cc43bd50.jpg 5 -
+/arquivos/noticias/1501537667. 1 -
+/u/gevorg.hakobyan/blog/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/admin.php 5 anonymousfox.co
+/app.rideforhopebahamas.com/main-app/app/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 2 -
+/arquivos/noticias/1468250227. 1 -
+/noticias/noticia/997 1 -
+/noticias/noticia/584 1 -
+/wp-includes/small.php 5 anonymousfox.co
+/noticias/noticia/358 1 -
+/noticias/noticia/742 1 -
+/include/nuclei.txt 2 -
+/arquivos/noticias/1404940098. 1 -
+/wp-content/.env 6 -
+/test 3 http://camapua.ms.gov.br./test/
+/arquivos/manuais/1383583100.pdf 1 -
+/api1/vendor/phpunit/phpunit/src/Util/PHP/Template/eval-stdin.php 2 -
+/noticias/noticia/601 1 -
+/arquivos/noticias/1501537797. 1 -
+/mantisbt-2.3.0/verify.php 2 -
+/noticias/noticia/460 1 -
+/noticias/noticia/482 1 -
+/login 2 -
+/school/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/arquivos/noticias/1470860305. 1 -
+/arquivos/noticias/1439995666. 1 -
+/backup 3 http://camapua.ms.gov.br./backup/
+/wsviamatica/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/arquivos/noticias/1497009811. 1 -
+/images/editor/separator.gif 3 -
+/laetv-laravel/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/wp-includes/js/jquery/jquery-migrate.min.js 1 -
+/shopify/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/arquivos/noticias/1470860247. 1 -
+/gdpr/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/epillTemporaryHolder/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/test/wp-admin/install.php 1 -
+/arquivos/categoria_secretaria/1408998590.pdf 1 -
+/patronus.sfiec.org.br/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/taspenku/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/cronlab/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 2 -
+/apps/shopify/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 2 -
+/new-site 3 http://camapua.ms.gov.br/new-site/
+/arquivos/categoria_secretaria/1425385622.pdf 1 -
+/site/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/stockapi/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/arquivos/noticias/1471636639. 1 -
+/arquivos/noticias/1462981763. 1 -
+/arquivos/categoria_secretaria/1397501691.pdf 1 -
+/arquivos/noticias/1490988796. 1 -
+/arquivos/transparencia/bca.php 1 -
+/arquivos/noticias/1495040779. 1 -
+/df2communitywebsite/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/vestibular/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/web.public/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/octuput/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/noticias/noticia/330 1 -
+/nvagencies/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/extlib/simplesamlphp/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/kratikal-academy/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/vendor/.env 8 -
+/noticias/78 1 -
+/legislacao/22 1 -
+/arquivos/noticias/1502142701. 1 -
+/phpmailer/PHPMailer/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/apple-touch-icon-57x57.png 6 -
+/arquivos/manuais/1383583960.pdf 1 -
+/blog/wp-content/plugins/dzs-videogallery/class_parts/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 2 -
+/framework/plugins/fb-page-feed/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/admin/db/noticias/thumb/de260d11070403ac27a81000740e9046.jpg 1 -
+/arquivos/noticias/1485895804. 1 -
+/crea2019/app/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 2 -
+/noticias/noticia/667 1 -
+/Selfit/V2/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/noticias/14 2 -
+/arquivos/editais/edital13.pdf 2 -
+/core/Datavase/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 2 -
+/arquivos/noticias/1495040733. 1 -
+/phpunit/phpunit/Util/PHP/eval-stdin.php 3 -
+/arquivos/editais/Edital%20%20002.pdf 1 -
+/wp-content/plugins/config.bak.php 5 anonymousfox.co
+/arquivos/noticias/1495224946. 1 -
+/arquivos/noticias/1518003394.jpg 3 -
+/kemenhub/app/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/admin/view/javascript/common.js 3 -
+/test.cgi 1 ()%20{%20ignored
+/noticias/33 1 -
+/med-decision/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/arquivos/editais/Edital%20-%20PSS%202013%20(Edital%20de%20convocacao7).pdf 1 -
+/xmlrpc.php 34 -
+/officelara/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/noticias/18 1 -
+/skinning-api/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/noticias/noticia/571 1 -
+/portalmejora/backend/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/arquivos/noticias/1500485722. 1 -
+/noticias/noticia/683 1 -
+/legislacao/18 1 -
+/arquivos/manuais/1383592479.pdf 1 -
+/noticias/noticia/498 1 -
+/concurso/5 1 -
+/ui/PWResetUserValidation 2 -
+/cgi-bin/test-cgi 1 ()%20{%20ignored
+/sistema/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/arquivos/noticias/1474283094. 1 -
+/noticias/94 1 -
+/arquivos/noticias/1500487849. 1 -
+/arquivos/editais/edital08.pdf 1 -
+/noticias/noticia/585 1 -
+/runapi/app/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/arquivos/editais/gabarito.pdf 1 -
+/noticias/2 2 -
+/auth/logout 2 -
+/ktkszsz/oauth/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/noticias/noticia/493 1 -
+/_wpresources/RadEditorSharePoint/7.9.0.0__2ee8da07702253f7/Resources/Telerik.Web.UI.DialogHandler.aspx 1 -
+/arquivos/noticias/1485282986. 1 -
+/dompdf-master/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/DesktopModules/Admin/RadEditorProvider/DialogHandler.aspx 2 -
+/wp-content/plugins/dzs-zoomsounds/savepng.php 1 www.bing.com
+/noticias/noticia/603 1 -
+/admin/.env 7 -
+/noticias/20 1 -
+/noticias/noticia/982 1 -
+/webvarejo-api/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/ws/ec/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/pgnim/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/index.php/tributos-municipais/index.php 1 -
+/cms 3 http://camapua.ms.gov.br./cms/
+/demos/dev_grupo_total/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/Site/DiarioOficial 19 https://dom.imap.org.br/sitefora/index.cfm
+/arquivos/noticias/1406654880. 1 -
+/arquivos/noticias/1500317677. 1 -
+/arquivos/noticias/1501537719. 1 -
+/wp-includes/wpconfig.bak.php 5 anonymousfox.co
+/como-chegar 3 -
+/arquivos/noticias/1495992918. 1 -
+/noticias/noticia/564 1 -
+/portfolio/karyabersama_old/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/alquimialaravel/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 2 -
+/arquivos/noticias/1500488125. 1 -
+/test.php 5 anonymousfox.co
+/arquivos/noticias/1501537695. 1 -
+/app/config/.env 6 -
+/task_api/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/Code/snippets/html2pdf-master/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 2 -
+/pgd/pgnim/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/test/wp-includes/wlwmanifest.xml 32 -
+/adv3/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 2 -
+/noticias/149 1 -
+/wordpress/wp-admin/setup-config.php 1 -
+/wp-content/plugins/navis-documentcloud/js/window.php 2 -
+/arquivos/manuais/1383820736.pdf 1 -
+/admin/db/noticias/thumb/d745eee480a857088d0ee8590997a58e.jpg 18 -
+/arquivos/noticias/1490988738. 1 -
+/laravelao/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/alfa.php 5 anonymousfox.co
+/noticias/noticia/389 1 -
+/membro/11 1 -
+/myadmin/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/membro/10 1 -
+/arquivos/noticias/1500317506. 1 -
+/noticias/noticia/578 1 -
+/esurat/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/agc_app/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 2 -
+/.git/config 1 -
+/rrhh/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/cms/portlets/Telerik.Web.UI.DialogHandler.aspx 1 -
+/noticias/noticia/686 1 -
+/aliceapi/authorizenet/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 2 -
+/plugins/servlet/gadgets/makeRequest 2 -
+/noticias/noticia/496 1 -
+/legislacao-municipal 1 -
+/imadguennouni/all/spotbills/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/blog 3 http://camapua.ms.gov.br./blog/
+/pms/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/noticias/noticia/550 1 -
+/krisda/stockapi/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/wp-content/plugins/shortcode%E2%80%93ninja/preview-shortcode-external.php 2 -
+/wp-content/plugins/wp-custom-pages/wp-download.php 2 -
+/gerar_marca_agua.php 4 -
+/arquivos/noticias/1518172300.jpg 6 -
+/simpeg-code-dinkes/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/wp/wp-admin/includes/class-wp-media-list-data.php 1 -
+/js/header-rollup-554.js 3 -
+/git/xipada/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/wp-content/wp-plugins/product-lister-walmart/marketplaces/walmart/lib/walmart-signature/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/noticias/noticia/402 1 -
+/noticias/noticia/357 1 -
+/arquivos/noticias/1485283006. 1 -
+/protected/.env 6 -
+/membro/1 1 -
+/noticias/noticia/681 1 -
+/desktopmodules/telerikwebui/radeditorprovider/telerik.web.ui.dialoghandler.aspx 1 -
+/noticias/noticia/491 1 -
+/arquivos/noticias/1501537702. 1 -
+/common/admin/Calendar/Telerik.Web.UI.DialogHandler.aspx 2 -
+/atividades-desc/7 1 -
+/arquivos/noticias/1501184393. 1 -
+/arquivos/noticias/1516026553.jpg 2 -
+/arquivos/noticias/1439995625. 1 -
+/sites/default/files 7 binance.com
+/demo/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/arquivos/noticias/1501537724. 1 -
+/60a675ba83fa2.jpg 1 -
+/arquivos/noticias/1500487887. 1 -
+/arquivos/noticias/1493394838.png 1 -
+/arquivos/noticias/1500487970. 1 -
+/core/app/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 2 -
+/inicio 1 -
+/noticias/142 1 -
+/objects/nuclei.txt 2 -
+/legislacao/27 1 -
+/site/wp-admin/install.php 1 -
+/acellemail/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 2 -
+/demos/laravel-sites/dev_grupo_total/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/noticias/noticia/1022 1 -
+/notweb/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/noticias/154 1 -
+/lib/phpunit/phpunit/Util/PHP/eval-stdin.php 3 -
+/administrator/index.php 1 -
+/wp-content/db_cache.php 5 anonymousfox.co
+/noticias/noticia/345 1 -
+/unitedisposal/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/arquivos/noticias/1497009813. 1 -
+/wordpress/wp-admin/includes/class-wp-media-list-data.php 1 -
+/arquivos/noticias/1473107179. 1 -
+/~champiot/Laravel%20E2N%20test/tuto_laravel/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 4 -
+/phpunit/Util/PHP/eval-stdin.php 3 -
+/arquivos/noticias/1500485773. 1 -
+/arquivos/noticias/1487083664. 1 -
+/adserve/www/delivery/lg.php 2 -
+/geral/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/noticias/58 1 -
+/noticias/noticia/466 1 -
+/arquivos/manuais/1383820994.pdf 1 -
+/fashion_club/laravel/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/arquivos/noticias/1502142706. 1 -
+/enventa/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/arquivos/noticias/1486124269. 1 -
+/wp-config.php.txt 1 -
+/csbank/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 2 -
+/noticias/noticia/569 1 -
+/backup/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 2 -
+/inf513/curso-styde/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/arquivos/noticias/1471636655. 1 -
+/misc/ajax.js 3 -
+/wordpress/wp-admin/install.php 1 -
+/arquivos/manuais/1383744599.pdf 1 -
+/sites/default/libraries/mailchimp/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/portal/channels/fa/Cms_HtmlText_Manage/Telerik.Web.UI.DialogHandler.aspx 1 -
+/arquivos/noticias/1496265355. 1 -
+/.../publicacoes/611a79bf6bb60.pdf 15 -
+/wordpress/wp-content/plugins/dzs-videogallery/class_parts/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 2 -
+/arquivos/noticias/1500317645. 1 -
+/datagen/emrDataGenerator/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/inf513/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/production/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/config.bak.php 5 anonymousfox.co
+/emr/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/arquivos/noticias/1495040806. 1 -
+/DesktopModule/UIQuestionControls/UIAskQuestion/Telerik.Web.UI.DialogHandler.aspx 2 -
+/wp-includes/ID3/license.txt 1 -
+/arquivos/noticias/1502142785. 1 -
+/noticias/noticia/558 1 -
+/noticias/noticia/706 1 -
+/vendor/phpunit/Util/PHP/eval-stdin.php 3 -
+/noticias/noticia/570 1 -
+/wechatplat/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/arquivos/noticias/1500488051. 1 -
+/noticias/165 1 -
+/galeria/32 1 -
+/objects/getImage.php 2 -
+/gitlab/build_now%3Csvg/onload=alert(1337)%3E 2 -
+/xmlrp.php 5 anonymousfox.co
+/noticias/noticia/767 1 -
+/apitotsurvey/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 2 -
+/_ignition/execute-solution 1 -
+/administrator/language/en-GB/install.xml 3 -
+/concurso/7 1 -
+/arquivos/manuais/1391165486.pdf 1 -
+/noticias/noticia/318 1 -
+/legislacao/19 1 -
+/apple-touch-icon-120x120.png 50 -
+/vendor/phpunit/phpunit/src/Util/PHP/xrz3.php 1 -
+/mmdi/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/wp-login.php 6 -
+/uploads/.%2E/%2E%2E/%2E%2E/%2E%2E/etc/passwd 1 -
+/modules/autoupgrade/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 3 -
+/wp1/wp-includes/wlwmanifest.xml 32 -
+/noticias/noticia/792 1 -
+/noticias/noticia/321 1 -
+/adv/advDesenvolvimento-1003/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 2 -
+/arquivos/relatorios/1445865801.pdf 2 -
+/arquivos/noticias/1497013460. 1 -
+/test/wp-admin/setup-config.php 1 -
+/testrail/files.md5 2 -
+/servlet/com.adventnet.me.opmanager.servlet.FailOverHelperServlet 2 -
+/admin/db/noticias/thumb/cdfd8a86961a2f05c546dc07d6acff19.jpg 18 -
+/atoms/raphaelfonseca/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 2 -
+/legislacao/20 1 -
+/_staff/php/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 2 -
+/legislacao/29 1 -
+/arquivos/noticias/1474283105. 1 -
+/arquivos/noticias/1435864493. 1 -
+/wp-content/plugins/prh-api/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/icons/.%2E/%2E%2E/%2E%2E/%2E%2E/etc/passwd 1 -
+/wpindex.php 5 anonymousfox.co
+/arquivos/editais/diretores.pdf 1 -
+/arquivos/editais/Edital%20-%20PSS%202013.pdf 1 -
+/noticias/noticia/463 1 -
+/noticias/noticia/781 1 -
+/objects/getImageMP4.php 2 -
+/proment/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/.../.../.../.../.../.../.../.../.../windows/win.ini 2 -
+/arquivos/noticias/1452782233. 1 -
+/WebMstr7/servlet/mstrWeb 2 -
+/snippets.inc.php 1 -
+/noticias/noticia/522 1 -
+/modules/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/arquivos/noticias/1485283000. 1 -
+/noticias/6 1 -
+/arquivos/noticias/1490729312. 1 -
+/noticias/noticia/468 1 -
+/snippets/html2pdf-master/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/splurbAPI/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/Sistema-Clinico--com-Laravel-master/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/workspace/drupal/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 3 -
+/portalmejora/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/sites/all/libraries/mailchimp/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/wp-content/plugins/realia/libraries/PayPal-PHP-SDK/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/afasio/afasio/backend_Julia/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 2 -
+/kontak/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/wp-admin/admin-ajax.php 7 -
+/action.php 1 -
+/arquivos/categoria_secretaria/1406738533.pdf 1 -
+/60acf57b585dc.jpg 1 -
+/safmanagement.it/publichtml/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/arquivos/categoria_secretaria/1412168395.pdf 1 -
+/config.php 5 anonymousfox.co
+/_controls/responsive/Telerik.Web.UI.DialogHandler.aspx 1 -
+/lib/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/webservice_lebong_201901/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/arquivos/noticias/1500485732. 1 -
+/arquivos/noticias/1375197857.pdf 1 -
+/laravel/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/app/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 2 -
+/membro/8 1 -
+/web/wp-includes/wlwmanifest.xml 32 -
+/arquivos/noticias/1501537748. 1 -
+/laravel/.env 7 -
+/arquivos/noticias/1500488043. 1 -
+/phpexcel/spreadsheet/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/protected/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/clientes/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 2 -
+/arquivos/noticias/1501537681. 1 -
+/arquivos/noticias/1406643557. 1 -
+/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 26 anonymousfox.co
+/%2e%2e/%2e%2e/%2e%2e/%2e%2e/%2e%2e/%2e%2e/%2e%2e/etc/passwd 2 -
+/noticias/noticia/697 2 -
+/server/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/index.php/pagina/sobre-a-secretaria-smas 1 -
+/blog/wp-includes/wlwmanifest.xml 32 -
+/arquivos/manuais/1383674339.pdf 1 -
+/noticias/noticia/487 1 -
+/arquivos/noticias/1485870044. 1 -
+/noticias/noticia/551 1 -
+/arquivos/legislacao/decreto2660_12.pdf 1 -
+/arquivos/noticias/1485895802. 1 -
+/noticias/noticia/316 1 -
+/topbrand/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/arquivos/noticias/1406654900. 1 -
+/libraries/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/intranet.dara.games/yii/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/arquivos/noticias/1500317781. 1 -
+/agenda-prefeito 1 -
+/noticias/noticia/703 1 -
+/user/register 2 www.camapua.ms.gov.br/user/register
+/arquivos/noticias/1471636612. 1 -
+/legislacao/17 1 -
+/epayco-php/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/concurso/10 1 -
+/arquivos/noticias/1450187085. 1 -
+/noticias/noticia/734 1 -
+/noticias/noticia/680 1 -
+/Laravel%20E2N%20test/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/academy2019/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 2 -
+/config.json 1 -
+/plugins/editors/jckeditor/plugins/jtreelink/dialogs/links.php 2 http://camapua.ms.gov.br
+/wp-content/plugins/cloudflare/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/noticias.asp 1 -
+/tvm/fd45jn0f5Gd/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/admin/db/noticias/thumb/bbc9c390da09d8a2143e78c7e3ccf9ca.jpg 1 -
+/5baa4acfbb884.jpg 1 -
+/eventos-deportivos/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/noticias/noticia/490 1 -
+/wp2 3 http://camapua.ms.gov.br/wp2/
+/arquivos/noticias/1474283082. 1 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 1629
+170.80.32.210 521 6783 325820706 20211031192902
+187.7.231.170 293 3121 111663697 20211027183207
+37.218.245.117 148 148 12185050 20211031182538
+201.34.201.46 66 563 22205122 20211027180846
+37.218.247.47 50 50 4117100 20211031145854
+46.101.130.39 42 42 3457062 20211026232401
+170.80.32.225 41 603 19396322 20211029181433
+109.74.154.72 31 2365 6381014 20211031043641
+45.190.160.6 31 326 15861282 20211026093052
+189.60.19.69 26 26 2138196 20211025021445
+177.101.148.124 21 21 1728145 20211029153004
+13.57.234.125 18 18 898816 20211017045816
+200.53.30.2 18 68 4875266 20211029094503
+187.57.156.17 17 17 1298052 20211018144220
+129.146.158.17 16 16 1147880 20211031114942
+186.200.160.154 16 287 18034940 20211029204949
+69.164.220.126 16 17 11751509 20211024133430
+200.170.76.150 15 15 1235629 20211031182539
+66.249.83.209 14 14 1146099 20211031122344
+170.81.39.119 13 214 10348306 20211002231747
+188.2.58.143 13 92 5580336 20211016054403
+177.4.169.24 13 281 11122633 20211019162208
+177.6.102.51 12 382 12403322 20211015142431
+150.164.7.194 11 11 903821 20211020144915
+177.6.99.112 11 381 12321636 20211022150013
+161.97.154.167 1 1 81686 20211020095607
+189.26.175.187 0 1 105737 
+200.181.92.157 0 1 105737 
+191.190.148.8 0 1 130449 
+49.12.219.110 6 7 10816962 20211011132103
+191.31.97.2 0 1 105737 
+177.96.251.72 0 1 105737 
+187.71.159.88 0 3 197606 
+177.33.100.138 0 1 105737 
+200.131.130.145 1 11 862767 20211022140833
+189.59.175.151 0 1 105737 
+201.82.36.122 0 1 105737 
+187.55.166.234 2 3 808188 20211019135840
+45.129.18.233 1 1 0 20211019191541
+36.99.136.136 1 1 81685 20211001055851
+201.43.239.218 2 6 324590 20211002160627
+74.125.213.9 5 5 408429 20211019160416
+189.15.37.191 0 1 105737 
+187.36.165.157 0 1 95014 
+66.249.88.118 1 3 260428 20211022224905
+177.139.46.13 0 1 105737 
+173.252.107.17 0 1 328984 
+191.135.175.229 0 1 105737 
+200.97.196.123 0 1 105737 
+201.20.169.187 0 1 105737 
+177.4.179.101 4 152 4895978 20211006105821
+187.61.223.54 0 1 105737 
+76.72.172.170 1 1 81685 20211003153918
+201.13.37.112 0 1 105737 
+160.238.225.90 0 2 260898 
+42.236.10.78 0 2 367941 
+82.223.9.130 1 1 81685 20211002171507
+189.6.30.31 1 1 37252 20211030220919
+177.6.196.109 4 100 4142482 20211018154534
+186.216.182.78 1 1 82165 20211003122029
+179.218.7.156 0 1 105737 
+191.227.219.176 0 1 105737 
+138.204.113.42 2 10 629451 20211012224921
+35.85.155.19 1 1 82166 20211015164349
+177.188.86.65 2 6 324592 20211031011442
+191.9.30.15 0 1 105737 
+131.221.131.61 0 1 105737 
+52.186.86.67 7 7 416539 20211007175939
+200.150.82.117 4 4 328664 20211017020642
+132.255.44.170 0 1 105737 
+187.111.138.39 1 1 82165 20211004123454
+188.72.101.3 1 1 33850 20211010203153
+45.171.144.144 2 76 2448469 20211003124818
+187.75.172.138 0 1 105737 
+177.3.133.119 0 1 105737 
+177.6.101.13 2 76 2448470 20211019232323
+179.104.165.179 0 1 105737 
+189.110.253.89 0 1 105737 
+187.95.163.26 4 4 328663 20211012153210
+91.204.15.128 1 1 82311 20211029072023
+186.216.178.52 0 1 105737 
+191.55.196.198 4 20 2396387 20211001165914
+177.79.27.55 1 13 268829 20211004110026
+200.163.205.247 0 1 105737 
+209.14.14.59 0 1 105737 
+177.79.107.89 0 1 130449 
+179.255.54.135 3 22 886460 20211014152714
+208.100.26.246 2 2 163851 20211018012629
+179.154.142.175 0 7 419360 
+200.181.118.98 1 15 1064683 20211021124710
+177.79.18.127 4 53 2810346 20211015161507
+185.101.105.187 0 2 1505218 
+179.73.154.131 0 1 105737 
+196.242.178.100 1 1 1423162 20211013013223
+201.55.117.65 0 2 105737 
+186.210.27.244 0 1 105737 
+200.232.218.222 0 1 105737 
+54.70.232.60 1 1 82311 20211029181403
+170.79.27.253 0 1 105737 
+189.6.243.118 0 1 105737 
+143.198.145.39 3 3 133230 20211011102241
+18.206.199.142 2 3 796882 20211005174458
+177.126.154.108 1 11 870241 20211026142846
+177.3.207.171 8 304 9791956 20211008141710
+186.195.108.148 0 2 211474 
+168.194.166.118 3 77 2448470 20211022092404
+177.55.195.52 0 1 105737 
+8.36.217.58 2 2 164332 20211015095140
+191.223.36.17 3 23 1770905 20211014112406
+201.93.100.216 0 1 105737 
+189.124.218.40 0 1 105737 
+177.221.9.91 0 2 151504 
+177.38.167.171 0 1 95268 
+20.69.103.104 3 3 245058 20211020182325
+187.84.212.85 1 5 293912 20211031092403
+187.46.133.70 0 1 105737 
+187.52.227.99 0 1 105737 
+187.120.128.168 7 43 3027182 20211004114146
+177.73.136.30 0 1 105737 
+93.158.92.147 1 1 81685 20211008204603
+179.95.250.221 2 12 1006940 20211014170212
+186.237.213.71 0 3 180702 
+177.79.25.10 2 12 924383 20211008153559
+189.127.142.18 2 12 906710 20211019121822
+201.14.75.204 3 87 3318711 20211013114648
+143.137.137.40 0 1 105737 
+186.240.29.25 0 1 105737 
+168.205.101.5 1 5 290626 20211027101408
+54.147.246.36 2 2 99113 20211005174502
+31.13.103.112 0 1 408133 
+34.83.228.158 2 2 163370 20211008135520
+177.50.251.149 0 1 105737 
+189.73.253.138 0 1 105737 
+189.49.72.83 0 1 105737 
+187.36.112.167 1 11 966352 20211023150241
+54.201.32.6 1 1 81685 20211004174446
+177.75.138.63 0 1 105737 
+194.187.171.131 1 1 82165 20211005091305
+200.169.64.50 0 1 130449 
+177.205.71.246 0 1 105737 
+69.171.249.10 0 1 20920 
+13.58.79.150 3 3 245058 20211014144301
+147.161.129.3 0 1 105737 
+45.129.18.214 1 1 0 20211026113535
+179.242.15.66 0 1 105737 
+31.13.127.40 0 1 130449 
+168.90.122.0 0 1 105737 
+177.79.24.15 2 62 2308616 20211022155013
+143.198.159.29 2 2 466321 20211011093801
+187.113.199.190 0 1 105737 
+168.195.101.244 0 1 105737 
+138.255.132.129 0 1 130449 
+191.209.73.83 0 1 105737 
+167.249.93.146 0 1 105737 
+170.247.30.21 2 2 164332 20211016075929
+31.13.127.26 0 1 130449 
+187.25.49.101 2 2 188142 20211008172500
+177.79.25.168 2 20 1494598 20211006073243
+177.44.101.194 0 1 105737 
+69.171.251.7 0 1 163906 
+189.38.151.224 0 1 105737 
+66.249.88.33 2 2 163372 20211014105318
+177.79.25.28 2 16 1368069 20211031175436
+31.13.127.22 0 1 130449 
+200.9.18.98 0 2 211474 
+45.174.158.64 3 83 2906132 20211005165009
+177.62.162.2 0 1 105737 
+177.74.135.184 0 1 17506 
+69.171.251.10 0 1 130449 
+179.214.168.164 0 1 1655808 
+179.214.144.141 7 17 1128738 20211004112312
+179.159.2.244 0 1 896091 
+187.38.170.208 0 1 105737 
+177.87.9.198 1 1 82165 20211005224131
+201.92.123.92 0 4 318236 
+177.79.24.79 4 87 3055768 20211004100811
+143.208.214.209 0 1 105737 
+201.88.170.74 4 15 1278190 20211012004635
+187.65.35.88 0 1 105737 
+179.221.118.100 0 1 409716 
+177.4.171.91 2 12 921686 20211028151349
+187.122.40.47 1 5 290626 20211025043003
+160.238.152.15 1 1 51444 20211005093812
+165.227.84.230 3 3 246933 20211030203036
+37.19.223.119 1 1 82311 20211027052602
+189.44.218.226 0 1 83362 
+138.204.214.99 0 1 299663 
+200.138.252.188 0 1 105737 
+34.220.22.15 1 1 82795 20211029143551
+189.37.70.51 0 1 105737 
+95.142.35.146 1 1 81686 20211021022821
+189.83.27.38 0 1 105737 
+189.59.113.82 4 15 2850892 20211025160559
+187.24.140.73 1 11 966352 20211011203427
+177.23.82.250 1 1 82166 20211022024213
+177.127.108.74 0 1 91854 
+209.97.187.47 2 2 72569 20211007123646
+177.79.24.95 1 14 961732 20211006155108
+191.186.248.233 3 87 3318709 20211006093433
+177.30.15.231 1 1 82166 20211014201204
+177.125.16.244 0 1 130449 
+199.247.29.84 1 1 54144 20211011155537
+177.45.143.186 0 1 105737 
+191.96.98.14 0 1 5356679 
+143.202.131.213 3 14 1323501 20211022171212
+168.195.194.35 0 1 105737 
+177.79.19.203 1 14 961732 20211001104104
+187.95.9.102 0 1 105737 
+187.22.128.57 0 1 105737 
+34.214.166.118 1 1 82166 20211022163515
+18.237.154.20 1 1 82311 20211031185637
+45.174.208.30 0 1 130449 
+187.25.49.80 1 11 856048 20211027124322
+187.45.103.33 0 1 130449 
+170.79.52.133 0 2 260898 
+45.177.210.2 0 1 130449 
+34.221.55.59 2 2 164332 20211021183735
+189.26.165.142 2 76 2448469 20211006143627
+177.55.16.7 2 70 2214861 20211006093522
+168.228.36.95 1 13 1397390 20211025111951
+177.30.38.177 1 1 82165 20211004033103
+173.252.107.27 0 1 306151 
+104.128.20.1 1 1 82165 20211009232450
+177.79.26.253 1 11 853206 20211031162324
+170.81.39.23 2 54 2243143 20211007124644
+159.65.223.203 4 4 135662 20211005152228
+161.35.91.184 3 3 106189 20211013225013
+179.54.93.122 1 11 870240 20211005141004
+179.162.56.80 1 11 870240 20211005112552
+187.74.222.105 0 1 105737 
+187.4.64.130 4 152 4895980 20211019160815
+186.203.169.232 0 3 261923 
+187.23.203.8 1 11 852762 20211030174549
+179.179.97.38 0 1 105737 
+170.83.132.179 1 1 82165 20211003122033
+208.100.26.233 1 1 82311 20211025031737
+52.186.127.237 4 4 187701 20211007195619
+190.107.88.236 1 1 82166 20211022090159
+45.188.99.66 0 16 3379683 
+179.48.102.182 0 1 105737 
+18.237.79.25 1 1 82166 20211021183605
+187.107.10.16 0 3 211474 
+177.79.107.233 0 1 130449 
+74.125.213.31 1 21 1079298 20211008171242
+187.114.48.134 0 1 105737 
+156.146.36.113 1 1 33849 20211006035820
+94.231.217.152 1 1 81686 20211021064405
+74.125.213.27 3 18 1393346 20211020134319
+187.122.70.43 2 6 324592 20211019023300
+212.102.33.178 1 1 33850 20211020073127
+45.190.160.10 2 12 893300 20211031170209
+177.86.20.95 0 1 105737 
+35.237.46.254 1 5 290626 20211025122338
+179.159.139.224 0 2 211474 
+177.25.238.213 6 63 4182812 20211009171037
+179.223.26.140 2 18 1358993 20211010083628
+189.101.40.142 0 1 130449 
+179.152.235.17 0 4 313875 
+49.12.219.112 5 5 197992 20211011185652
+179.246.209.166 0 1 130449 
+168.195.100.125 0 1 105737 
+173.252.107.12 0 1 328984 
+54.202.155.154 1 1 82311 20211024183301
+3.95.28.98 1 1 82165 20211005214726
+31.13.127.112 0 1 130449 
+45.63.90.163 2 2 69555 20211009164238
+177.179.15.204 0 1 91854 
+207.102.138.19 1 76 2373741 20211025061154
+189.113.55.245 0 1 105737 
+170.81.39.231 7 117 5077107 20211002202453
+189.26.150.12 0 1 105737 
+165.22.35.253 0 2 1655808 
+177.154.94.247 0 1 105737 
+187.92.163.90 1 31 54374200 20211003213119
+52.249.250.70 1 1 38500 20211008005751
+187.104.27.94 0 2 211474 
+52.88.89.190 0 1 105737 
+18.118.122.75 0 2 306151 
+177.203.32.163 0 1 130449 
+52.190.7.110 4 4 161799 20211007151430
+179.198.62.238 0 1 105737 
+177.22.222.53 7 17 1144403 20211017235259
+187.53.59.224 1 11 853204 20211025152217
+177.72.22.226 0 1 105737 
+189.110.74.95 0 1 105737 
+201.17.121.192 0 1 105737 
+177.149.162.133 0 1 105737 
+191.135.16.80 0 1 105737 
+177.8.131.15 0 1 105737 
+177.79.18.19 2 32 1777969 20211002200745
+177.158.240.225 0 1 130449 
+189.90.165.48 0 1 105737 
+177.3.205.171 2 76 2447990 20211019154028
+130.255.166.226 1 1 81686 20211017212124
+177.79.24.151 2 2 164330 20211001154101
+200.97.189.163 0 2 211474 
+177.79.19.0 1 14 961733 20211025152537
+201.7.50.217 0 1 173257 
+200.204.189.170 0 1 105737 
+66.249.83.17 1 1 82311 20211027164453
+177.172.55.184 0 1 105737 
+179.197.233.82 1 1 82165 20211003122207
+189.103.230.11 2 2 164961 20211030123119
+186.219.223.247 1 11 870241 20211020103400
+200.181.194.55 0 7 480552 
+177.36.186.190 0 3 211474 
+177.79.19.229 3 77 2529676 20211019221314
+45.182.18.165 4 17 1872441 20211014122812
+170.150.243.32 4 78 2533285 20211022101942
+177.72.9.250 1 11 870241 20211018143004
+54.218.129.142 1 1 82165 20211005104956
+188.72.101.173 1 1 33850 20211025163345
+189.15.80.198 0 1 130449 
+186.205.141.127 0 3 212499 
+191.253.106.20 0 1 105737 
+3.213.245.210 0 1 320643 
+46.101.62.226 6 6 257333 20211012200558
+170.246.105.253 0 1 44012 
+93.158.90.66 1 1 82311 20211028225938
+177.97.35.69 0 1 825066 
+66.249.83.11 1 1 81686 20211017155727
+34.213.48.218 1 1 81686 20211012171429
+177.53.205.242 0 1 176093 
+189.35.88.107 1 15 1102556 20211004100834
+45.236.182.35 2 76 2448470 20211019154103
+200.195.174.122 0 1 105737 
+168.195.83.135 0 5 363851 
+177.75.149.196 0 1 105737 
+186.204.240.249 3 3 247126 20211025131557
+189.105.12.34 2 2 164331 20211012153307
+52.190.7.119 2 2 98655 20211007181632
+45.132.184.31 1 1 82311 20211026014200
+201.67.32.155 0 1 105737 
+185.104.216.167 0 1 255347 
+177.30.111.248 2 76 2448469 20211006172637
+52.186.72.203 6 6 275076 20211007221823
+138.59.187.210 0 1 105737 
+191.162.167.177 1 5 290626 20211022060210
+45.166.25.51 0 1 130449 
+191.34.36.10 0 1 105737 
+45.191.12.170 0 2 260898 
+177.143.224.190 0 1 105737 
+177.8.160.80 0 3 212499 
+179.98.58.74 0 1 105737 
+191.7.20.106 0 1 105737 
+8.36.217.133 2 2 165590 20211030123144
+173.252.107.18 0 2 365786 
+42.236.10.84 0 1 86927 
+178.208.92.228 1 1 81686 20211021022821
+177.33.140.104 0 1 105737 
+52.32.247.184 1 1 82165 20211005100020
+177.79.24.241 2 76 2448470 20211010095253
+201.7.1.219 3 79 2529674 20211004092947
+189.86.170.10 0 1 105737 
+179.108.188.22 3 13 962274 20211014155911
+52.40.232.126 1 1 82311 20211024185359
+196.240.254.149 1 1 33850 20211015043606
+35.166.142.125 1 1 82166 20211015161021
+186.205.18.108 0 1 130449 
+187.25.44.35 1 26 1921400 20211002191910
+45.185.6.251 0 1 130449 
+177.137.34.48 0 1 105737 
+179.235.128.49 2 76 2448469 20211002212814
+187.65.100.149 0 2 211474 
+177.83.15.177 5 32 2945253 20211015102813
+199.247.24.124 2 2 95847 20211009102807
+177.139.100.234 2 14 1015042 20211025131855
+201.10.172.165 0 1 105737 
+45.224.213.26 1 1 82166 20211017202834
+154.51.131.142 3 3 245682 20211026015800
+168.181.49.101 0 1 357553 
+35.86.134.100 1 1 81686 20211017183656
+45.189.179.85 0 1 105737 
+177.79.19.148 1 10 917330 20211004122201
+200.198.196.129 1 1 0 20211006121757
+177.79.24.106 1 14 961732 20211005140638
+34.219.127.219 1 1 82311 20211023182601
+179.233.31.87 0 2 211474 
+31.210.20.75 3 3 245058 20211020124525
+65.108.56.2 3 3 103179 20211013065937
+168.90.196.197 1 1 37373 20211013004914
+52.212.192.32 1 1 82311 20211027103913
+177.79.17.211 1 11 966351 20211006220322
+177.202.176.42 0 22 1046296 
+31.13.103.4 0 1 408133 
+179.181.179.38 2 13 1152246 20211006144616
+31.13.127.111 0 1 24 
+200.222.160.167 0 1 130449 
+35.163.177.165 1 1 82311 20211026183603
+173.252.107.22 0 1 235337 
+187.86.62.26 2 14 1927386 20211015085231
+187.86.225.151 3 48 2858129 20211022102509
+177.5.201.75 2 76 2447990 20211013181826
+45.191.214.250 0 1 105737 
+189.115.178.74 0 1 105737 
+5.157.14.244 1 1 38866 20211012115211
+54.214.117.252 1 1 81685 20211006173200
+177.79.19.179 1 11 853204 20211001123019
+170.150.241.164 0 5 4940176 
+168.181.43.8 2 2 165590 20211028220109
+191.184.128.112 0 1 105737 
+45.239.149.135 0 3 246870 
+187.7.246.99 7 20 2237290 20211021181220
+189.3.6.50 0 1 105737 
+89.115.244.162 0 1 378268 
+170.80.166.168 1 1 82166 20211014201204
+170.81.39.201 1 11 870240 20211002215547
+177.188.31.226 1 1 82166 20211014151816
+54.218.53.14 1 1 82166 20211015164455
+167.86.98.73 2 2 295112 20211024191529
+131.0.218.52 3 58 4161387 20211014203304
+78.47.50.213 1 1 81685 20211008174233
+177.79.24.234 2 17 1359406 20211005195154
+177.79.17.103 1 11 853204 20211025125907
+121.5.109.55 0 1 121200 
+189.39.99.245 4 20 1162503 20211017030206
+35.188.117.100 1 20 1537766 20211012092845
+34.217.126.61 1 1 81686 20211014175431
+168.232.55.206 1 4 262781 20211023120739
+200.96.241.79 4 28 2413802 20211018120923
+177.79.18.109 0 1 320643 
+178.33.226.228 1 1 81685 20211003184530
+170.83.178.201 0 1 262144 
+45.229.102.254 0 1 105737 
+143.208.84.226 0 1 130449 
+137.184.179.238 1 1 33850 20211026014353
+186.249.45.162 0 1 105737 
+177.79.25.213 2 63 2316320 20211011221004
+187.36.100.120 0 1 105737 
+45.188.253.3 0 1 105737 
+170.239.23.6 0 2 211474 
+190.15.111.226 0 1 105737 
+201.77.94.247 0 2 105737 
+138.99.95.10 0 1 105737 
+34.215.17.78 1 1 81685 20211001170212
+2.57.171.57 1 1 82165 20211008182557
+189.54.216.204 0 1 105737 
+179.152.252.120 1 1 82166 20211017202839
+173.252.107.24 0 2 436600 
+54.245.59.37 1 1 81686 20211018184413
+76.72.172.167 0 3 31631076 
+23.239.11.118 4 5 10720035 20211024133424
+179.108.174.22 0 1 105737 
+192.241.193.246 0 2 1655808 
+179.95.255.236 6 119 5252002 20211013202419
+177.143.194.234 0 1 105737 
+191.129.112.250 2 25 1744855 20211015182155
+45.135.187.55 3 3 246258 20211012172249
+200.140.19.41 2 76 2448469 20211008093210
+187.22.193.100 2 19 1476085 20211024171000
+189.83.225.51 0 1 299663 
+177.67.106.15 0 1 105737 
+177.193.194.207 0 1 105737 
+45.65.221.15 0 1 105737 
+187.120.159.19 0 1 340308 
+35.237.133.225 2 10 581252 20211022115838
+177.79.19.99 1 14 961732 20211008194609
+186.215.63.137 0 1 105737 
+189.74.59.5 0 1 655330 
+179.189.0.121 0 2 211474 
+187.120.154.76 2 76 2448470 20211021215218
+35.160.93.112 1 1 82311 20211030190520
+186.236.71.102 2 77 2456536 20211022170033
+177.22.241.10 0 1 105737 
+45.225.235.70 1 11 853183 20211016005509
+186.206.218.86 0 1 105737 
+201.68.219.191 0 1 105737 
+187.107.11.52 0 1 105737 
+179.183.214.42 0 1 92565 
+177.33.138.42 0 1 105737 
+34.221.154.246 1 1 82166 20211021190239
+189.48.231.217 0 1 105737 
+179.175.176.135 1 7 401628 20211019160658
+45.224.187.69 0 2 211474 
+177.63.239.150 0 1 105737 
+177.79.17.215 1 4 676326 20211017214914
+54.244.41.150 1 1 82165 20211005100307
+187.24.195.60 0 5 363611 
+191.177.175.112 0 1 105737 
+173.252.107.1 0 1 235337 
+186.250.101.2 2 12 915494 20211027160513
+177.220.177.204 0 1 105737 
+177.5.78.237 2 76 2448470 20211019100102
+186.219.222.48 2 25 15750120 20211021141509
+132.255.240.134 3 34 2456961 20211025214053
+147.182.252.238 3 3 100124 20211012214710
+173.252.107.116 0 1 130449 
+170.245.68.210 1 11 862766 20211007144418
+54.213.28.114 1 1 82311 20211027185837
+54.165.206.146 1 1 51445 20211018095340
+179.218.1.29 1 1 82166 20211020135106
+200.138.149.58 0 1 105737 
+177.0.91.132 0 45 2056715 
+45.178.176.152 1 1 81686 20211019015153
+186.220.240.37 0 1 105737 
+182.22.28.74 1 1 82165 20211002040942
+187.107.11.221 0 1 130449 
+179.162.31.25 1 1 82795 20211030123119
+189.40.76.82 2 17 1368975 20211016155708
+200.201.3.41 0 1 105737 
+31.13.127.8 0 1 130449 
+168.205.102.77 0 1 105737 
+191.32.84.123 1 5 290625 20211003011434
+144.76.162.206 0 1 209917 
+138.97.234.240 0 1 130449 
+170.81.37.97 8 306 9808084 20211025152731
+191.181.58.196 0 1 105737 
+186.226.229.66 0 1 105737 
+189.15.189.91 0 1 105737 
+143.255.64.126 1 1 82165 20211007052135
+66.220.149.29 0 1 24 
+34.221.60.232 1 1 82311 20211029182739
+177.42.46.95 1 11 872939 20211002194635
+177.92.112.18 0 1 94826 
+200.20.234.126 0 1 105737 
+65.154.226.165 2 76 2448469 20211003231938
+179.192.255.72 0 2 211474 
+204.101.161.19 3 77 2531265 20211025061148
+177.76.193.47 0 1 105737 
+191.191.232.182 0 1 105737 
+189.92.126.25 0 1 130449 
+187.120.159.123 0 1 105737 
+177.79.19.249 1 3 81685 20211002182953
+177.79.18.110 1 14 981966 20211008211212
+191.210.253.211 1 10 872613 20211014200152
+191.35.85.255 0 1 105737 
+143.198.145.127 4 5 10732313 20211011222026
+45.233.115.129 0 1 105737 
+20.52.0.124 3 3 246933 20211025115217
+186.249.192.93 8 34 1884875 20211014160617
+200.101.53.41 3 3 248385 20211030123204
+131.108.156.68 0 1 105737 
+187.61.164.227 0 2 211474 
+187.54.65.204 0 2 396254 
+187.113.73.111 8 176 6736419 20211006132923
+187.115.64.202 0 1 105737 
+177.5.78.133 4 80 2612799 20211004135512
+189.37.70.38 2 12 893300 20211030112418
+31.13.103.1 0 1 408133 
+144.202.103.47 3 3 476235 20211010225153
+201.48.192.245 0 1 105737 
+182.22.28.94 1 1 82795 20211027060031
+45.168.124.19 0 2 77985 
+185.153.176.46 1 1 82166 20211012153027
+177.63.215.165 0 1 130449 
+177.21.7.251 0 1 105737 
+187.25.44.108 1 14 961733 20211027075306
+177.221.200.150 0 1 105737 
+177.5.121.45 2 76 2447989 20211008214018
+131.161.228.89 0 7 480912 
+187.122.11.132 0 1 105737 
+177.4.177.133 2 77 2456536 20211030162732
+177.39.96.180 0 3 317211 
+3.237.199.191 1 1 120012 20211005174500
+138.36.82.148 0 1 105737 
+151.80.62.206 2 2 164332 20211020181821
+212.102.33.73 2 2 67929 20211006073638
+191.34.168.239 0 1 105737 
+177.54.148.164 0 1 105737 
+34.222.223.25 1 1 82166 20211022115058
+173.244.209.89 1 1 82311 20211022184922
+131.108.188.74 0 1 105737 
+187.44.206.73 1 1 82166 20211014003507
+191.17.103.47 0 1 105737 
+186.205.6.13 0 1 105737 
+51.195.130.70 1 1 82795 20211025182839
+177.207.193.109 0 1 130449 
+151.49.192.90 0 1 130449 
+177.79.24.124 2 14 1451532 20211004224106
+191.55.87.188 0 1 105737 
+177.79.26.93 1 11 853252 20211024121919
+192.0.98.182 0 1 54341 
+177.37.242.151 0 1 105737 
+177.98.80.189 0 1 105737 
+191.223.29.91 2 76 2447989 20211001122339
+191.188.105.22 0 1 299663 
+143.0.157.70 0 9 926843 
+177.64.157.79 0 1 105737 
+31.13.127.5 0 1 130449 
+34.134.212.188 1 17 1340485 20211013023056
+177.40.143.88 1 1 82795 20211028215958
+35.164.201.6 1 1 82311 20211025182828
+181.191.105.77 0 1 299663 
+187.56.254.60 0 3 169559 
+62.171.142.36 1 1 82795 20211028201314
+201.41.4.36 0 1 105737 
+179.152.18.61 0 1 105737 
+52.190.7.100 3 3 108546 20211007130859
+189.37.72.59 3 13 958155 20211026170355
+68.183.140.120 1 1 33849 20211007124915
+152.235.73.203 0 1 105737 
+177.79.19.34 6 29 2784651 20211028145656
+187.95.110.192 0 1 105737 
+66.249.88.122 1 3 181210 20211022224904
+201.71.26.242 0 1 130449 
+34.138.103.233 1 5 290626 20211021133350
+189.74.207.20 0 1 105737 
+74.125.213.11 4 4 326743 20211020112758
+201.0.149.135 0 1 105737 
+212.102.33.46 1 1 33850 20211012132141
+52.11.171.121 1 1 81686 20211010174158
+54.201.114.171 1 1 81685 20211007172506
+189.34.19.247 2 10 581251 20211014125209
+191.210.247.118 2 76 2447990 20211013205337
+172.98.199.109 0 1 262144 
+34.82.124.56 2 2 163850 20211009061003
+177.189.150.17 3 3 248385 20211028133817
+179.190.127.2 0 1 130449 
+189.6.30.49 0 1 105737 
+200.137.143.67 0 3 391347 
+177.79.27.188 1 6 415532 20211008124545
+179.107.194.222 0 1 130449 
+177.39.154.210 10 10 822915 20211031035235
+177.3.64.249 1 1 81686 20211022161948
+177.62.174.58 1 11 870241 20211014214708
+189.18.41.202 11 38 3056243 20211005085857
+200.175.139.180 2 2 164331 20211012153258
+179.187.138.81 0 1 270558 
+131.221.178.181 0 1 105737 
+66.249.83.9 1 1 82311 20211025000243
+54.202.247.205 1 1 81686 20211019183217
+177.92.255.7 6 90 3458302 20211011104720
+177.55.224.47 0 1 105737 
+177.10.63.150 0 1 105737 
+191.245.85.25 2 20 1691947 20211005104811
+35.161.64.34 1 1 81685 20211008174532
+45.4.132.171 0 1 105737 
+128.199.247.194 3 3 245055 20211008230140
+177.79.26.28 3 29 441232 20211004103643
+179.233.242.183 0 1 105737 
+201.80.168.28 7 7 576418 20211023103906
+177.201.114.244 0 1 105737 
+189.85.89.238 1 1 82165 20211008181755
+52.186.123.13 4 4 149254 20211008020117
+191.55.124.155 0 6 410105 
+187.36.165.173 1 1 82165 20211007105555
+187.66.130.124 3 78 2507497 20211028161030
+201.87.112.227 4 4 331180 20211031035235
+201.88.164.210 3 15 2626313 20211014163327
+178.208.92.250 1 1 81686 20211021022821
+200.140.63.127 0 1 105737 
+191.223.67.124 3 82 2657074 20211025174017
+54.244.169.129 1 1 81685 20211003170755
+177.92.39.79 3 3 248385 20211028170754
+177.3.206.226 4 154 4912104 20211030225727
+212.102.33.49 1 1 33849 20211006005430
+195.181.168.168 2 2 67931 20211020103357
+45.76.43.185 1 1 59388 20211010183940
+189.28.147.13 0 3 197326 
+177.79.19.152 0 4 377719 
+186.231.123.100 1 1 82795 20211029151336
+177.202.22.225 0 1 105737 
+189.0.198.254 0 1 105737 
+201.5.244.135 0 1 105737 
+148.78.1.75 0 1 94826 
+177.101.141.252 0 1 130449 
+138.219.51.220 0 1 105737 
+159.223.71.71 3 3 246933 20211023065528
+31.13.127.19 0 1 130449 
+34.213.123.233 1 1 82166 20211021214302
+201.50.134.218 1 1 82165 20211005214535
+177.23.247.6 0 1 314757 
+54.211.136.163 0 1 105737 
+74.125.213.7 5 5 408428 20211018093748
+216.98.213.24 0 1 105737 
+177.206.222.181 0 1 105737 
+191.36.130.226 0 1 130449 
+45.184.252.89 3 77 2530634 20211002010713
+34.198.133.198 1 1 82311 20211025143028
+49.12.203.87 6 6 232156 20211012003400
+170.247.30.65 1 1 82165 20211001104939
+45.170.237.96 1 1 82795 20211023203301
+170.246.0.41 0 1 105737 
+179.251.254.201 0 1 105737 
+179.97.122.178 0 1 105737 
+170.84.147.110 0 1 130449 
+189.6.16.184 1 1 82165 20211006090929
+186.206.140.29 0 1 105737 
+187.15.255.180 0 1 105737 
+186.251.101.250 0 1 130449 
+177.70.128.86 0 1 105737 
+52.214.239.75 1 1 82311 20211027101355
+13.239.25.114 3 3 245058 20211013002643
+187.32.161.136 0 1 105737 
+190.111.101.132 0 1 105737 
+179.108.241.239 0 1 105737 
+52.186.122.29 6 6 265939 20211008044010
+189.61.179.29 2 2 164330 20211001164753
+177.6.196.148 3 20 2350180 20211019165942
+191.222.171.18 1 11 853204 20211003095355
+170.245.250.251 0 2 211474 
+170.80.34.76 3 102 4369870 20211013124348
+179.254.57.17 0 1 105737 
+187.72.3.178 0 1 105737 
+179.189.79.84 0 1 105737 
+179.51.130.130 0 1 90351 
+168.90.79.104 0 9 325106 
+179.157.83.56 0 1 105737 
+50.112.152.126 1 1 81685 20211001171634
+170.80.33.133 1 11 870241 20211015120113
+194.36.96.103 0 1 98930 
+104.28.63.94 1 1 82166 20211011130615
+200.229.164.82 0 1 105737 
+179.189.134.85 0 3 211474 
+170.79.112.90 0 1 105737 
+179.113.225.151 0 1 105737 
+189.111.242.221 0 1 105737 
+201.76.166.50 0 1 105737 
+45.239.184.68 0 1 105737 
+161.35.91.81 1 1 34430 20211011005204
+177.79.63.15 0 2 104731 
+63.33.69.71 3 77 2530634 20211005180247
+189.113.51.214 1 11 856048 20211029195919
+177.37.141.244 1 11 856048 20211030074817
+178.128.39.143 4 4 162465 20211014025827
+212.102.33.246 1 1 33850 20211022100824
+177.79.19.167 0 1 5608 
+177.185.163.240 0 1 105737 
+187.109.98.192 2 12 910827 20211006171914
+179.182.66.161 0 1 267705 
+179.228.10.144 2 12 910829 20211025144808
+187.0.32.158 0 1 105737 
+2.34.25.94 4 4 328664 20211014225525
+177.79.26.64 2 77 2456536 20211026163926
+177.189.31.11 0 1 105737 
+187.95.111.122 0 1 105737 
+35.160.244.144 1 1 82165 20211005104155
+35.162.219.178 1 1 82311 20211030184045
+189.59.95.249 2 12 906708 20211004095941
+177.85.179.24 0 2 273384 
+179.182.66.241 2 77 2456536 20211028173533
+177.192.196.105 0 1 105737 
+177.23.149.89 0 1 105737 
+45.163.65.54 0 1 105737 
+177.43.79.174 1 11 870241 20211013115329
+54.149.142.102 1 1 82311 20211025185620
+115.113.186.211 2 2 118162 20211026225842
+187.122.102.229 0 1 39479 
+143.255.253.57 0 1 105737 
+52.25.172.48 1 1 81686 20211018184428
+138.68.191.31 2 2 72734 20211007213613
+177.30.35.132 1 1 82166 20211022045833
+177.72.6.202 0 1 299663 
+187.95.106.197 5 5 412717 20211025011847
+161.35.91.105 3 3 123783 20211012121951
+49.12.219.109 1 1 51444 20211008143118
+18.225.25.214 3 4 810304 20211005174501
+31.13.127.24 0 1 130449 
+152.254.202.15 0 1 105737 
+147.182.242.109 3 3 149506 20211007084147
+91.219.212.196 1 1 81685 20211007055602
+31.13.127.9 0 1 130449 
+177.38.180.75 0 1 105737 
+104.196.17.86 1 5 290625 20211006154630
+187.71.147.65 0 5 363611 
+66.249.80.39 3 3 245681 20211028001753
+170.82.180.120 0 1 130449 
+191.55.92.249 2 17 1453324 20211029110659
+35.193.158.236 1 19 1519833 20211026123730
+107.181.178.104 1 1 82311 20211029230846
+177.73.39.15 0 2 211474 
+189.40.79.242 1 1 82165 20211007182828
+187.19.247.21 0 1 39479 
+45.238.42.140 0 2 211474 
+154.118.217.68 0 1 105737 
+189.51.6.150 0 1 105737 
+45.160.192.199 0 1 105737 
+179.255.55.143 7 19 2002597 20211030174858
+170.233.51.32 0 4 211474 
+179.197.111.222 0 1 105737 
+45.236.182.39 1 12 1220610 20211008232242
+179.168.74.194 0 1 105737 
+177.79.107.38 1 12 540123 20211001144811
+177.189.150.28 0 1 105737 
+186.235.83.150 0 4 391347 
+177.101.46.14 0 1 105737 
+177.1.85.62 2 23 1727834 20211008122114
+186.215.135.98 2 13 1566157 20211006083145
+189.5.178.213 0 1 105737 
+189.24.141.42 0 1 105737 
+189.5.176.18 0 1 105737 
+168.90.196.155 1 1 36374 20211013010900
+191.47.48.9 0 1 105737 
+52.89.92.201 2 2 164622 20211029025701
+131.221.160.195 0 1 130449 
+189.59.203.114 0 1 105737 
+131.0.218.33 2 25 1635463 20211013155657
+177.79.26.204 3 13 1050911 20211012094854
+52.11.163.97 1 1 81686 20211021185805
+177.194.224.59 0 1 825066 
+45.179.178.225 1 11 853182 20211003084620
+189.54.223.179 0 1 105737 
+66.249.83.213 8 8 655360 20211030120144
+177.38.22.56 0 4 212514 
+179.214.136.106 1 11 870240 20211006211638
+31.13.127.1 0 1 130449 
+187.11.203.118 0 1 105737 
+31.13.127.38 0 2 260898 
+104.196.115.251 1 5 290626 20211026015042
+143.110.231.72 3 3 104091 20211013174033
+177.220.172.243 0 1 105737 
+200.233.167.48 0 1 105737 
+177.106.54.69 0 1 105737 
+66.249.88.120 1 3 131328 20211022224904
+177.5.224.227 0 1 123009 
+34.211.144.171 1 1 81685 20211008172434
+177.101.118.60 0 1 105737 
+45.233.104.42 0 1 105737 
+34.247.181.105 1 1 82311 20211028070741
+200.169.177.192 0 1 105737 
+177.206.134.45 0 1 105737 
+170.80.32.221 1 11 853183 20211031220446
+52.186.86.231 9 9 410447 20211008015153
+187.121.11.53 0 1 105737 
+45.6.110.39 1 11 862766 20211004203911
+23.108.86.13 1 2 327892 20211013005230
+177.79.104.240 0 5 248304 
+45.236.182.240 2 76 2448469 20211002204244
+191.186.190.184 0 2 211474 
+217.182.228.54 1 1 82165 20211004135340
+189.15.233.119 0 1 105737 
+46.38.232.96 1 1 81686 20211014164353
+171.8.173.156 1 1 81686 20211011050958
+54.204.247.33 1 1 81686 20211019131109
+194.187.171.105 1 1 82166 20211012102223
+191.253.110.16 0 1 105737 
+177.6.81.152 8 188 5112437 20211022191509
+191.34.100.0 1 12 972495 20211019153904
+92.38.178.120 3 3 245058 20211018171340
+201.55.194.126 2 2 164332 20211016033947
+191.250.57.42 0 1 105737 
+177.85.204.126 0 1 105737 
+45.166.66.120 0 1 105737 
+54.200.12.105 1 1 81686 20211011175001
+170.245.25.42 0 1 105737 
+54.173.214.231 0 1 655330 
+177.79.24.98 1 11 804461 20211001192414
+191.186.230.221 0 1 105737 
+104.131.94.201 1 1 82795 20211031103326
+34.222.143.240 1 1 81685 20211009171343
+179.110.13.244 0 1 105737 
+54.69.44.30 1 1 81686 20211021182945
+190.107.91.81 1 1 82795 20211023095502
+201.40.30.66 1 25 1789182 20211020111703
+170.81.39.139 3 77 2530634 20211002224031
+201.75.171.93 0 1 105737 
+189.40.79.161 4 6 705993 20211008111534
+199.127.56.236 2 76 2447989 20211003152703
+143.0.165.252 0 1 105737 
+45.179.178.48 6 16 1071119 20211007145211
+45.4.111.62 2 76 2448469 20211002201953
+177.235.137.15 1 1 82166 20211016075857
+165.225.214.123 0 1 105737 
+195.246.120.143 1 1 81686 20211019140615
+170.150.7.64 0 1 105737 
+179.174.57.105 1 1 82795 20211028055942
+35.85.217.171 1 1 81685 20211008172426
+35.86.76.204 1 1 82311 20211022181757
+177.25.233.48 0 6 369393 
+177.87.34.2 2 2 165590 20211028215958
+168.197.154.17 0 1 105737 
+189.9.36.2 1 14 967740 20211004104022
+45.181.94.18 0 1 105737 
+208.100.26.247 1 1 82166 20211013062756
+45.129.18.247 1 1 0 20211016202528
+54.214.208.178 1 1 82795 20211027191111
+186.206.106.143 0 1 105737 
+187.5.12.228 0 10 579910 
+187.49.227.84 0 1 105737 
+143.0.48.137 0 1 105737 
+35.86.106.27 1 1 81686 20211015170726
+131.0.218.43 0 1 5356679 
+187.32.49.219 0 1 130449 
+177.79.16.99 1 22 1239962 20211004092759
+179.177.55.206 0 1 42817 
+189.70.51.148 0 1 105737 
+177.5.251.3 4 152 4895978 20211001220125
+190.107.90.174 1 1 82166 20211020012613
+185.98.12.13 5 5 408425 20211005082007
+37.120.202.6 1 1 33966 20211026152604
+45.120.50.8 0 1 61387 
+45.163.95.117 2 12 1017797 20211025152648
+200.33.158.87 2 2 67932 20211026023926
+187.55.141.73 2 12 889393 20211004121327
+170.233.32.116 8 8 657326 20211019233624
+116.203.32.218 5 5 176554 20211013191841
+182.22.28.81 1 1 82165 20211009022037
+152.254.149.251 1 12 1525570 20211004144313
+189.59.55.51 0 1 105737 
+201.94.208.49 1 1 51445 20211018095243
+189.40.81.126 0 1 105737 
+45.162.224.184 0 1 105737 
+186.232.53.139 0 1 105737 
+191.136.243.73 0 1 105737 
+189.59.83.139 1 5 309421 20211009200517
+201.15.195.89 0 1 105737 
+177.67.70.191 0 1 176093 
+177.55.180.152 2 13 1169766 20211027213532
+54.38.153.180 2 2 163852 20211020182511
+189.115.99.174 1 12 1108276 20211008163424
+179.93.5.44 1 11 870241 20211016120156
+66.249.88.139 2 2 163372 20211017143406
+52.12.128.248 1 1 82795 20211022204127
+192.99.180.187 1 1 82165 20211008110138
+177.62.155.85 1 5 290626 20211026054336
+177.79.25.239 1 11 853205 20211029104449
+177.194.253.49 0 1 531299 
+198.98.183.48 1 1 82311 20211028053547
+177.195.5.248 0 1 105737 
+177.83.13.102 1 13 1100589 20211007221421
+66.249.80.49 2 2 164622 20211030000353
+181.191.135.203 0 1 130449 
+201.80.252.86 4 99 4197139 20211028181315
+177.12.30.140 0 2 211474 
+135.181.199.252 0 1 130449 
+189.34.237.212 0 1 105737 
+177.69.18.130 0 1 130449 
+173.252.107.119 0 1 306151 
+89.38.227.142 1 1 81686 20211014145153
+20.108.187.112 3 3 246933 20211028071030
+181.215.127.82 1 1 82166 20211022002130
+177.10.5.79 0 7 490885 
+131.221.134.6 2 2 164961 20211031022106
+187.11.18.73 0 1 105737 
+177.69.213.210 0 1 105737 
+168.90.196.191 1 1 38734 20211013010451
+201.16.144.85 0 1 130449 
+189.19.116.174 0 3 317211 
+187.65.121.110 0 1 105737 
+187.122.244.99 0 3 211474 
+200.181.118.131 1 2 203366 20211020104726
+34.70.172.63 3 3 197058 20211028165046
+66.249.83.103 1 1 81686 20211013202655
+173.252.87.19 0 1 130449 
+177.183.236.32 0 1 105737 
+191.249.116.179 4 89 3601606 20211021125517
+187.60.149.243 0 1 105737 
+66.249.83.107 1 1 81686 20211020234319
+177.15.83.46 2 76 2447990 20211020192605
+168.227.216.208 0 1 105737 
+190.119.185.250 3 3 245058 20211017220251
+164.163.156.238 0 1 105737 
+179.254.136.37 0 1 83362 
+152.249.82.181 0 1 105737 
+191.19.39.244 0 1 105737 
+170.247.30.131 1 1 82166 20211022114450
+212.102.33.159 2 2 67698 20211003003907
+191.253.13.239 0 1 105737 
+138.121.95.30 0 1 105737 
+35.85.223.25 1 1 81686 20211012173152
+177.205.107.49 0 5 4906336 
+179.220.215.213 0 1 91854 
+144.91.87.121 1 5 1197428 20211012103636
+177.38.154.70 0 1 105737 
+170.244.176.196 0 1 105737 
+177.0.24.26 0 1 105737 
+177.132.146.168 1 11 870240 20211001164059
+187.44.76.194 0 1 91854 
+45.166.203.0 2 76 2448469 20211002210620
+177.79.18.236 0 1 825066 
+66.249.80.43 1 1 82311 20211028105426
+189.60.18.8 1 1 82795 20211030065355
+177.134.106.197 0 1 105737 
+191.34.104.228 0 1 409716 
+189.103.78.247 2 76 2448470 20211018123042
+45.163.94.104 1 1 54144 20211031115755
+187.54.112.200 0 1 105737 
+177.190.209.35 0 1 105737 
+66.249.88.47 1 4 480997 20211021090737
+54.214.163.71 1 1 81686 20211010174149
+177.30.35.185 2 2 164332 20211020012611
+177.58.239.11 0 1 105737 
+116.203.21.171 2 2 71830 20211014001827
+177.54.201.158 2 2 164960 20211031182509
+179.183.65.160 1 14 957823 20211019122134
+177.158.139.73 0 1 105737 
+177.79.19.193 2 16 1064083 20211017101753
+101.128.117.215 9 9 742251 20211027162300
+170.233.247.86 0 2 211474 
+208.100.26.249 1 1 81685 20211004013828
+52.43.79.159 1 1 82166 20211021183808
+45.231.138.67 0 1 130449 
+31.13.127.12 0 2 260898 
+205.169.39.117 3 79 2654606 20211003231835
+34.212.140.98 1 1 81686 20211013172901
+187.87.222.201 0 1 105737 
+177.17.192.120 2 76 2448469 20211002205420
+177.12.220.2 1 1 82795 20211030123119
+191.33.204.56 1 11 872940 20211020165541
+179.253.6.240 0 1 655330 
+177.4.179.141 3 78 2507497 20211029142423
+187.22.134.50 0 3 317211 
+189.103.138.41 0 1 130449 
+200.150.119.187 4 4 328664 20211013154652
+42.236.10.75 0 4 228171 
+177.87.105.3 0 1 105737 
+177.101.36.5 2 76 2448470 20211014182101
+179.253.26.132 4 91 3386307 20211022190322
+31.134.125.80 1 1 82311 20211024092545
+66.249.83.211 10 10 817481 20211023114318
+34.219.215.46 1 1 81686 20211019182924
+179.255.147.185 1 1 82166 20211011143821
+177.79.27.194 5 29 1930841 20211008160720
+177.79.25.180 1 14 961733 20211027092707
+31.13.127.120 0 1 130449 
+177.79.27.165 2 37 1803658 20211001205635
+201.11.135.187 0 3 317211 
+189.79.96.190 0 1 105737 
+209.222.82.228 1 1 82165 20211005180515
+93.158.91.252 1 1 81685 20211001082113
+35.232.93.196 1 69 2155243 20211012075343
+200.140.161.182 0 1 105737 
+200.71.105.6 0 1 299663 
+177.5.254.214 1 5 338825 20211003142039
+170.80.32.227 7 182 7029501 20211021185351
+177.79.19.61 1 26 1921401 20211027222606
+171.8.173.121 1 1 0 20211014084747
+177.36.185.158 0 1 105737 
+109.191.198.125 7 7 575270 20211027185433
+177.102.219.244 0 1 105737 
+34.125.19.251 2 2 165590 20211024173007
+177.79.16.9 1 14 961732 20211004163508
+177.66.224.18 0 1 105737 
+177.220.177.68 0 2 211474 
+20.102.55.130 3 3 246933 20211023091929
+54.185.189.36 1 1 82165 20211005095157
+194.187.171.140 1 1 82166 20211020044604
+105.172.103.202 0 1 299663 
+143.198.153.253 2 2 68236 20211011144934
+179.201.196.23 1 11 856048 20211030134901
+177.79.25.63 2 29 2073795 20211030164819
+187.25.41.86 1 1 51445 20211023184039
+177.79.16.106 1 14 961733 20211022105010
+179.232.149.49 0 1 105737 
+23.100.232.233 2 29 3933942 20211002115652
+170.80.33.139 2 12 1113906 20211001100422
+3.81.49.187 0 1 105737 
+189.115.98.3 6 90 3461704 20211006104621
+191.205.120.86 0 1 105737 
+179.208.126.62 0 1 105737 
+151.80.62.207 1 1 82166 20211013185745
+191.255.58.59 1 5 290625 20211005204713
+50.3.193.245 0 1 198127 
+213.32.113.142 1 1 0 20211012235057
+177.25.184.119 1 6 489091 20211019193312
+179.185.90.136 5 91 14601920 20211005162334
+45.170.21.185 0 1 105737 
+181.223.1.58 0 1 105737 
+186.208.27.193 1 11 853204 20211005213146
+187.36.108.99 2 76 2447990 20211017194742
+177.30.77.61 0 1 105737 
+189.114.3.230 0 1 106107 
+104.128.21.214 1 1 81685 20211009113535
+54.202.114.17 1 1 82166 20211015160437
+52.114.128.147 0 1 105737 
+187.86.225.152 0 1 825066 
+52.12.179.228 1 1 81686 20211015173410
+173.252.107.21 0 1 235337 
+177.124.94.79 0 2 211474 
+189.10.59.170 0 1 90351 
+201.52.86.10 0 1 105737 
+147.182.252.188 2 2 129217 20211007212226
+173.252.107.118 0 1 24 
+189.105.11.238 0 3 197726 
+173.252.107.7 0 1 306151 
+64.227.10.64 1 1 33849 20211001143621
+187.20.154.80 0 1 105737 
+199.187.126.46 0 2 21087384 
+45.6.230.171 2 7 648092 20211003163456
+177.104.127.106 0 1 105737 
+45.4.59.243 0 1 105737 
+179.127.71.37 3 3 245055 20211009063037
+201.57.89.201 2 77 2456536 20211025130857
+191.193.56.165 0 1 105737 
+179.192.37.231 0 1 105737 
+177.6.101.182 2 76 2447990 20211016203420
+201.148.250.80 2 18 1352573 20211016185454
+177.104.251.0 0 2 145938 
+76.236.30.200 1 1 81686 20211022044545
+187.95.164.122 1 1 82166 20211019233620
+45.168.16.66 0 1 130449 
+45.4.111.121 4 152 4896938 20211002223353
+170.247.30.235 2 2 164330 20211006134325
+177.185.26.176 0 1 130449 
+35.160.18.41 1 1 82311 20211026185105
+177.79.16.55 1 1 82165 20211006211025
+137.184.184.67 3 3 246933 20211026002900
+201.67.85.225 1 11 855450 20211001193048
+191.37.24.212 0 1 105737 
+201.17.159.105 1 1 82166 20211011130700
+177.3.200.221 2 76 2447990 20211018212921
+191.33.203.171 0 1 409716 
+187.19.205.228 2 21 1510168 20211003152807
+177.6.250.37 5 165 6166962 20211027110804
+168.181.43.9 1 1 82795 20211031035516
+201.22.37.218 1 11 870240 20211007094210
+200.100.188.215 0 1 105737 
+177.47.172.52 0 1 105737 
+177.125.202.41 0 1 105737 
+52.190.7.92 8 8 316440 20211009055027
+179.124.11.129 1 1 51444 20211004164902
+177.156.151.99 0 1 105737 
+170.81.39.192 0 1 47419 
+191.13.25.210 2 12 921686 20211018161450
+143.198.145.52 2 2 73037 20211013171100
+147.182.252.228 3 3 103228 20211011232313
+189.34.224.139 0 1 105737 
+179.185.90.159 5 24 3995267 20211029164915
+201.16.206.41 0 1 105737 
+45.4.109.248 3 79 2525034 20211002213550
+177.79.24.60 4 27 1893899 20211027093628
+170.82.105.100 0 1 105737 
+177.6.100.169 6 231 7368156 20211028152941
+187.181.232.121 0 1 105737 
+35.231.171.240 1 5 290625 20211008155310
+51.68.180.154 2 76 2447990 20211014043403
+186.220.197.171 0 1 105737 
+179.255.54.232 0 1 10543692 
+132.255.243.189 1 11 966351 20211008172330
+177.5.200.67 1 2 101136 20211022225052
+177.104.11.69 0 1 299663 
+35.162.11.141 1 1 82166 20211022115941
+177.54.236.101 2 76 2448470 20211019195348
+54.87.192.249 5 5 210644 20211005174502
+54.218.246.119 1 1 81686 20211010174536
+189.111.35.30 4 4 328664 20211016033947
+200.201.3.37 0 1 40201 
+66.249.83.219 1 1 82311 20211026231926
+187.85.81.182 0 1 105737 
+177.56.186.63 0 7 480192 
+177.6.196.88 2 76 2447989 20211004205644
+34.68.168.173 4 4 326980 20211004075939
+170.239.70.137 0 1 105737 
+177.87.253.250 0 1 130449 
+54.37.100.113 1 1 82166 20211015085110
+201.16.191.234 0 2 211474 
+177.67.106.62 0 2 211474 
+177.65.158.30 2 76 2448470 20211021194726
+172.225.82.136 1 1 82165 20211008073429
+170.83.174.186 0 1 299663 
+69.171.251.21 0 1 163906 
+45.120.50.47 0 1 8331 
+131.100.135.14 0 1 105737 
+171.109.216.41 1 1 51984 20211027025757
+34.212.137.95 1 1 81686 20211020180332
+177.22.222.64 4 14 1009596 20211007183301
+104.128.16.179 1 1 81686 20211011031641
+168.227.187.200 1 1 82795 20211023203259
+177.1.201.187 4 79 2928803 20211019170102
+191.187.128.102 1 5 290626 20211013175051
+45.162.238.193 0 1 91854 
+131.196.76.57 0 3 317211 
+187.60.250.75 0 1 105737 
+179.214.185.103 1 11 870240 20211007095028
+128.119.245.89 4 4 329292 20211027113035
+191.96.13.42 1 1 33966 20211025202502
+168.194.227.211 2 76 2450569 20211022090050
+143.255.255.108 2 2 164332 20211014073225
+191.7.166.93 0 1 105737 
+186.194.213.160 0 1 105737 
+51.83.190.248 1 1 81685 20211009183611
+179.51.156.71 0 1 105737 
+179.185.54.233 0 2 211474 
+189.2.222.178 0 1 105737 
+168.195.101.240 0 1 105737 
+34.212.176.209 1 1 81685 20211002172357
+187.87.68.59 4 14 975426 20211003225452
+177.15.87.181 0 1 130449 
+177.6.214.202 6 94 3547907 20211018130131
+170.254.26.44 1 5 290626 20211029140606
+177.73.82.186 2 2 164330 20211006134520
+187.73.144.229 2 72 2383536 20211018123056
+65.21.244.138 1 1 34404 20211011052831
+103.136.202.122 9 9 740799 20211027063947
+45.229.81.153 0 2 211474 
+130.61.105.115 0 1 47298 
+200.189.118.136 0 1 105737 
+168.121.54.65 0 1 105737 
+3.145.5.83 0 2 249131 
+187.115.52.129 0 1 105737 
+156.146.63.150 1 1 82165 20211004030409
+189.6.112.62 1 5 290626 20211024222927
+177.6.101.141 9 305 9873641 20211001180206
+186.218.116.143 0 2 211474 
+3.239.45.78 1 1 34511 20211005174459
+187.55.186.92 0 1 105737 
+104.128.22.142 1 1 81686 20211011031552
+189.89.187.254 0 1 105737 
+187.107.11.113 0 1 130449 
+200.172.91.146 0 1 105737 
+34.215.83.193 1 1 82166 20211020233229
+177.34.4.195 9 35 1790437 20211006191255
+177.235.119.242 1 11 966352 20211031205908
+177.79.69.40 0 2 441843 
+186.249.226.22 0 1 105737 
+187.4.191.214 1 11 870241 20211018213825
+201.150.52.196 0 1 219493 
+191.196.244.97 1 14 961733 20211015204617
+201.34.241.227 1 1 82311 20211025122022
+177.139.165.144 0 1 105737 
+177.79.27.3 2 77 2456052 20211026235317
+138.68.63.63 1 1 3266 20211023123223
+170.81.39.242 0 1 49021 
+45.163.95.30 0 1 198127 
+177.53.84.88 0 21 1039376 
+138.94.205.207 0 1 105737 
+115.87.196.27 2 2 117537 20211018151955
+191.34.182.138 0 1 105737 
+194.187.171.135 1 1 82795 20211027061957
+156.146.36.76 2 2 67931 20211018160713
+45.71.104.112 2 76 2448470 20211019184555
+52.138.115.125 0 1 277504 
+189.4.10.122 0 1 105737 
+170.254.73.250 0 1 130449 
+177.138.80.94 0 1 105737 
+138.204.27.67 1 27 1924427 20211013170704
+200.201.138.128 6 90 3543324 20211010144334
+34.238.242.172 0 1 105737 
+170.238.53.172 2 76 2448469 20211002212030
+179.214.4.245 1 1 82165 20211005214512
+177.84.61.89 0 1 105737 
+54.67.59.159 2 6 356374 20211017045803
+125.46.244.10 1 1 81686 20211012021708
+177.235.108.141 0 1 105737 
+177.184.202.198 0 1 105737 
+189.112.163.139 0 1 105737 
+177.2.133.28 0 1 105737 
+201.71.146.201 0 1 105737 
+170.81.54.72 1 1 33849 20211006200318
+177.79.27.21 4 36 2554626 20211027112213
+201.52.13.125 0 1 105737 
+85.208.98.17 1 1 81686 20211012095840
+179.10.98.121 1 16 796550 20211021092833
+131.100.249.193 0 1 105737 
+201.148.103.130 0 1 105737 
+179.186.34.239 1 1 82166 20211016075929
+191.186.190.216 0 2 211474 
+45.182.195.252 7 7 578305 20211030123117
+189.47.228.225 2 2 164961 20211028014505
+131.0.218.83 1 12 6212208 20211030110143
+206.189.123.235 3 3 106701 20211012195108
+138.204.26.196 0 1 105737 
+187.127.157.210 0 1 105737 
+54.245.17.130 2 2 165590 20211029142656
+45.4.140.179 0 1 105737 
+66.102.6.82 1 1 81686 20211015092443
+201.57.89.197 2 73 2386113 20211005130657
+45.183.183.15 0 1 299663 
+186.216.100.192 0 1 105737 
+45.234.64.170 0 1 105737 
+177.79.17.131 1 26 1921401 20211023160459
+144.202.102.223 2 2 68796 20211012233154
+146.148.71.136 1 9 801769 20211007005056
+50.3.193.14 1 1 52719 20211013010644
+52.11.116.191 1 1 81685 20211005174526
+45.76.42.71 2 2 82365 20211012002831
+177.79.27.31 1 15 269309 20211006113306
+177.79.17.234 1 14 961733 20211022101638
+200.206.154.3 1 1 82166 20211012153400
+170.239.6.39 0 7 480552 
+201.41.179.46 0 1 105737 
+45.6.110.36 1 27 1948534 20211019170616
+177.33.91.187 2 10 581251 20211022145006
+187.66.128.172 7 27 2179066 20211014101856
+52.39.180.104 1 1 82795 20211022203241
+201.2.177.169 0 1 105737 
+191.36.173.41 1 15 991019 20211011141442
+191.55.150.245 0 1 105737 
+177.81.230.61 1 5 290626 20211010195629
+179.219.144.103 0 1 105737 
+176.166.241.240 0 1 105737 
+170.84.228.204 1 1 33850 20211023064340
+46.98.213.62 3 3 245058 20211016024143
+84.247.48.7 1 1 81686 20211013205202
+189.9.60.23 3 4 352232 20211006134324
+13.64.93.136 5 5 410828 20211022163611
+54.77.135.67 1 1 82311 20211028053849
+147.182.252.201 2 2 98009 20211011221045
+168.121.248.5 0 1 39479 
+177.6.98.62 2 77 2456052 20211022220701
+177.79.25.205 2 10 340339 20211028121401
+201.33.249.94 0 3 211474 
+191.184.254.75 0 1 105737 
+177.221.180.69 0 1 5356679 
+54.201.185.109 1 1 81685 20211002171100
+200.52.28.195 0 1 130449 
+148.78.3.70 2 30 2064070 20211013133134
+200.198.198.76 0 1 105737 
+177.44.222.107 0 1 105737 
+170.84.28.203 0 1 105737 
+189.111.217.10 3 5 433639 20211001120433
+177.7.57.97 0 1 105737 
+177.5.200.223 2 76 2447989 20211003110841
+187.95.164.171 1 1 82165 20211004123454
+161.35.91.76 5 5 245858 20211012161355
+177.103.45.90 2 6 324592 20211020011739
+191.253.126.197 1 1 82165 20211006123036
+79.137.1.39 1 1 82795 20211022203331
+179.180.141.78 0 1 105737 
+189.73.170.139 0 1 105737 
+167.250.18.32 0 3 211474 
+179.189.144.18 0 1 130449 
+191.34.106.182 1 11 870240 20211005174145
+179.179.76.124 0 1 105737 
+131.221.225.31 0 1 105737 
+201.22.59.108 0 1 105737 
+66.249.88.51 0 3 106536 
+54.201.148.178 1 1 82311 20211031184206
+170.79.96.116 0 1 105737 
+201.148.115.129 1 1 82165 20211008072248
+147.182.242.84 3 3 107316 20211014020115
+50.3.193.117 0 1 612409 
+177.87.106.202 0 1 130449 
+177.39.218.97 0 1 105737 
+179.191.238.196 0 1 105737 
+191.255.205.134 0 2 211474 
+177.79.26.200 3 81 2625430 20211003022458
+177.79.19.189 2 40 1760028 20211011095026
+182.22.28.73 1 1 82165 20211007060156
+187.4.64.27 0 1 825066 
+189.115.98.155 1 12 1751396 20211007092214
+187.72.242.0 0 1 105737 
+186.235.143.216 0 1 130449 
+201.55.31.222 0 1 409716 
+191.216.92.181 1 4 178841 20211004163008
+54.190.132.68 1 1 82311 20211023183754
+170.246.184.69 2 12 904089 20211003093136
+187.25.43.62 5 9 556399 20211029172744
+177.149.176.110 0 3 548110 
+66.249.93.124 1 1 82165 20211005180250
+200.201.3.33 0 2 211474 
+177.55.205.253 0 1 105737 
+187.114.138.151 0 1 105737 
+3.83.88.142 1 1 82795 20211029142655
+159.223.69.220 1 1 82311 20211026133353
+170.83.178.103 1 1 52107 20211013022109
+34.121.86.22 2 28 1700296 20211027035228
+179.214.192.202 0 1 105737 
+179.215.248.95 0 1 130449 
+177.185.220.28 0 1 391060 
+187.67.23.76 0 1 105737 
+186.233.20.18 0 1 340308 
+46.98.212.216 10 10 816851 20211010041540
+177.79.106.77 0 1 109164 
+54.202.220.109 1 1 81685 20211006171153
+187.53.59.225 4 35 3086357 20211025154420
+187.107.10.13 0 2 211474 
+177.3.206.158 1 4 90232 20211025205009
+187.44.206.168 1 1 82166 20211014073225
+45.226.119.72 0 1 5356679 
+159.89.39.137 1 1 3266 20211023123431
+177.128.59.195 3 79 2530634 20211006192401
+177.79.26.228 4 86 2984128 20211011131840
+177.41.61.253 0 1 130449 
+177.79.18.16 2 4 159361 20211023080549
+3.145.11.84 4 12 795187 20211031113421
+189.121.113.184 0 1 105737 
+179.0.46.104 3 79 2526260 20211002210308
+177.6.81.215 1 14 961733 20211013093914
+189.112.94.173 8 76 2243950 20211004092307
+201.67.110.143 0 1 105737 
+181.223.183.210 0 1 105737 
+177.159.23.203 0 2 211474 
+177.74.190.88 0 1 105737 
+147.182.242.131 1 1 34409 20211011153628
+34.220.215.143 1 1 81686 20211014173610
+191.196.212.35 4 17 1741088 20211020200153
+191.210.252.150 0 1 896091 
+191.7.196.178 0 1 130449 
+177.3.204.232 2 77 2456052 20211029144721
+18.237.71.136 1 1 81685 20211005180250
+45.178.34.175 0 1 105737 
+177.1.82.210 2 22 1743181 20211028153729
+189.36.131.253 0 1 105737 
+177.79.26.23 1 14 961732 20211007161801
+189.4.240.228 0 3 211474 
+34.221.160.68 1 1 82311 20211022181648
+189.46.254.157 0 1 105737 
+179.178.233.57 0 1 37935 
+179.93.221.82 0 1 105737 
+170.83.122.246 9 9 740118 20211025131713
+112.213.221.217 0 2 145938 
+189.103.72.25 4 43 2924065 20211021101852
+161.35.91.198 4 4 158485 20211013212445
+177.79.26.209 3 82 2682536 20211011104107
+3.216.62.102 1 1 82311 20211028084331
+177.9.219.16 1 5 290625 20211008035011
+177.103.25.207 0 4 221714 
+186.235.59.92 7 19 2821930 20211004143036
+187.37.42.158 0 1 105737 
+200.148.107.174 0 3 202423 
+45.190.162.29 1 11 853182 20211001162431
+182.22.28.100 1 1 82166 20211022035957
+186.220.223.163 0 1 167277 
+184.73.3.113 1 1 82165 20211006134532
+45.236.226.59 4 23 1721808 20211021225418
+54.190.193.243 1 1 82795 20211022204057
+45.174.158.149 7 161 5517491 20211004145235
+34.213.42.202 1 1 82166 20211021213133
+52.190.7.172 6 6 283759 20211007122336
+177.3.207.20 2 5 461400 20211021104133
+52.88.132.112 1 1 82311 20211028180840
+178.208.94.19 1 1 81686 20211021022821
+201.92.4.144 1 1 82165 20211004033215
+189.100.69.5 0 1 105737 
+34.222.60.131 1 1 82166 20211015163347
+34.217.4.65 2 2 163370 20211009171312
+66.249.85.54 1 1 82795 20211022224903
+191.202.158.198 2 76 2448470 20211018224028
+200.201.3.35 0 1 105737 
+201.76.68.206 0 2 599326 
+170.83.176.109 0 1 94826 
+189.5.148.65 0 1 105737 
+191.23.25.179 2 2 164330 20211007182626
+177.107.86.180 0 1 105737 
+177.98.74.157 0 1 105737 
+3.92.71.99 1 1 81685 20211005083034
+187.73.151.241 10 10 824175 20211028055943
+138.94.190.210 0 1 105737 
+194.36.99.134 1 1 33850 20211012162729
+177.25.231.51 1 21 1480720 20211010210848
+179.55.89.133 0 1 105737 
+177.83.162.102 0 4 302983 
+187.11.108.57 4 12 649182 20211013140859
+176.74.192.85 2 2 163371 20211020163928
+177.3.36.157 2 76 2447989 20211009231853
+186.216.253.243 0 1 105737 
+144.91.80.191 2 2 163850 20211003100216
+181.191.238.241 1 1 82795 20211030123119
+138.0.83.50 0 1 167277 
+177.79.19.74 1 15 1282376 20211014140046
+200.183.81.125 0 3 212499 
+45.226.116.167 0 1 105737 
+177.3.204.117 6 228 7343970 20211013083034
+34.224.78.148 1 1 81685 20211001094411
+116.203.34.66 4 5 10703247 20211013143321
+201.54.48.185 0 1 409716 
+191.13.115.87 0 1 105737 
+189.60.255.147 0 3 212499 
+34.220.69.149 1 1 81686 20211020180327
+119.243.24.160 3 16 7123434 20211008070355
+197.148.32.194 0 1 105737 
+177.25.230.120 2 25 1834872 20211009171114
+201.140.238.110 0 1 299663 
+45.65.182.46 2 12 893300 20211025195541
+186.233.5.0 5 28 3127406 20211031084541
+201.28.197.75 2 13 898979 20211007083538
+189.3.255.114 0 1 105737 
+186.233.252.32 0 1 130449 
+177.115.1.230 0 3 197446 
+187.72.92.234 1 11 870240 20211007120547
+187.95.164.157 3 3 246495 20211006054208
+54.188.46.119 1 1 81686 20211013170728
+189.6.247.43 0 1 105737 
+179.254.221.240 2 76 2448470 20211011095425
+200.152.78.236 0 1 105737 
+178.128.18.254 3 3 246933 20211027205247
+179.98.178.222 0 1 167277 
+187.76.1.82 0 1 105737 
+45.129.18.84 1 1 0 20211012190618
+65.108.52.60 1 1 32199 20211013225618
+170.233.32.2 1 1 82165 20211004123455
+179.156.208.161 0 16 3511888 
+136.143.177.61 2 2 116132 20211018205141
+170.83.1.124 0 1 130449 
+187.27.137.193 0 1 91854 
+190.89.168.39 0 1 167277 
+189.6.31.82 0 1 105737 
+177.134.250.185 0 1 130449 
+177.181.242.181 1 1 82165 20211001165336
+31.13.127.25 0 1 130449 
+189.59.99.100 0 2 819432 
+31.13.127.118 0 1 237037 
+177.40.70.122 1 5 290625 20211005062654
+185.210.217.252 1 1 81685 20211005045714
+177.206.29.88 0 1 105737 
+35.86.108.144 1 11 857377 20211009113632
+54.212.139.90 1 1 82311 20211028181039
+177.30.39.167 3 3 248385 20211031035235
+177.23.83.48 1 1 82166 20211012023545
+147.161.129.86 0 1 105737 
+187.2.237.34 0 1 105737 
+45.77.5.214 2 2 214643 20211009080526
+23.229.104.2 1 1 81686 20211021023118
+168.196.41.186 0 1 105737 
+177.43.76.250 4 91 3497417 20211013182910
+191.187.89.100 0 2 211474 
+177.221.14.135 0 1 105737 
+191.215.98.23 0 5 289715 
+170.231.47.196 0 1 105737 
+45.232.215.176 1 6 327979 20211005154659
+45.225.6.162 3 13 935910 20211007155637
+189.59.36.155 0 2 211474 
+209.97.187.46 4 4 141066 20211009174044
+74.125.213.29 3 24 2082751 20211019160657
+177.222.225.247 0 1 105737 
+143.198.157.105 8 8 415292 20211012203711
+191.129.19.211 1 14 961732 20211008174019
+189.111.119.14 0 1 105737 
+138.36.44.24 0 1 130449 
+31.13.127.39 0 1 130449 
+177.79.19.141 2 22 1525276 20211011194221
+190.107.90.243 1 1 82795 20211030110238
+179.97.24.191 2 2 164961 20211025131556
+179.219.40.208 0 1 105737 
+177.79.26.63 4 32 2141798 20211004165234
+186.232.245.242 6 39 2776956 20211007174507
+45.232.89.223 0 1 105737 
+179.184.36.167 0 1 130449 
+66.249.80.41 5 5 410929 20211031143322
+34.223.248.168 1 1 81685 20211003171137
+131.0.218.75 2 39 2907292 20211029105237
+200.198.3.94 0 1 130449 
+179.197.208.244 1 1 82166 20211014073423
+46.98.213.11 3 3 246933 20211024174023
+179.213.28.149 1 5 290626 20211020061234
+208.100.26.237 1 1 81686 20211011010314
+191.54.124.159 0 1 105737 
+177.74.122.50 0 1 105737 
+187.62.76.72 0 1 130449 
+35.85.138.167 1 1 82795 20211022171457
+177.189.193.80 0 1 105737 
+201.76.121.15 0 1 105737 
+182.22.28.80 1 1 82166 20211016042805
+45.168.124.14 0 19 820613 
+177.221.15.107 0 1 105737 
+177.79.17.90 2 77 2456536 20211027024144
+189.40.76.43 0 1 105737 
+177.133.82.81 2 76 2447989 20211006155328
+186.233.231.23 0 1 105737 
+177.79.24.31 1 11 862661 20211021174118
+218.56.69.8 1 1 82165 20211006155002
+191.53.136.153 2 76 2448470 20211012073557
+177.79.26.232 1 2 403438 20211026181652
+191.202.243.28 0 2 181275 
+177.222.229.30 0 1 105737 
+177.79.19.236 5 32 2056693 20211004171129
+143.255.254.10 3 3 246495 20211006053813
+201.46.60.5 0 1 105737 
+191.13.165.85 0 1 105737 
+179.175.190.196 0 4 452736 
+177.79.24.44 2 37 2558652 20211003091822
+3.91.237.137 0 2 81684 
+201.34.235.237 2 77 2456536 20211023184626
+54.245.219.88 1 1 81686 20211016180611
+177.139.73.234 0 1 105737 
+31.13.127.18 0 2 367486 
+45.184.242.102 0 1 105737 
+177.79.18.193 1 11 856048 20211030113141
+66.249.88.49 0 4 267645 
+181.223.108.238 0 9 591738 
+34.133.238.160 1 13 1096211 20211028004329
+177.179.122.242 1 1 82166 20211014201354
+194.104.136.109 1 1 82311 20211027150020
+89.187.175.174 1 1 81685 20211008181126
+138.204.25.71 0 3 212499 
+179.254.46.189 0 2 127965 
+54.183.206.237 1 1 81686 20211017045756
+45.174.221.124 0 2 211474 
+191.210.251.204 2 53 2195245 20211020215635
+191.193.32.251 3 87 3318709 20211001111532
+189.46.194.39 1 1 82166 20211022002056
+186.235.33.162 1 11 857378 20211018102335
+179.111.187.110 0 1 105737 
+179.214.127.118 1 5 290626 20211019130626
+13.92.32.187 1 1 82165 20211005001320
+187.65.174.218 5 153 4979106 20211019165016
+45.236.183.255 3 56 2177173 20211001130135
+208.100.26.235 1 1 82795 20211027152813
+186.210.48.206 0 1 105737 
+147.182.242.74 2 2 90674 20211011064346
+187.15.13.226 0 1 105737 
+177.72.11.246 6 16 1060267 20211018142457
+170.80.32.224 2 76 2448470 20211015152201
+66.249.83.113 1 1 82311 20211022210439
+177.5.121.193 1 75 2429962 20211010130402
+168.90.219.253 0 5 327451 
+191.184.88.227 0 1 105737 
+201.88.245.152 0 1 105737 
+177.37.194.165 0 1 105737 
+200.146.246.194 0 1 105737 
+200.150.83.210 4 4 328664 20211020153626
+179.187.220.177 0 1 176093 
+177.79.27.185 1 10 917330 20211004183621
+187.115.66.190 4 152 4896940 20211020103525
+177.131.78.32 0 8 506342 
+191.210.247.189 0 1 255347 
+189.40.80.12 0 3 247030 
+186.231.215.180 0 1 105737 
+189.103.76.142 5 163 5767178 20211006093507
+189.73.192.198 2 76 2448469 20211006222238
+35.212.144.70 1 3 206138 20211016183842
+201.49.206.136 0 1 196687 
+177.25.179.178 0 8 472642 
+104.128.21.149 2 2 116121 20211011031652
+18.205.24.91 0 1 105737 
+179.215.120.20 1 1 82166 20211022063523
+147.161.128.94 0 1 39479 
+168.194.36.155 0 1 299663 
+200.150.99.98 3 3 248385 20211031145850
+177.5.120.29 2 76 2447989 20211002211327
+189.48.163.210 0 1 105737 
+177.6.216.117 2 76 2447989 20211004150201
+179.255.53.47 3 29 2139030 20211031151658
+179.104.83.2 2 76 2448469 20211006172629
+163.172.188.156 1 1 82311 20211027120535
+196.244.4.18 2 2 115536 20211021230953
+184.94.240.92 2 2 164961 20211022205926
+148.78.1.76 4 101 4193803 20211005203410
+170.81.39.188 3 77 2530634 20211002220451
+132.255.58.214 0 1 130449 
+177.79.16.36 1 2 402328 20211004145912
+186.205.17.29 2 2 165590 20211024133938
+179.96.142.235 0 1 130449 
+191.196.250.7 1 7 388079 20211020152547
+177.202.246.156 1 1 82166 20211014151901
+177.45.80.169 0 1 105737 
+138.204.113.6 1 5 290626 20211019150125
+179.210.251.71 1 1 51444 20211006154503
+45.172.68.11 3 14 1308553 20211030122903
+131.0.218.41 1 14 2100263 20211002074414
+200.187.19.193 0 2 211474 
+177.137.40.163 0 1 105737 
+104.198.30.97 1 13 1095585 20211005145859
+138.185.60.230 0 2 176151 
+170.83.120.22 1 1 82795 20211022170819
+168.62.164.160 6 6 724723 20211007141305
+177.1.195.110 5 153 4979103 20211006173110
+191.13.137.191 1 27 1850113 20211026172557
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 31
+20211001 121 1727 73307478 61
+20211002 91 1855 76072787 47
+20211003 69 946 37980748 44
+20211004 184 2031 93601479 77
+20211005 162 1959 97415853 84
+20211006 184 1833 83942143 100
+20211007 152 893 171224606 90
+20211008 151 1207 63765145 93
+20211009 73 618 43048299 48
+20211010 44 606 25294532 30
+20211011 90 881 37600339 58
+20211012 87 541 22758631 66
+20211013 141 1833 78181076 71
+20211014 139 1522 67545889 70
+20211015 107 862 44414993 57
+20211016 47 680 35069631 32
+20211017 76 371 15602172 38
+20211018 110 1602 64835053 47
+20211019 117 1689 70789798 59
+20211020 115 927 49316632 72
+20211021 102 1179 74579041 54
+20211022 150 1589 65717624 91
+20211023 51 336 12125815 40
+20211024 50 284 33840129 22
+20211025 111 1192 51641229 62
+20211026 155 1380 64200720 49
+20211027 116 972 81617866 54
+20211028 94 933 41844928 56
+20211029 76 598 142298233 35
+20211030 69 450 66248902 41
+20211031 48 262 23949364 32
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 7
+30mn-1h 73
+5mn-15mn 52
+15mn-30mn 41
+30s-2mn 76
+0s-30s 1447
+1h+ 50
+2mn-5mn 41
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 83
+/ 1861 152117480 1225 1007
+/libs/bootstrap/dist/fonts/glyphicons-halflings-regular.woff2 321 5786988 3 209
+/publicacoes-tipo/edital 176 9054736 98 75
+/publicacoes-pesquisar 165 12994037 24 60
+/noticia/cadastramento-para-vacinacao-da-covid-comeca-a-ser-realizado 114 4391799 68 48
+/contato 96 3222911 65 71
+/publicacoes-tipo/processo-seletivo 53 2869624 19 19
+/noticias 38 1972348 18 17
+/publicacoes-tipo/decretos 29 1272077 15 7
+/publicacoes-tipo/concursos-publicos 22 967354 13 9
+/noticia/pacote-com-obras-avaliadas-em-mais-de-27-milhoes-de-reais-e-entregue-em-camapua 17 610735 6 13
+/publicacoes-tipo/balancos 16 617461 12 8
+/pagina/conheca-a-cidade 16 596031 12 11
+/publicacoes-tipo/lei-complementar 16 587721 7 5
+/secretaria/secretaria-de-saude 12 747789 6 7
+/secretaria/secretaria-de-educacao-cultura-esporte-e-lazer 11 652303 4 5
+/publicacoes-tipo/sociedade-de-protecao-aos-idosos-de-camapua-asilo 11 378482 6 7
+/publicacoes-tipo/clube-de-laco-rio-verde-camapua 11 378251 10 10
+/noticia/prefeitura-promove-final-de-semana-com-varios-eventos-esportivos-em-camapua 10 366199 6 5
+/pagina/telefones-uteis 10 365987 4 8
+/pagina/palavras-do-vice-prefeito 9 959876 3 5
+/publicacoes-tipo/portarias 9 309264 3 7
+/noticia/vacinacao-da-gripe-e-aberta-a-toda-populacao 8 301169 4 6
+/secretaria/secretaria-de-administracao-financas-e-planejamento 8 470715 4 4
+/pagina/conheca-a-prefeitura 8 241357 3 3
+/noticia/a-banda-municipal-30-de-setembro-de-camapua-esta-com-inscricoes-abertas-para-novos-integrantes 6 223098 2 5
+/galerias 4 127033 4 2
+/secretaria/secretaria-de-assuntos-juridicos 6 214663 4 2
+/noticia/prefeito-baixou-tres-decretos-que-tratam-da-prevencao-e-combate-ao-novo-coronavirus-em-camapua 1 42270 1 1
+/cpanel 2 67846 2 0
+/publicacao/decreto-prorrogacao-das-aulas 4 140905 2 4
+/pagina/bandeira-brasao-e-hino 5 474164 4 3
+/noticia/prefeito-vai-na-semagro-em-busca-de-novos-investimentos 7 262537 2 3
+/pagina/manual-de-procedimentos-administrativos 1 61452 0 0
+/noticia/reuniao-para-capacitacao-sobre-emissao-de-nota-fiscal-eletronica-acontece-nesta-quinta-feira 6 192245 3 5
+/publicacao/decreto-46072020 4 141117 2 4
+/publicacoes-tipo/organizacoes-da-sociedade-civil 2 79601 2 0
+/pagina/palavras-do-prefeito 6 2037633 2 2
+/pagina/como-chegar 5 161440 3 4
+/noticia/horario-do-toque-de-recolher-e-alterado 2 73648 1 1
+/noticia/vacinacao-avanca-em-camapua 7 238640 2 1
+/publicacoes-tipo/plano-municipal-de-saude 3 109273 3 2
+/admin 2 6532 2 2
+/secretaria/secretaria-de-assistencia-social 4 205517 3 3
+/noticia/boletim-covid-1307 7 245595 4 4
+/publicacoes-tipo/associacao-dos-produtores-de-mandioca-pro-mandioca 6 206457 6 6
+/publicacoes-tipo/relatorio-detalhado-quadrimestral 1 38830 1 0
+/publicacoes-tipo/programacao-anual-de-saude 2 73308 2 2
+/publicacoes-tipo/associacao-dos-produtores-de-leite 4 137559 4 4
+/libs/bootstrap/dist/fonts/glyphicons-halflings-regular.ttf 2 90808 0 1
+/pagina/equipe-de-governo 8 281398 3 2
+/publicacoes-tipo/associacao-beneficente-de-camapua-casa-do-amparo-as-criancas-carentes-creche-menino-jesus 6 206733 6 6
+/noticia/veja-a-lista-de-selecionados 1 33587 0 0
+/noticia/prefeitura-entrega-uniformes-e-kits-escolares 1 1423162 1 1
+/pagina/endereco-das-unidades-de-saude 1 33687 1 1
+/secretaria/secretaria-de-infraestrutura-e-servicos-publicos 8 472449 5 6
+/publicacoes-tipo/associacao-de-pais-e-amigos-dos-excepcionais-apae 8 275267 8 8
+/publicacoes-tipo/associacao-dos-criadores-de-camapua-acricam 5 172019 5 4
+/webmail/ 2 69402 1 1
+/pagina/Manual-de-Procedimentos-Administrativos 8 429824 3 4
+/pagina/historia-do-municipio 7 245919 5 3
+/noticia/segunda-parcela-do-iptu-vence-dia-10 2 73467 1 1
+/pesquisar 4 899648 0 2
+/noticia/equipe-da-sala-do-empreendedor-visita-o-comercio 4 151404 2 3
+/publicacoes-tipo/2018 5 244430 0 4
+/publicacoes-tipo/associacao-dos-estudantes-e-academicos-universitarios-de-camapua-ms-auca 5 172173 4 5
+/libs/bootstrap/dist/fonts/glyphicons-halflings-regular.eot 1 20127 0 1
+/publicacoes-tipo/lei-ordinaria 7 251584 2 0
+/noticia/live-solidaria-sera-realizada-na-quinta-feira 1 37373 1 1
+/publicacoes-tipo/secretaria 1 34363 0 0
+/whm 2 67816 0 2
+/publicacoes-tipo/comunidade-kolping 5 171858 4 4
+/publicacoes-tipo/secretaria-de-infraestrutura-e-servicos-publicos 3 106703 2 2
+/noticia/laudo-tecnico-agronomico-vtn-2021 5 169074 3 4
+/publicacoes-tipo/conselho-municipal-de-saude 2 74146 1 1
+/noticia/pela-primeira-vez-prefeitura-realiza-pagamento-do-13o-salario-as-familias-acolhedoras-de-camapua 1 36713 1 1
+/publicacoes-tipo/associacao-de-apoio-aos-pacientes-com-cancer-aapc-amigos-do-chitao 5 172147 5 5
+/contatar 3 102242 0 3
+/secretaria/secretaria-de-governo 7 260097 4 3
+/noticia/boletim-covid-3105 1 36374 1 1
+/publicacoes-tipo/parcerias-marco-regulatorio-editais 5 188897 4 5
+/secretaria/secretaria-de-agronegocio-meio-ambiente-e-empreendedorismo 8 324274 5 6
+/publicacao/decretos-suspensao-dos-cultos-presenciais 4 140848 3 3
+END_SIDER

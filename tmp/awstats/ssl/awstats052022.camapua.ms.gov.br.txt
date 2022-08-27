@@ -1,0 +1,945 @@
+AWSTATS DATA FILE 7.7 (build 20180105)
+# If you remove this file, all statistics for date 202205 will be lost/reset.
+# Last config file used to build this data file was /home/prefcamapua/tmp/awstats/ssl/awstats.camapua.ms.gov.br.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2021                
+POS_TIME 2706                
+POS_VISITOR 16070               
+POS_DAY 23829               
+POS_DOMAIN 3667                
+POS_LOGIN 4118                
+POS_ROBOT 4273                
+POS_WORMS 5183                
+POS_EMAILSENDER 5314                
+POS_EMAILRECEIVER 5457                
+POS_SESSION 24741               
+POS_SIDER 24953               
+POS_FILETYPES 5592                
+POS_DOWNLOADS 5884                
+POS_OS 5982                
+POS_BROWSER 6250                
+POS_SCREENSIZE 7969                
+POS_UNKNOWNREFERER 8043                
+POS_UNKNOWNREFERERBROWSER 8930                
+POS_ORIGIN 9614                
+POS_SEREFERRALS 9758                
+POS_PAGEREFS 9978                
+POS_SEARCHWORDS 10506               
+POS_KEYWORDS 10658               
+POS_MISC 2368                
+POS_ERRORS 10717               
+POS_CLUSTER 3974                
+POS_SIDER_404 10867               
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20220601000635 684 167247 15386704027146
+FirstTime 20220501083155
+LastTime 20220531233842
+LastUpdate 20220601091028 684 0 683 0 0
+TotalVisits 464                 
+TotalUnique 152                 
+MonthHostsKnown 0                   
+MonthHostsUnknown 209                 
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+JavaEnabled 0 0 0
+FlashSupport 0 0 0
+JavascriptDisabled 0 0 0
+TotalMisc 0 0 0
+QuickTimeSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 529 0
+PDFSupport 0 0 0
+RealPlayerSupport 0 0 0
+DirectorSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 1 7 1282187 160 207 37231687
+1 11 88 3242425 158 233 35004320
+2 2 4 229833 201 395 26270228
+3 13 96 4103222 173 237 21358374
+4 4 11 1276671 106 214 30169050
+5 6 7 728891 245 395 39090612
+6 7 8 621207 316 375 44044391
+7 69 832 27640221 225 370 60548973
+8 274 9581 329092660 209 405 41962013
+9 132 4060 136840277 129 248 36932914
+10 136 4215 153454838 179 367 38722621
+11 202 2682 101152290 137 365 32340349
+12 30 684 26151790 126 199 30143582
+13 26 960 34535677 127 261 44078211
+14 165 5538 195002337 128 277 39576959
+15 81 2265 81996714 192 317 33296146
+16 97 2519 86816074 128 231 20189239
+17 130 3114 121780189 175 294 32461409
+18 14 247 9215880 127 257 24990947
+19 6 96 4233466 147 326 27843541
+20 4 85 3078638 162 242 31315598
+21 7 164 5694836 153 297 26507968
+22 3 82 3296858 168 255 22833001
+23 39 48 3667183 219 310 20849927
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 15
+us 1194 33954 1187837278
+br 138 3188 130595611
+in 59 59 3710420
+de 31 31 2594257
+ca 20 26 2187104
+co 3 78 2570173
+cn 3 20 2739943
+gr 3 3 250287
+it 2 2 119710
+ma 2 27 2114777
+sk 1 1 84422
+nl 1 1 84910
+id 1 1 83430
+gb 1 1 83430
+fr 0 1 78612
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 20
+AhrefsBot/ 1779 81431135 20220531221629 70
+bingbot/ 1113 107126263 20220531211838 90
+SemrushBot/ 871 43617189 20220531232545 309
+Googlebot/ 422 97298132 20220531223932 54
+crawl 352 14492040 20220531134305 2
+oBot/ 194 27373508 20220520021735 2
+Googlebot\-Image/ 71 3620075 20220531180945 0
+Applebot/ 65 2309881 20220531200451 18
+bot[\s_+:,\.\;\/\\-] 53 8251928 20220531003656 41
+unknown 35 848 20220528175054 35
+no_user_agent 18 1507687 20220528181315 0
+YandexBot/ 8 334784 20220517143913 4
+CCBot/ 7 440733 20220518142526 1
+MJ12bot/ 6 252321 20220526032117 3
+baidu 3 235836 20220525101139 0
+(firefox/)([0-9]\.|[0-1][0]\.) 3 253733 20220529105743 0
+feed 2 167827 20220513192407 0
+bingpreview 2 55073 20220512061039 0
+Konqueror/ 1 83430 20220518115532 0
+curl 1 0 20220518222319 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 11
+svg 4 7064 0 0
+php 10 298994 0 0
+woff2 479 8563300 0 0
+Unknown 180 11064415 0 0
+js 985 58776778 0 0
+xml 17 635424 0 0
+jpg 27115 601592248 0 0
+html 767 60082917 0 0
+css 1015 65899068 0 0
+png 6815 528078156 0 0
+woff 6 136000 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 1
+/arquivos/publicacoes/5a8f399e8a985.pdf 1 0 46580
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 15
+linux 146 64
+linuxandroid 202 11
+win8.1 3652 119
+macosx 98 11
+win7 8918 281
+winnt 1 1
+ios_iphone 81 4
+win10 23991 821
+macosx12 7 1
+unix 1 1
+macosx11 9 9
+Unknown 63 62
+win2000 65 65
+win8 157 7
+winxp 2 2
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 77
+chrome101.0.4951.61 8 0
+chrome101.0.4951.41 1939 61
+chrome102.0.5005.61 553 21
+msie8.0 2 2
+chrome67.0.3396.87 1 1
+edge17 1 1
+chrome57.0.2987.133 1 1
+chrome100.0.4896.127 4156 124
+firefox63.0 18 18
+chrome92.0.4515.131 1 0
+chrome64.0.3282.167 13 13
+chrome81.0.4044.129 1 1
+firefox92.0 77 2
+msie11.0 3 3
+firefox72.0 5 0
+chrome98.0.4758.87 1 0
+chrome73.0.3683.75 1 1
+chrome93.0.4577.82 450 13
+chrome101.0.0.0 3615 94
+chrome83.0.4103.97 31 19
+chrome76.0.3809.71 3 0
+chrome78.0.3904.108 21 21
+chrome83.0.4103.116 1 0
+chrome76.0.3809.100 7 4
+chrome60.0.3112.107 3 3
+chrome55.0.2919.83 1 1
+chrome43.0.2357.125 1 1
+chrome87.0.4280.88 1 0
+chrome102.0.5005.62 702 18
+chrome62.0.3202.62 1 0
+chrome84.0.4112.0 1 1
+chrome60.0.3112.90 1 0
+safari11.0 1 0
+firefox94.0 7 7
+chrome87.0.4280.141 10 0
+chrome94.0.4590.2 1 0
+msie10.0 2 2
+chrome101.0.4951.54 7303 208
+chrome70.0.3538.77 1 1
+chrome58.0.3029.110 6 0
+safari15.5 78 2
+chrome102.0.0.0 548 15
+chrome76.0.3809.102 1 1
+chrome101.0.4951.64 3241 89
+chrome51.0.2712.8 1 1
+mozilla 6 5
+edge13 40 40
+chrome67.0.3396.99 1 0
+chrome100.0.4896.88 3299 86
+chrome67.0.3396.62 2 2
+chrome70.0.3538.110 2 0
+netscape5.0 7 7
+safari 1 1
+chrome79.0.3945.79 33 31
+opera32.0.1948.25 1 1
+chrome76.0.3809.89 1 1
+chrome44.0.2403.157 2 2
+chrome42.0.2311.90 2 2
+chrome38.0.1025.166 20 0
+chrome37.0.2049.0 1 1
+chrome77.0.3865.35 1 1
+firebird 65 65
+chrome61.0.3163.128 3 0
+firefox79.0 3 3
+chrome99.0.4859.172 7 7
+chrome84.0.4147.105 1 1
+safari15.4 79 4
+firefox99.0 714 37
+Unknown 52 52
+firefox100.0 2559 112
+firefox43.0 14 14
+safari12.1.2 1 1
+chrome101.0.4951.67 7567 226
+chrome100.0.4896.79 76 2
+safari9.0.2 1 1
+chrome74.0.3729.136 1 1
+chrome78.0.3904.87 11 3
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 8
+Mozilla/5.0_(compatible;_woorankreview/2.0;__https://www.woorank.com/) 20220506125324
+python-requests/2.27.1 20220525070947
+Mozilla/5.0 20220529010721
+Python/3.7_aiohttp/3.7.4.post0 20220525091204
+Expanse,_a_Palo_Alto_Networks_company,_searches_across_the_global_IPv4_space_multiple_times_per_day_to_identify_customers&#39;_presences_on_the_Internet._If_you_would_like_to_be_excluded_from_our_scans,_please_send_IP_addresses/domains_to:_scaninfo@paloaltonetworks.com 20220531104915
+Mozilla/5.0_(compatible;_NetcraftSurveyAgent/1.0;__info@netcraft.com) 20220508124440
+Expanse_indexes_customers\xe2\x80\x99_network_perimeters._If_you_have_any_questions_or_concerns,_please_reach_out_to:_scaninfo@expanseinc.com. 20220503194123
+Iframely/1.3.1_(_https://iframely.com/docs/about)_Atlassian 20220526083217
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 5
+Expanse,_a_Palo_Alto_Networks_company,_searches_across_the_global_IPv4_space_multiple_times_per_day_to_identify_customers&#39;_presences_on_the_Internet._If_you_would_like_to_be_excluded_from_our_scans,_please_send_IP_addresses/domains_to:_scaninfo@paloaltonetworks.com 20220531104915
+Python/3.7_aiohttp/3.7.4.post0 20220525091204
+python-requests/2.27.1 20220525070947
+Iframely/1.3.1_(_https://iframely.com/docs/about)_Atlassian 20220526083217
+Expanse_indexes_customers\xe2\x80\x99_network_perimeters._If_you_have_any_questions_or_concerns,_please_reach_out_to:_scaninfo@expanseinc.com. 20220503194123
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 837 863
+From1 2 2
+From2 82 83
+From3 22 43
+From4 516 36402
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 4
+bing 70 70
+www_google_com 1 2
+www_google_com_hk 2 2
+br_search_yahoo_com 9 9
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 6
+https://camaracamapua.ms.gov.br 8 8
+http://camaracamapua.ms.gov.br 7 7
+https://cpanel.camapua.ms.gov.br/cPanel_magic_revision_1386192030/unprotected/cpanel/fonts/open_sans/open_sans.min.css 6 6
+https://www.pciconcursos.com.br 1 1
+https://cpanel.camapua.ms.gov.br 0 6
+https://cpanel.camapua.ms.gov.br/cPanel_magic_revision_1583301256/unprotected/cpanel/style_v2_optimized.css 0 15
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 5
+405 74 26576519
+404 705 1044810
+401 159 7108
+301 8 2063
+500 596 381279137
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 182
+/production/.env 4 -
+/wp-includes/images/media/about.php 1 www.google.com
+/laravel/.env 6 -
+/wp-includes/images/media/new-index.php 1 www.google.com
+/content.php 4 www.google.com
+/app_dev.php/_configurator/final 1 -
+/61a67994ea27f.jpg 4 -
+/.well-known/apple-app-site-association 8 -
+/storage/.env 6 -
+/.env.backup 4 -
+/wp-signin.php 1 www.google.com
+/.env.example 4 -
+/.env.local 4 -
+/60a66c94aef35.jpg 2 -
+/pontos-turisticos 16 -
+/622f37fa54438.jpg 3 -
+/baindex.php 1 www.google.com
+/wp-2019.php 4 www.google.com
+/622f38d7cd57b.jpg 1 -
+/.env.prod 4 -
+/pagina 1 https://www.camapua.ms.gov.br/
+/wp-includes/wp-class.php 4 www.google.com
+/.env 56 -
+/wp-content/plugins/BrutalShell/wp.php 3 www.google.com
+/crm/.env 6 -
+/admin.php 1 www.google.com
+/adminer.php 6 -
+/.env.travis 4 -
+/.env.bak 4 -
+/token/tokenlite/tokenlite_app/.env 4 -
+/621391c507d42.jpg 3 -
+/static../manage.py 1 -
+/wp-content/plugins/unicode/cgi.php 3 www.google.com
+/core/.env 6 -
+/www.camapua.ms.gov.br/.env 1 -
+/up.php 3 www.google.com
+/.env.save 4 -
+/customer/.env 4 -
+/wp-plain.php 4 www.google.com
+/wp-includes/rest-api/search/2index.php 1 www.google.com
+/old-index.php 1 www.google.com
+/Telerik.Web.UI.WebResource.axd 1 -
+/backups/.env 4 -
+/.env.test.local 4 -
+/wp-content/plugins/dzs-zoomsounds/savepng.php 3 -
+/610b33d9989ff.jpg 1 -
+/.env.dev.local 4 -
+/OTApp/.env 4 -
+/noticia 1 https://www.camapua.ms.gov.br/
+/.env-sample 4 -
+/61522f7a388f1.jpg 4 -
+/locais 2 -
+/wp-content/plugins/ubh/up.php/.well-known 1 www.google.com
+/autoload_classmap.php 1 www.google.com
+/base/.env 6 -
+/sites/all/libraries/mailchimp/.env 6 -
+/.git/HEAD 1 -
+/624ed790b3e4e.jpg 2 -
+/ozuoscqt.php 1 www.google.com
+/audio/.env 6 -
+/624ed859ea6bd.jpg 4 -
+/wp-content/languages/themes/radio.php 1 www.google.com
+/2index.php 1 www.google.com
+/624d8f36b0730.jpg 1 -
+/wp-includes/Text/Diff/content.php 1 www.google.com
+/public/.env 6 -
+/wp-content/themes/twentytwenty/assets/aya.php 3 www.google.com
+/6231eb386e209.jpg 2 -
+/.env.test.sample 4 -
+/wp-2022.php 3 www.google.com
+/apps/.env 6 -
+/wp-content/uploads.php 3 www.google.com
+/radio.php 4 www.google.com
+/.env.dist 4 -
+/asdf.php 3 www.google.com
+/ups.php 1 www.google.com
+/html-main/.env 4 -
+/.env.development.sample 4 -
+/www/.env 6 -
+/610b343286a58.jpg 2 -
+/application/.env 4 -
+/conf/.env 6 -
+/wp.php 1 www.google.com
+/host.blitserver1.com.br/.env 5 -
+/phpMyAdmin 10 -
+/new-index.php 1 www.google.com
+/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 13 -
+/.env.sample.php 4 -
+/noekkezi.php 1 www.google.com
+/.env.prod.local 4 -
+/beta/.env 4 -
+/.env.php 4 -
+/60a66c1f525d3.jpg 1 -
+/wp-content/export.php 1 www.google.com
+/app/.env 6 -
+/.env.production.local 4 -
+/xleet.php 1 www.google.com
+/upload.php 3 www.google.com
+/60eddd6eed295.jpg 1 -
+/624ed9f6732a3.jpg 3 -
+/admin/.env 6 -
+/protected/.env 6 -
+/publicacao 1 https://www.camapua.ms.gov.br/
+/shell20211028.php 1 www.google.com
+/Chitoge.php 1 -
+/subdomain/.env 4 -
+/wp-includes/images/wlw/content.php 1 www.google.com
+/myadmin 6 -
+/wp-content/plugins/dos2unix/dos2unix.php 3 www.google.com
+/vendor/.env 6 -
+/6228e9a260604.jpg 2 -
+/database/.env 6 -
+/610b34ab97076.jpg 4 -
+/old/.env 6 -
+/secretaria 1 https://www.camapua.ms.gov.br/
+/.env.test 4 -
+/prod/.env 4 -
+/app_dev.php/_profiler/phpinfo 1 -
+/alwso.php 1 www.google.com
+/62289d8f9c763.jpg 3 -
+/phpmyadmin 10 -
+/defaul1.php 1 www.google.com
+/.env.production 4 -
+/vendor/laravel/.env 6 -
+/.env-example 4 -
+/wp-includes/images/smilies/2index.php 1 www.google.com
+/srzuincj.php 1 www.google.com
+/frontend/.env 4 -
+/dica-de-turismo 20 -
+/front/.env 4 -
+/app/config/.env 6 -
+/cgi-bin/.env 6 -
+/magento_version 1 -
+/62605fd411d3d.jpg 3 -
+/.env.dev 4 -
+/jpwcxbux.php 1 www.google.com
+/wp-content/themes/twentytwenty/content.php 1 www.google.com
+/623c5bdac0317.jpg 3 -
+/fw.php 1 www.google.com
+/tokenlite-ico-script-v1.3.2/tokenlite/tokenlite_app/.env 4 -
+/610b3523e6d14.jpg 1 -
+/wp-includes/Text/Diff/radio.php 1 www.google.com
+/1index.php 1 www.google.com
+/.env.docker 4 -
+/624edb018e7db.jpg 4 -
+/kyc/.env 4 -
+/blog/.env 6 -
+/library/.env 6 -
+/api/.env 6 -
+/gank.php.PhP 1 www.google.com
+/backend/.env 6 -
+/new/.env 6 -
+/src/.env 6 -
+/local/.env 6 -
+/tokenlite_app/.env 4 -
+/623225683d2fc.jpg 3 -
+/tokenlite/tokenlite_app/.env 4 -
+/gank.php.PhP/wp-content/uploads 3 www.google.com
+/server/.env 4 -
+/625d5d7466c55.jpg 6 -
+/.env.sample 4 -
+/wp-content/themes/fing/deter.php 3 www.google.com
+/wp-fox.php 3 www.google.com
+/wp-content/31cx4.php 1 www.google.com
+/wp-content/.env 6 -
+/tokensale/.env 4 -
+/.env.development.local 4 -
+/ffAA531.php 4 www.google.com
+/apple-app-site-association 8 -
+/sitemap.xml 2 -
+/62289a7d77c36.jpg 3 -
+/624edb69f4080.jpg 2 -
+/.env.stage 4 -
+/newsite/.env 6 -
+/60a66adf60795.jpg 1 -
+/wp-admin/.env 6 -
+/624ed6f889610.jpg 3 -
+/wp-plugins.php 1 www.google.com
+/xleet-shell.php 1 www.google.com
+/60eddb272072f.jpg 5 -
+/qindex.php 1 www.google.com
+/.env.docker.dev 4 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 209
+170.80.33.180 424 15623 536639720 20220531144707
+170.80.34.60 81 3111 121087477 20220531102012
+170.80.34.117 72 2072 62955655 20220510102515
+170.80.35.107 70 2036 67129669 20220524155612
+201.7.1.64 64 1287 55925913 20220531104525
+103.105.167.154 58 58 3625510 20220507110245
+104.43.248.47 55 55 1174354 20220525070947
+170.80.35.41 51 1570 58307812 20220531175112
+170.80.33.212 46 1738 61680210 20220524175832
+170.80.32.225 43 1517 58302111 20220531153739
+104.168.40.189 39 39 2284542 20220507110223
+131.220.6.152 31 31 2594257 20220531233842
+170.80.35.90 20 560 18524347 20220516151039
+40.86.115.247 18 18 219515 20220524161057
+170.80.35.125 16 618 20047288 20220506075747
+170.80.34.113 15 540 17487727 20220511115546
+189.101.247.185 15 235 13340655 20220527170844
+170.80.35.11 12 259 7764552 20220512142454
+170.80.34.70 12 462 14917551 20220510090525
+177.0.88.44 11 347 10765174 20220504115702
+170.80.35.8 11 306 8719158 20220511110632
+187.6.195.73 10 386 13286843 20220528105112
+170.80.34.40 10 310 10064748 20220519103011
+170.80.34.35 8 308 9945036 20220517144458
+170.81.86.59 8 29 244188 20220502122851
+131.255.20.29 2 2 73425 20220515022339
+162.253.129.85 2 2 120708 20220529202815
+170.80.35.77 4 155 5051128 20220504144836
+131.255.21.233 1 1 55168 20220503044532
+170.80.34.23 3 79 3426717 20220526182230
+40.77.100.27 0 1 5939 
+199.187.211.34 2 2 119712 20220513215404
+154.22.135.98 1 1 83429 20220508174819
+172.121.223.0 7 7 528953 20220518115605
+20.89.144.7 7 7 262535 20220514140637
+63.88.73.69 0 1 78612 
+177.79.30.132 0 1 78612 
+111.225.145.200 0 1 320643 
+191.217.181.212 2 34 2343400 20220502105531
+161.35.186.173 1 1 83913 20220508120644
+147.92.238.78 0 4 1282572 
+170.80.34.7 2 77 2486259 20220516210422
+111.225.146.218 0 1 320643 
+179.132.215.112 0 1 78612 
+208.100.26.246 2 2 168823 20220524164546
+54.165.62.22 1 1 83914 20220512111835
+199.187.211.238 2 2 119712 20220514052818
+20.210.135.116 1 1 83913 20220502160507
+170.80.35.98 2 77 2486259 20220516134101
+189.28.128.242 2 41 2974091 20220527173649
+170.80.34.88 2 77 2486259 20220513100416
+52.226.210.206 0 1 11488 
+205.210.31.157 1 1 83429 20220502180101
+35.89.52.86 0 1 78612 
+51.158.185.182 1 1 83430 20220521180310
+66.249.88.63 0 7 550284 
+172.121.217.142 1 1 83914 20220518115532
+170.80.34.125 2 77 2041644 20220513104550
+34.212.62.157 1 1 83430 20220516170752
+45.225.6.162 2 27 2114777 20220511150325
+52.226.227.211 4 6 406799 20220522080816
+111.225.144.158 0 1 320643 
+142.54.177.164 2 2 167343 20220517065158
+205.210.31.23 1 1 84910 20220528054952
+54.202.123.32 1 1 83430 20220510173458
+170.80.34.66 2 80 2722095 20220517210431
+200.17.1.1 0 1 78612 
+172.121.216.97 2 2 83914 20220520094620
+172.121.221.255 6 6 374523 20220528175100
+177.2.109.246 4 33 2227659 20220505102655
+170.80.35.122 2 78 3341807 20220531133500
+40.78.157.99 0 1 65946 
+45.5.66.57 2 2 83430 20220520094612
+52.12.98.246 1 1 83429 20220505181057
+54.201.95.135 1 1 83429 20220501174958
+172.121.221.237 1 1 83429 20220507110039
+178.128.51.107 3 3 250287 20220506064106
+40.69.173.18 0 1 5450 
+170.80.35.22 0 1 78612 
+45.56.99.83 1 1 83914 20220514015525
+139.177.180.177 2 2 166859 20220514010707
+170.80.33.174 0 2 157224 
+65.154.226.220 0 1 78612 
+187.86.225.152 6 178 6838930 20220517150933
+104.211.229.81 1 1 83914 20220515085707
+54.244.144.18 1 1 83429 20220503171859
+65.154.226.168 0 2 157224 
+20.72.228.246 0 1 320643 
+171.13.14.53 0 1 47750 
+161.35.190.3 1 1 37345 20220503015024
+40.69.171.71 0 1 65946 
+20.89.233.99 1 1 83914 20220515232059
+179.255.144.199 2 77 2486258 20220504225834
+170.80.34.127 2 54 4229802 20220510131938
+170.80.35.37 6 227 6465188 20220513093358
+170.80.35.31 0 1 78612 
+167.71.170.22 1 1 83429 20220508124440
+187.62.191.10 4 79 2654087 20220517145445
+170.80.35.28 2 24 1864856 20220502110809
+198.235.24.9 1 1 84910 20220525105151
+66.249.88.34 0 6 471672 
+177.79.30.75 0 1 78612 
+198.235.24.152 1 1 83914 20220521054251
+27.115.124.38 0 1 78612 
+54.187.246.130 1 1 83429 20220505170550
+20.93.33.91 1 1 12186 20220525091204
+107.173.241.254 1 1 35797 20220505233808
+177.54.149.104 2 78 3341807 20220530124216
+34.212.83.182 1 1 83429 20220501175020
+111.225.144.167 0 1 320643 
+208.100.26.249 1 1 83430 20220523031046
+179.109.70.218 3 80 2654743 20220506131811
+144.91.87.121 1 1 83430 20220515192914
+179.254.44.195 2 77 2486258 20220502101041
+171.13.14.84 0 2 17020 
+177.5.127.47 0 1 78612 
+27.115.124.109 0 1 78612 
+170.80.34.89 4 155 5828066 20220525103542
+177.79.30.155 2 76 2407646 20220505010835
+208.100.26.237 2 2 166858 20220509110714
+142.132.145.230 3 9 900860 20220514043656
+205.210.31.138 1 1 84422 20220531104915
+35.227.191.164 2 2 167344 20220512113328
+178.32.212.119 0 1 78612 
+104.254.92.242 2 2 119712 20220524052938
+170.80.35.35 0 1 78612 
+131.255.21.190 1 1 35446 20220529010721
+111.225.144.134 0 1 320643 
+54.212.170.51 1 1 83429 20220503171631
+170.80.34.42 2 78 3341807 20220526171955
+170.80.32.210 0 7 550284 
+170.80.35.80 6 231 7458774 20220503075934
+141.255.156.232 1 1 84910 20220527091608
+103.105.167.213 1 1 84910 20220528175016
+104.164.161.52 2 2 83914 20220520094621
+143.0.38.167 2 77 2486259 20220523033148
+193.148.61.201 1 1 84422 20220529013031
+204.236.247.155 2 2 169820 20220526083217
+140.213.47.179 1 1 83430 20220512231438
+172.121.222.249 2 2 83430 20220520094615
+171.13.14.50 2 4 228412 20220510235308
+34.221.225.94 1 1 83430 20220520171517
+40.77.100.139 0 2 147184 
+170.80.33.185 3 20 1193654 20220504173625
+65.154.226.166 0 1 78612 
+34.215.7.15 1 1 84422 20220531172359
+45.4.111.176 3 83 3218176 20220508175341
+205.210.31.154 1 1 84422 20220527061154
+170.80.34.119 4 154 4972518 20220516175137
+177.194.244.102 2 77 2486259 20220516150348
+156.146.38.148 2 2 119710 20220502103505
+198.235.24.153 1 1 83430 20220522101434
+170.80.35.15 5 176 9025988 20220527130325
+201.216.99.148 3 78 2570173 20220514112802
+104.194.196.162 1 1 83913 20220507110039
+50.112.32.85 2 77 2486259 20220520094629
+38.128.156.30 7 7 556906 20220518115605
+177.54.145.144 0 1 78612 
+34.215.44.14 1 1 83429 20220505170531
+170.80.34.111 2 78 2564871 20220524093258
+27.115.124.6 0 1 78612 
+170.80.35.49 2 77 2486259 20220512081433
+111.225.146.196 0 1 320643 
+54.212.54.182 1 1 83430 20220516172033
+54.157.214.118 0 1 78612 
+208.100.26.233 1 1 83914 20220516233908
+171.13.14.51 0 2 116226 
+40.86.80.253 0 1 61616 
+159.203.121.4 1 1 37482 20220508112317
+177.194.240.146 2 77 2486258 20220502100222
+35.185.236.252 1 1 37345 20220520112141
+34.135.25.172 0 1 78612 
+170.80.35.82 2 77 2486259 20220510160248
+40.78.135.13 0 1 5939 
+170.80.35.43 2 77 2486258 20220503123420
+54.165.180.233 0 1 78612 
+170.80.35.19 0 1 78612 
+66.70.178.119 1 1 84910 20220526084719
+184.75.210.179 2 2 120708 20220529123006
+212.102.40.4 2 2 119710 20220503012714
+205.169.39.197 0 1 78612 
+107.167.244.67 1 1 83914 20220522174841
+208.100.26.235 2 2 168335 20220530004428
+170.80.34.114 2 77 2486259 20220521194209
+35.173.31.53 3 3 181422 20220526173734
+65.108.107.233 3 9 901852 20220525032810
+170.80.35.44 2 77 2486259 20220516105244
+147.92.238.81 0 1 320643 
+35.87.41.113 1 1 84422 20220527172804
+172.121.223.225 1 1 83914 20220520094638
+40.69.173.239 0 1 61616 
+170.80.35.33 3 85 4062023 20220527161319
+191.7.51.165 0 1 78612 
+177.3.202.194 0 1 78612 
+172.121.220.19 7 7 558898 20220528175101
+13.86.24.127 0 1 59406 
+189.45.196.5 0 1 78612 
+205.210.31.133 1 1 83914 20220519165304
+177.51.63.29 0 1 78612 
+198.235.24.7 1 1 83913 20220503194123
+20.252.26.132 0 1 320643 
+186.250.101.2 1 12 939471 20220519192319
+171.13.14.40 1 2 170841 20220510235032
+170.81.39.8 0 1 78612 
+66.249.88.32 0 7 550284 
+54.197.122.11 0 1 78612 
+205.210.31.147 1 1 84422 20220528234404
+104.164.161.110 1 1 84422 20220528175016
+198.235.24.140 1 1 83430 20220524031144
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 31
+20220501 4 8 555796 4
+20220502 81 2172 72649562 24
+20220503 56 1543 50019870 19
+20220504 68 2145 68735101 16
+20220505 76 2185 73166749 28
+20220506 38 1176 39008572 14
+20220507 100 100 6160823 5
+20220508 10 90 3709733 8
+20220509 39 1323 42774130 17
+20220510 76 2603 88211060 20
+20220511 29 838 28658379 10
+20220512 49 1273 41673691 16
+20220513 34 1158 36929386 11
+20220514 18 104 4981176 7
+20220515 5 5 371667 5
+20220516 56 1710 57941107 23
+20220517 66 2238 74024393 20
+20220518 56 1449 49492355 15
+20220519 44 1359 42689368 16
+20220520 69 1303 42316644 22
+20220521 9 87 3021647 5
+20220522 4 6 443628 4
+20220523 82 2583 86254166 22
+20220524 71 1678 64638162 21
+20220525 80 1513 63159844 23
+20220526 49 1582 67466852 21
+20220527 59 1774 81814992 20
+20220528 24 182 10081378 11
+20220529 7 7 445706 5
+20220530 57 1897 78112924 15
+20220531 43 1302 55625503 17
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 7
+2mn-5mn 9
+30s-2mn 12
+5mn-15mn 16
+15mn-30mn 22
+0s-30s 345
+1h+ 25
+30mn-1h 35
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 132
+/ 722 59534078 443 161
+/libs/bootstrap/dist/fonts/glyphicons-halflings-regular.woff2 479 8563300 2 260
+/contato 18 644236 2 10
+/noticias 14 768516 3 3
+/pagina/bandeira-brasao-e-hino 7 676459 0 1
+/pagina/equipe-de-governo 6 252259 4 3
+/noticia/conheca-camapua-capital-do-bezerro-de-qualidade 6 211492 0 0
+/pagina/historia-do-municipio 5 184545 1 3
+/pagina/conheca-a-cidade 5 782416 0 0
+/pagina/conheca-a-prefeitura 5 181402 1 0
+/secretaria/secretaria-de-saude 5 326648 0 1
+/noticia/prefeitura-trabalha-na-recuperacao-da-estrada-que-da-acesso-a-regiao-do-bentos 4 146341 0 1
+/publicacao/decreto-no-4787-de-02-de-fevereiro-de-2022 4 148926 0 2
+/pagina/palavras-do-prefeito 4 1637262 0 2
+/pagina/Manual-de-Procedimentos-Administrativos 4 253014 0 0
+/secretaria/secretaria-de-infraestrutura-e-servicos-publicos 4 247350 0 0
+/publicacao/decreto-46072020 4 148370 0 0
+/secretaria/secretaria-de-assistencia-social 4 245377 0 1
+/noticia/pacote-com-obras-avaliadas-em-mais-de-27-milhoes-de-reais-e-entregue-em-camapua 3 113308 0 0
+/pagina/endereco-das-unidades-de-saude 3 106773 2 2
+/secretaria/secretaria-de-assuntos-juridicos 3 126774 0 0
+/secretaria/secretaria-de-agronegocio-meio-ambiente-e-empreendedorismo 3 170097 0 0
+/pagina/telefones-uteis 3 115273 0 0
+/noticia/obras-de-recapeamento-continuam-sendo-realizadas-em-camapua 3 131673 0 0
+/secretaria/secretaria-de-educacao-cultura-esporte-e-lazer 3 184524 0 0
+/pesquisar 1 33704 0 0
+/noticia/saude-continua-atuando-no-controle-do-mosquito-aedes-aegypti 2 80056 0 0
+//2019/wp-includes/wlwmanifest.xml 1 37378 0 0
+/noticia/em-camapua-alunos-de-escola-agricola-se-destacam-ao-criar-produto-apos-oficina-de-empreendedorismo 1 39577 0 0
+/noticia/caminhada-com-servidoras-municipais-marca-evento-do-dia-internacional-da-mulher 1 38603 0 0
+/wordpress/ 2 24395 1 0
+/noticia/dia-da-oportunidade-e-realizado-em-camapua 1 38586 0 0
+//web/wp-includes/wlwmanifest.xml 1 37377 0 0
+/secretaria/secretaria-de-governo 2 97028 0 0
+//test/wp-includes/wlwmanifest.xml 1 37378 0 0
+/noticia/boletim-covid-1207 1 35280 0 0
+/bk/ 1 12193 0 0
+/main/ 1 12199 0 0
+/noticia/prefeito-manoel-nery-e-eleito-entre-os-15-melhores-prefeitos-de-ms 2 76368 0 0
+/pagina/ouvidoria-do-sus 1 40218 0 0
+/2015/ 1 12191 0 0
+/pagina/pontos-turisticos 2 67282 0 1
+/noticia/homenagem-ao-dia-do-assistente-social 1 37134 0 0
+/2017/ 1 12192 0 0
+/cPanel_magic_revision_1386192033/unprotected/cpanel/fonts/open_sans/OpenSans-Regular-webfont.woff 2 45320 0 0
+/old-wp/ 1 12203 0 0
+/administrator/index.php 1 12199 0 0
+/cPanel_magic_revision_1386192031/unprotected/cpanel/fonts/open_sans/OpenSans-Bold-webfont.woff 2 44864 0 0
+/portal/ 1 12196 0 0
+/pagina/sobre-a-secretaria-saj 1 41812 0 0
+/galerias 1 33501 0 0
+/noticia/a-prefeitura-ira-adquirir-um-novo-caminhao-coletor-de-lixo 2 72898 1 0
+/wp1/ 1 12200 0 0
+/2019/ 1 12196 0 0
+/noticia/vacinacao-da-gripe-e-aberta-a-toda-populacao 1 39365 0 0
+/admin 2 24389 1 1
+/wp-login.php 2 24382 0 1
+/pagina/palavras-do-vice-prefeito 1 121843 0 0
+/v1/ 1 12201 0 0
+/old-site/ 1 12200 0 0
+/noticia/vacina-contra-a-influenza-ja-esta-disponivel-nas-unidades-de-saude 1 39664 0 0
+/noticia/prefeito-assegura-pavimentacao-de-ruas-da-pontinha-do-cocho-e-da-ms-338 1 38996 0 0
+//news/wp-includes/wlwmanifest.xml 1 37378 0 0
+/publicacoes-tipo/edital 1 55168 1 1
+/publicacao/decreto-prorrogacao-das-aulas 1 37132 0 0
+//wp1/wp-includes/wlwmanifest.xml 1 37377 0 0
+/noticia/programa-lote-urbanizado-sera-executado-no-distrito-da-pontinha-do-cocho 1 37778 0 0
+/backup/ 2 24395 0 0
+/assets/plugins/kcfinder/upload.php 1 37517 0 1
+//site/wp-includes/wlwmanifest.xml 1 37378 0 0
+/pagina/como-chegar 2 68166 0 0
+/home/ 2 24406 0 0
+//cms/wp-includes/wlwmanifest.xml 1 37377 0 0
+/noticia/prefeito-manoel-nery-define-criterios-para-garantir-o-pagamento-do-piso-nacional-do-magisterio-aos-professores-de-camapua 1 40089 0 0
+/old/ 2 24393 0 0
+/asset/kcfinder/upload.php 1 37508 0 0
+/noticia/estudo-mostra-que-cultura-do-amendoim-pode-se-tornar-viavel-em-camapua 2 76028 0 1
+/noticia/prefeitura-continua-recuperando-estradas-rurais 2 72854 0 1
+//wp2/wp-includes/wlwmanifest.xml 1 37377 0 0
+/publicacao/decretos-suspensao-dos-cultos-presenciais 2 74112 0 0
+/v2 1 12196 0 1
+/kcfinder/upload.php 1 37502 0 0
+//wordpress/wp-includes/wlwmanifest.xml 1 37383 0 0
+/noticia/camapua-realiza-atendimentos-de-saude-em-parceria-com-sindicato-rural-e-famasul 2 960062 0 1
+/2016/ 1 12197 0 0
+/noticia/neste-domingo-06-acontece-mais-uma-edicao-da-live-solidaria 1 36753 0 0
+/publicacoes-tipo/associacao-beneficente-de-camapua-casa-do-amparo-as-criancas-carentes-creche-menino-jesus 1 36446 1 1
+/test/ 2 24376 0 0
+//wp-includes/wlwmanifest.xml 1 37373 0 0
+/noticia/trabalhos-de-limpeza-urbana-continuam-sendo-executados 1 39440 0 0
+/site/ 2 24392 0 0
+/noticia/o-cristo-redentor-e-iluminado-com-a-cor-amarela 1 36002 0 0
+//blog/wp-includes/wlwmanifest.xml 1 37378 0 0
+/wp2/ 1 12200 0 0
+/noticia/administracao-municipal-dispoe-de-r-306-mil-reais-a-disposicao-para-formalizar-convenio-com-o-asilo 1 41032 0 0
+/noticia/prefeito-entrega-veiculo-para-secretaria-de-assistencia-social 1 37362 0 0
+//website/wp-includes/wlwmanifest.xml 1 37381 0 0
+/js/kcfinder/upload.php 1 37505 0 0
+/tmp/ 2 24379 0 0
+/demo/ 2 24386 0 0
+/2018/ 1 12193 0 0
+//wp/wp-includes/wlwmanifest.xml 1 37376 0 0
+/noticia/sala-do-empreendedor-em-camapua-recebe-novo-layout 1 37217 0 0
+//2018/wp-includes/wlwmanifest.xml 1 37378 0 0
+//xmlrpc.php 1 37360 0 0
+/assets/kcfinder/upload.php 1 37509 0 0
+/pagina/sobre-a-secretaria 1 35446 1 1
+/web/ 2 24402 0 0
+/noticia/camapua-realiza-etapa-municipal-do-1o-desafio-de-merendeiras 1 41755 0 0
+/blog/ 2 24402 0 0
+//shop/wp-includes/wlwmanifest.xml 1 37378 0 0
+//sito/wp-includes/wlwmanifest.xml 1 37378 0 0
+/2020/ 1 12200 0 0
+/oldsite/ 1 12201 0 0
+/noticia/prefeito-participa-de-encontro-com-governador 1 40366 0 0
+/noticia/equipe-da-sala-do-empreendedor-visita-o-comercio 1 39586 0 0
+/cms/ 1 12187 0 0
+/noticia/prefeitura-leva-atendimento-de-saude-a-comunidade-rural 1 37103 0 0
+/noticia/a-prefeitura-realiza-nesta-sexta-28-e-sabado-29-a-live-solidaria-com-os-artistas-de-camapua 1 40594 0 0
+//media/wp-includes/wlwmanifest.xml 1 37379 0 0
+/secretaria/secretaria-de-administracao-financas-e-planejamento 3 185590 0 1
+/noticia/prefeitura-passa-a-atender-em-novo-horario 1 35272 0 1
+/temp/ 2 24391 0 0
+/cPanel_magic_revision_1386192033/unprotected/cpanel/fonts/open_sans/OpenSans-Semibold-webfont.woff 2 45816 0 1
+/wp/ 2 24394 0 0
+/pagina/sobre-a-secretaria-samae 1 34732 0 0
+/noticia/junho-e-um-mes-inteiro-dedicado-a-protecao-da-pessoa-idosa 1 39289 0 0
+/dev/ 2 24394 0 0
+/noticia/prefeito-apresenta-camapua-para-diretores-de-cooperativa 1 37506 0 0
+/new/ 2 24394 0 0
+/bak/ 1 12191 0 0
+/assets/js/kcfinder/upload.php 1 37512 0 0
+END_SIDER

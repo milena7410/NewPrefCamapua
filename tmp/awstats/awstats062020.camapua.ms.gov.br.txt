@@ -1,0 +1,3800 @@
+AWSTATS DATA FILE 7.7 (build 20180105)
+# If you remove this file, all statistics for date 202006 will be lost/reset.
+# Last config file used to build this data file was /home/prefcamapua/tmp/awstats/awstats.camapua.ms.gov.br.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2017                
+POS_TIME 2706                
+POS_VISITOR 55399               
+POS_DAY 117654              
+POS_DOMAIN 3732                
+POS_LOGIN 4613                
+POS_ROBOT 4768                
+POS_WORMS 6386                
+POS_EMAILSENDER 6517                
+POS_EMAILRECEIVER 6660                
+POS_SESSION 118614              
+POS_SIDER 118828              
+POS_FILETYPES 6795                
+POS_DOWNLOADS 7136                
+POS_OS 16305               
+POS_BROWSER 16712               
+POS_SCREENSIZE 21230               
+POS_UNKNOWNREFERER 21304               
+POS_UNKNOWNREFERERBROWSER 22798               
+POS_ORIGIN 23727               
+POS_SEREFERRALS 23879               
+POS_PAGEREFS 24146               
+POS_SEARCHWORDS 24809               
+POS_KEYWORDS 24968               
+POS_MISC 2367                
+POS_ERRORS 25034               
+POS_CLUSTER 4469                
+POS_SIDER_404 25216               
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20200701000105 2000 471753 11978577694902
+FirstTime 20200601000455
+LastTime 20200630233437
+LastUpdate 20200701080849 2000 0 1999 0 0
+TotalVisits 1395                
+TotalUnique 627                 
+MonthHostsKnown 0                   
+MonthHostsUnknown 1973                
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+AddToFavourites 0 1092 0
+FlashSupport 0 0 0
+JavascriptDisabled 0 0 0
+TotalMisc 0 0 0
+PDFSupport 0 0 0
+QuickTimeSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+JavaEnabled 0 0 0
+RealPlayerSupport 0 0 0
+DirectorSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 61 2464 38690546 281 379 34557259
+1 61 125 19922261 316 402 71565779
+2 36 101 11685026 589 702 75018295
+3 39 86 20769085 779 1045 118358138
+4 65 134 36153309 457 575 59549444
+5 29 73 32013500 857 996 48274435
+6 89 681 88163581 492 710 76253306
+7 398 4550 479498472 450 705 83320964
+8 426 4191 588615536 321 596 75723615
+9 412 4105 640761586 456 781 77994160
+10 337 2970 548362601 312 570 78078566
+11 272 2770 453244106 371 723 106185087
+12 331 2829 426663663 341 625 78167274
+13 194 2576 442246037 444 737 66258641
+14 202 2639 473280400 658 956 110085702
+15 171 1909 409283735 725 951 133567532
+16 186 2321 399524021 494 809 88703204
+17 106 961 247824215 384 586 67926749
+18 104 1431 271163218 407 660 89022317
+19 91 1154 207404728 377 575 74897624
+20 90 1280 184362417 405 578 109642805
+21 67 708 113127654 344 480 50908010
+22 72 136 97313003 478 610 53048928
+23 35 311 75727357 466 583 47317799
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 42
+br 2373 28577 4105203269
+us 966 7177 1527322469
+in 108 1399 429421619
+ma 99 140 75996483
+gb 60 61 15358250
+nl 49 49 4010418
+fr 45 51 16486812
+sk 30 2250 6159726
+ru 24 29 5096493
+ca 22 66 4062141
+kr 13 304 21361494
+de 12 170 11069588
+id 11 11 864817
+se 7 7 569681
+jp 7 33 14609417
+be 6 7 333208
+cn 5 8 5304786
+hk 4 4 158723
+pl 4 4 327072
+cr 3 5 10782341
+cl 3 84 7659497
+cz 3 3 243841
+al 3 3 245661
+ua 2 2 162822
+eg 2 2 119126
+bg 1 1 81215
+cw 0 1 2560554
+ie 0 2 5121108
+eu 1 1 81411
+za 1 2 187624
+nz 0 6 3089239
+ng 0 1 2560554
+ro 2 4 1473286
+co 2 13 3277300
+ci 0 1 2560554
+ch 2 18 9008553
+mx 0 1 2560554
+tr 1 1 38888
+ar 0 4 2877765
+gr 1 1 81887
+dm 1 1 81411
+vg 1 1 81215
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 36
+SemrushBot/ 2596 215352297 20200630235003 604
+bingbot/ 1433 127706112 20200630230614 188
+AhrefsBot/ 945 124808972 20200630230624 54
+Googlebot/ 683 72563157 20200630235313 49
+BDCbot/ 442 47503973 20200616040758 1
+link 416 63821728 20200628164619 5
+bot[\s_+:,\.\;\/\\-] 323 45189687 20200627092035 16
+unknown 309 7416 20200630161740 309
+crawl 237 25297629 20200630140239 2
+Applebot/ 225 17591821 20200630221938 43
+MegaIndex\.ru/ 212 18207562 20200601070446 1
+baidu 184 7863409 20200615182839 0
+java 184 32733094 20200617230144 0
+facebookexternalhit/ 167 11817677 20200630201110 0
+no_user_agent 147 8655860 20200630155222 2
+BLEXBot/ 129 8975759 20200625042809 3
+Googlebot\-Image/ 97 4904532 20200624110437 0
+MJ12bot/ 68 5407529 20200630102410 8
+YandexBot/ 58 1184504 20200630030243 42
+DotBot/ 44 9221169 20200630214649 25
+Dalvik/ 36 11418700 20200630141140 0
+DomainStatsBot/ 33 2223734 20200604131805 1
+bingpreview 31 4004713 20200625181256 0
+Mail\.RU_Bot/ 11 342124 20200620122008 6
+feed 11 576426 20200612121727 0
+DuckDuckGo\-Favicons\-Bot/ 7 573013 20200629215446 0
+Python\-urllib/ 6 548682 20200603165519 0
+YandexImages/ 1 151639 20200626131930 0
+curl 1 0 20200630001419 0
+(firefox/)([0-9]\.|[0-1][0]\.) 5 392237 20200613044913 0
+netEstate[\x20]NE[\x20]Crawler 1 24 20200602222804 1
+Cliqzbot/ 4 513918 20200621111014 2
+microsoft.*discovery 1 0 20200625145210 0
+CCBot/ 6 186714 20200630221934 2
+Sogou[\x20]web[\x20]spider/ 2 48 20200618051802 2
+Yahoo![\x20]Slurp 4 48 20200620174018 2
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 13
+js 1529 90988857 0 0
+css 1506 97056470 0 0
+pdf 689 137831812 0 0
+wmv 5 52718460 0 0
+eot 4 80508 0 0
+ttf 5 227020 0 0
+woff 14 386816 0 0
+png 9054 5247945421 0 0
+doc 13 14633984 0 0
+html 2258 183760436 0 0
+jpg 23835 386376157 0 0
+Unknown 1197 79677743 0 0
+woff2 396 6969188 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 184
+/arquivos/publicacoes/5ad1030cf36b7.pdf 477 17 51130246
+/arquivos/midias/5a8ebb2ea6317.pdf 37 8 15299381
+/arquivos/publicacoes/5ad102cf6d1fd.pdf 16 6 5863400
+/arquivos/midias/5d432a40cf635.pdf 15 0 9829950
+/arquivos/publicacoes/5a900f64ada59.pdf 15 2 10786624
+/arquivos/publicacoes/5a9010bf7082b.pdf 15 3 4905040
+/arquivos/publicacoes/5a8f17ee2a33b.pdf 14 0 7438186
+/arquivos/midias/5d432b065324d.wmv 14 0 147611688
+/arquivos/publicacoes/5a8fff7ed55bc.doc 13 0 21525504
+/arquivos/publicacoes/5a9009ca1ad22.pdf 11 0 1937023
+/arquivos/publicacoes/5ec3e37a8be0f.pdf 11 0 5970250
+/arquivos/publicacoes/5a900595acf46.pdf 10 0 4097160
+/arquivos/publicacoes/5a8ed2884876c.pdf 9 7 8502158
+/arquivos/midias/5aa18f566e374.pdf 9 0 833085
+/arquivos/publicacoes/5a90028c96d59.doc 9 0 2497536
+/arquivos/publicacoes/5cadf315bb646.pdf 9 0 2793591
+/arquivos/publicacoes/5ec3e3a4a1ead.pdf 9 0 4626045
+/arquivos/publicacoes/5a900c2449fb8.pdf 8 0 5688224
+/arquivos/midias/5aa149ad74fc5.pdf 8 0 722808
+/arquivos/publicacoes/5ec3e3e8194b9.pdf 7 0 2941239
+/arquivos/midias/5aa175d7e1b0a.pdf 6 0 227436
+/arquivos/publicacoes/5a900d24ed836.pdf 6 0 820176
+/arquivos/publicacoes/5a900ae29abcb.pdf 6 2 740836
+/arquivos/publicacoes/5ec3e3c764224.pdf 6 0 3343020
+/arquivos/publicacoes/5a9026f38eb4c.pdf 6 0 500172
+/arquivos/publicacoes/5d42fb85d0abf.pdf 5 0 961010
+/arquivos/publicacoes/5a9009de17a87.pdf 5 0 1188860
+/arquivos/publicacoes/5ad1035f103b8.pdf 5 0 836385
+/arquivos/publicacoes/5a9016291d19d.pdf 5 0 1352790
+/arquivos/publicacoes/5bfbf9341b126.pdf 5 0 1389095
+/arquivos/midias/5aa14899735bf.pdf 4 0 163812
+/arquivos/publicacoes/5a8f04dbc4f00.pdf 4 0 28281276
+/arquivos/publicacoes/5a9009aa0729e.pdf 4 0 1513072
+/arquivos/publicacoes/5a90049123277.pdf 4 0 5141324
+/arquivos/midias/5aa146985780a.pdf 4 0 367416
+/arquivos/midias/5aa192c4cc767.pdf 4 0 168548
+/arquivos/publicacoes/5a8f17fecf217.pdf 4 0 843140
+/arquivos/publicacoes/5a900b27ba32b.pdf 4 0 492036
+/arquivos/publicacoes/5a8edb34ad3a4.pdf 3 0 916017
+/arquivos/publicacoes/5bf57b1fa51bf.pdf 3 0 786432
+/arquivos/midias/5aa14be9a07ab.pdf 3 0 326889
+/arquivos/publicacoes/5a900f23cdfac.pdf 3 0 944271
+/arquivos/publicacoes/5be58eac00f12.pdf 3 0 733251
+/arquivos/publicacoes/5a900f0c56674.pdf 3 0 410088
+/arquivos/publicacoes/5ad103c1ade8d.pdf 3 0 705159
+/arquivos/publicacoes/5beac6a32034d.pdf 3 0 806871
+/arquivos/publicacoes/5af095b095406.pdf 3 0 1159293
+/arquivos/midias/5aa1490476ac9.pdf 3 0 282222
+/arquivos/publicacoes/5a90165a74096.pdf 3 0 769383
+/arquivos/publicacoes/5a9025b0d586d.pdf 3 0 897666
+/arquivos/publicacoes/5a8f380b4004c.pdf 3 0 184161
+/arquivos/midias/5aa170ec8f048.pdf 3 0 298074
+/arquivos/publicacoes/5d1b525c4a187.pdf 3 4 1536451
+/arquivos/midias/5aa14a5239434.pdf 3 0 285804
+/arquivos/publicacoes/5a8ffe3c00770.pdf 3 0 925431
+/arquivos/midias/5aa1410a3f1c6.pdf 3 0 122526
+/arquivos/publicacoes/5a9024f8cd743.pdf 3 0 882771
+/arquivos/publicacoes/5c110f4e396ce.pdf 3 0 559221
+/arquivos/publicacoes/5c1bc5304f74f.pdf 3 0 245115
+/arquivos/publicacoes/5a8f031fc392a.pdf 3 0 740841
+/arquivos/publicacoes/5a900aaa31f3e.pdf 3 0 214317
+/arquivos/midias/5aa191145a44d.pdf 3 0 115518
+/arquivos/publicacoes/5a8f06ef867b0.pdf 3 0 672918
+/arquivos/publicacoes/5edf960bb9f13.pdf 3 0 1837227
+/arquivos/publicacoes/5c1bc5dd2e894.pdf 3 0 524217
+/arquivos/publicacoes/5a902ade82975.pdf 3 0 47202
+/arquivos/publicacoes/5a90149dd5a03.pdf 2 0 782120
+/arquivos/publicacoes/5ad1038379f19.pdf 2 0 210696
+/arquivos/publicacoes/5c0e85ca38f58.pdf 2 0 230264
+/arquivos/publicacoes/5a9025ea3a796.pdf 2 0 562954
+/arquivos/publicacoes/5beac687c8a6f.pdf 2 0 805706
+/arquivos/publicacoes/5e81f42acf4b4.pdf 2 0 8186
+/arquivos/publicacoes/5bfeb57f55ebe.pdf 2 0 326256
+/arquivos/publicacoes/5a9026d3c42a5.pdf 2 0 167106
+/arquivos/publicacoes/5ad102ee432a3.pdf 2 0 239996
+/arquivos/publicacoes/5a8f0f1078d38.pdf 2 0 346514
+/arquivos/publicacoes/5a8ec9f082345.pdf 2 0 591466
+/arquivos/midias/5aa193c450592.pdf 2 0 78522
+/arquivos/midias/5aa1716a7d8f9.pdf 2 0 79060
+/arquivos/publicacoes/5a90161c8bbfb.pdf 2 0 607832
+/arquivos/publicacoes/5a8eda166e2ad.pdf 2 0 438510
+/arquivos/publicacoes/5e81f44696ecf.pdf 2 0 16662
+/arquivos/midias/5aa191d83e5be.pdf 2 0 182740
+/arquivos/publicacoes/5d41819a29a68.pdf 2 0 175224
+/arquivos/midias/5aa19197e472c.pdf 2 0 79064
+/arquivos/midias/5aa170e101ebf.pdf 2 0 79910
+/arquivos/midias/5aa191cb63aee.pdf 2 0 83322
+/arquivos/publicacoes/5a9016a4202c3.pdf 2 0 952390
+/arquivos/publicacoes/5e81f436361e4.pdf 2 0 8912
+/arquivos/publicacoes/5a902544eb9f3.pdf 2 0 282674
+/arquivos/publicacoes/5a9025cfad100.pdf 2 0 743356
+/arquivos/midias/5aa194291c61a.pdf 2 0 183660
+/arquivos/publicacoes/5d418104c15c2.pdf 2 0 215914
+/arquivos/publicacoes/5a8ed901e77e9.pdf 2 0 437360
+/arquivos/publicacoes/5a90251cf1b5d.pdf 2 0 562954
+/arquivos/publicacoes/5cf92e3c0f819.pdf 2 0 682582
+/arquivos/publicacoes/5a8edb189912a.pdf 2 0 1640722
+/arquivos/publicacoes/5bfd2bd870199.pdf 2 0 222262
+/arquivos/publicacoes/5c0ac6cae2262.pdf 2 0 535410
+/arquivos/publicacoes/5e81f403ccac4.pdf 2 0 38622
+/arquivos/publicacoes/5a902b17c664f.pdf 2 0 77186
+/arquivos/publicacoes/5d4181380b5ae.pdf 2 0 235424
+/arquivos/publicacoes/5a900a934b773.pdf 2 0 79280
+/arquivos/publicacoes/5bdb37f2bb8ca.pdf 2 0 657968
+/arquivos/publicacoes/5a90148ab9bca.pdf 2 0 96036
+/arquivos/publicacoes/5ca20799e2568.pdf 2 0 26574
+/arquivos/midias/5aa193045ea3a.pdf 2 0 84536
+/arquivos/publicacoes/5a9025bfbb7a9.pdf 2 0 652224
+/arquivos/publicacoes/5ca209cdb0c3c.pdf 2 0 9132
+/arquivos/publicacoes/5d2f06ab5f1f2.pdf 2 6 661280
+/arquivos/publicacoes/5ca24cd5e4ca2.pdf 2 0 36598
+/arquivos/midias/5aa1524e189f5.pdf 1 0 43953
+/arquivos/publicacoes/5a8f0fe76cc86.pdf 1 0 153015
+/arquivos/publicacoes/5ca2892403532.pdf 1 0 0
+/arquivos/publicacoes/5a900a06069cd.pdf 1 0 108950
+/arquivos/midias/5aa1912c14e10.pdf 1 0 91356
+/arquivos/publicacoes/5ca3d73130184.pdf 1 0 4510
+/arquivos/publicacoes/5d419732563d7.pdf 1 0 357553
+/arquivos/publicacoes/5a900a2b129d9.pdf 1 0 108151
+/arquivos/publicacoes/5a8f399e8a985.pdf 1 0 46580
+/arquivos/midias/5aa1937f1b7a8.pdf 1 0 39293
+/arquivos/midias/5aa13d1a545fc.pdf 1 0 99301
+/arquivos/midias/5aa1582384e80.pdf 1 0 268924
+/arquivos/publicacoes/5a8f03d78613d.pdf 1 0 7532271
+/arquivos/publicacoes/5ca20a02c6a8d.pdf 1 0 373579
+/arquivos/publicacoes/5ca20b7498a91.pdf 1 0 4832
+/arquivos/publicacoes/5d5acecec0ca7.pdf 1 0 262880
+/arquivos/publicacoes/5cf92e05216c7.pdf 1 0 247073
+/arquivos/publicacoes/5ca20748eb3c1.pdf 1 0 17521
+/arquivos/publicacoes/5ca2095e81c53.pdf 1 0 12939
+/arquivos/publicacoes/5cf92e707ad43.pdf 1 0 303779
+/arquivos/midias/5aa148e526e03.pdf 1 0 40150
+/arquivos/midias/5aa14c11c4f68.pdf 1 0 41916
+/arquivos/midias/5aa14a7cb21e9.pdf 1 0 38701
+/arquivos/publicacoes/5a8f0d914d872.pdf 1 0 366516
+/arquivos/midias/5aa15218936fd.pdf 1 0 94224
+/arquivos/midias/5aa192d2e9ca5.pdf 1 0 93423
+/arquivos/publicacoes/5ca20bff1c2b8.pdf 1 0 12582
+/arquivos/publicacoes/5d4196dadf4ec.pdf 1 0 349583
+/arquivos/midias/5aa156ce73cf6.pdf 1 0 39696
+/arquivos/publicacoes/5a9014651eb6a.pdf 1 0 442756
+/arquivos/publicacoes/5ad1032bae1c3.pdf 1 0 106107
+/arquivos/publicacoes/5c1113fcd17b6.pdf 1 0 77367
+/arquivos/publicacoes/5ca20c46be583.pdf 1 0 4804
+/arquivos/publicacoes/5a902b29a3b60.pdf 1 0 39108
+/arquivos/publicacoes/5ca3b940065a4.pdf 1 0 4243
+/arquivos/publicacoes/5d1f9140b5dc4.pdf 1 4 104600
+/arquivos/publicacoes/5ca20c2727d4f.pdf 1 0 12965
+/arquivos/publicacoes/5a900a7d601da.pdf 1 0 209917
+/arquivos/publicacoes/5ca20c1a53ec9.pdf 1 0 17506
+/arquivos/midias/5aa14e9c97ed1.pdf 1 0 41685
+/arquivos/publicacoes/5ca3d6f83e424.pdf 1 0 4781
+/arquivos/publicacoes/5a90155303cd3.pdf 1 0 272037
+/arquivos/publicacoes/5c1113dd8067e.pdf 1 0 159313
+/arquivos/publicacoes/5a902972e6c14.pdf 1 0 148955
+/arquivos/publicacoes/5ca24ce671045.pdf 1 0 4246
+/arquivos/midias/5aa148703340e.pdf 1 0 95277
+/arquivos/publicacoes/5ca3b934a2082.pdf 1 0 8990
+/arquivos/midias/5aa1493adbbcd.pdf 1 0 86690
+/arquivos/publicacoes/5ca3b958408bc.pdf 1 0 8554
+/arquivos/publicacoes/5a900acc2cef7.pdf 1 0 43587
+/arquivos/midias/5aa1901ee9162.pdf 1 0 92788
+/arquivos/midias/5aa1462577f47.pdf 1 0 89651
+/arquivos/publicacoes/5ca20b829907d.pdf 1 0 8077
+/arquivos/midias/5aa13c5ebf380.pdf 1 1 71270
+/arquivos/publicacoes/5cf92eb6e2a3d.pdf 1 0 290631
+/arquivos/midias/5aa1569b00b40.pdf 1 0 99144
+/arquivos/publicacoes/5d4196b41dc37.pdf 1 0 357513
+/arquivos/publicacoes/5ca24cff56ade.pdf 1 0 8532
+/arquivos/publicacoes/5cf92f2073047.pdf 1 0 290631
+/arquivos/midias/5aa17178377ed.pdf 1 0 133349
+/arquivos/midias/5aa1496125d9c.pdf 1 0 35971
+/arquivos/publicacoes/5ca3b92a7fbdc.pdf 1 0 13643
+/arquivos/publicacoes/5a900b0a05a23.pdf 1 0 75505
+/arquivos/publicacoes/5ca20c3a09c45.pdf 1 0 8321
+/arquivos/publicacoes/5ad10275ce305.pdf 1 0 260618
+/arquivos/midias/5aa19372bbd99.pdf 1 0 87206
+/arquivos/publicacoes/5ca288ea031b5.pdf 1 0 8769
+/arquivos/midias/5aa14af9c359e.pdf 1 0 90018
+/arquivos/midias/5aa1941de3235.pdf 1 0 35127
+/arquivos/midias/5aa190d9ae800.pdf 1 0 39361
+/arquivos/publicacoes/5d445735584ff.pdf 0 6 730266
+/arquivos/publicacoes/5d516d9309988.pdf 0 3 346449
+/arquivos/publicacoes/5d1b52a12804b.pdf 0 4 1928028
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 24
+ios_ipad 2 1
+linuxandroid 4614 256
+ios_iphone 869 38
+win8.1 2544 95
+linux 592 114
+win2000 1 1
+macosx10 21 18
+winunknown 4 4
+winxp 24 14
+macosx8 1 1
+macosx11 20 20
+macosx9 163 10
+win2003 3 2
+macosx6 9 8
+macosx 365 24
+win8 322 64
+win16 1 1
+win7 15518 1651
+macosx12 3 0
+winlong 23 8
+win10 14884 1204
+linuxubuntu 6 3
+Unknown 587 337
+macosx5 2 0
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 205
+chrome74.0.3729.186 80 3
+firefox52.0 4 0
+chrome80.0.3987.99 1 0
+chrome57.15.2987.98 1 0
+chrome63.0.3235.0 1 0
+chrome81.0.4044.111 18 1
+chrome57.14.2987.98 337 236
+chrome41.0.2226.0 1 1
+chrome50.0.2661.102 18 18
+chrome83.0.4103.116 4421 359
+chrome52.0.2743.116 14 14
+chrome43.0.2357.134 1 1
+chrome62.0.3202.94 31 30
+chrome79.0.3945.130 115 14
+firefox77.0 1534 77
+chrome80.0.3987.122 2 0
+chrome71.0.3578.99 5 1
+chrome26.0.1410.63 1 1
+msie9.0 82 8
+chrome41.0.2228.0 13 8
+chrome63.0.3239.111 1 0
+chrome60.0.2924.87 1 1
+firefox40.1 1 1
+firefox69.0 2 1
+opera12.14 1 1
+safari12.1.2 2 0
+edge18 481 19
+chrome73.0.3683.75 1 0
+safari5.1.7 2 2
+chrome75.0.3770.142 7 3
+msie8.0 3 3
+chrome81.0.4044.92 4 0
+chrome75.0.3770.100 3 1
+chrome83.0.4103.60 5 0
+firefox70.0 1 0
+chrome70.0.3538.110 10 10
+chrome47.0.2526.106 141 140
+safari12.1 2 0
+chrome66.0.3359.181 159 7
+firefox65.0 4 4
+chrome39.0.2171.95 1 1
+chrome84.0.4147.56 1 0
+firefox23.0 1 1
+safari12.0.1 10 9
+chrome73.0.3683.103 152 4
+safari13.1.1 435 19
+chrome80.0.3987.87 3 0
+firefox43.0 2 0
+chrome80.0.3987.149 35 2
+chrome32.0.1664.3 3 3
+chrome77.0.3865.90 2 2
+chrome69.0.3497.86 1 0
+safari13.0.5 94 3
+chrome34.0.1847.114 1 0
+chrome4.1.249.1036 1 1
+chrome26.0.1410.65 1 1
+chrome81.0.4044.113 2 1
+chrome78.0.3904.87 2 0
+safari5.0.2 2 0
+firefox59.0 2 1
+chrome32.0.1700.107 1 0
+chrome46.0.2490.80 2 2
+safari3.2.2 1 0
+chrome35.0.1916.47 1 1
+chrome63.0.3239.132 38 24
+chrome31.0.1650.16 2 2
+chrome46.0.2490.76 33 2
+firefox62.0 13 2
+chrome74.0.3729.169 2292 133
+chrome33.0.1750.117 1 0
+chrome75.0.3770.143 194 25
+chrome59.0.3071.125 1 0
+chrome78.0.3904.96 1 0
+opera42.0.2393.94 88 87
+chrome49.0.2623.112 26 6
+safari5.1.9 1 0
+firefox74.0 1 0
+chrome75.0.3770.101 1 0
+chrome83.0.4103.96 713 42
+chrome83.0.4103.101 953 45
+msie10.6 4 4
+opera54.0.2952.64 1 1
+opera62.0.3331.99 1 1
+safari9.0 7 4
+chrome78.0.3904.108 108 28
+chrome58.0.3029.96 1 0
+firefox47.0 2 2
+chrome71.0.3578.141 3 0
+chrome53.0.2785.143 1 1
+chrome80.0.3987.116 182 32
+chrome84.0.4147.12 1 0
+chrome81.0.4044.138 690 30
+mozilla 161 78
+firefox76.0 1006 60
+firefox68.0 3 2
+chrome77.0.3865.92 15 2
+opera68.0.3618.125 4 0
+chrome76.0.3809.100 1 0
+firefox75.0 1 0
+chrome78.0.3904.97 56 38
+firefox60.0 2 0
+android 2 0
+firefox25.0 3 3
+chrome32.0.1667.0 4 4
+opera68.0.3618.165 1 0
+safari13.0.4 83 4
+chrome34.0.1847.131 2 2
+chrome79.0.3945.0 1 0
+chrome83.0.4103.97 6570 456
+chrome81.0.4044.117 79 2
+firefox63.0 90 14
+chrome58.0.3029.110 5 5
+chrome77.0.3865.120 5 1
+chrome79.0.3945.136 96 5
+netscape 1 1
+safari12.0 1 1
+chrome80.0.3987.119 13 1
+firefox56.0 2 2
+safari13.1 69 6
+chrome67.0.3396.99 56 25
+opera56.0.3051.99 7 7
+chrome77.0.3865.116 1 0
+chrome83.0.4103.61 7862 523
+chrome80.0.3987.162 22 1
+chrome38.0.1025.166 41 0
+chrome39.0.0.0 1 0
+chrome76.0.3809.111 27 4
+netscape5.0 149 2
+safari12.1.1 1 0
+chrome85.0.4164.2 1 0
+chrome81.0.4044.122 2 1
+chrome83.0.4103.106 4692 333
+opera68.0.3618.142 1 0
+chrome49.0.2623.75 21 21
+chrome55.0.2883.91 153 11
+firefox67.0 1 1
+chrome11.0.654.0 1 1
+chrome81.0.4044.0 87 4
+chrome67.0.3396.87 131 55
+msie10.0 11 10
+iphone 256 9
+chrome10.0.648.134 3 3
+chrome81.0.4044.96 52 4
+chrome10.0.612.3 1 0
+chrome73.0.3683.86 2 1
+chrome78.0.3904.70 2 2
+msie6.0 4 4
+chrome84.0.4147.38 30 3
+chrome28.0.1467.0 3 3
+chrome56.0.2924.87 3 0
+Unknown 495 328
+chrome66.0.3359.158 80 4
+chrome84.0.4147.30 3 0
+chrome64.0.3282.140 1 0
+chrome81.0.4044.129 234 11
+chrome63.0.3239.108 2250 30
+chrome63.0.3239.84 14 3
+chrome79.0 3 3
+chrome64.0.3282.167 10 10
+msie7.0 331 68
+chrome84.0.4147.45 77 2
+chrome44.0.2403.155 4 0
+firefox28.0 13 13
+chrome72.0.3626.109 35 19
+chrome69.0.3497.100 1 0
+chrome74.0.3729.157 79 3
+chrome61.0.3163.98 1 0
+chrome73.0.3683.90 2 2
+chrome83.0.4103.83 177 11
+chrome51.0.2704.103 1 1
+chrome84.0.4147.68 1 0
+firefox64.0 1 1
+chrome85.0.4177.0 16 1
+chrome85.0.4176.0 49 2
+chrome76.0.3809.132 15 12
+chrome64.0.3282.137 1 0
+chrome72.0.3626.121 4 3
+chrome38.0.2125.101 48 16
+msie11.0 430 50
+safari5.3.8 1 1
+opera68.0.3618.177 1 0
+chrome62.0.3202.84 2 0
+chrome74.0.3729.136 4 0
+chrome42.0.2311.111 1 0
+chrome67.0.3396.62 1 1
+chrome45.0.2454.101 6 6
+chrome79.0.3945.93 93 3
+opera50.0.2762.58 1 0
+chrome40.0.2214.93 1 1
+chrome70.0.3538.102 12 12
+safari 19 0
+edge17 2 2
+chrome80.0.3987.163 17 3
+opera36.0.2130.80 6 0
+chrome79.0.3945.116 2 0
+firefox71.0 1 1
+chrome79.0.3945.88 1 0
+chrome80.0.3987.132 469 39
+chrome85.0.4172.0 6 1
+chrome10.0.611.0 3 3
+firefox57.0 2 2
+chrome85.0.4166.0 11 1
+chrome77.0.3835.0 6 2
+chrome85.0.4167.0 7 1
+chrome77.0.3865.73 1 0
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 27
+Mozilla/4.0_(compatible;_ms-office) 20200615133006
+Mozilla/5.0 20200612034527
+Mozilla/5.0_(compatible;_Yeti/1.1;__http://naver.me/spd) 20200617162156
+RStudio_Desktop_(1.2.5019);_R_(4.0.0_x86_64-w64-mingw32_x86_64_mingw32) 20200612185651
+Mozilla/5.0_(compatible;_NetcraftSurveyAgent/1.0;__info@netcraft.com) 20200602051752
+facebookexternalhit/1.1_(_http://www.facebook.com/externalhit_uatext.php) 20200620070843
+Mozilla/5.0_(compatible;_Qwant-official/1.0;__https://www.qwant.com/) 20200624031808
+Hexometer 20200623161202
+WhatsApp/2.20.172_A 20200609141054
+python-requests/2.22.0 20200623161157
+Mozilla/5.0_(compatible;_SemrushBot/6~bl;__http://www.semrush.com/bot.html) 20200623095629
+python-requests/2.24.0 20200625001358
+SEMrushBot 20200626163916
+Mozilla/5.0_(compatible;_AhrefsBot/6.1;__http://ahrefs.com/robot/) 20200605073223
+python-requests/2.23.0 20200628185408
+python-requests/2.18.4 20200623152614
+cortex/1.0 20200617181516
+python-requests/2.18.1 20200627045129
+Go-http-client/1.1 20200626204354
+Mozilla/5.0_(compatible;_bingbot/2.0;__http://www.bing.com/bingbot.htm) 20200620070843
+Qwantify/1.0 20200613160725
+Blackboard_Safeassign 20200619225430
+AddThis.com_(http://support.addthis.com/) 20200630161741
+Python/3.8_aiohttp/3.6.2 20200612041538
+python-requests/2.21.0 20200615165407
+Mozilla 20200616130642
+Y!J-DLC/1.0_(https://www.yahoo-help.jp/app/answers/detail/p/595/a_id/42716) 20200616014930
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 19
+WhatsApp/2.20.172_A 20200609141054
+Microsoft_Office_Excel_2014 20200615133005
+Hexometer 20200623161202
+Go-http-client/1.1 20200626204354
+RStudio_Desktop_(1.2.5019);_R_(4.0.0_x86_64-w64-mingw32_x86_64_mingw32) 20200612185651
+facebookexternalhit/1.1_(_http://www.facebook.com/externalhit_uatext.php) 20200620070843
+python-requests/2.18.4 20200623152614
+cortex/1.0 20200617181516
+python-requests/2.23.0 20200628185408
+Y!J-DLC/1.0_(https://www.yahoo-help.jp/app/answers/detail/p/595/a_id/42716) 20200616014930
+python-requests/2.18.1 20200627045129
+SEMrushBot 20200626163916
+python-requests/2.21.0 20200615165407
+Python/3.8_aiohttp/3.6.2 20200612041538
+AddThis.com_(http://support.addthis.com/) 20200630161741
+Qwantify/1.0 20200613160725
+python-requests/2.22.0 20200623161157
+python-requests/2.24.0 20200625001358
+Blackboard_Safeassign 20200619225430
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 2872 4684
+From1 12 13
+From2 195 2991
+From3 54 202
+From4 741 32688
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 6
+duckduckgo 3 3
+www_google_com 155 2885
+r_search_yahoo_com 0 1
+br_search_yahoo_com 12 14
+www_google_com_br 11 72
+bing 14 16
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 14
+https://m.facebook.com 24 24
+https://l.facebook.com 8 8
+https://lm.facebook.com 5 5
+http://l.facebook.com/l.php 3 3
+http://camapuaprev.com.br 2 2
+https://hexometer.com 2 150
+http://lm.facebook.com/l.php 2 2
+http://idest.com.br/noticias/cidades/camapua-contribuinte-que-pagar-parcela-unica-do-iptu-tera-desconto 2 2
+https://m.facebook.com 1 1
+https://king.host 1 1
+https://publichnaya-kadastrovaja-karta.ru 1 1
+http://www.wofengenharia.com.br/clientes 1 1
+http://bulas.med.br 1 1
+https://cabinet-gosuslugi.info 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 1
+sky2 1
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 1
+sky2 1
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 7
+500 1197 720814784
+405 7 2603773
+301 126 30198
+419 24 36432
+404 4228 7001452
+206 596 274190951
+302 5 2136
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 888
+/https://coronavirus.saude.gov.br 4 -
+/bushexg.txt 1 -
+/arquivos/noticias/1495225089. 2 -
+/arquivos/noticias/1500317613. 1 -
+/arquivos/noticias/1471636673. 1 -
+/noticias/noticia/900 1 -
+/arquivos/noticias/1387459364.JPG 2 -
+/arquivos/noticias/1501537844. 1 -
+/noticia/pela-primeira-vez-prefeitura-realiza-pagamento-do-13o-salario-as-familias-acolhedoras-de-camapua/conheca-a-cidade 1 -
+/noticia/prefeito-e-autoridades-entregam-86-novas-unidades-habitacionais-no-cristo-redentor-2/conheca-a-cidade 1 -
+/entrar/wp-login.php 1 -
+/TkBPs726 1 -
+/arquivos/noticias/1500317645. 1 -
+/plugins/jquery.filer/php/readme.txt 1 http://camapua.ms.gov.br/plugins/jquery.filer/php/readme.txt
+/arquivos/noticias/1439995666. 1 -
+/arquivos/noticias/1500485743. 1 -
+/concurso/8 4 -
+/noticias/noticia/1032 1 -
+/arquivos/noticias/1495040703. 1 -
+/arquivos/noticias/1439995468. 1 -
+/arquivos/noticias/1495040761. 1 -
+/arquivos/noticias/1497008841.jpg 1 -
+/news/wp-includes/wlwmanifest.xml 22 -
+/noticias/151 2 -
+/noticias/noticia/898 1 -
+/galeria/41 7 -
+/arquivos/manuais/1383820425.pdf 3 -
+/arquivos/noticias/1471636620. 1 -
+/arquivos/noticias/1471636625. 3 -
+/arquivos/noticias/1470860312. 1 -
+/noticias/112 4 -
+/arquivos/noticias/1489580452. 3 -
+/arquivos/galeria/1425386526.JPG 1 -
+/arquivos/noticias/1495040722. 1 -
+/arquivos/manuais/1383744961.pdf 3 -
+/noticia/camapua-esta-no-mapa-estrategico-do-sebrae-para-desenvolvimento-do-turismo-na-regiao-norte/conheca-a-cidade 1 -
+/arquivos/noticias/1461101579. 1 -
+/gerar_marca_agua.php 1 -
+/this_page_does_not_exist/wp-login.php 1 -
+/noticias/noticia/571 1 -
+/arquivos/editais/edital07.pdf 4 -
+/galeria 3 -
+/Site/DiarioOficial 7 https://dom.imap.org.br/sitefora/index.cfm
+/arquivos/noticias/1375197857.pdf 2 -
+/arquivos/noticias/1516111460.jpg 9 -
+/noticias/noticia/929 1 -
+/radio 3 -
+/arquivos/noticias/1471636337. 1 -
+/https://www.mpms.mp.br 4 -
+/noticias/127 1 -
+/noticias/20 1 -
+/arquivos/noticias/1485895806. 1 -
+/arquivos/noticias/1496265366. 1 -
+/arquivos/noticias/1501537681. 1 -
+/arquivos/manuais/1383820806.pdf 2 -
+/noticias/noticia/998 1 -
+/arquivos/noticias/1446822200. 1 -
+/arquivos/noticias/1376934889.gif 1 http://go.mail.ru/search_images
+/index.php/pagina/equipe-de-governo 1 -
+/arquivos/midias/ 453 http://www.google.com/search
+/arquivos/noticias/1495224936. 1 -
+/index.php/noticias-da-assejur/index.php 2 -
+/wp-content/plugins/simple-image-manipulator/controller/download.php 1 -
+/noticias/2 6 -
+/arquivos/manuais/1383820605.pdf 1 -
+/orgao/4 1 -
+/arquivos/noticias/1487290624. 1 -
+/noticias/110 1 -
+/2020/wp-login.php 1 -
+/noticias/157 2 -
+/noticias/noticia/510 1 -
+/arquivos/noticias/1501537748. 1 -
+/arquivos/manuais/1383744599.pdf 1 -
+/index.php/component/content/article/34-orgaos-publicos/208-plantao-conselho-tutelar 1 -
+/api/v2 2 -
+/legislacao/22 1 -
+/sdfdsf 1 -
+/noticias/22 2 -
+/index.php/secretario 1 -
+/arquivos/noticias/1492211334. 1 -
+/arquivos/noticias/1500317677. 1 -
+/pagina/bandeira-brasao-e-hino/conheca-a-cidade 1 -
+/arquivos/noticias/1471636641. 1 -
+/arquivos/categoria_secretaria/1398431586.pdf 1 -
+/configuration.php.old 1 -
+/arquivos/noticias/1500317701. 2 -
+/wp-content/themes/mTheme-Unus/css/css.php 1 -
+/temp 2 http://camapua.ms.gov.br/temp/
+/arquivos/noticias/1505153089.jpg 1 -
+/restrito/login.php 2 -
+/bak 2 http://camapua.ms.gov.br/bak/
+/arquivos/noticias/1446822280. 1 -
+/install/index.php.bak 2 -
+/noticias/noticia/507 4 -
+/arquivos/noticias/1470860259. 1 -
+/arquivos/noticias/1471636614. 1 -
+/img/brasao.png 5 -
+/.ftpconfig 1 -
+/arquivos/noticias/1519070457.jpg 2 -
+/noticias/43 1 -
+/arquivos/manuais/1383744781.pdf 3 -
+/index.php/processo-seletivo-contratacao-de-pessoal-edital-01-novembro-2009-educacao/doc_download/147-edital-pss-001-2010 1 -
+/noticias/noticia/984 2 -
+/noticias/53 1 -
+/arquivos/manuais/1383674486.pdf 1 -
+/galeria/46 2 -
+/noticias/noticia/671 1 -
+/galeria/14 1 -
+/arquivos/categoria_secretaria/1427132952.pdf 4 -
+/wp 4 http://camapua.ms.gov.br/wp/
+/noticias/noticia/1017 1 -
+/arquivos/manuais/1383746133.pdf 1 -
+/legislacao/15 1 -
+/arquivos/noticias/1495225065. 1 -
+/arquivos/noticias/1490729302. 1 -
+/arquivos/noticias/1490729402. 1 -
+/legislacao/23 2 -
+/index.php/edital-11-convocacao-posse/doc_view/175-edital-11-convocacao-posse 1 -
+/noticias/noticia/558 1 -
+/membro/11 2 -
+/arquivos/noticias/1486124282. 1 -
+/www 1 -
+/noticias/85 1 -
+/%22 1 -
+/cms 3 -
+/legislacao/18 1 -
+/arquivos/Relatorio%20Detalhado%203%20quadrimestre%202013%20-%20Camapua-MS.pdf 1 -
+/arquivos/galeria/1407413589.JPG 2 -
+/restrito/view/editais/visualizar_abertura.php 1 -
+/wp/test 1 -
+/arquivos/editais/edital04.pdf 4 -
+/noticias/noticia/989 1 -
+/pagina/conheca-a-prefeitura/conheca-a-cidade 1 -
+/noticias/103 1 -
+/wordpress/wp-login.php 2 -
+/wp-config.php-bak 1 -
+/manager/login.php 1 -
+/noticias/noticia/905 1 -
+/index.php/noticia/prefeitura-recolhe-pneus-usados-em-borracharias 1 -
+/noticias/noticia/502 2 -
+/arquivos/noticias/1500485722. 1 -
+/noticias/noticia/570 1 -
+/arquivos/galeria/1414758340.JPG 2 -
+/demo 3 -
+/backup/wp-login.php 1 -
+/blog/xmlrpc.php 2 -
+/conheca-a-cidade 47 -
+/configuration.php-bak 1 -
+/arquivos/noticias/1485349259.JPG 1 -
+/arquivos/noticias/1471636631. 1 -
+/arquivos/noticias/1495225048. 1 -
+/noticias/noticia/353 1 -
+/galeria/30 1 -
+/img/localizacao.png 66 -
+/arquivos/noticias/1470860251. 1 -
+/arquivos/legislacao/estatuto.pdf 1 -
+/arquivos/noticias/DSC05130.JPG 1 -
+/2016/wp-includes/wlwmanifest.xml 2 -
+/arquivos/noticias/1501537802. 1 -
+/administrator/index.php 3 -
+/noticias/noticia/369 1 -
+/noticias/noticia/457 1 -
+/arquivos/noticias/1461101608. 1 -
+/galeria/21 2 -
+/noticias/8 5 -
+/noticias/141 1 -
+/download/edital13.pdf 1 -
+/vendor/phpunit/phpunit/build.xml 3 -
+/index.php/tributos-municipais/iss/doc_view/182-lei-complementar-005-codigo-tributario 1 -
+/arquivos/relatorios/1445865801.pdf 2 -
+//wp//wp-admin/install.php 2 -
+/dede/login.php 1 -
+/arquivos/manuais/1383673184.pdf 2 -
+/sitemap.xml 9 -
+/arquivos/galeria/1424437875.JPG 1 -
+/arquivos/galeria/1414756515.JPG 2 -
+/index.php/legislacao-municipal/cat_view/60-legislacao-municipal/50-decretos-municipais 1 -
+/noticias/noticia/433 1 -
+/index.php/pagina/sobre-a-secretaria 1 -
+/index.php/publicacao/decreto-2332-processo-seletivo-simplificado-para-contratacao-de-pessoal 1 -
+/equipe 2 -
+/noticias/123 1 -
+/arquivos/galeria/1424438156.JPG 1 -
+/restrito/view/legislacao/visualizar.php 1 -
+/arquivos/editais/edital%200%2003.pdf 5 -
+/arquivos/noticias/1428608034. 1 -
+/noticias/noticia/516 1 -
+/arquivos/noticias/1487783641. 1 -
+/arquivos/galeria/1414758260.JPG 1 -
+/noticias/82 1 -
+/shop/.env 2 -
+/arquivos/noticias/1500317724. 1 -
+/arquivos/noticias/1501537688. 1 -
+/arquivos/noticias/1490988860. 1 -
+/membro/5 1 -
+/misc/ajax.js 5 -
+/noticias/noticia/1021 1 -
+/arquivos/manuais/1383746230.pdf 4 -
+/website 2 -
+/arquivos/noticias/1500317506. 1 -
+/arquivos/noticias/1427307707. 1 -
+/arquivos/noticias/1511271153.jpg 3 -
+/arquivos/noticias/1490729415. 1 -
+/arquivos/noticias/1490988657. 2 -
+/noticias/noticia/753 1 -
+/arquivos/noticias/1471636639. 2 -
+/pagina/Manual-de-Procedimentos-Administrativos/conheca-a-cidade 1 -
+/index.php/noticia/informacao-importante 1 -
+/admin/.env 2 -
+/wp-includes/js/jquery/jquery.js 5 -
+/configuration.bak 1 -
+/arquivos/noticias/1474283100. 1 -
+/noticias/noticia/807 1 -
+/index.php/noticia/palestra-sobre-cooperativismo-e-realizada-em-camapua 1 -
+/noticias/39 1 -
+/tmp 2 http://camapua.ms.gov.br/tmp/
+/arquivos/noticias/1488294682.jpg 13 -
+/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 2 -
+/humans.txt 4 -
+/arquivos/noticias/1510161048.jpg 3 -
+/arquivos/noticias/1495040771. 1 -
+/noticias/163 3 -
+/https:/coronavirus.saude.gov.br 1 http://www.camapua.ms.gov.br/https://coronavirus.saude.gov.br/
+/user/register 1 -
+/noticias/conheca-a-cidade 1 -
+/wp-content/plugins/google-mp3-audio-player/direct_download.php 1 -
+/noticias/91 1 -
+/wp2/wp-includes/wlwmanifest.xml 22 -
+/configuration.php_new 1 -
+/wp-config.php_bak 1 -
+/test 3 http://camapua.ms.gov.br/test/
+/arquivos/noticias/1495224933. 1 -
+/wp-config.php_Old 1 -
+/arquivos/noticias/1393792993.jpg 1 -
+/arquivos/noticias/1495224950. 1 -
+/dev/wp-admin 1 http://camapua.ms.gov.br/
+/arquivos/noticias/1517435649.jpg 1 -
+/blog/wp-login.php 2 -
+/arquivos/noticias/1500317626. 1 -
+/arquivos/noticias/1466450111. 2 -
+/.remote-sync.json 1 -
+/arquivos/noticias/1502142719. 1 -
+/htadmin/login.php 1 -
+/arquivos/noticias/1392397264.JPG 2 -
+/index.php/noticia/iniciadas-as-obras-de-drenagem-em-ruas-do-cristo-redentor 1 -
+/noticias/noticia/945 2 -
+/arquivos/editais/edital06.pdf 1 -
+/telefones 12 -
+/pagina/como-chegar/conheca-a-cidade 1 -
+/arquivos/noticias/1495224931. 2 -
+/arquivos/noticias/1490988796. 1 -
+/arquivos/noticias/1485282998. 1 -
+/wp/wp-includes/wlwmanifest.xml 31 -
+/palavra-prefeito 2 -
+/concurso/5 4 -
+/arquivos/noticias/1471636647. 1 -
+/arquivos/galeria/1412375420.JPG 1 -
+/noticias/noticia/630 2 -
+/noticias/noticia/456 1 -
+/noticias/noticia/317 1 -
+/arquivos/noticias/1461101566. 2 -
+/arquivos/noticias/1462981756. 1 -
+/arquivos/galeria/1407186045.JPG 2 -
+/arquivos/galeria/1418215063.JPG 2 -
+/arquivos/noticias/1518003394.jpg 2 -
+/noticias/noticia/554 1 -
+/api/1/datasets 1 -
+/noticias/noticia/572 1 -
+/galeria/40 1 -
+/arquivos/noticias/1470860284. 2 -
+/noticias/noticia/500 1 -
+/arquivos/noticias/1495992905. 1 -
+/admin/view/javascript/common.js 5 -
+/arquivos/noticias/1487083663. 1 -
+/site 4 -
+/arquivos/noticias/1496265353. 1 -
+/arquivos/manuais/1383820492.pdf 2 -
+/arquivos/noticias/1470860302. 1 -
+/noticias/noticia/455 2 -
+/noticias/noticia/398 1 -
+/arquivos/editais/edital13.pdf 1 -
+/include/dialog/select_soft_post.php 1 -
+/noticias/11 2 -
+/arquivos/manuais/1383592571.pdf 1 -
+/arquivos/noticias/1470860864. 2 -
+/arquivos/noticias/1500513777. 2 -
+/arquivos/noticias/1389957024.JPG 2 -
+/arquivos/categoria_secretaria/1427132786.pdf 1 -
+/noticias/noticia/517 1 -
+/arquivos/noticias/1497009818. 1 -
+/legislacao/29 2 -
+/arquivos/manuais/1383745658.pdf 1 -
+/arquivos/noticias/1496265357. 1 -
+/noticias/19 1 -
+/arquivos/noticias/1389899401.JPG 3 -
+/arquivos/galeria/1424268906.JPG 2 -
+/index.php/contas-publicas 1 -
+/noticias/noticia/335 1 -
+/arquivos/noticias/1470860257. 1 -
+/arquivos/noticias/1437677543. 1 -
+/arquivos/noticias/1427462443.JPG 3 -
+/arquivos/noticias/1474283082. 1 -
+/arquivos/noticias/1495841482. 1 -
+/arquivos/galeria/1411131103.JPG 2 -
+/noticias/noticia/559 1 -
+/index.php/noticias/241-governador-andre-puccinelli-inaugura-obras-em-camapua 1 -
+/js/header-rollup-554.js 5 -
+/configuration.php.bak 1 -
+/arquivos/noticias/1490729289. 1 -
+/arquivos/galeria/1418215071.JPG 2 -
+/arquivos/noticias/1516026553.jpg 11 -
+/arquivos/noticias/1495040799. 1 -
+/arquivos/categoria_secretaria/1397501780.pdf 1 -
+/noticias/noticia/1040 1 -
+/wp-config.php_new 1 -
+/noticias/noticia/911 2 -
+/arquivos/noticias/1379102867.JPG 1 -
+/como-chegar 3 -
+/arquivos/galeria/1412373205.JPG 1 -
+/noticias/noticia/1038 2 -
+/pagina/cdncache-a.akamaihd.net/loaders/2666/l.js 1 http://www.camapua.ms.gov.br/pagina/palavras-do-prefeito
+/legislacao/26 3 -
+/noticias/noticia/642 1 -
+/membro/7 1 -
+/+ 2 http://camapua.ms.gov.br/+/
+/arquivos/noticias/1465397357. 1 -
+/arquivos/noticias/1381435401.pdf 3 -
+/wp/wp-login.php 2 -
+/old/wp-admin 1 http://camapua.ms.gov.br/
+/arquivos/manuais/1383820736.pdf 2 -
+/arquivos/noticias/1502142794. 1 -
+/admin/images/cal_date_over.gif 2 -
+/index.php/noticia/projeto-da-secretaria-de-saude-atende-mais-de-200-pessoas-em-seu-lancamento 1 -
+/arquivos/noticias/1462981794. 1 -
+/arquivos/noticias/1502745298. 1 -
+/arquivos/noticias/1471636669. 1 -
+/2018 2 http://camapua.ms.gov.br/2018/
+/arquivos/noticias/1490988693. 3 -
+/app/.env 1 -
+/arquivos/noticias/1495225078. 1 -
+/.git/config 1 -
+/OLD 1 http://camapua.ms.gov.br/
+/arquivos/noticias/1495040783. 1 -
+/arquivos/noticias/1465397544. 2 -
+/arquivos/galeria/1424269455.JPG 1 -
+/inicio 8 -
+/arquivos/noticias/1502142743. 2 -
+/application/.env 1 -
+/noticia/audiencia-publica-loa-2021/conheca-a-cidade 1 -
+/css/album.css 2 -
+/arquivos/noticias/1423745906.JPG 2 -
+/arquivos/noticias/1470860273. 2 -
+/transparencia 1570 http://www.camapua.ms.gov.br/transparencia
+/arquivos/noticias/1443036734. 1 -
+/ftpsync.settings 1 -
+/wordpress/wp-admin 1 http://camapua.ms.gov.br/
+/arquivos/noticias/1444397846. 1 -
+/wp-config.php.old 1 -
+/wp1 3 http://camapua.ms.gov.br/wp1/
+/noticias/83 1 -
+/img/prefeitura_social.png 1 -
+/wp1/wp-includes/wlwmanifest.xml 22 -
+/2019 2 http://camapua.ms.gov.br/2019/
+/arquivos/noticias/1442258482. 2 -
+/database/.env 1 -
+/noticias/55 1 -
+/noticias/161 2 -
+/noticias/133 1 -
+/arquivos/noticias/1501537829. 1 -
+/arquivos/noticias/1495225084. 3 -
+//wordpress//wp-admin/install.php 2 -
+/arquivos/cartaz_encceja.pdf 1 -
+/noticias/45 1 -
+/resources/.env 1 -
+/system/.env 2 -
+/sito 2 http://camapua.ms.gov.br/sito/
+/forums 101 -
+/arquivos/noticias/1439995391. 1 -
+/noticias/noticia/1042 1 -
+/arquivos/midias/5aa1459e5271e.pdf%09 2 -
+/arquivos/noticias/1509371244.jpg 3 -
+/arquivos/galeria/1411065273.JPG 2 -
+/arquivos/noticias/1497013459. 1 -
+/arquivos/editais/gabarito.pdf 1 -
+/WP 1 -
+/noticias/noticia/478 2 -
+/arquivos/noticias/1500317732. 1 -
+/test/.env 2 -
+/arquivos/galeria/1424269014.JPG 1 -
+/noticias/61 1 -
+/site/wp-includes/wlwmanifest.xml 31 -
+/noticias/noticia/894 1 -
+/arquivos/editais/seletivoedital.pdf 1 -
+/arquivos/noticias/1470860265. 3 -
+/noticias/42 1 -
+/noticias/noticia/501 1 -
+/arquivos/galeria/1455883709.JPG 1 -
+/noticias/noticia/347 1 -
+/arquivos/galeria/1412374177.JPG 1 -
+/arquivos/noticias/P1150412.JPG 1 -
+/arquivos/editais/edital10.pdf 2 -
+/web 2 http://camapua.ms.gov.br/web/
+/.git/HEAD 3 -
+/noticias/114 1 -
+/noticias/noticia/999 2 -
+/arquivos/manuais/1384946285.pdf 3 -
+//new//wp-admin/install.php 2 -
+/arquivos/galeria/1425386561.JPG 1 -
+/sito/wp-includes/wlwmanifest.xml 22 -
+/galerias/conheca-a-cidade 1 -
+/membro 2 -
+/storage/.env 1 -
+/arquivos/noticias/1465397210. 2 -
+/arquivos/noticias/1496265355. 3 -
+/arquivos/manuais/1383307967.pdf 1 -
+/galeria/33 1 -
+/arquivos/categoria_secretaria/1412168041.pdf 1 -
+/galeria/39 2 -
+/vendor/.env 3 -
+/arquivos/noticias/1493394838.png 6 http://blogmarcosmontinely.com.br/blog/page/171/
+/arquivos/galeria/1417528554.JPG 1 -
+/noticias/noticia/636 1 -
+/app/etc/local.xml 1 -
+/wp-config.php 1 -
+/arquivos/galeria/1411471133.JPG 1 -
+/manage/login.php 1 -
+/noticias/noticia/858 1 -
+/noticias/noticia/547 1 -
+/noticias/noticia/481 1 -
+/noticias/5 6 -
+/arquivos/noticias/1471636659. 2 -
+/arquivos/manuais/1399470905.pdf 1 -
+/arquivos/folhetins/Info%20Prefeitura%20-%2009%20(3).pdf 1 -
+/arquivos/noticias/1470860247. 1 -
+/concursos 4 -
+/wp-content/plugins/wptf-image-gallery/lib-mbox/ajax_load.php 1 -
+/noticias/69 1 -
+/noticias/4 6 -
+/noticias/142 1 -
+/wp-content/plugins/recent-backups/download-file.php 1 -
+/arquivos/noticias/1489580441. 1 -
+/index.php/noticia/prefeitura-e-energisa-realizam-parceria-em-camapua 1 -
+/noticias/noticia/401 1 -
+/noticias/noticia/895 1 -
+/arquivos/Plano%20Municipal%20de%20Saude%20Camapua%20-%202014%202017.pdf 1 -
+/test/wp-login.php 1 -
+/noticias/noticia/982 1 -
+/noticias/noticia/320 1 -
+/arquivos/noticias/1485895802. 1 -
+/noticias/noticia/639 1 -
+/galeria/32 1 -
+/noticias/noticia/350 1 -
+/blog 5 http://camapua.ms.gov.br/blog/
+/arquivos/galeria/1411472228.JPG 1 -
+/arquivos/noticias/1443036812. 1 -
+/noticias/noticia/680 1 -
+/noticias/106 1 -
+/arquivos/noticias/1500927684. 2 -
+/legislacao/32 1 -
+/administrator/language/en-GB/install.xml 5 -
+/arquivos/noticias/1490988810. 1 -
+/arquivos/noticias/1495225002. 2 -
+/arquivos/noticias/1471636662. 1 -
+/web/wp-includes/wlwmanifest.xml 22 -
+/noticias/16 2 -
+/noticias/noticia/1024 1 -
+/arquivos/noticias/1474283089. 1 -
+/arquivos/noticias/1495040779. 2 -
+/arquivos/noticias/1389014031.JPG 1 -
+/noticias/noticia/752 1 -
+/noticias/noticia/667 1 -
+/arquivos/noticias/1474283076. 1 -
+/index.asp../1.php 1 http://www.camapua.ms.gov.br/index.asp../1.php
+/arquivos/noticias/1436296960.JPG 2 -
+/arquivos/noticias/1495841472. 1 -
+/arquivos/noticias/1495040733. 3 -
+/noticias/noticia/378 1 -
+/arquivos/noticias/1389727921.jpg 1 -
+/arquivos/manuais/1383820924.pdf 1 -
+/arquivos/noticias/1500485732. 1 -
+/img/convite.jpg 1 -
+/noticias/noticia/430 1 -
+/arquivos/noticias/1439474238. 1 -
+/membro/10 1 -
+/old-site 2 http://camapua.ms.gov.br/old-site/
+/arquivos/noticias/1471636686. 1 -
+/noticias/noticia/996 3 -
+/arquivos/noticias/1392399286.jpg 3 -
+/config/.env 1 -
+///wp-admin/install.php 2 -
+/noticia/prefeito-baixa-novos-decretos-para-prevencao-e-combate-a-covid-19/conheca-a-cidade 1 -
+/xmlrpc.php 35 -
+/arquivos/manuais/1384046700.pdf 1 -
+/arquivos/editais/GABARITOS11.pdf 1 -
+/arquivos/noticias/1497439616. 1 -
+/admin/login.php 4 -
+/arquivos/noticias/1518172300.jpg 1 -
+/arquivos/noticias/1490988644. 1 -
+/arquivos/noticias/1490988670. 2 -
+/legislacao/13 1 -
+/arquivos/categoria_secretaria/1400093861.pdf 1 -
+/arquivos/noticias/1495225027. 2 -
+/arquivos/galeria/1424268992.JPG 1 -
+/arquivos/galeria/1412367700.JPG 1 -
+/arquivos/noticias/1490988558. 2 -
+/wp-login.php 5 -
+/arquivos/noticias/1393005641.JPG 1 -
+/administrator/help/en-GB/toc.json 5 -
+/wp-config.bak 1 -
+/legislacao/20 1 -
+/.vscode/ftp-sync.json 1 -
+/noticias/noticia/477 2 -
+/vendor/phpunit/phpunit/src/Util/PHP/king.php 1 -
+/arquivos/galeria/1412373262.JPG 1 -
+/old-wp 2 http://camapua.ms.gov.br/old-wp/
+/arquivos/galeria/1412376334.JPG 2 -
+/arquivos/noticias/P1150406.JPG 1 -
+/admin/template/images/ck_form.js 1 -
+/router.php 1 -
+/sftp-config.json 1 -
+/api/3/action/site_read 1 -
+/arquivos/galeria/1408645594.JPG 1 -
+/arquivos/galeria/1427309343.JPG 1 -
+/adminer/adminer.php 1 -
+/arquivos/categoria_secretaria/1412168395.pdf 1 -
+/images/editor/separator.gif 5 -
+/arquivos/noticias/1500485725. 1 -
+/noticias/noticia/548 3 -
+/arquivos/noticias/1471636617. 2 -
+/noticias/noticia/573 1 -
+/noticias/noticia/362 1 -
+/arquivos/galeria/1425385924.JPG 2 -
+/main 3 http://camapua.ms.gov.br/main/
+/noticias/noticia/1062 1 -
+/arquivos/categoria_secretaria/1397498276.pdf 2 -
+/diarioOficial 7 https://dom.imap.org.br/sitefora/index.cfm
+/legislacao/17 3 -
+/arquivos/noticias/1397222913.JPG 1 -
+/noticias/159 1 -
+/concurso/13 2 -
+/arquivos/noticias/1437677513. 1 -
+/site/wp-login.php 1 -
+/cidade 5 -
+/arquivos/galeria/1411471825.JPG 1 -
+/admindede/login.php 1 -
+/noticias/145 2 -
+/shop/wp-includes/wlwmanifest.xml 21 -
+/noticias/noticia/692 1 -
+/index.php/noticia/prefeitura-decreta-ponto-facultativo 1 -
+/2018/wp-includes/wlwmanifest.xml 21 -
+/noticias/noticia/526 1 -
+/arquivos/noticias/1500317486. 1 -
+/arquivos/noticias/1495841478. 1 -
+/arquivos/noticias/1487783617. 1 -
+/index.php/secretaria/secretaria-de-saude 1 -
+/noticias/noticia/351 1 -
+/arquivos/noticias/1495225022. 2 -
+/transparencia/arquivos/transparencia/bca.php 3 -
+/arquivos/noticias/1502142701. 1 -
+/arquivos/noticias/1470860262. 3 -
+/admin/wp-login.php 1 -
+/arquivos/galeria/1412377705.JPG 2 -
+/media/wp-includes/wlwmanifest.xml 21 -
+/arquivos/editais/edital09.pdf 3 -
+/noticias/150 1 -
+/publicacao 1 -
+/noticias/noticia/534 1 -
+/arquivos/noticias/1471636612. 2 -
+/noticias/noticia/454 1 -
+/wordpress/wp-includes/wlwmanifest.xml 31 -
+/config/AspCms_config.asp 1 -
+/arquivos/manuais/1383673507.pdf 1 -
+/v1 2 http://camapua.ms.gov.br/v1/
+/arquivos/noticias/1461101480. 1 -
+/.env 11 -
+/arquivos/noticias/1501537839. 1 -
+/index.php/telefones-da-prefeitura 1 -
+/noticias/noticia/879 1 -
+/arquivos/noticias/1500485737. 1 -
+/arquivos/noticias/1471636650. 1 -
+/agenda-prefeito 1 -
+/arquivos/noticias/1450187085. 2 -
+/noticia/prefeitura-de-camapua-libera-pagamento-integral-do-130-salario-dos-servidores/conheca-a-cidade 1 -
+/noticia/prefeito-baixou-tres-decretos-que-tratam-da-prevencao-e-combate-ao-novo-coronavirus-em-camapua/conheca-a-cidade 1 -
+/noticias/noticia/326 1 -
+/backup 3 http://camapua.ms.gov.br/backup/
+/index.php/secretaria/secretaria-de-agronegocio-meio-ambiente-e-empreendedorismo 1 -
+/arquivos/noticias/1495224939. 1 -
+/noticias/noticia/498 1 -
+/arquivos/noticias/1389959138.JPG 1 -
+/noticias/noticia/791 1 -
+/noticias/noticia/874 1 -
+/arquivos/noticias/1470860254. 1 -
+/noticias/172 1 -
+/noticias/noticia/431 1 -
+/noticias/noticia/852 1 -
+/arquivos/manuais/1383592487.pdf 1 -
+/index.php/simbolos-municipais 1 -
+/api/.env 2 -
+/configuration.php_bak 1 -
+/arquivos/noticias/1401906975.jpg 1 -
+/arquivos/noticias/1465397581. 1 -
+/arquivos/noticias/1450186999. 1 -
+/arquivos/transparencia/Comparativo%20da%20Despesa.pdf 1 -
+/cms/wp-includes/wlwmanifest.xml 31 -
+/index.php/noticia/prefeitura-segue-realizando-limpeza-pela-cidade 1 -
+/arquivos/editais/edital15.pdf 1 -
+/index.php/noticia/secretaria-de-saude-realiza-acao-no-centro-da-cidade 1 -
+/noticias/noticia/334 2 -
+/arquivos/manuais/1383745689.pdf 2 -
+/arquivos/noticias/1406643518. 1 -
+/noticias/noticia/429 1 -
+/en 2 -
+/arquivos/noticias/1470860305. 2 -
+/noticias/155 1 -
+/arquivos/noticias/1501537709. 1 -
+/arquivos/noticias/1490988579. 1 -
+/arquivos/midias/5aa1459e5271e.pdf& 1 -
+/videos 3 -
+/arquivos/noticias/1490729312. 1 -
+/arquivos/manuais/1383583960.pdf 1 -
+/noticias/152 1 -
+/noticias/noticia/1025 3 -
+/arquivos/noticias/1495224961. 2 -
+/portal/wp-login.php 1 -
+/manual.php 1 -
+/data/admin/allowurl.txt 4 -
+/arquivos/noticias/1471636623. 1 -
+/arquivos/noticias/1505766869.JPG 1 -
+/noticias/noticia/318 1 -
+/arquivos/noticias/DSC05020.JPG 1 -
+/noticia/nota-oficial-da-prefeitura-de-camapua-sobre-o-covid-19-coronavirus/conheca-a-cidade 1 -
+/index.php/pagina/historia-do-municipio 1 -
+/sites/.env 2 -
+/noticias/noticia/860 1 -
+/painel/img/loader/rings.svg 16 http://www.camapua.ms.gov.br/painel/css/app.css
+/noticias/noticia/1019 4 -
+/arquivos/noticias/1406654884. 2 -
+/admin/includes/general.js 5 -
+/arquivos/noticias/1490988845. 1 -
+/noticias/21 1 -
+/noticias/125 3 -
+/index.php/noticias/index.php 1 -
+/arquivos/noticias/1474283094. 2 -
+/galeria/24 1 -
+/admin/index.php 1 -
+/arquivos/noticias/1375197820.pdf 3 -
+/arquivos/noticias/1500317708. 1 -
+/configuration.php.new 1 -
+/arquivos/noticias/1465397466. 1 -
+/arquivos/editais/inscritos1.pdf 3 -
+/arquivos/noticias/1490988878. 1 -
+/arquivos/noticias/1452782170. 1 -
+/admin/themes/simplebootx/Public/assets/css/admin_login.css 3 -
+/arquivos/noticias/1471636609. 1 -
+/arquivos/noticias/1495040698. 1 -
+/noticias/noticia/849 1 -
+/arquivos/noticias/1471636683. 1 -
+/noticias/102 1 -
+/blog/.env 2 -
+/membro/6 1 -
+/arquivos/noticias/1490988890. 2 -
+/noticias/noticia/518 1 -
+/arquivos/noticias/1491591381. 2 -
+/arquivos/noticias/1495224946. 1 -
+/templates/system/css/system.css 2 -
+/arquivos/noticias/1468250227. 1 -
+/index.php/legislacao-municipal/cat_view/60-legislacao-municipal/47-leis-municipais 1 -
+/noticias/7 4 -
+/arquivos/noticias/1497009817. 2 -
+/arquivos/noticias/1501537733. 1 -
+/bandeira 6 -
+/arquivos/noticias/1471636666. 1 -
+/index.php/noticia/por-intermedio-do-prefeito-delano-huber-almir-sater-fara-show-em-camapua 1 -
+/noticias/170 1 -
+/laravel/.env 2 -
+/home 3 http://camapua.ms.gov.br/home/
+/2015/wp-includes/wlwmanifest.xml 2 -
+/arquivos/noticias/1396443756.JPG 1 -
+/2017/wp-includes/wlwmanifest.xml 2 -
+/wp-admin 2 http://camapua.ms.gov.br/
+/wp2 3 http://camapua.ms.gov.br/wp2/
+/arquivos/noticias/1470860291. 2 -
+/arquivos/galeria/1411128312.JPG 1 -
+/index.php/publicacao/decreto-2307-processo-eleitoral-do-dirigente-escolar 1 -
+/arquivos/editais/edital14.pdf 3 -
+/images/logo_pqn.jpg 30 -
+/arquivos/noticias/1490988592. 1 -
+/old 6 -
+/index.php/noticia/prefeito-vice-e-primeira-dama-participam-da-sessao-solene-de-abertura-dos-trabalhos-legislativos 1 -
+/index.php/pagina/conheca-a-cidade 1 -
+/arquivos/noticias/1495841476. 2 -
+/arquivos/noticias/1446822243. 1 -
+/fckeditor/editor/filemanager/connectors/php/upload.php 5 -
+/wp-includes/wlwmanifest.xml 31 -
+/index.php 22 -
+/xxxss 1 -
+/arquivos/noticias/1505309693.jpg 2 -
+/arquivos/noticias/1474283069. 1 -
+/contato/conheca-a-cidade 1 -
+/noticias/noticia/519 1 -
+/arquivos/galeria/1411471581.JPG 1 -
+/noticias/165 1 -
+/new/wp-login.php 1 -
+/noticias/noticia/411 2 -
+/noticias/136 3 -
+/arquivos/noticias/1490022622. 1 -
+/arquivos/noticias/1470860309. 1 -
+/arquivos/editais/edital03.pdf 7 -
+/arquivos/manuais/1383592942.pdf 2 -
+/noticia/prefeito-protocola-na-camara-projeto-de-atualizacao-do-plano-de-cargos-e-carreiras-dos-servidores/conheca-a-cidade 1 -
+/arquivos/noticias/1486746525. 1 -
+/deployment-config.json 1 -
+/arquivos/galeria/1425390089.JPG 1 -
+/concurso/12 1 -
+/.vscode/sftp.json 1 -
+/arquivos/noticias/1485282986. 2 -
+/statics/css/crop.css 1 -
+/index.php/noticia/campeonato-municipal-tem-sequencia-no-ginasio-de-esportes 2 -
+/arquivos/transparencia/folha%20de%20pagamento%20BF%20032014%20mural.pdf 19 -
+/noticias/noticia/469 1 -
+/public/router.php 1 -
+/membro/9 1 -
+/arquivos/noticias/1495040750. 1 -
+/images/ 1 -
+/historia 3 -
+/arquivos/noticias/1435864471. 1 -
+/noticias/104 1 -
+/noticias/160 1 -
+/arquivos/noticias/1394801964.jpg 2 -
+/arquivos/noticias/1486124269. 1 -
+/images/file/Decreto_n_2420_11_Luto_oficial.pdf 1 -
+/OLD/wp-admin 1 http://camapua.ms.gov.br/
+/arquivos/noticias/1437677528. 1 -
+/dzDdeFPD 1 -
+/sparql.json 1 -
+/arquivos/noticias/1500927682. 2 -
+/legislacao/16 1 -
+/arquivos/noticias/1471636679. 1 -
+/noticias/noticia/985 2 -
+/index.php/legislacao-municipal/intranet.php 1 -
+/index.php/noticias-da-secel/535-secretaria-municipal-de-educacao-reuniu-se-com-os-profissionais-da-rede-municipal-de-ensino-para-analise-do-plano-nacional-e-municipal-de-educacao- 1 -
+/novo/wp-login.php 1 -
+/ueditor/net/controller.ashx 2 -
+/v2 2 http://camapua.ms.gov.br/v2/
+/noticias/noticia/499 1 -
+/arquivos/manuais/1383592479.pdf 1 -
+//wp-admin/install.php 2 -
+/2019/wp-includes/wlwmanifest.xml 19 -
+/arquivos/noticias/1442258435. 1 -
+/arquivos/noticias/1490988738. 2 -
+/wp-admin/admin-ajax.php 3 -
+/noticias/138 1 -
+/galeria/22 1 -
+/img/assine.png 2 -
+/arquivos/noticias/1444398366. 1 -
+/arquivos/noticias/1495224974. 1 -
+/noticias/6 3 -
+/arquivos/noticias/1497439611. 1 -
+/noticias/noticia/679 1 -
+/arquivos/galeria/1412374405.JPG 2 -
+/arquivos/galeria/1417528316.JPG 1 -
+/FCKeditor/fckconfig.js 1 -
+/arquivos/noticias/1471636655. 1 -
+/noticias/noticia/470 1 -
+/arquivos/galeria/1407413299.JPG 1 -
+/noticias/124 3 -
+/painel/wp-login.php 1 -
+/restrito/view/editais/visualizar.php 1 -
+/noticias/174 1 -
+/js/common.js%20 1 http://www.camapua.ms.gov.br/js/common.js
+/e/data/js/ajax.js 1 -
+/2020 2 http://camapua.ms.gov.br/2020/
+/wp-config.php.bak 1 -
+/arquivos/noticias/1489580411. 2 -
+/blog/wp-includes/wlwmanifest.xml 31 -
+/concurso/10 1 -
+/api/catalog/v1 1 -
+/arquivos/noticias/1487783628. 1 -
+/arquivos/noticias/1500317555. 2 -
+/concurso/9 2 -
+/arquivos/galeria/1412365796.JPG 2 -
+/arquivos/legislacao/Decreto%20n.%202.082%20-%202009.pdf 1 -
+/arquivos/noticias/1474283105. 1 -
+/website/wp-includes/wlwmanifest.xml 22 -
+/arquivos/noticias/1471636636. 1 -
+/sobre 3 -
+/new 4 http://camapua.ms.gov.br/new/
+/noticias/noticia/410 1 -
+/public/.env 3 -
+/arquivos/noticias/1485895797. 1 -
+/wordpress 7 http://camapua.ms.gov.br/wordpress/
+/noticias/noticia/1041 4 -
+/arquivos/noticias/1400609115.JPG 1 -
+/arquivos/galeria/1408643757.JPG 1 -
+/test/wp-includes/wlwmanifest.xml 22 -
+/arquivos/noticias/1436903865.jpg 2 -
+/old/wp-login.php 1 -
+/arquivos/galeria/1411471359.JPG 1 -
+/arquivos/galeria/1424269028.JPG 1 -
+/arquivos/noticias/1389966165.JPG 1 -
+/noticias/noticia/503 1 -
+/e/admin/index.php 4 -
+/manageDeveloper/create 1 -
+/noticias/97 2 -
+/arquivos/manuais/1391189374.pdf 2 -
+/arquivos/noticias/1392995833.jpg 3 -
+/concurso/6 1 -
+/arquivos/noticias/1439995625. 1 -
+/arquivos/noticias/1503523966.jpe 7 -
+/noticias/130 8 -
+/galeria/34 1 -
+/noticias/noticia/762 1 -
+/arquivos/noticias/1471636644. 1 -
+/arquivos/noticias/1486746575. 2 -
+/configuration.php_old 1 -
+/arquivos/noticias/1485282963. 1 -
+/noticias/noticia/387 1 -
+/arquivos/noticias/1501537792. 1 -
+/arquivos/noticias/1461101596. 2 -
+/legislacao/14 2 -
+/dev 2 http://camapua.ms.gov.br/dev/
+/noticias/noticia/997 1 -
+/arquivos/noticias/1511296389.jpg 1 -
+/arquivos/noticias/1500317639. 1 -
+/noticias/10 2 -
+/arquivos/noticias/1490988570. 1 -
+/administrator 5 -
+/arquivos/manuais/1383745913.pdf 1 -
+/legislacao/19 1 -
+/download/seletivoedital.pdf 1 -
+/noticias/3 4 -
+/arquivos/noticias/1495040766. 1 -
+/arquivos/noticias/1490988709. 1 -
+/noticias/9 3 -
+/intranet.php 1 -
+/arquivos/noticias/1471636628. 3 -
+/arquivos/noticias/1490988767. 1 -
+/arquivos/noticias/1497439613. 1 -
+/teste/wp-login.php 1 -
+/arquivos/noticias/1507751205.jpg 1 -
+/configuration.php_Old 1 -
+/arquivos/noticias/1489580426. 2 -
+/wp-config.php.new 1 -
+/noticias/noticia/781 1 -
+/noticias/168 1 -
+/noticias/90 1 -
+/arquivos/noticias/1495224928. 2 -
+/noticias/144 2 -
+/arquivos/noticias/1471636633. 1 -
+/noticias/noticia/476 1 -
+/noticias/1 9 -
+/arquivos/noticias/1500317537. 1 -
+/arquivos/noticias/1470860288. 3 -
+/login/wp-login.php 1 -
+/arquivos/manuais/1383583598.pdf 1 -
+/noticias/169 2 -
+/ads.txt 9 -
+/index.php/index.php 1 -
+/arquivos/noticias/1443037028. 1 -
+/noticias/noticia/1018 1 -
+/arquivos/noticias/1452782233. 1 -
+/index.php/noticia/secretaria-de-infraestrutura-realiza-limpeza-na-praca-do-bairro-pedro-luiz-amorim 2 -
+/index.php/noticias-da-sedesc/494--prefeitura-de-camapua-lanca-edital-para-escolha-dos-conselheiros-tutelares-gestao-20112014 1 -
+/arquivos/noticias/1500317772. 1 -
+/noticias/noticia/352 1 -
+/arquivos/categoria_secretaria/1398431853.pdf 1 -
+/arquivos/categoria_secretaria/1397498501.pdf 3 -
+/arquivos/noticias/1393509935.JPG 1 -
+/arquivos/editais/edital11.pdf 1 -
+/wp-config.php_old 1 -
+/arquivos/categoria_secretaria/1397498225.pdf 2 -
+/arquivos/noticias/1408031930. 1 -
+/arquivos/noticias/1470860280. 3 -
+/noticias/17 1 -
+/plugins/system/debug/debug.xml 5 -
+/noticias.asp 1 -
+/arquivos/noticias/1500317690. 1 -
+/arquivos/noticias/DSC05072.JPG 1 -
+/noticias/132 7 -
+/noticias/95 1 -
+/arquivos/noticias/1490729392. 1 -
+/xxsssseee 1 -
+/bk 2 http://camapua.ms.gov.br/bk/
+/noticias/noticia/980 2 -
+/arquivos/galeria/1417527900.JPG 2 -
+/arquivos/noticias/1405113245. 1 -
+/index.php/pagina/sobre-a-secretaria-saj 1 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 1973
+187.7.231.170 1171 8810 608071741 20200630232900
+170.80.32.210 268 4709 1057463859 20200630215442
+129.146.158.17 262 262 25307821 20200630161741
+187.8.213.218 63 756 65329016 20200630201307
+45.227.253.94 52 53 14121977 20200613085524
+23.254.36.107 51 51 3408195 20200612121738
+187.53.59.225 49 250 9498575 20200630092533
+189.33.66.157 48 48 3927045 20200621092213
+5.196.64.109 41 42 13439094 20200613045027
+45.227.253.90 35 35 2943892 20200619010429
+189.31.185.4 31 783 51872293 20200630152957
+109.74.154.72 30 2250 6159726 20200630000338
+37.218.245.117 30 30 2455629 20200629224057
+40.87.104.11 28 30 13514906 20200630150043
+170.80.32.225 24 546 35594359 20200629101931
+115.112.156.228 23 52 2176987 20200616141030
+201.7.1.251 22 366 20586236 20200629165054
+187.32.152.241 21 216 22921443 20200623170446
+201.21.63.53 21 21 1719627 20200619131908
+179.232.129.212 19 89 5190647 20200630233437
+54.67.57.255 18 18 1348584 20200607113641
+37.218.247.47 18 18 1473378 20200630090752
+187.23.222.40 17 171 9920888 20200615133041
+35.203.13.101 17 53 2886912 20200627155309
+207.102.138.158 16 48 2893472 20200629120039
+187.49.135.106 0 1 2560554 
+177.185.90.77 0 1 105737 
+177.74.131.9 0 1 2560554 
+187.62.206.204 0 1 2560554 
+189.5.160.174 0 1 2560554 
+179.111.169.156 0 1 105737 
+191.181.217.186 0 3 2891873 
+200.146.245.217 0 1 105737 
+131.0.218.124 0 1 2560554 
+179.183.208.166 1 13 791179 20200625192151
+189.27.68.19 0 1 2560554 
+200.66.116.217 0 1 105737 
+189.73.197.81 0 1 192202 
+189.40.91.149 0 1 105737 
+177.25.237.243 0 1 2560554 
+201.7.3.241 0 1 2560554 
+31.44.53.61 2 2 162430 20200605204347
+177.202.15.160 2 76 4596394 20200607195048
+54.188.33.14 1 2 118736 20200608191517
+177.5.119.168 0 1 2560554 
+201.7.1.219 0 3 7681662 
+187.55.164.111 0 2 5121108 
+179.215.160.161 1 1 81887 20200613000955
+177.21.84.14 0 1 2560554 
+138.36.7.110 0 1 105737 
+167.114.64.113 1 1 81411 20200614071113
+200.164.21.118 0 1 105737 
+37.228.244.110 0 2 5121108 
+200.96.241.79 0 2 5121108 
+54.201.0.13 2 2 163298 20200615044606
+187.7.78.240 0 1 105737 
+186.244.158.162 0 1 105737 
+189.18.202.138 0 1 105737 
+138.255.75.210 1 15 6660862 20200611181220
+189.27.91.241 0 1 2560554 
+187.36.166.45 0 1 105737 
+201.88.3.236 0 1 2560554 
+179.187.185.44 0 1 105737 
+189.40.77.12 0 1 2560554 
+200.201.175.23 0 1 2560554 
+177.194.234.122 0 1 2560554 
+177.202.58.26 0 1 2560554 
+148.251.4.136 2 76 4583728 20200624071801
+191.249.188.93 0 1 13287 
+179.214.195.168 0 1 2560554 
+18.234.227.98 2 2 163578 20200619194504
+107.173.68.208 2 2 115235 20200622180317
+186.233.124.229 0 1 2560554 
+177.25.224.230 0 1 2560554 
+34.211.136.203 0 1 151639 
+200.242.185.212 0 1 2560554 
+179.176.103.248 0 1 2560554 
+177.25.238.102 0 1 2560554 
+177.16.171.217 0 1 105737 
+35.231.247.31 2 6 324540 20200619183535
+191.128.44.67 3 66 4466494 20200608125010
+34.73.117.39 1 5 290600 20200630183553
+179.127.67.200 0 1 2560554 
+177.141.204.193 3 26 3905778 20200624130841
+177.220.176.164 0 1 105737 
+181.220.5.38 0 1 2560554 
+182.162.109.226 4 87 7832714 20200621183619
+177.194.240.74 2 36 3947117 20200608210301
+3.10.210.195 11 11 820176 20200608142925
+45.232.212.226 0 2 5121108 
+177.6.218.198 2 42 4310559 20200614140420
+173.252.95.30 0 1 121711 
+186.195.13.216 0 1 105737 
+189.99.180.12 0 1 2560554 
+177.25.233.255 0 1 2560554 
+45.190.161.43 0 1 2560554 
+179.214.205.149 2 79 7479050 20200618120718
+189.112.12.41 0 1 105737 
+179.155.87.122 0 1 105737 
+189.50.97.87 0 1 105737 
+200.140.90.4 0 1 2560554 
+179.99.31.108 0 1 105737 
+200.53.31.185 1 22 6263856 20200602100448
+179.125.61.177 0 4 7992061 
+179.208.43.211 5 17 939678 20200625201532
+177.25.237.141 1 49 1287954 20200607200808
+191.31.142.224 0 1 0 
+179.162.193.110 0 1 105737 
+45.6.32.44 0 1 2560554 
+177.175.225.79 1 10 81691 20200602144215
+201.27.206.39 0 1 105737 
+187.55.141.99 0 1 0 
+168.196.19.13 0 1 2560554 
+189.32.180.126 0 1 2560554 
+177.207.109.29 0 1 105737 
+5.181.131.118 1 1 81411 20200626021208
+66.102.8.178 1 26 10868757 20200601185350
+187.23.219.209 0 1 2560554 
+187.7.221.73 0 1 2560554 
+191.212.163.173 0 1 105737 
+186.244.118.146 0 1 105737 
+187.65.160.8 0 1 2560554 
+189.31.44.221 0 1 2560554 
+201.17.89.181 0 1 105737 
+187.117.184.219 0 1 2560554 
+179.95.245.79 0 1 2560554 
+191.5.38.109 0 1 105737 
+177.25.237.4 1 58 4145237 20200616203418
+177.25.238.122 0 1 2560554 
+45.190.161.15 0 1 2560554 
+177.25.232.31 0 1 2560554 
+191.177.187.0 0 1 105737 
+177.194.251.42 2 76 4596870 20200601144945
+189.40.88.146 0 1 2560554 
+170.233.47.252 0 1 2560554 
+189.73.233.186 4 152 9167456 20200612193341
+160.19.246.13 0 1 83362 
+187.36.107.75 0 1 109728 
+177.175.129.26 3 15 3751991 20200616133931
+179.214.182.178 0 1 2560554 
+177.200.71.239 0 1 105737 
+177.191.30.20 0 1 105737 
+177.33.139.75 0 1 105737 
+46.246.35.184 3 3 244233 20200626085354
+45.170.25.187 2 6 324540 20200623094410
+179.183.212.181 0 1 2560554 
+177.84.63.12 3 15 871797 20200605034332
+191.184.139.31 0 1 105737 
+187.7.221.201 2 14 3708085 20200623121816
+45.7.151.220 0 1 2560554 
+189.113.128.250 0 3 211474 
+160.20.35.250 0 1 2560554 
+177.158.147.247 0 1 2560554 
+201.68.174.8 0 1 105737 
+54.208.173.92 3 3 244233 20200620082829
+177.168.37.91 1 12 3253775 20200617172201
+173.252.95.24 0 1 115483 
+201.78.41.175 0 1 105737 
+200.103.9.106 0 1 2560554 
+179.221.106.245 0 1 2560554 
+179.228.250.206 0 1 2560554 
+186.206.139.200 0 1 105737 
+191.19.220.8 0 1 105737 
+188.40.131.176 2 76 4583728 20200623093546
+35.202.217.254 1 7 432923 20200606091753
+177.4.187.136 0 1 2560554 
+187.17.172.218 2 13 4932157 20200618151150
+3.85.243.191 2 2 946495 20200619150027
+177.25.237.206 0 1 2560554 
+177.86.101.5 0 1 105737 
+45.183.202.132 0 1 109728 
+40.74.85.133 4 4 326596 20200613171654
+179.176.81.181 0 1 105737 
+170.0.121.2 0 1 105737 
+37.143.62.253 1 1 35125 20200625215214
+187.109.237.55 0 1 2560554 
+189.75.98.81 2 76 4596394 20200605183908
+191.17.3.150 0 1 105737 
+189.31.185.219 0 2 5121108 
+173.252.87.22 0 1 82660 
+177.25.224.151 3 63 4368714 20200629183431
+138.204.26.198 0 1 105737 
+45.190.161.19 0 2 5121108 
+179.35.91.128 0 1 105737 
+189.46.62.218 0 1 105737 
+173.252.87.120 0 1 219493 
+201.57.60.71 2 76 4584204 20200629105607
+191.249.115.7 0 1 409716 
+34.72.31.15 2 2 162822 20200623142035
+191.10.157.149 0 1 2560554 
+200.53.9.128 0 1 105737 
+52.251.42.123 2 2 162430 20200605062903
+170.233.47.125 2 13 3279032 20200614170343
+201.17.114.206 0 5 680616 
+200.150.100.96 1 1 81887 20200610084414
+191.8.123.161 0 1 2560554 
+35.237.106.162 6 18 973614 20200605125000
+189.46.61.18 0 1 105737 
+54.218.63.252 2 2 163298 20200628210634
+45.6.110.47 0 1 2560554 
+191.54.193.10 1 11 698002 20200615111042
+189.72.239.245 0 1 2560554 
+191.39.69.217 0 1 105737 
+200.183.149.130 0 2 3103304 
+187.7.206.117 0 1 2560554 
+193.58.104.47 1 1 34325 20200628133934
+125.209.235.186 0 9 107513 
+187.55.141.144 2 76 4584204 20200625182027
+177.42.30.114 0 1 105737 
+189.111.241.189 0 1 105737 
+177.69.2.241 0 1 105737 
+177.25.238.10 0 5 317683 
+179.215.124.86 0 1 408133 
+191.202.135.167 0 1 2560554 
+189.94.200.43 0 1 2560554 
+187.66.134.107 0 1 2560554 
+187.65.160.116 2 21 8718342 20200617171349
+201.93.238.248 0 1 105737 
+200.152.88.72 0 1 2560554 
+45.234.77.174 1 1 81887 20200628072018
+179.220.16.10 3 80 7219759 20200618093121
+177.2.116.104 0 1 2560554 
+177.199.23.142 3 14 6000205 20200605123700
+3.91.89.141 0 1 105737 
+5.62.51.132 3 3 245465 20200622101256
+45.190.148.189 0 1 2560554 
+179.95.244.61 0 1 2560554 
+187.73.221.254 0 1 2560554 
+187.122.28.205 2 6 324538 20200607192325
+189.6.35.224 0 1 2560554 
+45.235.133.84 0 1 105737 
+177.34.11.175 0 1 2560554 
+177.22.217.2 3 16 978021 20200624113058
+190.89.225.34 0 1 2560554 
+189.72.144.94 5 153 9274003 20200606211535
+177.25.238.220 0 1 2560554 
+187.22.3.177 0 1 105737 
+200.206.64.2 1 5 338351 20200601135140
+200.158.196.50 0 1 105737 
+177.97.84.223 0 1 105737 
+189.11.217.176 2 76 4583728 20200625141331
+201.7.0.188 0 4 10242216 
+138.0.207.142 0 1 2560554 
+125.209.235.184 0 15 5384875 
+125.209.235.175 0 10 2701221 
+3.133.142.245 3 7 501369 20200612140119
+168.195.100.133 0 1 105737 
+201.17.210.202 0 1 2560554 
+177.194.244.52 0 1 176093 
+177.25.237.44 0 1 2560554 
+177.6.81.198 0 1 2560554 
+201.82.49.101 5 90 12927124 20200615075716
+179.110.147.213 2 2 162822 20200623152622
+45.189.123.57 0 1 2560554 
+186.249.80.86 0 1 219493 
+52.138.13.32 4 4 325644 20200612025139
+168.228.11.117 0 1 105737 
+35.211.231.69 1 12 3258556 20200616125231
+131.0.218.37 0 1 2560554 
+189.71.173.202 0 1 105737 
+187.56.65.219 0 1 105737 
+51.143.33.81 1 1 81411 20200625001358
+177.25.235.230 0 1 2560554 
+45.190.161.16 0 1 2560554 
+177.74.65.203 0 1 105737 
+179.255.138.253 2 76 4583728 20200620203605
+45.238.254.227 0 1 2560554 
+191.222.33.21 2 59 4240999 20200605075538
+179.127.234.20 0 1 2560554 
+187.7.239.218 0 2 5121108 
+177.92.43.175 0 2 211474 
+181.191.237.41 0 1 105737 
+187.25.51.4 0 1 2560554 
+189.19.118.92 3 14 3354976 20200622070715
+177.220.176.180 0 1 2560554 
+54.187.98.252 1 2 168618 20200608191700
+187.24.128.12 0 10 406404 
+170.150.243.147 0 1 2560554 
+189.16.87.99 0 2 5121108 
+177.60.1.254 0 1 2560554 
+170.83.37.226 0 1 105737 
+45.237.255.150 0 1 2560554 
+179.254.240.37 4 153 11728010 20200630090046
+191.34.98.140 2 76 4598969 20200605134157
+189.77.182.55 0 1 105737 
+179.254.241.14 0 1 2560554 
+189.40.79.115 0 1 2560554 
+187.113.15.188 2 76 4584204 20200626085012
+200.96.141.253 2 42 4517177 20200601113126
+177.5.118.172 0 1 2560554 
+200.181.123.89 1 21 9561824 20200615073716
+187.65.160.168 0 1 270558 
+177.25.204.120 0 1 2560554 
+191.207.210.70 0 1 2560554 
+209.222.82.233 1 1 81887 20200624123040
+173.252.87.8 0 2 502927 
+177.25.224.145 0 1 2560554 
+177.139.206.172 0 1 105737 
+45.4.111.2 0 1 2560554 
+189.54.221.169 0 1 105737 
+191.137.55.172 0 1 105737 
+177.93.157.254 0 1 105737 
+177.106.223.193 0 1 2560554 
+189.6.27.131 0 1 105737 
+77.74.177.4 0 1 105737 
+189.41.111.135 0 1 2560554 
+45.190.161.31 0 1 2560554 
+189.11.245.77 0 1 2560554 
+177.192.175.112 0 1 105737 
+170.80.33.250 0 1 2560554 
+45.236.183.255 0 1 2560554 
+189.36.133.15 8 24 1298160 20200625034029
+177.25.237.79 0 1 2560554 
+88.198.90.9 0 1 186407 
+54.39.106.173 0 3 1936284 
+13.80.183.173 1 1 81691 20200608191510
+186.214.231.174 0 1 105737 
+189.58.51.78 0 1 105737 
+189.40.76.229 0 1 2560554 
+200.96.141.3 0 1 2560554 
+187.70.225.20 0 1 2560554 
+132.255.73.34 0 1 90351 
+177.97.188.242 0 1 2560554 
+177.194.231.210 0 1 2560554 
+187.21.112.184 0 1 105737 
+189.33.196.218 0 1 270558 
+177.84.60.141 1 5 290599 20200603025236
+177.17.144.37 0 3 6168115 
+200.181.123.212 0 1 2560554 
+170.80.32.231 0 3 7681662 
+5.62.51.142 7 7 573209 20200625181230
+189.96.121.64 0 1 2560554 
+177.93.89.46 0 1 105737 
+177.18.165.117 0 3 317211 
+189.6.37.98 1 1 81887 20200612185651
+194.187.171.90 1 1 81887 20200624031808
+177.128.30.206 0 1 260618 
+173.252.87.119 0 1 121711 
+189.60.224.137 0 1 105737 
+177.6.217.49 7 156 9482318 20200609135242
+134.209.194.240 1 1 81887 20200624231837
+177.92.39.72 2 76 4584204 20200629081515
+162.243.234.15 2 2 81411 20200616130642
+187.114.118.227 0 1 105737 
+201.50.93.44 0 1 105737 
+34.222.204.204 1 1 81411 20200615161241
+193.58.104.37 1 1 34307 20200630055552
+34.205.72.152 2 2 946495 20200619225430
+200.96.241.209 4 107 10095416 20200629101350
+167.99.192.177 1 1 81215 20200609035110
+177.75.83.220 0 1 408133 
+45.190.161.1 2 31 17271512 20200626032541
+177.35.125.33 0 1 2560554 
+189.63.27.153 0 1 105737 
+179.254.206.183 0 1 2560554 
+187.107.111.34 0 1 105737 
+189.120.78.248 0 1 2560554 
+179.214.140.114 0 1 2560554 
+191.31.19.254 0 1 105737 
+143.202.82.130 0 1 105737 
+177.183.214.203 2 76 4583728 20200626075430
+177.25.236.88 0 1 2560554 
+177.202.5.243 0 1 2560554 
+187.59.100.147 0 1 105737 
+170.81.39.254 0 1 2560554 
+187.54.234.50 0 1 2560554 
+186.236.102.87 0 1 105737 
+187.55.141.143 0 1 2560554 
+177.25.237.202 0 2 5121108 
+189.27.72.83 0 1 2560554 
+187.29.160.182 0 1 2560554 
+177.83.13.206 0 1 2560554 
+173.252.95.113 0 1 82660 
+105.112.96.92 0 1 2560554 
+177.140.47.67 2 6 324538 20200608214925
+179.157.240.165 0 1 105737 
+177.25.225.220 1 3 81887 20200613080220
+94.140.116.118 1 1 81411 20200622171712
+45.174.158.188 0 1 2560554 
+45.190.161.37 5 23 6801642 20200622165105
+177.220.226.68 0 1 2560554 
+200.160.124.65 6 16 923569 20200612153336
+187.54.234.64 0 1 2560554 
+143.0.184.236 0 1 2560554 
+177.199.123.215 1 12 3258556 20200610172301
+201.75.59.39 0 1 105737 
+200.53.197.232 0 1 105737 
+125.209.235.177 1 13 444798 20200619080640
+201.16.128.135 0 1 105737 
+177.25.228.168 0 1 2560554 
+200.140.90.45 1 1 81691 20200605060810
+179.228.196.135 0 1 105737 
+45.165.19.114 0 1 2560554 
+177.6.99.253 2 77 7144282 20200617123106
+168.194.82.136 0 1 2560554 
+66.249.88.114 0 1 2560554 
+66.102.6.241 0 1 2560554 
+45.175.33.165 0 1 105737 
+186.219.217.248 0 1 2560554 
+177.33.236.94 6 18 973618 20200624125130
+189.72.238.73 4 152 9167456 20200616133540
+179.247.128.229 0 1 105737 
+200.163.115.25 1 1 81411 20200626170024
+173.252.87.4 0 1 20920 
+177.2.115.220 0 1 2560554 
+45.174.158.91 0 1 256461 
+179.255.66.188 0 1 2560554 
+117.104.239.90 0 1 2560554 
+177.73.104.229 0 1 2560554 
+131.108.87.90 0 1 2560554 
+187.58.15.216 0 1 105737 
+132.255.240.189 0 1 2560554 
+177.58.165.14 0 1 2560554 
+177.11.173.2 0 1 299663 
+189.40.76.131 0 1 2560554 
+187.4.64.130 7 233 16463976 20200616084521
+3.226.74.63 3 3 244233 20200612161307
+187.25.34.9 0 1 2560554 
+177.157.124.228 0 1 105737 
+173.44.230.13 2 2 115038 20200608234158
+191.33.253.10 0 1 2560554 
+177.25.237.55 0 1 2560554 
+170.238.74.159 0 1 340308 
+45.236.227.202 0 1 2560554 
+18.237.212.189 1 2 128989 20200608191701
+177.195.132.93 0 2 211474 
+179.254.223.140 0 1 2560554 
+125.209.235.182 0 8 191054 
+191.249.117.8 0 2 5121108 
+191.32.29.186 0 1 2560554 
+45.163.87.231 3 3 143844 20200610095833
+201.7.1.64 10 42 863776 20200630103954
+179.254.136.73 0 1 2560554 
+177.25.235.60 0 1 2560554 
+177.202.10.187 2 76 4583728 20200616213026
+40.76.209.9 3 3 243645 20200603015617
+45.70.33.209 0 1 105737 
+35.243.240.122 4 12 649080 20200618115906
+201.17.157.45 0 1 105737 
+179.35.17.35 0 1 105737 
+179.112.76.249 0 1 2560554 
+164.163.236.48 3 14 3354973 20200601124244
+189.16.7.180 2 76 4583727 20200609132430
+187.7.239.135 8 210 14254574 20200618104509
+45.181.147.196 0 1 105737 
+170.150.240.231 0 1 2560554 
+5.62.51.13 9 9 736787 20200630032410
+177.4.171.38 2 17 1004384 20200613094058
+187.36.125.148 0 1 2560554 
+200.163.115.167 3 3 244233 20200623211024
+116.202.18.99 1 1 81215 20200606031500
+173.252.87.116 0 1 20920 
+177.100.60.36 0 1 105737 
+45.190.161.33 0 1 2560554 
+177.184.159.97 2 76 4596394 20200606104145
+132.255.240.160 0 1 2560554 
+201.2.120.94 0 1 2560554 
+179.148.121.243 0 1 2560554 
+177.3.36.148 6 154 9355218 20200602151005
+201.13.195.122 2 6 324540 20200611172136
+177.64.42.189 0 1 105737 
+177.175.236.69 1 2 81887 20200618152241
+189.115.108.161 0 1 2560554 
+191.249.112.249 0 1 2560554 
+170.66.1.237 0 1 2560554 
+177.5.78.73 0 1 0 
+131.108.231.2 0 1 105737 
+45.236.226.207 0 2 5121108 
+168.181.48.14 0 1 105737 
+177.3.35.216 2 76 4583728 20200622150447
+191.33.240.127 0 1 2560554 
+37.143.63.40 1 1 36842 20200624141008
+201.17.111.15 0 1 105737 
+179.95.246.48 0 2 238566 
+177.3.171.106 0 1 105737 
+191.184.208.159 0 1 105737 
+45.190.161.14 2 77 7144758 20200610120436
+179.231.172.96 0 1 2560554 
+131.0.218.66 0 1 2560554 
+201.71.186.206 0 1 105737 
+177.25.235.209 0 1 2560554 
+45.174.158.48 2 26 6547655 20200628205753
+189.103.71.216 1 16 13500772 20200610152522
+45.171.146.187 0 1 2560554 
+189.59.143.182 2 76 4596870 20200601163252
+189.11.217.210 1 12 127382 20200615121544
+177.133.92.156 0 2 211474 
+191.34.103.1 0 1 2560554 
+191.223.43.40 0 1 2560554 
+177.103.110.67 0 1 2560554 
+177.12.43.129 0 4 190260 
+138.59.33.119 0 1 105737 
+189.11.226.160 3 77 4665139 20200625204347
+177.37.141.189 0 1 299663 
+189.110.160.59 10 10 818870 20200625220557
+177.1.86.129 0 1 2560554 
+177.75.132.207 0 1 105737 
+200.232.203.93 0 1 2560554 
+177.25.228.100 0 1 2560554 
+179.230.202.231 0 1 105737 
+187.24.144.29 0 1 2560554 
+66.249.88.11 0 5 12802770 
+177.104.242.65 0 1 105737 
+177.25.239.159 0 1 2560554 
+177.25.231.105 0 1 2560554 
+186.219.192.68 0 1 105737 
+200.140.48.255 0 1 2560554 
+191.19.172.94 0 1 41916 
+201.48.183.151 0 1 105737 
+189.59.101.9 0 1 2560554 
+177.6.80.110 0 1 2560554 
+200.163.40.34 0 1 105737 
+191.176.179.66 0 1 105737 
+191.33.247.223 0 1 2560554 
+185.234.218.239 2 2 162822 20200620163037
+177.103.216.179 3 11 758981 20200626162316
+173.252.83.23 0 1 151639 
+189.72.238.111 0 1 2560554 
+186.220.191.230 0 1 105737 
+168.195.162.217 0 1 105737 
+177.0.91.16 3 14 3331376 20200608103600
+191.189.7.63 0 1 105737 
+66.147.244.209 1 1 81411 20200617125227
+179.214.167.165 0 4 10242216 
+187.4.140.153 0 1 2560554 
+179.214.215.162 0 1 2560554 
+177.25.239.6 0 1 2560554 
+45.165.19.148 0 2 5121108 
+200.204.222.245 0 4 422948 
+177.131.77.131 0 1 2560554 
+191.177.186.112 0 1 2560554 
+191.176.149.52 0 4 10242216 
+201.75.171.86 0 1 2560554 
+189.40.77.114 0 1 2560554 
+177.5.255.111 11 308 18579145 20200610205615
+177.25.239.137 0 1 2560554 
+186.236.109.162 0 1 408133 
+189.63.15.77 0 1 2560554 
+189.84.210.254 0 1 105737 
+186.193.121.32 3 36 9785018 20200619153935
+177.193.180.20 0 1 2560554 
+177.79.104.254 0 2 5121108 
+187.114.12.250 0 1 105737 
+177.202.166.73 0 2 3385620 
+179.255.137.157 0 1 2560554 
+170.80.32.4 0 1 2560554 
+177.84.60.166 1 5 290600 20200619170514
+170.80.32.5 4 108 8497933 20200613234131
+179.221.121.195 0 1 2560554 
+177.194.249.180 0 1 2560554 
+200.193.215.87 1 22 1253043 20200622081855
+177.85.177.176 0 1 2560554 
+177.168.215.17 0 1 2560554 
+187.109.132.175 0 1 408133 
+45.176.16.243 0 1 105737 
+189.31.42.233 2 76 4584204 20200610070633
+201.49.92.165 1 12 3258555 20200601085427
+187.20.2.99 0 1 105737 
+177.201.67.178 0 1 2560554 
+45.190.161.6 0 4 10242216 
+189.99.143.115 0 1 2560554 
+177.189.194.116 0 1 0 
+170.80.32.226 0 3 7681662 
+170.239.75.140 0 1 105737 
+177.205.110.205 2 76 4596870 20200603095004
+187.123.1.87 2 17 13540963 20200619111059
+125.209.235.185 1 8 298226 20200612082710
+125.209.235.174 2 15 371105 20200626082615
+54.186.52.29 2 2 116229 20200619194449
+187.22.231.199 0 1 2560554 
+51.254.61.81 2 6 324538 20200607142320
+191.253.3.106 0 1 2560554 
+201.48.54.1 0 1 105737 
+177.25.225.119 0 1 2560554 
+179.124.242.167 0 1 105737 
+187.79.247.94 0 1 167277 
+187.36.119.231 0 1 105737 
+179.83.127.193 0 1 105737 
+191.191.210.124 0 1 2560554 
+177.25.234.206 1 36 1017760 20200608103544
+138.186.3.234 3 4 10676604 20200601092443
+45.171.144.164 0 1 2560554 
+177.6.81.169 0 1 0 
+189.103.80.75 3 14 3354189 20200609103958
+177.102.112.246 2 6 420042 20200606200921
+177.25.227.3 0 1 2560554 
+35.225.215.248 2 49 1485630 20200617044508
+186.247.145.165 0 1 105737 
+177.16.56.139 0 2 211474 
+177.35.124.33 0 2 5121108 
+179.173.202.212 13 88 3409575 20200604220654
+191.216.220.24 0 1 2560554 
+200.181.123.61 1 1 81887 20200615180354
+179.255.42.199 5 107 6132640 20200608102810
+173.252.87.21 0 1 82660 
+177.25.229.166 0 1 2560554 
+177.206.72.153 0 1 105737 
+209.208.63.184 1 1 81411 20200616064434
+191.26.195.95 0 1 2560554 
+187.123.1.198 0 1 2560554 
+191.184.209.40 1 12 3258555 20200603140048
+177.5.200.83 0 1 2560554 
+177.6.80.156 3 14 3331209 20200602092053
+177.3.109.83 0 1 105737 
+187.6.232.11 10 308 23669114 20200605202849
+179.214.182.3 2 76 4584204 20200612145420
+177.34.4.98 0 1 2560554 
+191.178.111.162 0 1 105737 
+177.20.225.196 0 1 105737 
+132.255.240.138 0 1 2560554 
+179.179.80.40 0 1 105737 
+177.62.84.43 3 7 10487408 20200609055320
+187.104.116.160 0 1 167277 
+189.44.89.106 0 1 2560554 
+191.163.215.57 0 1 105737 
+191.24.70.67 0 1 2560554 
+177.39.81.33 0 1 2560554 
+177.17.156.33 0 1 2560554 
+34.210.137.222 1 1 81691 20200608191514
+191.181.86.238 0 1 2560554 
+179.236.188.44 0 1 105737 
+177.86.168.46 0 1 2560554 
+125.209.235.178 1 13 462954 20200605080945
+177.59.234.52 0 1 105737 
+187.66.130.125 0 1 2560554 
+189.110.167.37 3 3 245661 20200622100509
+189.112.239.52 0 1 105737 
+41.236.194.36 2 2 119126 20200614171725
+179.101.187.143 0 1 2560554 
+125.209.235.176 0 15 561154 
+52.250.3.250 2 2 162822 20200614065649
+177.25.235.23 0 1 2560554 
+183.136.225.46 1 1 81215 20200608095851
+177.25.237.239 0 1 235053 
+200.201.163.83 0 2 2560554 
+131.0.218.39 0 1 105737 
+177.25.233.45 0 1 2560554 
+35.225.140.152 1 6 385369 20200613151044
+186.214.64.255 0 1 2560554 
+201.17.211.231 1 1 81410 20200609221216
+177.197.142.191 0 1 2560554 
+191.35.40.252 0 1 105737 
+179.54.69.253 0 1 105737 
+189.59.82.237 0 1 2560554 
+62.45.138.202 1 1 81411 20200611061239
+201.17.67.175 0 1 105737 
+187.53.59.224 0 4 10242216 
+177.25.233.17 1 1 81215 20200605120213
+201.28.144.253 0 1 2560554 
+173.252.95.37 0 1 82660 
+187.3.138.253 0 1 105737 
+3.87.92.168 3 3 243645 20200605180126
+177.84.60.165 3 15 871800 20200618093812
+45.170.210.240 0 1 105737 
+201.62.108.43 0 1 105737 
+179.255.221.213 0 1 2560554 
+179.255.173.222 0 1 90351 
+168.195.144.208 0 1 408133 
+88.198.43.207 0 1 82660 
+200.181.79.238 1 17 12622931 20200626072152
+179.190.192.23 0 1 105737 
+45.174.158.196 0 1 2560554 
+13.95.130.2 4 4 325644 20200623233005
+200.181.32.191 1 3 2689035 20200625155002
+52.35.139.197 2 2 162906 20200607210452
+179.174.11.199 3 6 7926854 20200605040334
+191.96.5.249 1 5 290599 20200601074202
+177.25.233.120 1 36 3250761 20200608133709
+45.174.156.55 6 37 5290331 20200630153013
+200.163.115.168 0 2 5121108 
+177.194.233.252 0 1 2560554 
+191.33.205.161 0 1 2560554 
+200.140.90.236 1 1 81411 20200629173448
+189.48.81.78 5 150 6582189 20200602112003
+201.43.123.58 0 1 105737 
+177.9.218.33 0 1 2560554 
+179.153.109.62 0 1 105737 
+177.1.85.62 3 68 4563736 20200612152605
+187.23.216.28 0 2 5121108 
+177.25.233.22 0 1 2560554 
+201.131.155.130 0 1 2560554 
+45.70.213.244 0 1 105737 
+191.187.42.205 0 1 105737 
+45.163.87.229 2 10 612740 20200615073313
+179.255.146.94 0 1 0 
+45.171.237.88 0 1 105737 
+45.190.161.48 2 76 4584204 20200625085005
+187.4.83.238 0 1 2560554 
+66.102.8.182 1 31 5997439 20200601185356
+200.178.253.30 0 1 2560554 
+199.244.88.132 1 1 81215 20200602094411
+200.96.241.163 0 1 2560554 
+187.107.203.205 0 1 105737 
+179.255.220.105 0 1 2560554 
+187.49.113.155 0 1 105737 
+179.254.222.119 6 228 13751184 20200611163855
+177.21.200.33 0 1 105737 
+177.25.233.49 0 1 2560554 
+177.25.135.129 0 1 2560554 
+34.75.161.153 2 6 324538 20200602030050
+193.194.132.29 0 1 2560554 
+45.163.87.242 6 6 285818 20200602134601
+200.0.34.154 0 1 105737 
+179.112.166.38 2 76 4584204 20200617145819
+187.78.60.4 0 1 105737 
+177.25.228.94 0 1 2560554 
+177.84.63.11 3 15 871798 20200616023422
+131.0.218.83 0 1 2560554 
+177.25.227.195 1 18 438967 20200616203420
+45.8.255.196 1 1 42116 20200629083814
+179.113.206.44 1 13 3521436 20200615174934
+132.255.148.106 0 1 2560554 
+173.252.95.31 0 1 151639 
+177.2.109.58 1 1 34343 20200615094923
+177.25.231.240 1 7 518176 20200615091023
+177.25.234.209 0 1 2560554 
+138.0.206.38 0 1 105737 
+45.190.161.25 0 1 2560554 
+35.231.30.247 4 12 649080 20200612171604
+177.3.207.64 0 1 2560554 
+191.242.236.62 0 1 105737 
+187.60.114.210 0 1 105737 
+177.83.22.190 2 22 3751511 20200608133838
+179.215.121.146 0 1 2560554 
+192.71.44.44 1 1 81411 20200612141059
+187.65.42.159 0 1 105737 
+54.245.198.68 1 1 81887 20200619194445
+200.175.44.184 0 1 105737 
+177.207.72.26 2 76 4596870 20200604112934
+89.38.99.48 1 1 81215 20200608213744
+177.5.79.233 0 1 2560554 
+187.180.6.20 0 1 105737 
+45.225.247.141 0 1 2560554 
+201.92.86.128 0 1 105737 
+131.161.218.19 0 1 105737 
+66.102.8.180 0 30 15896768 
+187.113.11.95 0 1 2560554 
+177.193.2.224 0 1 105737 
+194.187.171.107 1 1 81887 20200617030425
+187.87.177.11 10 92 5381757 20200605080304
+193.58.104.173 1 1 34345 20200626050056
+177.34.15.117 0 1 2560554 
+189.113.49.191 0 1 2560554 
+177.235.14.54 0 1 105737 
+179.162.58.247 2 61 4433761 20200629133710
+187.53.201.249 0 1 105737 
+177.25.239.227 0 1 2560554 
+187.122.62.160 4 12 840868 20200616151345
+45.187.27.169 2 76 4596870 20200602085457
+177.25.235.144 0 1 2560554 
+177.25.239.88 2 8 538478 20200630204857
+177.25.238.28 2 76 4584204 20200619215025
+177.25.235.232 0 1 2560554 
+44.234.87.81 1 1 81411 20200611160827
+35.224.75.4 4 12 649080 20200625180923
+179.255.146.26 0 2 5121108 
+189.20.168.222 0 1 2560554 
+177.25.230.141 2 43 1420690 20200608133618
+187.183.152.121 3 89 8165878 20200603095714
+187.86.50.27 0 1 173257 
+179.254.70.142 0 1 2560554 
+189.27.90.157 0 1 2560554 
+200.163.116.226 0 1 2560554 
+170.80.32.224 3 12 1034139 20200610163216
+187.19.179.132 0 1 105737 
+179.66.237.159 0 1 105737 
+177.25.231.178 1 10 649434 20200629164417
+189.73.199.18 0 2 5121108 
+187.23.223.77 0 1 0 
+189.72.143.206 2 76 4583728 20200623081457
+179.214.164.211 0 1 2560554 
+177.25.236.47 0 1 2560554 
+191.189.6.110 0 1 340308 
+179.253.26.132 2 77 7144758 20200625161719
+148.78.5.75 0 1 2560554 
+189.6.232.189 7 27 6686588 20200603084611
+45.163.95.80 0 7 15894623 
+200.152.49.78 0 1 105737 
+177.25.237.182 0 1 2560554 
+45.70.16.22 0 1 105737 
+179.254.221.187 0 1 2560554 
+189.85.153.111 0 1 2560554 
+177.84.60.70 8 40 2324800 20200626092918
+135.181.30.133 1 1 81411 20200622091603
+43.239.160.130 1 1 38517 20200626121006
+177.220.176.167 1 14 5180326 20200626090223
+177.195.251.19 4 4 327548 20200630090750
+177.25.234.253 0 1 2560554 
+177.73.26.226 0 1 105737 
+173.252.95.16 0 1 151639 
+189.27.67.119 0 1 2560554 
+177.84.60.105 3 15 871797 20200602164512
+177.25.227.7 1 1 81887 20200623073837
+189.112.38.94 0 1 2560554 
+191.54.120.185 0 3 317211 
+200.181.118.98 0 2 5121108 
+177.102.80.170 0 2 211474 
+170.83.89.14 0 1 2560554 
+189.29.54.158 0 1 2560554 
+177.69.0.129 0 1 105737 
+177.148.241.170 2 6 420042 20200602135806
+189.59.87.234 0 1 2560554 
+177.6.80.58 0 1 2560554 
+177.3.207.63 2 18 10219181 20200625210335
+131.0.218.143 1 12 3258556 20200625183235
+191.249.118.78 0 1 2560554 
+177.47.254.220 0 3 539205 
+189.115.96.232 0 1 2560554 
+54.196.12.172 1 1 81691 20200608192028
+186.251.105.42 0 5 12802770 
+177.220.177.165 4 33 4288759 20200626110957
+177.25.228.170 0 1 2560554 
+200.193.215.194 0 1 2560554 
+186.237.116.131 0 1 105737 
+177.104.235.67 0 1 105737 
+131.0.218.84 0 1 2560554 
+177.25.230.3 1 52 3878667 20200616171236
+179.95.255.233 0 1 2560554 
+143.255.204.83 0 1 105737 
+45.164.97.59 0 1 105737 
+177.107.123.208 0 1 105737 
+200.171.241.64 0 1 105737 
+66.249.83.22 3 11 20730093 20200619142214
+167.250.68.133 0 1 340308 
+189.33.227.159 0 1 408133 
+189.6.23.10 0 1 105737 
+187.119.236.158 1 57 4017757 20200608180522
+170.231.134.120 0 1 105737 
+179.214.164.251 0 3 7681662 
+187.38.61.81 0 1 105737 
+78.111.120.110 2 2 162430 20200601165621
+186.232.245.242 0 4 5121108 
+177.5.120.198 4 104 6221988 20200610083820
+187.53.142.158 0 1 2560554 
+187.24.129.113 2 13 3296016 20200629090955
+191.184.213.52 0 1 2560554 
+45.236.54.173 0 1 105737 
+186.220.21.194 0 1 105737 
+200.142.192.94 0 1 2560554 
+177.5.121.11 6 62 3871031 20200624222450
+64.225.14.120 1 1 81215 20200602162020
+201.86.69.158 0 1 2560554 
+177.87.95.48 0 1 105737 
+52.23.207.125 3 3 244233 20200626142800
+189.101.73.168 0 1 105737 
+177.203.9.246 2 76 4583728 20200621170935
+189.98.250.87 0 1 2560554 
+125.209.235.172 0 5 71766 
+186.255.160.168 0 1 2560554 
+52.255.185.132 3 3 243645 20200605202114
+200.241.176.181 2 16 10978866 20200628231042
+189.115.111.76 2 76 4596870 20200603125409
+104.227.246.106 2 2 162822 20200627163215
+45.163.225.5 0 1 2560554 
+177.149.150.13 0 1 105737 
+45.190.161.38 3 81 9787199 20200626184400
+125.209.235.179 0 8 121100 
+189.46.125.93 0 1 2560554 
+161.35.130.112 1 1 81691 20200601175817
+177.69.139.187 0 1 105737 
+177.73.104.245 0 1 2560554 
+66.249.83.20 7 12 13374999 20200617122323
+189.27.93.90 0 1 2560554 
+189.40.91.213 0 1 105737 
+200.9.16.23 0 1 2560554 
+179.214.127.49 0 1 2560554 
+200.163.115.192 2 2 162430 20200602141928
+45.190.163.10 1 39 72389210 20200630124417
+220.249.46.13 0 3 4967424 
+148.251.50.77 0 1 176093 
+109.102.111.50 0 1 655330 
+201.7.22.247 0 3 7681662 
+45.179.178.107 0 1 2560554 
+177.5.121.137 2 76 4583728 20200623201419
+177.79.106.228 1 6 461262 20200627030218
+191.184.219.30 0 1 2560554 
+179.220.18.146 3 9 243645 20200604151148
+177.83.17.122 0 1 2560554 
+201.15.210.69 0 1 2560554 
+45.234.146.0 0 1 105737 
+5.62.51.42 4 4 327548 20200627141834
+200.140.63.153 0 1 2560554 
+177.204.194.188 0 1 408133 
+177.25.233.148 0 1 2560554 
+179.220.201.58 0 1 105737 
+187.119.231.242 1 19 579113 20200608180520
+173.252.95.111 0 1 121711 
+177.201.77.177 4 89 7890186 20200616151409
+170.150.241.15 2 22 1252037 20200612164728
+201.77.94.246 0 1 2560554 
+3.89.133.140 0 1 49021 
+189.69.104.17 0 1 2560554 
+177.25.238.148 0 1 2560554 
+187.22.3.217 0 1 105737 
+177.191.15.248 2 76 4586303 20200623094451
+177.193.164.181 0 1 105737 
+179.186.173.63 0 1 105737 
+177.3.202.190 7 229 13832595 20200615193650
+64.215.22.74 0 1 105737 
+200.252.231.15 0 1 340308 
+177.17.111.125 0 1 105737 
+177.84.60.106 4 20 1162400 20200616101720
+173.252.95.15 0 1 82660 
+88.198.36.62 0 2 271361 
+191.220.0.173 0 1 105737 
+177.101.148.124 6 6 490929 20200625160815
+170.245.70.46 3 77 4644603 20200603110415
+191.248.70.105 0 1 105737 
+179.105.69.224 0 1 105737 
+177.84.60.142 1 5 290600 20200615152451
+177.25.238.62 0 1 2560554 
+179.214.222.90 0 11 5526599 
+177.69.70.73 0 1 105737 
+189.59.117.218 0 1 2560554 
+189.110.87.169 0 1 105737 
+187.65.161.160 1 15 3330206 20200602141151
+172.94.13.164 1 1 33824 20200614181017
+179.199.14.126 1 12 3258556 20200616070916
+177.25.235.194 0 1 2560554 
+179.119.76.240 0 1 2560554 
+179.246.220.56 0 1 2560554 
+201.24.50.133 0 1 2560554 
+186.193.1.217 0 1 2560554 
+170.239.75.25 0 1 105737 
+177.170.189.120 0 2 5121108 
+191.35.188.165 0 1 105737 
+177.25.226.242 0 1 2560554 
+177.25.234.56 2 35 3554301 20200607080545
+45.190.161.30 0 1 2560554 
+167.114.228.206 1 1 81887 20200612073105
+179.185.88.115 0 1 47733 
+170.80.32.2 0 1 0 
+192.71.38.71 1 1 81215 20200601082131
+182.22.27.20 1 1 81887 20200616014930
+177.25.238.39 0 1 2560554 
+131.0.56.97 4 88 5343080 20200604132847
+45.70.210.49 0 1 105737 
+189.59.114.123 1 12 3258555 20200601113933
+187.61.167.211 0 1 105737 
+177.25.236.171 0 1 2560554 
+45.190.161.0 2 33 16711853 20200605115020
+185.125.225.26 0 1 2560554 
+191.223.177.205 2 25 1268449 20200627064821
+177.5.121.42 0 1 2560554 
+191.195.166.212 0 2 5121108 
+189.27.76.100 3 25 856112 20200604160701
+181.220.180.185 0 1 2560554 
+177.4.171.91 0 1 2560554 
+177.84.60.140 2 10 581200 20200617021609
+177.6.250.37 8 29 22883305 20200615102712
+177.5.121.240 3 77 4665139 20200629152635
+187.4.110.155 0 1 340308 
+177.189.194.137 0 1 105737 
+189.28.210.90 4 12 840084 20200607012343
+187.26.178.61 0 1 2560554 
+189.103.89.150 0 1 2560554 
+179.127.166.173 0 1 105737 
+179.125.250.101 0 2 211474 
+200.236.208.199 0 1 105737 
+177.25.238.8 1 15 379264 20200629183212
+200.133.3.253 0 1 105737 
+37.143.63.37 1 1 48210 20200627003723
+54.162.188.170 2 2 946495 20200619204122
+177.25.231.16 0 1 2560554 
+179.254.135.125 0 1 896091 
+191.179.169.181 1 14 3377485 20200629143829
+177.21.73.241 0 1 2560554 
+189.27.86.249 0 1 2560554 
+5.62.51.53 7 7 573013 20200627054802
+189.59.98.251 0 1 2560554 
+177.74.134.175 0 1 2560554 
+179.112.14.43 0 1 2560554 
+177.18.155.176 0 1 105737 
+186.220.36.20 0 1 105737 
+187.65.162.115 0 2 2970270 
+13.57.16.39 1 1 81215 20200607113625
+189.92.126.22 0 1 2560554 
+177.81.104.179 0 1 105737 
+177.5.79.90 0 1 2560554 
+187.7.226.26 0 1 2560554 
+178.22.66.178 1 1 81411 20200611141710
+191.34.106.96 3 77 4630217 20200602112442
+131.0.218.153 0 1 2560554 
+177.60.1.232 0 1 2560554 
+177.62.37.158 2 6 324538 20200609053348
+52.201.243.129 2 2 946495 20200613203159
+177.17.152.223 4 79 5415582 20200603113011
+177.25.224.61 0 1 2560554 
+201.0.56.51 0 1 105737 
+45.190.161.2 0 2 5121108 
+179.150.181.186 1 12 3252840 20200605070504
+179.214.215.107 0 1 2560554 
+180.245.13.195 3 3 245073 20200604174052
+52.27.228.49 2 2 163298 20200621210522
+177.25.234.59 0 1 2560554 
+187.95.244.116 0 1 105737 
+187.86.225.151 13 123 19727819 20200617103009
+177.37.207.102 0 1 105737 
+45.190.161.32 0 2 5121108 
+189.27.81.153 0 2 5121108 
+177.25.224.129 0 1 2560554 
+177.23.185.182 3 14 3341058 20200601075529
+200.96.131.107 0 1 2560554 
+191.33.244.26 4 15 3387078 20200605091903
+177.5.225.30 2 76 4584204 20200612131749
+191.216.188.34 0 1 310399 
+177.25.225.49 0 1 2560554 
+200.96.141.66 0 1 244417 
+179.187.215.119 0 1 2560554 
+173.252.95.7 0 1 121711 
+177.205.106.153 0 1 2560554 
+189.73.25.20 0 1 2560554 
+177.34.8.204 0 1 2560554 
+45.236.227.2 0 1 2560554 
+179.255.220.147 0 1 2560554 
+177.4.178.111 0 1 2560554 
+177.25.238.183 0 1 2560554 
+121.75.89.206 0 1 2560554 
+177.199.113.131 0 1 2560554 
+177.25.238.131 0 1 2560554 
+179.112.46.191 0 1 2560554 
+200.232.234.234 0 1 105737 
+187.36.107.72 0 1 2560554 
+189.63.21.60 0 1 105737 
+165.22.205.55 1 1 81215 20200606032527
+191.205.209.191 0 1 2560554 
+177.25.238.152 0 1 2560554 
+189.11.226.116 0 1 2560554 
+45.190.161.12 0 2 5121108 
+177.202.75.53 1 1 81887 20200621161024
+177.97.36.184 0 1 2560554 
+177.47.172.52 0 1 105737 
+179.209.68.161 1 11 692286 20200604113914
+189.103.110.27 0 1 105737 
+177.25.238.73 0 1 2560554 
+179.112.114.82 0 1 2560554 
+167.250.29.144 0 1 105737 
+191.190.108.3 0 1 105737 
+165.227.65.87 4 4 325644 20200619053034
+186.220.210.214 0 1 105737 
+187.113.89.33 0 1 105737 
+192.243.53.51 1 1 81411 20200626163916
+88.99.137.13 1 1 81411 20200614124309
+177.84.63.3 4 20 1162400 20200630105217
+189.59.84.243 2 14 4117915 20200608103115
+45.163.65.55 0 1 105737 
+191.34.98.174 0 1 2560554 
+170.150.242.44 0 1 2560554 
+170.81.239.226 0 1 105737 
+186.213.231.152 0 1 2560554 
+179.119.109.194 0 1 186407 
+179.95.224.11 0 1 2560554 
+66.42.126.249 1 1 81411 20200630195647
+177.17.156.139 0 1 2560554 
+179.255.220.156 0 1 2560554 
+177.17.146.42 1 3 81691 20200609073026
+177.25.238.135 0 2 5121108 
+177.25.224.58 4 15 1020500 20200611084532
+200.49.46.18 0 1 105737 
+200.96.205.159 0 1 105737 
+179.181.165.199 0 1 2560554 
+167.249.14.98 0 1 105737 
+45.190.161.27 1 9 632967 20200630180333
+59.153.145.173 1 1 43580 20200624001024
+177.3.201.168 3 77 4665139 20200624090244
+177.25.231.36 1 12 3253775 20200624134927
+184.94.240.92 1 1 81887 20200621084649
+177.78.186.207 0 1 2560554 
+177.79.104.156 0 1 2560554 
+5.45.36.111 1 1 32173 20200626061653
+45.190.161.10 7 86 15933423 20200605182923
+45.224.129.167 9 9 731523 20200610094131
+177.131.72.41 0 1 105737 
+186.219.217.226 3 78 5288218 20200608155234
+177.0.88.123 2 77 7144758 20200626082317
+187.23.195.107 0 9 23044986 
+45.178.150.11 0 1 2560554 
+201.34.16.174 0 1 2560554 
+187.79.24.204 0 1 105737 
+179.214.137.224 0 1 2560554 
+138.121.152.100 0 1 2560554 
+191.189.45.66 0 1 2560554 
+201.3.15.110 0 2 5121108 
+179.162.60.60 0 1 2560554 
+186.193.183.133 0 1 105737 
+177.25.236.44 1 24 705537 20200616171238
+187.38.60.116 0 1 105737 
+189.31.44.90 0 1 2560554 
+170.80.32.227 5 22 11248792 20200617141556
+45.186.142.247 1 20 298915 20200623190849
+179.214.205.128 0 1 2560554 
+45.174.158.8 0 1 2560554 
+179.95.235.202 0 2 3215884 
+125.209.235.167 1 15 521041 20200617155954
+179.34.228.67 0 1 2560554 
+144.76.162.206 0 1 176093 
+177.25.225.199 0 1 2560554 
+177.83.9.251 0 1 2560554 
+45.32.165.245 6 6 488466 20200623025716
+187.51.177.37 0 1 408133 
+181.191.89.225 2 76 4596870 20200601144327
+143.0.188.134 0 1 105737 
+191.54.179.28 0 1 408133 
+52.23.251.212 3 3 244233 20200616232826
+18.207.254.144 3 3 244233 20200615214943
+187.65.175.38 0 1 2560554 
+189.0.153.201 0 1 2560554 
+201.222.28.94 0 1 105737 
+177.190.238.35 0 4 251762 
+35.246.90.144 1 1 81411 20200623161157
+189.6.144.83 0 1 2560554 
+189.59.108.243 2 76 4596394 20200602171717
+201.15.211.93 0 1 2560554 
+191.189.2.155 0 1 105737 
+3.95.183.113 0 1 105737 
+190.111.148.230 0 1 105737 
+200.199.222.114 0 1 2560554 
+176.113.115.222 6 9 1096927 20200616121408
+128.119.245.66 3 3 245269 20200610103558
+177.190.77.216 0 1 2560554 
+91.134.248.249 1 1 81215 20200609015106
+138.121.129.18 0 1 105737 
+191.36.171.1 0 1 2560554 
+170.150.242.214 0 1 2560554 
+34.89.116.46 1 1 81411 20200614152929
+179.238.217.157 0 1 105737 
+66.249.83.18 10 14 11060693 20200619132718
+189.26.50.182 0 1 105737 
+179.255.145.209 0 3 7681662 
+45.6.120.18 0 8 18455177 
+66.249.88.8 0 1 2560554 
+170.81.156.27 0 1 105737 
+187.65.163.128 0 1 2560554 
+191.241.137.231 0 1 378268 
+191.37.229.91 0 1 2560554 
+125.209.235.170 1 11 356865 20200626082630
+177.17.19.146 0 1 2560554 
+201.8.214.144 2 74 1915116 20200604105905
+143.202.83.110 0 1 105737 
+177.5.251.233 0 2 2670282 
+192.36.53.165 1 1 81411 20200626204354
+177.67.106.15 0 1 105737 
+177.138.212.223 0 1 105737 
+138.121.131.29 0 1 408133 
+177.35.29.104 0 1 105737 
+187.55.140.46 2 76 4596870 20200603082131
+189.85.152.203 0 1 2560554 
+178.238.229.166 0 1 105737 
+34.67.27.73 1 11 777366 20200605025835
+168.181.49.43 0 1 2560554 
+189.4.76.191 2 76 4596870 20200602151455
+177.4.185.135 0 1 2560554 
+189.72.238.189 2 76 4583728 20200625092942
+200.181.123.126 2 76 4584204 20200623133023
+191.5.0.242 0 3 277010 
+45.4.111.42 0 1 2560554 
+189.59.123.20 2 75 1873212 20200610132434
+91.121.76.25 1 1 81411 20200622224412
+189.94.66.107 0 1 2560554 
+191.221.1.145 1 11 698002 20200619082742
+201.17.68.78 0 1 105737 
+187.11.253.153 0 1 105737 
+170.233.227.69 0 1 2560554 
+200.196.153.33 0 1 2560554 
+131.0.218.95 0 1 2560554 
+177.74.65.138 5 79 4794191 20200602071156
+102.165.1.218 1 1 94718 20200624101017
+78.46.94.83 0 1 82660 
+179.254.137.65 1 34 772431 20200625155036
+138.117.37.86 0 1 105737 
+35.167.183.26 2 2 162906 20200605143545
+177.66.114.250 0 1 0 
+177.3.201.59 0 1 2560554 
+191.177.185.233 0 2 5121108 
+191.190.253.156 0 1 105737 
+187.71.130.115 0 1 2560554 
+177.0.59.13 3 86 5077353 20200630103225
+191.189.4.4 0 1 105737 
+177.25.226.23 0 1 2560554 
+45.174.102.14 0 1 105737 
+173.252.95.39 0 2 237194 
+177.96.42.186 0 1 2560554 
+179.119.26.171 1 12 3258556 20200610182650
+179.127.69.35 1 1 81411 20200619025321
+177.25.224.150 0 1 2560554 
+54.152.252.6 2 2 163774 20200619194330
+170.150.240.95 0 2 5121108 
+191.13.189.193 0 1 105737 
+187.90.154.252 0 2 5121108 
+177.69.55.35 0 1 105737 
+45.190.161.18 0 1 2560554 
+191.13.126.119 0 1 105737 
+132.255.240.130 0 1 2560554 
+59.153.145.231 1 1 35072 20200630021800
+177.47.49.193 8 271 15162951 20200612012931
+170.247.54.176 0 1 105737 
+46.4.83.150 0 2 352186 
+179.179.94.187 0 1 2560554 
+190.109.66.220 0 1 2560554 
+187.54.65.191 3 78 4666091 20200619144028
+177.94.227.161 0 1 105737 
+170.233.197.141 0 1 105737 
+179.214.197.147 0 1 2560554 
+187.106.90.239 0 1 2560554 
+177.188.164.4 2 6 420042 20200604050946
+179.124.9.213 0 1 2560554 
+177.102.91.199 0 1 408133 
+160.19.246.108 1 12 3244711 20200612211456
+191.216.212.112 0 1 2560554 
+173.252.95.8 0 1 121711 
+177.25.228.242 1 39 1018556 20200608103542
+191.23.43.237 0 1 105737 
+179.184.131.123 0 1 105737 
+187.18.126.15 1 16 5934486 20200602092727
+191.190.207.143 0 1 105737 
+177.5.78.224 0 1 2560554 
+170.245.46.158 3 14 3333045 20200618075608
+104.227.121.253 2 2 115235 20200629203859
+4.78.245.198 0 1 2560554 
+177.185.131.98 0 1 105737 
+45.182.157.6 0 3 5776438 
+179.11.90.211 4 19 1143839 20200624162959
+184.72.122.15 2 2 946495 20200619224837
+179.254.136.160 1 14 4326889 20200608123649
+191.24.95.209 0 1 2560554 
+3.236.13.58 3 3 244233 20200618005157
+186.216.140.75 0 1 105737 
+177.1.195.28 0 1 2560554 
+201.62.56.35 0 1 105737 
+177.129.226.46 0 1 408133 
+20.42.108.200 2 2 163774 20200626095137
+138.118.29.215 0 1 105737 
+131.0.218.135 0 27 488240 
+187.55.141.178 0 1 2560554 
+187.73.205.8 0 1 2560554 
+45.190.161.23 0 1 2560554 
+189.40.74.36 0 1 2560554 
+186.213.66.40 0 1 105737 
+131.0.218.15 0 1 2560554 
+5.62.51.12 2 2 163774 20200623160331
+179.255.174.140 0 1 105737 
+201.82.213.78 0 2 211474 
+177.198.131.150 2 14 4014902 20200618133250
+44.234.63.6 1 1 81411 20200625131439
+177.52.210.47 0 1 105737 
+177.6.196.30 4 152 9167456 20200627194526
+45.61.136.66 1 1 81411 20200611144452
+45.225.247.1 2 15 8521857 20200612113956
+177.25.232.61 0 2 5121108 
+189.27.76.22 0 2 170891 
+192.162.103.35 1 1 81215 20200607114742
+5.45.37.136 1 1 36495 20200623172838
+187.24.147.10 0 1 2560554 
+177.1.248.75 2 76 4583728 20200622211915
+189.103.89.182 0 2 5121108 
+177.205.105.92 3 15 3424017 20200627130432
+186.208.132.135 0 1 2560554 
+187.53.59.223 5 94 7448384 20200629113435
+201.7.29.196 0 1 2560554 
+159.89.235.90 3 15 923960 20200619133324
+177.25.237.6 0 5 2740380 
+177.3.36.210 0 1 2560554 
+177.35.112.137 0 1 2560554 
+177.25.224.204 0 1 2560554 
+138.59.121.122 0 1 105737 
+189.40.90.193 0 1 2560554 
+45.179.178.112 0 1 408133 
+191.223.177.134 0 2 5121108 
+59.153.145.242 2 2 80071 20200628113524
+186.230.122.173 0 1 105737 
+179.214.187.102 0 2 5121108 
+179.214.142.162 0 1 2560554 
+177.204.164.14 0 1 2560554 
+177.25.239.216 0 1 2560554 
+34.229.157.237 1 11 546376 20200608202544
+125.209.235.181 1 8 344763 20200619080653
+187.123.1.168 0 1 2560554 
+134.122.6.154 1 1 81691 20200602051752
+179.214.197.48 0 1 2560554 
+189.94.69.127 0 1 2560554 
+201.86.13.97 2 6 420434 20200622184547
+177.6.80.159 0 1 2560554 
+189.126.221.97 0 1 105737 
+45.236.227.91 0 1 2560554 
+34.239.158.148 3 3 243645 20200606012824
+45.236.224.250 0 2 2560554 
+189.89.12.123 2 6 324540 20200614032200
+43.239.160.150 1 1 54332 20200623225847
+167.249.176.149 0 1 2560554 
+40.248.248.16 0 1 2560554 
+177.5.78.149 0 1 2560554 
+177.25.225.111 0 2 5121108 
+177.140.104.240 0 1 105737 
+45.175.107.26 0 1 2560554 
+35.229.34.188 2 76 4583728 20200614152932
+45.163.152.154 0 1 105737 
+187.36.88.6 0 1 105737 
+200.169.135.243 2 76 4584204 20200612112936
+154.51.131.142 4 4 325448 20200628030319
+54.80.16.96 0 2 81684 
+177.42.201.158 0 1 105737 
+45.235.21.56 0 1 2560554 
+177.126.84.195 1 1 81887 20200627134518
+168.194.93.160 8 24 1681736 20200626103454
+200.96.129.180 0 1 2560554 
+201.93.47.37 0 1 408133 
+54.153.62.208 1 1 81411 20200618111418
+45.89.241.35 1 1 43906 20200627052208
+177.74.238.198 0 3 7681662 
+177.182.8.83 0 1 340308 
+187.4.165.210 10 87 5337462 20200626120011
+191.13.81.41 0 1 105737 
+186.249.229.38 0 1 105737 
+149.28.224.58 1 1 81887 20200621151951
+179.253.191.178 0 1 0 
+201.50.14.49 0 1 105737 
+177.79.104.57 2 76 4596870 20200603172142
+131.0.218.108 4 82 14894772 20200626172026
+54.202.173.89 1 1 81691 20200608191513
+138.118.12.6 1 1 81887 20200629224054
+45.236.181.247 0 1 310399 
+191.33.245.7 6 21 3589512 20200617180746
+34.228.232.117 3 3 244233 20200619155449
+189.59.101.214 0 1 2560554 
+177.83.15.235 6 228 13765278 20200625214241
+186.219.220.253 0 1 2560554 
+189.103.65.254 0 1 2560554 
+45.4.111.50 0 1 2560554 
+179.214.130.222 0 1 2560554 
+201.131.182.156 0 1 2560554 
+177.4.177.252 0 1 2560554 
+200.96.140.144 0 1 2560554 
+179.255.144.180 0 1 2560554 
+191.129.115.7 6 17 3631333 20200609133506
+179.214.132.198 0 1 2560554 
+179.183.208.254 4 152 9193740 20200602090216
+201.89.29.87 0 1 105737 
+173.252.87.24 0 1 20920 
+89.187.178.8 1 1 81411 20200614235114
+126.228.57.41 0 1 2560554 
+189.24.92.107 0 3 211474 
+177.13.90.45 0 1 2560554 
+179.254.238.240 2 76 4583728 20200626163735
+35.153.144.35 1 1 81411 20200617180534
+191.32.92.234 0 1 105737 
+45.190.161.9 0 1 2560554 
+34.219.184.161 1 1 81691 20200608191514
+179.255.144.18 3 78 4670951 20200615095120
+189.72.239.107 0 1 2560554 
+177.5.79.244 0 1 61387 
+132.255.25.172 0 1 2560554 
+54.162.158.183 0 2 2666291 
+201.24.172.110 0 1 2560554 
+177.35.124.253 0 2 5121108 
+187.3.241.38 0 1 105737 
+138.186.131.91 0 1 105737 
+189.4.75.217 0 1 105737 
+200.140.90.160 6 6 488073 20200615191920
+45.182.16.98 0 1 2560554 
+177.89.115.179 0 1 176093 
+193.58.104.164 3 3 124494 20200628161624
+177.33.136.15 0 2 3215884 
+189.40.78.85 3 80 4908867 20200618180937
+177.25.228.117 2 76 4584204 20200629095708
+193.148.16.246 1 1 81411 20200621151336
+201.77.94.41 0 1 105737 
+45.163.95.16 0 1 2560554 
+177.25.226.248 1 44 1121751 20200607080518
+187.65.173.171 0 1 2560554 
+177.25.234.103 0 3 194286 
+186.249.192.104 0 1 105737 
+181.191.98.1 0 1 105737 
+177.25.225.135 0 1 2560554 
+187.4.151.2 1 4 7724156 20200601124024
+177.25.228.64 0 1 2560554 
+177.87.165.163 0 1 2560554 
+54.157.208.23 1 1 81887 20200619194510
+189.103.75.96 3 77 4665139 20200613130143
+177.17.169.78 0 1 105737 
+179.231.146.2 3 79 4659205 20200613071042
+177.134.17.214 2 6 324540 20200623151853
+45.165.19.86 3 14 3313400 20200621175413
+177.25.230.217 0 1 2560554 
+189.68.22.246 0 1 105737 
+179.214.176.133 0 1 2560554 
+187.36.96.36 0 1 2560554 
+52.35.185.45 0 2 168950 
+35.163.121.1 0 1 2560554 
+177.43.76.226 0 1 2560554 
+191.223.76.183 0 1 2560554 
+46.250.19.97 1 1 81411 20200622184850
+125.209.235.183 0 9 139182 
+189.59.121.73 0 1 2560554 
+170.150.243.224 2 76 4596394 20200603133721
+177.80.63.118 0 1 105737 
+189.31.170.216 0 1 2560554 
+177.148.203.150 1 1 34793 20200623085051
+189.29.52.138 1 13 5805239 20200614173955
+131.0.218.93 1 13 5822227 20200626082914
+177.25.224.32 0 1 2560554 
+54.210.166.30 0 1 105737 
+191.218.38.250 0 1 2560554 
+191.34.111.134 0 1 2560554 
+45.4.134.8 0 1 105737 
+5.188.84.6 2 2 108956 20200615170830
+201.19.33.180 0 1 105737 
+177.25.237.207 0 1 2560554 
+187.75.11.32 0 1 2560554 
+177.131.164.75 0 1 2560554 
+177.25.228.207 0 1 121200 
+179.252.86.105 0 1 2560554 
+187.44.87.114 0 2 211474 
+191.253.114.70 0 1 105737 
+179.186.94.209 0 1 2560554 
+45.4.146.11 0 1 105737 
+170.83.96.2 0 3 7681662 
+168.194.161.120 0 1 105737 
+177.25.235.140 0 5 2724499 
+187.36.105.25 0 1 2560554 
+45.12.220.168 1 1 81411 20200612034527
+179.214.136.85 0 1 2560554 
+189.11.226.13 5 159 9446121 20200629090253
+179.67.8.130 0 2 211474 
+177.4.177.114 0 1 2560554 
+179.66.15.235 0 1 105737 
+177.223.164.191 0 1 105737 
+45.186.76.2 0 1 2560554 
+45.167.190.88 1 12 3258556 20200629153049
+187.86.225.152 3 17 7814216 20200617093255
+34.73.245.169 6 18 973620 20200614101106
+177.25.238.31 0 1 2560554 
+177.25.233.159 0 1 2560554 
+200.33.152.1 0 1 2560554 
+152.248.58.247 0 1 2560554 
+179.214.219.144 4 79 4743941 20200616153906
+179.185.66.212 0 1 2560554 
+177.83.24.87 0 1 2560554 
+188.143.169.29 6 6 488466 20200624102247
+177.194.238.173 0 1 2560554 
+173.252.87.2 0 1 482007 
+192.140.118.10 0 1 105737 
+179.98.171.188 0 1 105737 
+189.59.96.183 1 9 287588 20200604192222
+179.187.46.10 0 3 251675 
+179.177.11.124 0 3 7681662 
+191.128.99.112 1 15 3325076 20200612144725
+179.214.134.9 2 16 9551859 20200615124933
+179.156.29.160 0 3 418472 
+104.248.255.1 1 1 81411 20200623015800
+177.25.234.118 0 1 2560554 
+187.116.90.191 0 1 105737 
+187.3.217.125 0 1 105737 
+189.10.115.98 0 1 2560554 
+200.196.153.14 5 22 5695700 20200604105217
+189.103.64.197 0 1 2560554 
+179.168.255.95 0 1 2560554 
+177.25.234.111 0 1 2560554 
+177.25.237.25 1 12 1970999 20200623172515
+45.6.110.43 0 1 2560554 
+45.226.15.120 0 1 2560554 
+187.75.178.214 0 1 105737 
+194.187.171.156 1 1 81887 20200612152134
+201.14.49.150 0 1 105737 
+186.209.28.250 0 1 105737 
+200.100.166.237 0 1 408133 
+177.17.145.151 0 1 2560554 
+200.98.132.142 6 6 488466 20200626025719
+177.202.6.85 0 3 7681662 
+201.63.128.78 0 1 2560554 
+179.221.226.163 0 1 105737 
+177.60.89.42 0 1 2560554 
+138.201.60.47 1 1 81411 20200610214125
+37.120.217.92 1 1 81411 20200622203631
+200.232.233.202 0 1 2560554 
+179.255.221.91 0 1 2560554 
+181.223.64.172 1 21 3703303 20200610162929
+131.72.176.214 0 3 2638415 
+177.25.224.30 0 1 2560554 
+186.219.216.228 0 1 2560554 
+181.222.27.201 0 1 105737 
+187.53.164.164 0 1 105737 
+187.4.64.12 0 2 5121108 
+45.186.142.164 0 1 2560554 
+3.94.28.99 1 1 81215 20200608164614
+187.35.5.224 0 1 105737 
+187.40.164.127 0 1 105737 
+179.166.245.225 0 1 2560554 
+200.203.89.50 0 6 2810001 
+177.25.227.70 1 27 3308916 20200607200806
+179.95.240.114 0 1 2560554 
+189.73.197.49 1 12 3258555 20200609104229
+45.190.161.28 1 8 3069353 20200606203216
+179.232.52.25 0 1 105737 
+187.109.234.14 0 1 2560554 
+45.227.250.218 0 1 2560554 
+189.26.92.172 0 1 2560554 
+39.108.62.211 1 1 81411 20200617113042
+187.115.225.235 0 1 105737 
+179.214.182.88 0 2 3385620 
+187.54.115.167 0 1 0 
+177.130.167.83 0 1 105737 
+131.0.218.44 2 76 4611580 20200628184947
+177.22.221.156 0 1 2560554 
+200.181.123.224 2 66 1946780 20200629122207
+177.25.225.38 0 1 2560554 
+187.23.222.118 0 1 2560554 
+177.175.128.138 0 1 2560554 
+34.75.180.1 1 5 290600 20200630025638
+189.33.174.156 0 1 105737 
+131.0.218.54 3 77 4647670 20200603125435
+177.3.202.194 0 1 2560554 
+125.17.79.218 2 4 235015 20200609101436
+152.252.110.162 3 15 3875970 20200604094920
+177.2.109.4 0 1 2560554 
+187.66.134.158 2 24 4262706 20200613211145
+177.25.236.61 1 1 34414 20200613080244
+138.94.176.52 0 4 317211 
+132.255.51.207 0 1 105737 
+177.52.72.1 0 1 2560554 
+5.45.37.245 0 1 10543692 
+177.130.57.221 0 1 105737 
+177.3.201.208 0 1 2560554 
+179.253.245.38 0 1 105737 
+201.76.188.26 0 1 105737 
+201.48.49.105 0 1 105737 
+191.205.154.41 0 1 2560554 
+201.216.96.150 2 13 3277300 20200617140555
+45.233.105.177 0 1 105737 
+187.52.70.47 0 1 105737 
+179.151.205.18 0 1 2560554 
+179.97.205.192 0 1 2560554 
+192.71.224.240 1 1 81411 20200619224522
+189.59.125.11 0 1 531299 
+189.115.97.154 0 1 294257 
+187.95.124.10 0 1 2560554 
+177.202.11.104 0 2 5121108 
+200.152.88.95 0 1 2560554 
+201.95.125.192 0 1 105737 
+51.89.201.9 2 2 162430 20200606165915
+191.177.187.81 0 1 2560554 
+187.33.57.218 0 1 2560554 
+201.21.39.127 0 1 105737 
+177.85.177.2 0 1 373579 
+45.190.161.34 0 2 5121108 
+35.188.129.125 1 16 955878 20200618193918
+177.1.202.201 2 76 4584204 20200627084156
+5.62.51.43 8 8 654900 20200629055107
+186.219.217.23 0 1 2560554 
+45.171.146.39 0 1 2560554 
+189.59.82.63 0 1 2560554 
+179.184.64.182 0 1 2560554 
+191.24.108.185 0 1 2560554 
+189.36.202.214 0 1 105737 
+45.179.178.189 6 82 4873862 20200608131504
+187.34.135.158 0 1 105737 
+179.113.233.123 0 1 408133 
+37.143.62.213 1 1 117268 20200625223053
+165.225.214.94 0 1 408133 
+191.189.34.244 0 1 2560554 
+125.209.235.180 0 12 332487 
+35.243.132.82 2 76 4583728 20200623161201
+177.67.44.199 0 1 2560554 
+129.121.176.210 1 1 81215 20200604131425
+189.31.42.113 0 2 5121108 
+177.25.231.9 0 1 2560554 
+45.89.241.198 3 3 133373 20200630101428
+148.78.3.75 0 1 2560554 
+189.27.81.249 1 5 193061 20200601104035
+45.225.244.1 0 2 5121108 
+200.206.151.97 0 1 2560554 
+186.241.25.13 0 1 105737 
+189.11.245.39 0 1 2560554 
+45.190.161.13 9 244 32283497 20200623184337
+179.216.255.9 2 76 4583728 20200615104007
+103.12.50.215 2 2 162822 20200628193353
+173.252.87.118 0 2 701500 
+179.222.229.140 0 1 2560554 
+177.94.222.211 0 1 105737 
+200.96.141.214 0 1 2560554 
+51.77.52.160 1 1 81411 20200615004939
+187.54.235.55 2 76 4596394 20200608095427
+34.216.180.232 1 1 81887 20200619194327
+35.185.242.234 1 1 81411 20200612015830
+186.224.11.92 0 1 2560554 
+177.25.238.207 0 1 2560554 
+62.210.82.198 1 1 81215 20200602015413
+177.5.224.227 0 3 7681662 
+167.250.19.198 0 1 2560554 
+191.216.117.189 0 1 2560554 
+179.255.147.62 0 1 2560554 
+138.122.149.50 0 1 340308 
+125.209.235.169 0 8 149859 
+177.30.101.157 0 1 2560554 
+177.202.176.33 0 1 0 
+186.195.103.211 0 1 105737 
+191.223.177.19 0 40 3683292 
+189.24.93.199 0 2 211474 
+160.19.246.115 0 1 2560554 
+177.25.224.83 0 1 2560554 
+187.107.9.85 0 1 105737 
+173.252.83.24 0 1 151639 
+66.249.83.31 1 1 81215 20200605110424
+179.126.130.216 0 1 2560554 
+179.255.145.233 2 76 4596870 20200605144732
+179.252.86.240 0 1 2560554 
+45.190.161.17 0 8 20484432 
+138.128.40.104 1 1 33939 20200608074010
+201.82.48.63 1 1 81887 20200617151316
+189.16.40.2 0 1 105737 
+189.123.34.41 0 1 105737 
+191.54.113.180 0 1 105737 
+179.124.240.214 0 1 105737 
+45.237.194.14 0 1 105737 
+179.110.18.111 0 1 105737 
+177.4.177.0 0 1 2560554 
+131.0.218.69 0 1 2560554 
+191.184.194.62 0 1 2560554 
+66.102.6.243 0 2 5121108 
+173.252.87.19 0 1 82660 
+100.34.17.75 1 1 81887 20200610181442
+179.162.61.38 0 1 2560554 
+177.43.76.170 0 1 2560554 
+170.233.226.77 0 1 2560554 
+189.72.196.202 2 24 3942691 20200622120007
+189.109.78.34 4 8 584012 20200623135749
+177.3.207.37 0 1 2560554 
+177.191.252.44 0 1 105737 
+177.25.233.207 0 1 2560554 
+179.183.212.245 1 13 5819110 20200624151449
+5.62.51.52 2 2 163774 20200629014443
+201.48.198.189 0 1 2560554 
+186.237.223.50 0 1 408133 
+177.193.92.129 0 1 105737 
+177.6.81.206 2 80 14826420 20200625143811
+45.188.182.145 0 1 2560554 
+177.43.79.247 2 14 5839499 20200619155853
+179.234.226.102 0 1 105737 
+179.210.195.76 0 1 105737 
+170.231.149.78 0 1 105737 
+177.189.71.88 0 1 105737 
+177.75.145.161 0 1 105737 
+177.6.250.102 0 1 2560554 
+187.1.62.23 0 1 105737 
+5.62.51.143 3 3 245661 20200629115235
+191.249.114.128 2 76 4596870 20200604080751
+191.163.196.173 0 1 105737 
+177.6.101.207 2 76 4583728 20200621130053
+187.33.63.210 0 1 105737 
+179.190.44.70 4 4 145380 20200608142956
+177.6.250.146 0 1 2560554 
+177.19.102.108 0 1 105737 
+177.84.60.18 3 15 871800 20200621142142
+54.162.148.151 3 3 244233 20200627045129
+152.250.136.88 0 1 2560554 
+179.184.44.132 0 5 12802770 
+170.79.193.210 0 1 105737 
+132.255.240.143 0 1 2560554 
+138.118.134.107 2 76 4584204 20200629123612
+189.96.11.89 0 1 2560554 
+177.6.120.109 0 2 5121108 
+201.40.8.23 0 1 2560554 
+152.250.33.191 0 1 2560554 
+179.214.203.136 0 1 2560554 
+191.33.241.214 0 1 2560554 
+89.19.48.113 1 1 38888 20200624142557
+45.173.125.108 0 1 2560554 
+200.181.123.104 0 1 2560554 
+152.238.167.15 0 1 105737 
+45.190.161.11 0 1 2560554 
+170.82.182.126 0 1 299663 
+177.81.187.234 0 1 105737 
+173.252.87.16 0 2 438986 
+187.24.147.116 0 1 2560554 
+177.4.177.21 0 1 2560554 
+194.187.171.146 1 1 81411 20200613160725
+200.98.132.58 3 3 243645 20200601124533
+177.6.100.176 1 1 81887 20200615173151
+199.127.56.236 2 76 4583728 20200621190041
+187.72.115.124 0 1 105737 
+200.33.152.238 2 76 4584204 20200614203400
+189.123.125.25 0 1 408133 
+187.25.43.124 0 1 2560554 
+177.194.252.216 0 1 2560554 
+138.59.238.52 0 1 105737 
+191.223.196.202 0 1 105737 
+177.83.6.30 2 76 4596870 20200609083539
+110.136.12.117 6 6 488466 20200625033138
+177.191.54.196 0 6 818118 
+191.222.202.26 2 55 4397323 20200603081913
+18.208.149.248 0 2 59221 
+200.175.232.232 0 1 2560554 
+187.49.245.172 0 1 105737 
+13.64.93.136 1 1 81887 20200619194323
+179.166.215.7 0 1 235053 
+201.17.102.23 0 1 105737 
+52.146.38.182 4 4 324860 20200608222930
+191.217.117.131 0 1 2560554 
+177.5.79.39 0 1 2560554 
+189.39.128.129 0 1 105737 
+177.25.227.133 0 1 2560554 
+189.72.239.30 0 2 5121108 
+189.6.35.27 0 1 105737 
+187.36.104.223 0 1 2560554 
+168.194.92.23 2 6 324538 20200602111605
+200.163.116.239 6 17 3461730 20200623151627
+152.237.91.93 0 1 105737 
+45.163.93.173 0 1 2560554 
+109.102.111.19 1 2 736545 20200603164141
+189.61.57.22 0 2 680616 
+177.25.235.149 0 1 2560554 
+187.54.65.204 10 345 22481697 20200630114600
+177.25.228.159 0 1 2560554 
+177.25.224.19 3 8 2877495 20200630204749
+187.36.177.148 0 1 105737 
+191.249.13.108 1 12 3244688 20200608071911
+179.83.117.192 3 88 5950201 20200603120923
+200.181.32.93 0 1 531299 
+170.150.240.216 1 67 1515998 20200620115654
+177.1.252.35 0 1 2560554 
+191.223.36.17 0 5 12802770 
+179.255.144.34 0 1 2560554 
+45.190.161.20 0 2 5121108 
+45.186.142.236 0 1 0 
+177.3.204.105 1 12 3261672 20200605123902
+177.202.12.128 0 1 2560554 
+200.219.68.65 0 1 2560554 
+179.254.223.54 1 2 81410 20200609195019
+177.25.163.197 0 1 2560554 
+191.223.133.162 2 75 2036316 20200607194252
+187.122.231.18 3 14 3320716 20200627194154
+173.252.95.23 0 1 115483 
+189.54.12.61 0 1 2560554 
+191.184.210.240 0 1 2560554 
+179.183.64.242 0 1 47750 
+177.202.12.121 3 14 3340633 20200610140807
+187.117.143.89 0 1 2560554 
+177.139.48.29 0 1 2560554 
+189.112.110.233 0 1 2560554 
+179.144.127.197 0 1 2560554 
+177.193.4.105 0 1 105737 
+177.34.20.11 0 1 192202 
+179.254.222.37 2 20 1201163 20200624193353
+187.183.41.76 0 1 105737 
+177.132.235.202 0 1 105737 
+177.194.234.158 0 1 83362 
+212.205.26.7 1 1 81887 20200612041538
+177.41.98.237 0 1 2560554 
+45.190.161.36 0 4 7681662 
+177.25.233.65 0 1 2560554 
+177.25.230.207 0 1 105737 
+177.25.230.50 2 25 998284 20200610121141
+177.175.145.8 1 17 954789 20200604112546
+170.231.122.186 0 1 105737 
+177.6.216.96 0 1 2560554 
+191.182.124.193 1 14 3383311 20200604144846
+179.255.240.69 0 2 5121108 
+179.222.206.91 0 1 2560554 
+170.238.248.122 0 1 2560554 
+189.103.66.175 0 1 2560554 
+54.187.39.31 1 1 81887 20200619194405
+179.231.161.71 0 1 2560554 
+177.25.225.93 1 10 3056250 20200630125211
+187.75.227.84 0 1 105737 
+177.5.250.143 2 76 4583728 20200630201813
+179.180.50.64 0 1 2560554 
+169.57.157.114 0 1 2560554 
+45.190.161.8 0 2 5121108 
+177.134.204.30 0 1 40201 
+177.41.143.119 0 1 2560554 
+177.25.239.247 0 1 2560554 
+170.150.205.1 0 2 3385620 
+200.195.131.74 3 14 3349485 20200625141201
+177.25.225.160 0 1 2560554 
+189.7.77.235 0 1 2560554 
+189.11.217.175 2 76 4584204 20200617151632
+177.5.249.6 0 1 2560554 
+179.162.59.191 0 1 409716 
+45.4.111.80 0 4 10242216 
+35.233.145.124 1 1 81411 20200627095653
+200.103.203.231 0 1 2560554 
+177.43.79.70 0 1 2560554 
+45.171.146.34 0 1 2560554 
+201.162.109.31 0 1 105737 
+177.6.250.223 0 1 2560554 
+5.62.51.133 8 8 655096 20200629044647
+177.146.34.21 0 1 2560554 
+195.123.214.113 1 1 81411 20200617041248
+177.191.17.135 3 77 4631936 20200609162108
+200.150.122.230 0 1 92565 
+54.183.143.68 2 6 355903 20200607113634
+177.25.234.97 0 1 2560554 
+177.4.170.235 2 24 6489380 20200617200916
+177.42.253.77 0 2 211474 
+125.209.235.168 0 15 390116 
+186.229.182.217 0 1 2560554 
+187.113.50.216 0 1 2560554 
+191.6.55.39 0 1 105737 
+177.185.118.146 0 1 105737 
+177.25.235.214 1 5 2857438 20200629090445
+200.181.123.140 0 2 3215884 
+179.127.70.203 0 1 2560554 
+179.214.174.56 0 1 2560554 
+201.71.140.146 1 1 81691 20200609094234
+179.11.30.87 0 1 2560554 
+179.101.196.38 0 1 2560554 
+45.190.161.39 5 85 10082815 20200625115650
+177.18.80.190 3 14 3443187 20200601140738
+189.31.34.253 0 1 2560554 
+45.190.161.4 2 76 4584204 20200626105422
+192.162.101.55 1 1 81411 20200625165238
+179.185.89.205 8 167 8103384 20200601145031
+179.218.174.72 0 1 105737 
+177.6.81.187 5 20 11926344 20200617133547
+200.98.132.134 3 3 243645 20200606055501
+177.23.40.25 0 1 105737 
+189.59.98.136 0 1 2560554 
+187.66.133.34 0 1 2560554 
+177.25.237.71 0 21 435307 
+170.81.36.38 0 2 5121108 
+187.23.206.190 0 1 2560554 
+191.39.27.194 0 1 105737 
+45.5.134.239 0 1 105737 
+168.227.101.100 0 1 105737 
+177.85.178.1 0 1 2560554 
+204.44.77.141 2 2 115235 20200610095259
+187.6.254.122 2 13 3292380 20200615090812
+3.88.57.31 1 2 153947 20200615111213
+201.62.36.23 0 1 105737 
+189.73.199.187 0 1 2560554 
+173.252.87.1 0 1 482007 
+54.233.172.148 2 13 3290497 20200602150504
+52.152.138.29 3 3 244233 20200616140150
+189.6.234.255 5 87 5139882 20200613124932
+45.5.243.218 0 1 2560554 
+177.205.199.117 0 1 105737 
+189.11.227.43 2 76 4583728 20200626073010
+200.100.81.83 0 1 105737 
+185.130.184.237 1 1 81887 20200620081753
+125.209.235.173 0 8 203400 
+177.106.221.156 0 1 2560554 
+191.45.110.218 0 1 105737 
+187.95.52.69 0 3 192196 
+177.138.222.32 2 6 324540 20200622172456
+200.103.46.166 1 14 6224733 20200621145727
+177.25.225.137 0 1 2560554 
+177.25.237.208 0 1 514005 
+187.36.141.66 0 1 105737 
+177.25.54.210 0 1 105737 
+45.70.7.145 0 1 105737 
+200.140.90.127 1 1 81411 20200618150930
+179.127.139.17 0 1 105737 
+187.90.129.168 0 1 2560554 
+170.66.1.231 0 1 2560554 
+179.176.221.192 0 1 105737 
+179.217.50.65 0 1 105737 
+189.69.111.109 0 1 386431 
+187.123.0.254 0 1 2560554 
+177.25.234.42 0 1 2560554 
+41.13.24.115 1 1 81887 20200622112418
+179.212.115.251 0 1 105737 
+177.220.152.178 0 1 105737 
+170.238.250.138 0 1 2560554 
+143.0.86.202 0 1 105737 
+143.255.62.228 0 2 473669 
+201.7.232.105 0 3 211474 
+177.25.229.144 0 1 2560554 
+189.94.66.67 4 80 4743448 20200618083624
+189.27.83.18 0 1 2560554 
+201.22.37.121 2 6 324540 20200617233544
+170.82.80.231 0 1 105737 
+187.101.198.147 0 1 105737 
+45.190.161.5 0 1 2560554 
+200.205.52.2 0 1 105737 
+45.236.247.226 0 1 2560554 
+187.23.222.240 2 3 819342 20200625145214
+187.65.166.151 1 13 5819109 20200608101601
+189.40.76.218 6 134 6540506 20200630105719
+191.33.246.77 2 76 4584204 20200615125548
+179.222.6.99 0 1 105737 
+179.190.44.69 1 12 3253775 20200623093822
+201.46.19.114 0 1 0 
+200.167.191.2 0 1 2560554 
+177.25.228.81 0 1 2560554 
+138.121.129.153 0 1 105737 
+179.254.240.63 2 2 162430 20200608143355
+186.219.222.42 0 1 2560554 
+187.29.146.244 0 1 105737 
+177.85.173.142 0 1 2560554 
+200.98.133.112 3 3 244233 20200629195158
+179.35.153.37 0 1 105737 
+177.94.201.47 0 1 105737 
+177.25.238.38 0 1 2560554 
+177.25.239.116 0 1 2560554 
+189.103.83.203 4 50 9270562 20200605175309
+177.25.228.237 0 1 2560554 
+34.74.252.121 2 6 324538 20200608042841
+177.83.168.240 0 1 105737 
+186.205.90.254 0 1 83362 
+131.0.218.24 0 1 2560554 
+179.112.166.237 2 76 4584204 20200626120230
+187.113.12.114 0 1 2560554 
+168.228.171.1 0 1 2560554 
+45.231.100.68 0 1 105737 
+138.185.214.148 0 1 2560554 
+41.207.12.191 0 1 2560554 
+189.27.72.14 0 1 2560554 
+45.174.239.107 0 1 105737 
+187.38.235.34 2 6 324538 20200601123441
+179.214.211.39 0 1 2560554 
+177.102.139.3 0 1 2560554 
+45.186.142.193 4 77 291156 20200610162901
+167.99.212.214 2 2 115038 20200607130226
+177.83.10.23 0 1 2560554 
+177.12.161.48 1 1 81887 20200619130017
+170.238.250.134 1 12 3254252 20200615135804
+131.0.218.80 0 1 2560554 
+200.96.129.96 0 1 0 
+177.223.114.200 0 1 105737 
+179.255.220.252 0 1 2560554 
+189.112.142.145 0 2 211474 
+186.236.39.167 0 1 2560554 
+177.71.42.11 0 1 105737 
+177.25.231.23 1 8 426987 20200629090457
+177.137.70.221 0 1 105737 
+170.150.243.5 0 1 2560554 
+123.201.52.185 0 1 2560554 
+52.24.181.233 4 152 9193740 20200603165506
+52.114.128.37 0 1 105737 
+187.109.108.98 0 1 105737 
+191.34.100.210 0 1 2560554 
+131.0.218.118 9 191 15481069 20200605164724
+170.245.46.219 0 2 5121108 
+191.33.204.213 0 1 0 
+54.186.117.234 1 1 39735 20200608072011
+177.25.228.131 0 1 2560554 
+189.10.127.224 0 1 2560554 
+18.210.220.63 0 8 2112801 
+189.97.224.96 0 1 2560554 
+179.214.194.188 0 4 699686 
+118.190.53.55 1 1 81887 20200628185408
+5.188.62.25 2 2 84677 20200614142442
+189.72.239.207 0 1 2560554 
+177.135.224.146 0 1 2560554 
+177.4.169.24 7 98 7833493 20200630081355
+125.209.235.171 1 12 375301 20200612082726
+191.185.126.232 0 1 105737 
+177.42.15.39 1 5 290600 20200627004702
+189.72.239.72 9 93 5167020 20200622103947
+45.190.161.7 2 14 3314761 20200602173310
+187.6.233.218 2 76 4583728 20200613190613
+177.5.119.88 6 228 13789182 20200601202652
+177.8.85.230 1 13 3673017 20200609084506
+37.143.62.121 2 2 68668 20200630220830
+187.36.111.167 0 1 2560554 
+138.59.86.111 0 1 105737 
+201.5.110.99 0 1 105737 
+177.202.5.44 0 1 2560554 
+189.115.43.212 0 1 105737 
+189.40.76.14 0 1 2560554 
+201.44.231.194 0 3 6168115 
+168.232.55.129 0 1 2560554 
+77.247.127.117 3 3 245661 20200629164936
+66.249.88.14 0 3 7681662 
+200.96.131.182 0 1 2560554 
+177.25.225.64 0 1 2560554 
+177.194.231.163 0 2 5121108 
+102.165.1.195 1 1 36560 20200623072844
+189.31.44.115 0 1 2560554 
+177.73.26.163 0 1 105737 
+177.98.163.117 0 1 2560554 
+189.37.67.115 0 1 408133 
+189.58.166.0 1 12 3258556 20200615085409
+45.230.25.176 0 1 2560554 
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 30
+20200601 210 2791 370648604 71
+20200602 149 1735 278059936 57
+20200603 162 2505 316931245 52
+20200604 147 1890 269148164 44
+20200605 204 2361 295064055 66
+20200606 39 477 101646465 23
+20200607 56 473 74750366 25
+20200608 182 1790 296285127 75
+20200609 178 1626 255759542 48
+20200610 161 1627 231967937 61
+20200611 44 471 89906971 26
+20200612 133 888 135174980 49
+20200613 138 799 100710955 28
+20200614 51 449 82958121 34
+20200615 188 1859 293771733 68
+20200616 164 2392 312572525 56
+20200617 171 1416 271789491 64
+20200618 170 1893 254017278 41
+20200619 167 1011 202983568 56
+20200620 23 354 78734568 17
+20200621 46 495 82420894 32
+20200622 149 1467 260972291 49
+20200623 177 1747 268949658 58
+20200624 60 597 146122485 35
+20200625 142 1628 311572794 59
+20200626 152 1665 260057680 52
+20200627 40 416 65798186 28
+20200628 27 379 76070925 20
+20200629 148 1638 235481458 59
+20200630 196 1666 285472055 42
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 7
+5mn-15mn 46
+0s-30s 1114
+2mn-5mn 31
+15mn-30mn 33
+30s-2mn 56
+30mn-1h 59
+1h+ 56
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 106
+/ 2258 183760436 947 669
+/libs/bootstrap/dist/fonts/glyphicons-halflings-regular.woff2 394 6886696 9 229
+/contato 187 6310110 111 123
+/publicacoes-pesquisar 121 7314655 13 39
+/publicacoes-tipo/edital 91 4387068 64 36
+/publicacoes-tipo/decretos 82 3532188 30 28
+/publicacoes-tipo/concursos-publicos 36 1580605 18 14
+/publicacoes-tipo/processo-seletivo 28 1437149 13 17
+/secretaria/secretaria-de-saude 26 1414544 10 12
+/pagina/palavras-do-prefeito 25 16953711 7 9
+/secretaria/secretaria-de-administracao-financas-e-planejamento 23 896050 6 10
+/noticia/imprensa-estadual-repercute-decreto-de-camapua 21 722565 2 8
+/noticias 21 1119861 7 9
+/noticia/prefeito-baixa-novos-decretos-para-prevencao-e-combate-a-covid-19 20 770886 5 4
+/publicacoes-tipo/sociedade-de-protecao-aos-idosos-de-camapua-asilo 19 652511 11 11
+/publicacoes-tipo/lei-ordinaria 18 645763 10 8
+/secretaria/secretaria-de-agronegocio-meio-ambiente-e-empreendedorismo 16 630710 5 4
+/pagina/equipe-de-governo 16 599660 3 2
+/secretaria/secretaria-de-educacao-cultura-esporte-e-lazer 16 1847570 4 5
+/secretaria/secretaria-de-infraestrutura-e-servicos-publicos 15 663442 2 3
+/publicacoes-tipo/lei-complementar 15 550017 10 7
+/noticia/nota-oficial-da-prefeitura-de-camapua-sobre-o-covid-19-coronavirus 15 538607 0 4
+/pesquisar 14 2228246 4 5
+/pagina/telefones-uteis 14 511709 4 5
+/publicacoes-tipo/portarias 14 480172 5 2
+/publicacao/decreto-prorrogacao-das-aulas 6 210912 2 2
+/noticia/prefeitura-vacina-mais-de-3-mil-animais-entre-caninos-e-felinos-durante-campanha-antirrabica-em-camapua 1 36256 0 1
+/noticia/prefeito-envia-diversos-projetos-de-lei-para-camara-de-vareadores 2 72132 1 2
+/admin 4 13064 0 2
+/noticia/prefeito-vereador-e-deputado-se-reunem-na-agesul-cobrando-inicio-de-obras-em-camapua 1 34294 1 0
+/noticia/prefeito-e-equipe-participam-de-importante-reuniao-na-agehab 2 70218 1 0
+/libs/bootstrap/dist/fonts/glyphicons-halflings-regular.woff 12 281088 0 11
+/pagina/conheca-a-prefeitura 11 344410 1 0
+/publicacoes-tipo/associacao-dos-produtores-de-leite 4 137300 1 1
+/publicacoes-tipo/secretaria 2 68598 0 1
+/noticia/pela-primeira-vez-prefeitura-realiza-pagamento-do-13o-salario-as-familias-acolhedoras-de-camapua 9 329934 4 5
+/pagina/sobre-a-secretaria-educacao 3 115406 0 2
+/publicacoes-tipo/clube-de-laco-rio-verde-camapua 7 240251 3 3
+/pagina/Manual-de-Procedimentos-Administrativos 12 675236 3 3
+/publicacoes-tipo/plano-municipal-de-saude 2 70798 1 1
+/pagina/endereco-das-unidades-de-saude 4 135091 2 3
+/noticia/prefeitura-repassara-r-25-milhoes-de-reais-para-o-hospital 1 35099 0 1
+/noticia/populacao-define-novos-membros-do-conselho-tutelar-de-camapua 2 80162 0 1
+/publicacao/decretos-suspensao-dos-cultos-presenciais 5 175769 0 0
+/noticia/resultado-oficial-do-processo-seletivo-simplificado-para-contratacao-de-professores 3 757427 1 2
+/pagina/bandeira-brasao-e-hino 10 947851 3 4
+/noticia/prefeito-protocola-na-camara-projeto-de-atualizacao-do-plano-de-cargos-e-carreiras-dos-servidores 8 292398 2 1
+/publicacoes-tipo/habitacao 2 68600 1 0
+/noticia/prefeitura-estabelece-horario-de-atendimento-durante-os-jogos-da-selecao-brasileira-na-copa 1 34348 1 1
+/galerias 5 158693 0 1
+/secretaria/secretaria-de-assuntos-juridicos 8 307343 1 3
+/pagina/sobre-a-secretaria-saj 1 39956 1 0
+/admin/noticias 2 620774 0 0
+/publicacoes-tipo/associacao-de-pais-e-amigos-dos-excepcionais-apae 10 343440 5 7
+/noticia/professor-de-camapua-e-destaque-no-110-premio-professores-do-brasil 1 34824 0 1
+/noticia/visando-economia-e-contencao-de-gastos-prefeitura-estara-com-atendimento-em-novo-horario 1 37903 1 1
+/publicacoes-tipo/projetos 4 137188 0 1
+/admin/publicacoes 4 400068 0 0
+/pagina/historia-do-municipio 9 315873 3 2
+/pagina/como-chegar 9 290229 2 2
+/noticia/prefeitura-e-energisa-realizam-parceria-em-camapua 1 7215360 0 1
+/publicacoes-tipo/associacao-beneficente-de-camapua-casa-do-amparo-as-criancas-carentes-creche-menino-jesus 6 206345 2 1
+/noticia/prefeito-decreta-a-regulamentacao-do-servico-de-inspecao-municipal 2 70002 2 2
+/noticia/audiencia-publica-loa-2021 6 203708 3 2
+/libs/bootstrap/dist/fonts/glyphicons-halflings-regular.eot 4 80508 0 4
+/publicacoes-tipo/comunidade-kolping 4 137228 1 1
+/pagina/sobre-a-secretaria 5 167608 1 1
+/noticia/prefeito-baixou-tres-decretos-que-tratam-da-prevencao-e-combate-ao-novo-coronavirus-em-camapua 13 548399 3 2
+/libs/bootstrap/dist/fonts/glyphicons-halflings-regular.ttf 5 227020 0 1
+/admin/nova-publicacao 3 52915 0 0
+/publicacoes-tipo/associacao-dos-produtores-de-mandioca-pro-mandioca 6 206070 1 3
+/pagina/sobre-a-secretaria-smas 5 287298 4 4
+/painel/fonts/glyphicons-halflings-regular.woff2 1 18028 0 0
+/noticia/prefeito-decreta-luto-oficial-em-razao-do-falecimento-do-dr-angelo 2 67986 1 2
+/noticia/prefeito-assina-termo-de-colaboracao-com-entidades 1 35192 1 0
+/pagina/sobre-a-secretaria-saude 6 199085 1 2
+/painel/css/fonts/icomoon.woff 1 97076 0 0
+/noticia/centro-de-educacao-de-camapua-e-destaque-nacional-em-projeto-do-ministerio-da-educacao 1 351618 0 0
+/publicacoes-tipo/balancos 7 269618 1 1
+/noticia/prefeitura-faz-manutencao-na-via-que-da-acesso-ao-bairro-coophavale 1 33949 1 0
+/pagina/sobre-a-secretaria-samae 5 164155 1 2
+/noticia/prefeitura-multa-empresas-por-descumprimento-de-contrato 1 34793 1 1
+/noticia/equipe-do-nasf-fara-acao-voltada-a-pratica-de-exercicios-fisicos 1 34541 0 0
+/noticia/banda-municipal-esta-com-inscricoes-abertas-para-novos-integrantes 1 34675 1 1
+/publicacoes-tipo/associacao-dos-criadores-de-camapua-acricam 7 240373 4 2
+/painel/js/libs/summernote_plugin/font/summernote.woff 1 8652 0 0
+/noticia/prefeitura-de-camapua-libera-pagamento-integral-do-130-salario-dos-servidores 9 351045 1 1
+/publicacoes-tipo/secretaria-de-infraestrutura-e-servicos-publicos 5 177515 1 2
+/admin/nova-noticia 2 42633 0 0
+/secretaria/secretaria-de-assistencia-social 9 392859 2 4
+/pagina/palavras-do-vice-prefeito 9 255375 0 1
+/noticia/prefeito-decreta-luto-oficial-pelo-falecimento-de-gabriel-melhado 1 34483 1 1
+/noticia/prefeito-concede-aumento-aos-profissionais-da-educacao 2 71156 2 0
+/noticia/prefeito-e-autoridades-entregam-86-novas-unidades-habitacionais-no-cristo-redentor-2 12 440726 2 2
+/publicacoes-tipo/parcerias-marco-regulatorio-editais 4 150860 1 3
+/admin/arquivos/59 2 35152 0 0
+/noticia/camapua-esta-no-mapa-estrategico-do-sebrae-para-desenvolvimento-do-turismo-na-regiao-norte 8 2272782 1 2
+/noticia/camapua-realiza-o-primeiro-encontro-nacional-de-violeiros 1 36293 1 1
+/publicacoes-tipo/associacao-de-apoio-aos-pacientes-com-cancer-aapc-amigos-do-chitao 7 240552 2 3
+/pagina/conheca-a-cidade 4 148903 1 3
+/publicacao/decreto-46072020 9 316965 2 3
+/painel/css/fonts/fontawesome-webfont.woff2 1 64464 0 0
+/noticia/cmdca-divulga-resultado-da-prova-especifica-para-conselheiros-tutelares 1 35169 0 1
+/secretaria/secretaria-de-governo 10 369286 3 2
+/publicacoes-tipo/organizacoes-da-sociedade-civil 3 119207 2 2
+/publicacoes-tipo/associacao-dos-estudantes-e-academicos-universitarios-de-camapua-ms-auca 6 206220 3 3
+END_SIDER
