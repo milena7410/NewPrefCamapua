@@ -31,7 +31,7 @@ Route::get('/noticias', 'NoticiaController@index')->name('noticia.lista');
 Route::get('/pesquisar', 'NoticiaController@search')->name('noticia.pesquisar');
 
 //PAGINAS
-Route::get('/paginas/{url}', 'PaginaController@show')->name('pagina.show');
+Route::get('{url}??', 'PaginaController@show')->name('pagina.show');
 Route::post('/contatar', 'PaginaController@contatar')->name('pagina.contatar');
 
 //PUBLICACOES
