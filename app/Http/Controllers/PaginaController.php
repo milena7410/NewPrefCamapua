@@ -44,6 +44,7 @@ class PaginaController extends Controller
         $pagina = $this->repository->findWhere(['url' => $request->url,'ativo' => '1'])->first();
 
         return view('pagina',compact('pagina'));
+
     }
     /**
      * @param Request $request

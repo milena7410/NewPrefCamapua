@@ -31,12 +31,12 @@ Route::get('/noticias', 'NoticiaController@index')->name('noticia.lista');
 Route::get('/pesquisar', 'NoticiaController@search')->name('noticia.pesquisar');
 
 //PAGINAS
-Route::get('{url}??', 'PaginaController@show')->name('pagina.show');
+Route::get('/{url}', 'PaginaController@show')->name('pagina.show');
 Route::post('/contatar', 'PaginaController@contatar')->name('pagina.contatar');
 
 //PUBLICACOES
 Route::get('/publicacoes', 'PublicacaoController@index')->name('publicacao');
-Route::get('/publicacoes-pesquisar', 'PublicacaoController@search')->name('publicacao.pesquisar');
+Route::get('/publicacoes-pesquisar/pagina', 'PublicacaoController@search')->name('publicacao.pesquisar');
 Route::get('/publicacoes-tipo/{tipo}', 'PublicacaoController@findByNomeTipo')->name('publicacao.tipo');
 Route::get('/publicacao/{url}', 'PublicacaoController@findPublicacaoByUrl')->name('publicacao.url');
 
