@@ -10,7 +10,7 @@
                         <div class="col-md-6">
                             <ul class="list-inline contato-topo text-right">
                                 <li>{!! Html::image('/img/fale-conosco-white.png', 'email', ['class' => 'img-responsive']) !!}</li>
-                                <li><a class="link-unstyled-white-hover" href="http://webmail.camapua.ms.gov.br/" target="_blank">Webmail</a></li>
+                                <li><a class="link-unstyled-white-hover" href="https://mailpro.uol.com.br/camapua.ms.gov.br/" target="_blank">Webmail</a></li>
                                 <li>{!! Html::image('/img/telefone.png', 'telefone', ['class' => 'img-responsive']) !!}</li>
                                 <li>{{$entidade->telefone}}</li>
                             </ul>
