@@ -34,17 +34,21 @@
                         </tr>
                         </thead>
                         <tbody>
-                        @foreach($secretarios as $secretario)
+                        @foreach($secretarios as $sec)
                             <tr>
-                                <td>{{ $secretario->id }}</td>
+                                <td>{{ $sec->id }}</td>
                                 <td>
-                                    {!! Html::image(asset('images/secretarios/' .$sec->imagem),
-                                            ['width' => '50']) !!}
+                                    <img src="{{ asset('images/secretarios/' .$sec->imagem) }}" style="width:50px;">
                                 </td>
-                                <td>{{$secretario->nome}} </td>
-                                <td>{{$secretario->cargo->cargo}}</td>
+                                <td>{{$sec->nome}} </td>
                                 <td>
-                                    @if($secretario->isAtivo())
+                                    @php $cargos = PrefCamapua\Models\Cargo::where('id', intval($sec->cargo_id))->get(); @endphp
+                                    @foreach($cargos as $carg)
+                                    {!! $carg->cargo !!}
+                                    @endforeach
+                                </td>
+                                <td>
+                                    @if($sec->ativo == 1)
                                         <label class="label label-success">Sim</label>
                                     @else
                                         <label class="label label-danger">Não</label>
@@ -52,12 +56,12 @@
                                 </td>
                                 <td>
                                     <a class="btn btn-xs btn-flat btn-primary"
-                                       href="{{route('admin.secretario.edit',[$secretario->id])}}" title="Editar">
+                                       href="{{route('admin.secretario.edit',[$sec->id])}}" title="Editar">
                                         <i class="fa fa-edit"></i> editar
                                     </a>
 
                                     <a class="btn btn-xs btn-flat btn-warning"
-                                       href="{{route('admin.secretario.changePhoto',[$secretario->id])}}"
+                                       href="{{route('admin.secretario.changePhoto',[$sec->id])}}"
                                        title="Alterar Imagem">
                                         <i class="fa fa-image"></i> alterar imagem
                                     </a>
