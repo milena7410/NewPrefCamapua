@@ -20,11 +20,15 @@ class Cargo extends Model implements Transformable
      *
      * @var array
      */
-    protected $fillable = ['cargo','ativo'];
+    protected $fillable = ['cargo', 'ativo'];
 
     public function isAtivo()
     {
         return $this->ativo == '1';
+    }
+    public function secretario()
+    {
+        return $this->belongsTo(Secretario::class);
     }
 
 }

@@ -8,6 +8,7 @@ use PrefCamapua\Repositories\CargoRepository;
 use PrefCamapua\Repositories\SecretarioRepository;
 use Illuminate\Http\Request;
 use PrefCamapua\Http\Controllers\Controller;
+use PrefCamapua\Models\Secretario;
 
 class SecretarioAdminController extends Controller
 {
@@ -63,8 +64,8 @@ class SecretarioAdminController extends Controller
      */
     public function index()
     {
-        $secretarios = $this->repository->all();
-        return view('admin.secretario.index',compact('secretarios'));
+        $secretarios = Secretario::with('cargo')->get();
+        return view('admin.secretario.index', compact('secretarios'));
     }
 
     public function edit($id)
