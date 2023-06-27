@@ -20,7 +20,7 @@
 <div class="form-group has-feedback">
     {!! Form::label('secretario_id','Secretário',['class' => 'col-sm-2 control-label','required']) !!}
     <div class="col-sm-7">
-        {!! Form::select('secretario_id',[null => 'SELECIONE UM SECRETÁRIO']+$secretarios->toArray(),null,['class' => 'form-control','required']) !!}
+            {!! Form::select('secretario_id', $options, null, ['class' => 'form-control', 'required']) !!}
         <span class="glyphicon form-control-feedback" aria-hidden="true"></span>
         <div class="help-block with-errors"></div>
     </div>

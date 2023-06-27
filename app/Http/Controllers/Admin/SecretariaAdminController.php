@@ -6,6 +6,7 @@ use Illuminate\Http\Request;
 use PrefCamapua\Http\Controllers\Controller;
 use PrefCamapua\Http\Requests\SecretariaCreateRequest;
 use PrefCamapua\Http\Requests\SecretariaUpdateRequest;
+use PrefCamapua\Models\Secretario;
 use PrefCamapua\Repositories\SecretariaRepository;
 use PrefCamapua\Repositories\SecretarioRepository;
 
@@ -66,9 +67,14 @@ class SecretariaAdminController extends Controller
     public function edit($id)
     {
         $secretaria = $this->repository->find($id);
-        $secretarios = $this->secretarioRepository->listarSecretariosSelectForm();
+        $secretarios = Secretario::pluck('nome', 'id');
+        $options = ['SELECIONE UM SECRETÁRIO'];
 
-        return view('admin.secretaria.edit',compact('secretaria','secretarios'));
+        foreach ($secretarios as $id => $nome) {
+            $options[$id] = $nome;
+        }
+
+        return view('admin.secretaria.edit',compact('secretaria','options'));
     }
 
     /**

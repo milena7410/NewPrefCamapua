@@ -21,6 +21,7 @@ public_html/hot
 
 storage/*.key
 .env
+.idea
 Homestead.yaml
 Homestead.json
 /.vagrant
@@ -29,4 +30,3 @@ Footer
 © 2022 GitHub, Inc.
 Footer navigation
 Terms
-
